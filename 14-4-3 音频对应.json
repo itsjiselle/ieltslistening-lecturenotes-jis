@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "index": "14-4-3",
+  "audioData": {
+    "index": "14-4-3",
+    "repo": "itsjiselle/ielts-listening-questions-pdf",
+    "ref": "21f1b5679cad8f2e22a204d872d756e30d750d9b",
+    "audioPath": "14-4-3.mp3",
+    "audioSha": "eb28d703656f90d472d61b1096e06766fe0d484a",
+    "srtPath": "14-4-3 英文.srt",
+    "srtSha": "d2a16be9cf53c81c0ef89d28d515cc5f7b5adf24",
+    "cues": [
+      {
+        "id": "0",
+        "start": 2.469,
+        "end": 4.142,
+        "text": "(Q21（单选）) STEPHANIE: Hello, Trevor.&nbsp;",
+        "q": 21
+      },
+      {
+        "id": "1",
+        "start": 4.142,
+        "end": 10.586,
+        "text": "TREVOR: Hello, Stephanie. You said you wanted to talk about the course I'm taking on literature for children.",
+        "q": 21
+      },
+      {
+        "id": "2",
+        "start": 10.586,
+        "end": 17.785,
+        "text": "STEPHANIE: That's right. I'm thinking of doing it next year, but I'd like to find out more about it first.&nbsp;",
+        "q": 21
+      },
+      {
+        "id": "3",
+        "start": 17.785,
+        "end": 32.264,
+        "text": "TREVOR: OK, well, as you probably know, it's a one-year course. It's divided into six modules, and you have to take all of them. One of the most interesting ones, for me, at least, was about the purpose of children's literature.&nbsp;",
+        "q": 21
+      },
+      {
+        "id": "4",
+        "start": 32.264,
+        "end": 39.304,
+        "text": "STEPHANIE: You mean, whether it should just entertain children or should be educational as well.&nbsp;",
+        "q": 21
+      },
+      {
+        "id": "5",
+        "start": 39.304,
+        "end": 65.259,
+        "text": "TREVOR: Right, and whether the teaching should be factual - giving them information about the world - or ethical, teaching them values.&nbsp;",
+        "q": 21
+      },
+      {
+        "id": "7",
+        "start": 65.259,
+        "end": 68.14,
+        "text": "STEPHANIE: I see what you mean.&nbsp;",
+        "q": 21
+      },
+      {
+        "id": "8",
+        "start": 68.14,
+        "end": 76.451,
+        "text": "(Q22) [Q22干扰项B： 和 popularity 没关系] TREVOR: That module made me realise how important stories are - they can have a significant effect on children as they grow up.&nbsp;",
+        "q": 22
+      },
+      {
+        "id": "9",
+        "start": 76.451,
+        "end": 88.15299999999999,
+        "text": "[Q22答案句（C） 强调： actually] Actually, it inspired me to have a go at it myself, just for my own interest. I know I can't compete with the really popular stories, like the Harry Potter books - they're very good,&nbsp;",
+        "q": 22
+      },
+      {
+        "id": "10",
+        "start": 88.15299999999999,
+        "end": 92.543,
+        "text": "[Q22干扰项（A） niece提及， 但和 analyse story没关系] and even young kids like my seven-year-old niece love reading them.&nbsp;",
+        "q": 22
+      },
+      {
+        "id": "11",
+        "start": 92.543,
+        "end": 100.569,
+        "text": "(Q23) STEPHANIE: Mm. I'm very interested in illustrations in stories. Is that covered in the course?&nbsp;",
+        "q": 23
+      },
+      {
+        "id": "12",
+        "start": 100.569,
+        "end": 107.358,
+        "text": "TREVOR: Yes, there's a module on pictures, and how they're sometimes central to the story.&nbsp;",
+        "q": 23
+      },
+      {
+        "id": "13",
+        "start": 107.358,
+        "end": 116.89699999999999,
+        "text": "[Q23干扰项B： 不是beautiful的插图， 是 frightening] STEPHANIE: That's good. I remember some frightening ones I saw as a child and I can still see them vividly in my mind, years later!&nbsp;",
+        "q": 23
+      },
+      {
+        "id": "14",
+        "start": 116.89699999999999,
+        "end": 122.049,
+        "text": "[Q23干扰项C： 排除依据 语义否定： as ... as , 不是 more important] Pictures can be so powerful, just as powerful as words.",
+        "q": 23
+      },
+      {
+        "id": "15",
+        "start": 122.049,
+        "end": 131.658,
+        "text": "[Q23答案句（A） enjoy drawing + go into the field=become an illustrator] &nbsp;I've always enjoyed drawing, so that the field I want to go into when I finished the course. I bet that module will be really helpful.&nbsp;",
+        "q": 23
+      },
+      {
+        "id": "16",
+        "start": 131.658,
+        "end": 147.812,
+        "text": "(Q24) [Q24干扰项A：not compared with = inferior to, 但没有得到Stephanie回应， 不符合题干agree] TREVOR: I'm sure it will. We also studied comics in that module, but I'm not convinced of their value, not compared with books. One of the great things about words is that you use your imagination, but with a comic you don't have to.&nbsp;",
+        "q": 24
+      },
+      {
+        "id": "17",
+        "start": 147.812,
+        "end": 154.972,
+        "text": "STEPHANIE: But children are so used to visual input - on TV, video games, and so on.&nbsp;",
+        "q": 24
+      },
+      {
+        "id": "18",
+        "start": 154.972,
+        "end": 170.665,
+        "text": "[Q24答案句（B） 女生说有用， 男生说 I suppose you're right.  判断符合agree 就完事 ✅] There are plenty of kids who wouldn't even try to read a book, so I think comics can serve a really useful purpose.&nbsp;&nbsp;TREVOR: You mean, it's better to read a comic than not to read at all? Yes, I suppose you're right.",
+        "q": 24
+      },
+      {
+        "id": "19",
+        "start": 170.665,
+        "end": 174.335,
+        "text": "&nbsp;I just think it's sad when children don't read books.&nbsp;",
+        "q": 24
+      },
+      {
+        "id": "20",
+        "start": 174.335,
+        "end": 181.608,
+        "text": "(Q25) STEPHANIE: What about books for girls and books for boys? Does the course go into that? STEPHANIE：",
+        "q": 25
+      },
+      {
+        "id": "21",
+        "start": 181.608,
+        "end": 194.432,
+        "text": "TREVOR: Yes, there's a module on it. For years, lots of stories, in English, at least, assumed that boys went out and did adventurous things and girls stayed at home and played with dolls.&nbsp;",
+        "q": 25
+      },
+      {
+        "id": "22",
+        "start": 194.432,
+        "end": 204.686,
+        "text": "[Q25答案句（B）amazed = 题干 surprise，  反向替换 ： how many book ... on just one sex = 面向both sex的书很少(few)] TREVOR:&nbsp; I was amazed how many books were targeted at just one sex or the other. Of course this reflects society as it is when the books are written.&nbsp;",
+        "q": 25
+      },
+      {
+        "id": "23",
+        "start": 204.686,
+        "end": 210.15,
+        "text": "STEPHANIE: That's true. So it sounds as though you think it's a good course.&nbsp;",
+        "q": 25
+      },
+      {
+        "id": "24",
+        "start": 210.15,
+        "end": 212.45,
+        "text": "TREVOR: Definitely.&nbsp;",
+        "q": 25
+      },
+      {
+        "id": "25",
+        "start": 212.45,
+        "end": 218.34,
+        "text": "(Q26（matching）) TREVOR: Have you been reading lots of children's stories, to help you decide whether to take the course?&nbsp;",
+        "q": 26
+      },
+      {
+        "id": "26",
+        "start": 218.34,
+        "end": 227.161,
+        "text": "STEPHANIE: Yeah. I've gone as far back as the late seventeenth century, though I know there were earlier children's stories.&nbsp;",
+        "q": 26
+      },
+      {
+        "id": "27",
+        "start": 227.161,
+        "end": 233.199,
+        "text": "TREVOR: So does that mean you've read Perrault' s fairy tales? Cinderella, The Sleeping Beauty, and so on.&nbsp;",
+        "q": 26
+      },
+      {
+        "id": "28",
+        "start": 233.199,
+        "end": 244.961,
+        "text": "[Q26答案句（F）： start a new genre 解释型：没人写过= new] STEPHANIE: Yes. They must be important, because no stories of that type had been written before, these were the first. Then there's The Swiss Family Robinson.&nbsp;",
+        "q": 26
+      },
+      {
+        "id": "29",
+        "start": 244.961,
+        "end": 247.127,
+        "text": "TREVOR: I haven't read that.&nbsp;",
+        "q": 26
+      },
+      {
+        "id": "30",
+        "start": 247.127,
+        "end": 265.175,
+        "text": "(Q27) [Q27答案句（E）：解释型， 提到了另一本书名 like ... in the novel of] STEPHANIE: The English name makes it sound as though Robinson is the family's surname but a more accurate translation would be the Swiss Robinsons, because it's about a Swiss family who are shipwrecked, like Robinson Crusoe in the novel of a century earlier.&nbsp;",
+        "q": 27
+      },
+      {
+        "id": "31",
+        "start": 265.175,
+        "end": 268.076,
+        "text": "TREVOR: Well I never knew that!&nbsp;",
+        "q": 27
+      },
+      {
+        "id": "32",
+        "start": 268.076,
+        "end": 272.721,
+        "text": "(Q29 胡桃夹子) STEPHANIE: Have you read Hoffmann's The Nutcracker and the Mouse King?&nbsp;",
+        "q": 29
+      },
+      {
+        "id": "33",
+        "start": 272.721,
+        "end": 278.663,
+        "text": "[Q28答案句（C）：是 ... basis of ... = 解释型 inspire] TREVOR: Wasn't that the basis for Tchaikovsky's ballet The Nutcracker?&nbsp;STEPHANIE: That's right.",
+        "q": 28
+      },
+      {
+        "id": "34",
+        "start": 278.663,
+        "end": 283.028,
+        "text": "&nbsp;It has some quite bizarre elements.&nbsp;",
+        "q": 28
+      },
+      {
+        "id": "35",
+        "start": 283.028,
+        "end": 290.903,
+        "text": "[Q29干扰项 ❌ 题干没有这本书] TREVOR: I hope you've read Oscar Wilde's The Happy Prince. It's probably my favourite children's story of all time.&nbsp;",
+        "q": 29
+      },
+      {
+        "id": "36",
+        "start": 290.903,
+        "end": 303.781,
+        "text": "STEPHANIE: Mine too! And it's so surprising, because Wilde is best known for his plays, and most of them are very witty, but The Happy Prince is really moving.",
+        "q": 29
+      },
+      {
+        "id": "37",
+        "start": 303.781,
+        "end": 311.98,
+        "text": "(Q29) &nbsp;STEPHANIE：I struggled with Tolkien's The Lord of the Rings - three long books, and I gave up after one.&nbsp;",
+        "q": 29
+      },
+      {
+        "id": "38",
+        "start": 311.98,
+        "end": 315.341,
+        "text": "TREVOR: It's extremely popular, though.&nbsp;",
+        "q": 29
+      },
+      {
+        "id": "39",
+        "start": 315.341,
+        "end": 324.94,
+        "text": "[Q29答案句（B）： hard to read 解释型 = took more effort] STEPHANIE: Yeah, but whereas something like The Happy Prince just carried me along with it. The Lord of the Rings took more effort than I was prepared to give it.&nbsp;",
+        "q": 29
+      },
+      {
+        "id": "40",
+        "start": 324.94,
+        "end": 328.488,
+        "text": "TREVOR: I didn't find that - I love it.&nbsp;",
+        "q": 29
+      },
+      {
+        "id": "41",
+        "start": 328.488,
+        "end": 331.529,
+        "text": "(Q30) STEPHANIE: Another one I've read is War Horse.",
+        "q": 30
+      },
+      {
+        "id": "42",
+        "start": 331.529,
+        "end": 339.466,
+        "text": "[Q30答案句（G）： hardly ... expect = unlikely 否定信号词+解释] TREVOR: Oh yes. It's about the First World War, isn't it? Hardly what you'd expect for a children's story.&nbsp;",
+        "q": 30
+      },
+      {
+        "id": "43",
+        "start": 339.466,
+        "end": 341.966,
+        "text": "STEPHANIE: Exactly, but it's been very successful. Have you read any...&nbsp;",
+        "q": 30
+      }
+    ],
+    "matches": {
+      "21": {
+        "all": [
+          "[Q21答案句（A） what's fascinating = interesting , conscious of = realise] TREVOR:&nbsp; &nbsp; What's fascinating is that the writer isn't necessarily conscious of the message they're conveying. For instance, a story might show a child who has a problem as a result of not doing what an adult has told them to do, implying that children should always obey adults.&nbsp;"
+        ],
+        "options": {
+          "A": [
+            "[Q21答案句（A） what's fascinating = interesting , conscious of = realise] TREVOR:&nbsp; &nbsp; What's fascinating is that the writer isn't necessarily conscious of the message they're conveying. For instance, a story might show a child who has a problem as a result of not doing what an adult has told them to do, implying that children should always obey adults.&nbsp;"
+          ],
+          "B": [],
+          "C": []
+        },
+        "roles": {
+          "A": [
+            "correct"
+          ],
+          "B": [],
+          "C": []
+        },
+        "ambiguous": false
+      },
+      "22": {
+        "all": [
+          "(Q22) [Q22干扰项B： 和 popularity 没关系] TREVOR: That module made me realise how important stories are - they can have a significant effect on children as they grow up.&nbsp;",
+          "[Q22答案句（C） 强调： actually] Actually, it inspired me to have a go at it myself, just for my own interest. I know I can't compete with the really popular stories, like the Harry Potter books - they're very good,&nbsp;",
+          "[Q22干扰项（A） niece提及， 但和 analyse story没关系] and even young kids like my seven-year-old niece love reading them.&nbsp;"
+        ],
+        "options": {
+          "A": [
+            "[Q22干扰项（A） niece提及， 但和 analyse story没关系] and even young kids like my seven-year-old niece love reading them.&nbsp;"
+          ],
+          "B": [
+            "(Q22) [Q22干扰项B： 和 popularity 没关系] TREVOR: That module made me realise how important stories are - they can have a significant effect on children as they grow up.&nbsp;"
+          ],
+          "C": [
+            "[Q22答案句（C） 强调： actually] Actually, it inspired me to have a go at it myself, just for my own interest. I know I can't compete with the really popular stories, like the Harry Potter books - they're very good,&nbsp;"
+          ]
+        },
+        "roles": {
+          "A": [
+            "wrong"
+          ],
+          "B": [
+            "wrong"
+          ],
+          "C": [
+            "correct"
+          ]
+        },
+        "ambiguous": false
+      },
+      "23": {
+        "all": [
+          "[Q23干扰项B： 不是beautiful的插图， 是 frightening] STEPHANIE: That's good. I remember some frightening ones I saw as a child and I can still see them vividly in my mind, years later!&nbsp;",
+          "[Q23干扰项C： 排除依据 语义否定： as ... as , 不是 more important] Pictures can be so powerful, just as powerful as words.",
+          "[Q23答案句（A） enjoy drawing + go into the field=become an illustrator] &nbsp;I've always enjoyed drawing, so that the field I want to go into when I finished the course. I bet that module will be really helpful.&nbsp;"
+        ],
+        "options": {
+          "A": [
+            "[Q23答案句（A） enjoy drawing + go into the field=become an illustrator] &nbsp;I've always enjoyed drawing, so that the field I want to go into when I finished the course. I bet that module will be really helpful.&nbsp;"
+          ],
+          "B": [
+            "[Q23干扰项B： 不是beautiful的插图， 是 frightening] STEPHANIE: That's good. I remember some frightening ones I saw as a child and I can still see them vividly in my mind, years later!&nbsp;"
+          ],
+          "C": [
+            "[Q23干扰项C： 排除依据 语义否定： as ... as , 不是 more important] Pictures can be so powerful, just as powerful as words."
+          ]
+        },
+        "roles": {
+          "A": [
+            "correct"
+          ],
+          "B": [
+            "wrong"
+          ],
+          "C": [
+            "wrong"
+          ]
+        },
+        "ambiguous": false
+      },
+      "24": {
+        "all": [
+          "(Q24) [Q24干扰项A：not compared with = inferior to, 但没有得到Stephanie回应， 不符合题干agree] TREVOR: I'm sure it will. We also studied comics in that module, but I'm not convinced of their value, not compared with books. One of the great things about words is that you use your imagination, but with a comic you don't have to.&nbsp;",
+          "[Q24答案句（B） 女生说有用， 男生说 I suppose you're right.  判断符合agree 就完事 ✅] There are plenty of kids who wouldn't even try to read a book, so I think comics can serve a really useful purpose.&nbsp;&nbsp;TREVOR: You mean, it's better to read a comic than not to read at all? Yes, I suppose you're right."
+        ],
+        "options": {
+          "A": [
+            "(Q24) [Q24干扰项A：not compared with = inferior to, 但没有得到Stephanie回应， 不符合题干agree] TREVOR: I'm sure it will. We also studied comics in that module, but I'm not convinced of their value, not compared with books. One of the great things about words is that you use your imagination, but with a comic you don't have to.&nbsp;"
+          ],
+          "B": [
+            "[Q24答案句（B） 女生说有用， 男生说 I suppose you're right.  判断符合agree 就完事 ✅] There are plenty of kids who wouldn't even try to read a book, so I think comics can serve a really useful purpose.&nbsp;&nbsp;TREVOR: You mean, it's better to read a comic than not to read at all? Yes, I suppose you're right."
+          ],
+          "C": []
+        },
+        "roles": {
+          "A": [
+            "wrong"
+          ],
+          "B": [
+            "correct"
+          ],
+          "C": []
+        },
+        "ambiguous": false
+      },
+      "25": {
+        "all": [
+          "[Q25答案句（B）amazed = 题干 surprise，  反向替换 ： how many book ... on just one sex = 面向both sex的书很少(few)] TREVOR:&nbsp; I was amazed how many books were targeted at just one sex or the other. Of course this reflects society as it is when the books are written.&nbsp;"
+        ],
+        "options": {
+          "A": [],
+          "B": [
+            "[Q25答案句（B）amazed = 题干 surprise，  反向替换 ： how many book ... on just one sex = 面向both sex的书很少(few)] TREVOR:&nbsp; I was amazed how many books were targeted at just one sex or the other. Of course this reflects society as it is when the books are written.&nbsp;"
+          ],
+          "C": []
+        },
+        "roles": {
+          "A": [],
+          "B": [
+            "correct"
+          ],
+          "C": []
+        },
+        "ambiguous": false
+      },
+      "26": {
+        "all": [
+          "[Q26答案句（F）： start a new genre 解释型：没人写过= new] STEPHANIE: Yes. They must be important, because no stories of that type had been written before, these were the first. Then there's The Swiss Family Robinson.&nbsp;"
+        ],
+        "options": {
+          "A": [],
+          "B": [],
+          "C": []
+        },
+        "roles": {
+          "A": [],
+          "B": [],
+          "C": []
+        },
+        "ambiguous": true
+      },
+      "27": {
+        "all": [
+          "(Q27) [Q27答案句（E）：解释型， 提到了另一本书名 like ... in the novel of] STEPHANIE: The English name makes it sound as though Robinson is the family's surname but a more accurate translation would be the Swiss Robinsons, because it's about a Swiss family who are shipwrecked, like Robinson Crusoe in the novel of a century earlier.&nbsp;"
+        ],
+        "options": {
+          "A": [],
+          "B": [],
+          "C": []
+        },
+        "roles": {
+          "A": [],
+          "B": [],
+          "C": []
+        },
+        "ambiguous": true
+      },
+      "28": {
+        "all": [
+          "[Q28答案句（C）：是 ... basis of ... = 解释型 inspire] TREVOR: Wasn't that the basis for Tchaikovsky's ballet The Nutcracker?&nbsp;STEPHANIE: That's right."
+        ],
+        "options": {
+          "A": [],
+          "B": [],
+          "C": [
+            "[Q28答案句（C）：是 ... basis of ... = 解释型 inspire] TREVOR: Wasn't that the basis for Tchaikovsky's ballet The Nutcracker?&nbsp;STEPHANIE: That's right."
+          ]
+        },
+        "roles": {
+          "A": [],
+          "B": [],
+          "C": [
+            "correct"
+          ]
+        },
+        "ambiguous": false
+      },
+      "29": {
+        "all": [
+          "[Q29干扰项 ❌ 题干没有这本书] TREVOR: I hope you've read Oscar Wilde's The Happy Prince. It's probably my favourite children's story of all time.&nbsp;",
+          "[Q29答案句（B）： hard to read 解释型 = took more effort] STEPHANIE: Yeah, but whereas something like The Happy Prince just carried me along with it. The Lord of the Rings took more effort than I was prepared to give it.&nbsp;"
+        ],
+        "options": {
+          "A": [],
+          "B": [
+            "[Q29答案句（B）： hard to read 解释型 = took more effort] STEPHANIE: Yeah, but whereas something like The Happy Prince just carried me along with it. The Lord of the Rings took more effort than I was prepared to give it.&nbsp;"
+          ],
+          "C": []
+        },
+        "roles": {
+          "A": [],
+          "B": [
+            "correct"
+          ],
+          "C": []
+        },
+        "ambiguous": true
+      },
+      "30": {
+        "all": [
+          "[Q30答案句（G）： hardly ... expect = unlikely 否定信号词+解释] TREVOR: Oh yes. It's about the First World War, isn't it? Hardly what you'd expect for a children's story.&nbsp;"
+        ],
+        "options": {
+          "A": [],
+          "B": [],
+          "C": []
+        },
+        "roles": {
+          "A": [],
+          "B": [],
+          "C": []
+        },
+        "ambiguous": true
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": 21,
+      "options": []
+    },
+    {
+      "id": 22,
+      "options": []
+    },
+    {
+      "id": 23,
+      "options": []
+    },
+    {
+      "id": 24,
+      "options": []
+    },
+    {
+      "id": 25,
+      "options": []
+    }
+  ]
+}
