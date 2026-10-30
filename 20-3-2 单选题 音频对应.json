@@ -1,0 +1,623 @@
+{
+  "version": 1,
+  "index": "20-3-2",
+  "audioData": {
+    "parserVersion": 2,
+    "index": "20-3-2",
+    "repo": "itsjiselle/ielts-listening-questions-pdf",
+    "ref": "4f3a51e31d85bf00de251fe4d6f75d583e8f4528",
+    "audioPath": "20-3-2.mp3",
+    "audioSha": "867cbb6f1e769f962e2bc94063e823a65c836806",
+    "srtPath": "20-3-2 英文.srt",
+    "srtSha": "6520a9bfa7fa3d2c9d369b490167d1c4520e7d64",
+    "cues": [
+      {
+        "id": "0",
+        "start": 0.104,
+        "end": 1.51,
+        "text": "(Q11（单选）) Hello, I'm Hayden.",
+        "q": 11,
+        "invalidTime": false
+      },
+      {
+        "id": "1",
+        "start": 1.51,
+        "end": 6.213,
+        "text": "I'm one of the archaeologists investigating the site here at Bidcaster.",
+        "q": 11,
+        "invalidTime": false
+      },
+      {
+        "id": "2",
+        "start": 6.213,
+        "end": 13.369,
+        "text": "This is the third summer for this community project, and most of the people digging here are volunteers.",
+        "q": 11,
+        "invalidTime": false
+      },
+      {
+        "id": "3",
+        "start": 13.369,
+        "end": 25.013,
+        "text": "[Q11答案句（B） set up = start， up and down the country = national + Q11干扰项C] I'm a full-time archaeologist for the town council, but I was asked to join the project by NHA, a charity which sets up projects like this up and down the country.",
+        "q": 11,
+        "invalidTime": false
+      },
+      {
+        "id": "4",
+        "start": 25.013,
+        "end": 33.209,
+        "text": "As you can see, we're next to Bidcaster Castle, which is great because the owners let us use their facilities.",
+        "q": 11,
+        "invalidTime": false
+      },
+      {
+        "id": "5",
+        "start": 33.209,
+        "end": 36.822,
+        "text": "(Q12) So, how did we get to where we are today?",
+        "q": 12,
+        "invalidTime": false
+      },
+      {
+        "id": "6",
+        "start": 36.822,
+        "end": 46.103,
+        "text": "Many archaeology projects happen when an ancient object is found, and in our case, that object was a gold coin.",
+        "q": 12,
+        "invalidTime": false
+      },
+      {
+        "id": "7",
+        "start": 46.103,
+        "end": 59.502,
+        "text": "[Q12干扰项C/B。 并列关系 排除。 + are often found 不是 题目中所指的coin] Coins are often found by people using metal detectors to look for things buried in the ground – or coins are uncovered when wild animals like rabbits have been digging tunnels.",
+        "q": 12,
+        "invalidTime": false
+      },
+      {
+        "id": "8",
+        "start": 59.502,
+        "end": 67.266,
+        "text": "[Q12答案句（A） heavy rain = rainstorm] Here, a walker found it on the ground after a rainstorm washed away some of the earth and sand.",
+        "q": 12,
+        "invalidTime": false
+      },
+      {
+        "id": "9",
+        "start": 67.266,
+        "end": 81.084,
+        "text": "(Q13) When the story of the gold coin hit the news, Peter Swift, an amateur historian, contacted me to say he believed there had been a village on this site, centuries before the castle was built.",
+        "q": 13,
+        "invalidTime": false
+      },
+      {
+        "id": "10",
+        "start": 81.084,
+        "end": 97.137,
+        "text": "[Q13答案句： by chance = lucky 平行替换， 500-hundred-year-old = old  解释型， maps and documents = record(n.)] Just by chance, the team found some old maps and documents in our library which showed five-hundred-year-old drawings of ruined buildings on the grassy area between the outer stone walls of the castle and the river.",
+        "q": 13,
+        "invalidTime": false
+      },
+      {
+        "id": "11",
+        "start": 97.137,
+        "end": 100.444,
+        "text": "We knew then we were onto something.",
+        "q": 13,
+        "invalidTime": false
+      },
+      {
+        "id": "12",
+        "start": 100.444,
+        "end": 109.864,
+        "text": "(Q14) [Q14干扰项（A） have found] Over the three summers the team has been here, we've found the remains of several buildings, and more broken pots than you can count!",
+        "q": 14,
+        "invalidTime": false
+      },
+      {
+        "id": "13",
+        "start": 109.864,
+        "end": 118.013,
+        "text": "[Q14答案句（C） still waiting = hope to, brooches and other jewelry = jewellery 上下义] Normally you'd expect to find brooches and other jewellery, but we're still waiting to uncover any such items.",
+        "q": 14,
+        "invalidTime": false
+      },
+      {
+        "id": "14",
+        "start": 118.013,
+        "end": 126.811,
+        "text": "[Q14干扰项（B） 现在已经发现了。 时态不符，] The people who once lived here were skilled at making tools from animal bones, as you'll see when you visit the exhibition.",
+        "q": 14,
+        "invalidTime": false
+      },
+      {
+        "id": "15",
+        "start": 126.811,
+        "end": 141.832,
+        "text": "(Q15) [Q15答案句（B） outline = border + Q15干扰项（C） 排除依据： 否定信号词 no other ...] Besides the discovery of the village, we've also found evidence of human activity on the other side of the river – no other houses or huts so far, but we can see the borders of an ancient field system.",
+        "q": 15,
+        "invalidTime": false
+      },
+      {
+        "id": "16",
+        "start": 141.832,
+        "end": 149.947,
+        "text": "[Q15干扰项A： 排除依据， 否定信号词 but it turned out to be] At one point we found a long wall and thought it was an ancient palace, but it turned out to be a modern wall.",
+        "q": 15,
+        "invalidTime": false
+      },
+      {
+        "id": "17",
+        "start": 149.947,
+        "end": 155.223,
+        "text": "(Q16) This summer's work will end soon, but we'll be back next summer.",
+        "q": 16,
+        "invalidTime": false
+      },
+      {
+        "id": "18",
+        "start": 155.223,
+        "end": 162.01,
+        "text": "[Q16答案句（C） put on 举办 组织= organize] In the meantime, we're putting on a series of guided tours for school groups this autumn.",
+        "q": 16,
+        "invalidTime": false
+      },
+      {
+        "id": "19",
+        "start": 162.01,
+        "end": 166.853,
+        "text": "[Q16干扰项（B） 时态不符， saw] Oh and, maybe you saw the TV documentary about our project.",
+        "q": 16,
+        "invalidTime": false
+      },
+      {
+        "id": "20",
+        "start": 166.853,
+        "end": 174.617,
+        "text": "[Q16干扰项（A）排除依据： 否定 - not sure] That suggested the objects we've found are going to the town's museum, but we don't know that for sure yet.",
+        "q": 16,
+        "invalidTime": false
+      },
+      {
+        "id": "21",
+        "start": 174.617,
+        "end": 180.209,
+        "text": "(Q17（地图）) When you enter the site, please make sure you keep to the paths at all times.",
+        "q": 17,
+        "invalidTime": false
+      },
+      {
+        "id": "22",
+        "start": 180.209,
+        "end": 186.456,
+        "text": "There are a few other things – the highlights of the site, if you like – that I want to mention.",
+        "q": 17,
+        "invalidTime": false
+      },
+      {
+        "id": "23",
+        "start": 186.456,
+        "end": 192.533,
+        "text": "Take a look at the map; our present location is marked at the bottom.",
+        "q": 17,
+        "invalidTime": false
+      },
+      {
+        "id": "24",
+        "start": 192.533,
+        "end": 198.038,
+        "text": "This year we've identified the foundations of an ancient bridge.",
+        "q": 17,
+        "invalidTime": false
+      },
+      {
+        "id": "25",
+        "start": 198.038,
+        "end": 205.044,
+        "text": "And it's really exciting today because a team of divers are in the river searching for lost objects.",
+        "q": 17,
+        "invalidTime": false
+      },
+      {
+        "id": "26",
+        "start": 205.044,
+        "end": 215.05599999999998,
+        "text": "To reach the bridge, take the main path ahead of you, go straight on and keep going till the path bends to the left.",
+        "q": 17,
+        "invalidTime": false
+      },
+      {
+        "id": "27",
+        "start": 215.05599999999998,
+        "end": 219.221,
+        "text": "You'll see a smaller track leading off to the right.",
+        "q": 17,
+        "invalidTime": false
+      },
+      {
+        "id": "28",
+        "start": 219.221,
+        "end": 223.586,
+        "text": "Follow that to take you to the river, where the divers are.",
+        "q": 17,
+        "invalidTime": false
+      },
+      {
+        "id": "29",
+        "start": 223.586,
+        "end": 227.219,
+        "text": "(Q18) You might be interested to see the rubbish pit.",
+        "q": 18,
+        "invalidTime": false
+      },
+      {
+        "id": "30",
+        "start": 227.219,
+        "end": 232.889,
+        "text": "This is very near the castle walls in the northwest corner of the site.",
+        "q": 18,
+        "invalidTime": false
+      },
+      {
+        "id": "31",
+        "start": 232.889,
+        "end": 238.655,
+        "text": "It actually dates to the time of the castle and not the ancient village.",
+        "q": 18,
+        "invalidTime": false
+      },
+      {
+        "id": "32",
+        "start": 238.655,
+        "end": 246.836,
+        "text": "We found oyster shells and fish bones, and we assume they were thrown from the castle kitchen above.",
+        "q": 18,
+        "invalidTime": false
+      },
+      {
+        "id": "33",
+        "start": 246.836,
+        "end": 252.842,
+        "text": "(Q19) One area we excavated in the first summer uncovered the site of a meeting hall.",
+        "q": 19,
+        "invalidTime": false
+      },
+      {
+        "id": "34",
+        "start": 252.842,
+        "end": 261.288,
+        "text": "We knew it was an important building because it had two rows of post holes, deep enough to support a large roof.",
+        "q": 19,
+        "invalidTime": false
+      },
+      {
+        "id": "35",
+        "start": 261.288,
+        "end": 268.8,
+        "text": "It's the largest structure in the central area of the site, next to the current excavation area.",
+        "q": 19,
+        "invalidTime": false
+      },
+      {
+        "id": "36",
+        "start": 268.8,
+        "end": 273.298,
+        "text": "(Q20) Last year we discovered a fish pond in the ancient village.",
+        "q": 20,
+        "invalidTime": false
+      },
+      {
+        "id": "37",
+        "start": 273.298,
+        "end": 276.024,
+        "text": "Normally these were beside a river.",
+        "q": 20,
+        "invalidTime": false
+      },
+      {
+        "id": "38",
+        "start": 276.024,
+        "end": 282.358,
+        "text": "The pond here is further away, but it's possible the river has moved slightly.",
+        "q": 20,
+        "invalidTime": false
+      },
+      {
+        "id": "39",
+        "start": 282.358,
+        "end": 292.834,
+        "text": "Anyway, to get there from here, you turn right at the first information board you come to, and follow the path into the trees.",
+        "q": 20,
+        "invalidTime": false
+      },
+      {
+        "id": "40",
+        "start": 292.834,
+        "end": 296.95799999999997,
+        "text": "Before you come out of the trees, you'll see it on your right.",
+        "q": 20,
+        "invalidTime": false
+      },
+      {
+        "id": "41",
+        "start": 296.95799999999997,
+        "end": 301.201,
+        "text": "If you reach the river, you've gone too far.",
+        "q": 20,
+        "invalidTime": false
+      },
+      {
+        "id": "42",
+        "start": 301.201,
+        "end": 303.701,
+        "text": "So, does anyone …",
+        "q": 20,
+        "invalidTime": false
+      }
+    ],
+    "matches": {
+      "11": {
+        "all": [
+          "[Q11答案句（B） set up = start， up and down the country = national + Q11干扰项C] I'm a full-time archaeologist for the town council, but I was asked to join the project by NHA, a charity which sets up projects like this up and down the country."
+        ],
+        "options": {
+          "A": [],
+          "B": [
+            "[Q11答案句（B） set up = start， up and down the country = national + Q11干扰项C] I'm a full-time archaeologist for the town council, but I was asked to join the project by NHA, a charity which sets up projects like this up and down the country."
+          ],
+          "C": [
+            "[Q11答案句（B） set up = start， up and down the country = national + Q11干扰项C] I'm a full-time archaeologist for the town council, but I was asked to join the project by NHA, a charity which sets up projects like this up and down the country."
+          ]
+        },
+        "roles": {
+          "A": [],
+          "B": [
+            "correct"
+          ],
+          "C": [
+            "wrong"
+          ]
+        },
+        "ambiguous": false
+      },
+      "12": {
+        "all": [
+          "[Q12干扰项C/B。 并列关系 排除。 + are often found 不是 题目中所指的coin] Coins are often found by people using metal detectors to look for things buried in the ground – or coins are uncovered when wild animals like rabbits have been digging tunnels.",
+          "[Q12答案句（A） heavy rain = rainstorm] Here, a walker found it on the ground after a rainstorm washed away some of the earth and sand."
+        ],
+        "options": {
+          "A": [
+            "[Q12答案句（A） heavy rain = rainstorm] Here, a walker found it on the ground after a rainstorm washed away some of the earth and sand."
+          ],
+          "B": [
+            "[Q12干扰项C/B。 并列关系 排除。 + are often found 不是 题目中所指的coin] Coins are often found by people using metal detectors to look for things buried in the ground – or coins are uncovered when wild animals like rabbits have been digging tunnels."
+          ],
+          "C": [
+            "[Q12干扰项C/B。 并列关系 排除。 + are often found 不是 题目中所指的coin] Coins are often found by people using metal detectors to look for things buried in the ground – or coins are uncovered when wild animals like rabbits have been digging tunnels."
+          ]
+        },
+        "roles": {
+          "A": [
+            "correct"
+          ],
+          "B": [
+            "wrong"
+          ],
+          "C": [
+            "wrong"
+          ]
+        },
+        "ambiguous": false
+      },
+      "13": {
+        "all": [
+          "[Q13答案句： by chance = lucky 平行替换， 500-hundred-year-old = old  解释型， maps and documents = record(n.)] Just by chance, the team found some old maps and documents in our library which showed five-hundred-year-old drawings of ruined buildings on the grassy area between the outer stone walls of the castle and the river."
+        ],
+        "options": {
+          "A": [],
+          "B": [],
+          "C": []
+        },
+        "roles": {
+          "A": [],
+          "B": [],
+          "C": []
+        },
+        "ambiguous": true
+      },
+      "14": {
+        "all": [
+          "(Q14) [Q14干扰项（A） have found] Over the three summers the team has been here, we've found the remains of several buildings, and more broken pots than you can count!",
+          "[Q14答案句（C） still waiting = hope to, brooches and other jewelry = jewellery 上下义] Normally you'd expect to find brooches and other jewellery, but we're still waiting to uncover any such items.",
+          "[Q14干扰项（B） 现在已经发现了。 时态不符，] The people who once lived here were skilled at making tools from animal bones, as you'll see when you visit the exhibition."
+        ],
+        "options": {
+          "A": [
+            "(Q14) [Q14干扰项（A） have found] Over the three summers the team has been here, we've found the remains of several buildings, and more broken pots than you can count!"
+          ],
+          "B": [
+            "[Q14干扰项（B） 现在已经发现了。 时态不符，] The people who once lived here were skilled at making tools from animal bones, as you'll see when you visit the exhibition."
+          ],
+          "C": [
+            "[Q14答案句（C） still waiting = hope to, brooches and other jewelry = jewellery 上下义] Normally you'd expect to find brooches and other jewellery, but we're still waiting to uncover any such items."
+          ]
+        },
+        "roles": {
+          "A": [
+            "wrong"
+          ],
+          "B": [
+            "wrong"
+          ],
+          "C": [
+            "correct"
+          ]
+        },
+        "ambiguous": false
+      },
+      "15": {
+        "all": [
+          "(Q15) [Q15答案句（B） outline = border + Q15干扰项（C） 排除依据： 否定信号词 no other ...] Besides the discovery of the village, we've also found evidence of human activity on the other side of the river – no other houses or huts so far, but we can see the borders of an ancient field system.",
+          "[Q15干扰项A： 排除依据， 否定信号词 but it turned out to be] At one point we found a long wall and thought it was an ancient palace, but it turned out to be a modern wall."
+        ],
+        "options": {
+          "A": [
+            "[Q15干扰项A： 排除依据， 否定信号词 but it turned out to be] At one point we found a long wall and thought it was an ancient palace, but it turned out to be a modern wall."
+          ],
+          "B": [
+            "(Q15) [Q15答案句（B） outline = border + Q15干扰项（C） 排除依据： 否定信号词 no other ...] Besides the discovery of the village, we've also found evidence of human activity on the other side of the river – no other houses or huts so far, but we can see the borders of an ancient field system."
+          ],
+          "C": [
+            "(Q15) [Q15答案句（B） outline = border + Q15干扰项（C） 排除依据： 否定信号词 no other ...] Besides the discovery of the village, we've also found evidence of human activity on the other side of the river – no other houses or huts so far, but we can see the borders of an ancient field system."
+          ]
+        },
+        "roles": {
+          "A": [
+            "wrong"
+          ],
+          "B": [
+            "correct"
+          ],
+          "C": [
+            "wrong"
+          ]
+        },
+        "ambiguous": false
+      },
+      "16": {
+        "all": [
+          "[Q16答案句（C） put on 举办 组织= organize] In the meantime, we're putting on a series of guided tours for school groups this autumn.",
+          "[Q16干扰项（B） 时态不符， saw] Oh and, maybe you saw the TV documentary about our project.",
+          "[Q16干扰项（A）排除依据： 否定 - not sure] That suggested the objects we've found are going to the town's museum, but we don't know that for sure yet."
+        ],
+        "options": {
+          "A": [
+            "[Q16干扰项（A）排除依据： 否定 - not sure] That suggested the objects we've found are going to the town's museum, but we don't know that for sure yet."
+          ],
+          "B": [
+            "[Q16干扰项（B） 时态不符， saw] Oh and, maybe you saw the TV documentary about our project."
+          ],
+          "C": [
+            "[Q16答案句（C） put on 举办 组织= organize] In the meantime, we're putting on a series of guided tours for school groups this autumn."
+          ]
+        },
+        "roles": {
+          "A": [
+            "wrong"
+          ],
+          "B": [
+            "wrong"
+          ],
+          "C": [
+            "correct"
+          ]
+        },
+        "ambiguous": false
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": 11,
+      "options": [
+        {
+          "id": "A",
+          "selection": {
+            "srtSha": "6520a9bfa7fa3d2c9d369b490167d1c4520e7d64",
+            "cues": [
+              {
+                "id": "4",
+                "start": 25.013,
+                "end": 33.209,
+                "text": "As you can see, we're next to Bidcaster Castle, which is great because the owners let us use their facilities.",
+                "q": 11
+              }
+            ],
+            "updatedAt": "2026-10-29T01:56:56.170Z"
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "options": []
+    },
+    {
+      "id": 13,
+      "options": [
+        {
+          "id": "A",
+          "selection": {
+            "srtSha": "6520a9bfa7fa3d2c9d369b490167d1c4520e7d64",
+            "cues": [
+              {
+                "id": "10",
+                "start": 81.084,
+                "end": 97.137,
+                "text": "[Q13答案句： by chance = lucky 平行替换， 500-hundred-year-old = old  解释型， maps and documents = record(n.)] Just by chance, the team found some old maps and documents in our library which showed five-hundred-year-old drawings of ruined buildings on the grassy area between the outer stone walls of the castle and the river.",
+                "q": 13,
+                "invalidTime": false
+              },
+              {
+                "id": "11",
+                "start": 97.137,
+                "end": 100.444,
+                "text": "We knew then we were onto something.",
+                "q": 13,
+                "invalidTime": false
+              }
+            ],
+            "updatedAt": "2026-10-30T04:32:35.143Z"
+          }
+        },
+        {
+          "id": "B",
+          "selection": {
+            "srtSha": "6520a9bfa7fa3d2c9d369b490167d1c4520e7d64",
+            "cues": [
+              {
+                "id": "10",
+                "start": 81.084,
+                "end": 97.137,
+                "text": "[Q13答案句： by chance = lucky 平行替换， 500-hundred-year-old = old  解释型， maps and documents = record(n.)] Just by chance, the team found some old maps and documents in our library which showed five-hundred-year-old drawings of ruined buildings on the grassy area between the outer stone walls of the castle and the river.",
+                "q": 13,
+                "invalidTime": false
+              }
+            ],
+            "updatedAt": "2026-10-30T04:32:29.862Z"
+          }
+        },
+        {
+          "id": "C",
+          "selection": {
+            "srtSha": "6520a9bfa7fa3d2c9d369b490167d1c4520e7d64",
+            "cues": [
+              {
+                "id": "10",
+                "start": 81.084,
+                "end": 97.137,
+                "text": "[Q13答案句： by chance = lucky 平行替换， 500-hundred-year-old = old  解释型， maps and documents = record(n.)] Just by chance, the team found some old maps and documents in our library which showed five-hundred-year-old drawings of ruined buildings on the grassy area between the outer stone walls of the castle and the river.",
+                "q": 13,
+                "invalidTime": false
+              }
+            ],
+            "updatedAt": "2026-10-30T04:32:07.998Z"
+          }
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "options": []
+    },
+    {
+      "id": 15,
+      "options": []
+    },
+    {
+      "id": 16,
+      "options": []
+    }
+  ]
+}
