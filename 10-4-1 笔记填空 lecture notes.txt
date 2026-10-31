@@ -1,0 +1,178 @@
+10-4-1 THORNDYKE'S BUILDERS
+Complete the notes below.
+Write ONE WORD ONLY for each answer.
+
+
+Customer heard about Thorndyke's from a friend
+Name:              Edith 1.____________
+Address:             Flat 4, 2.____________ Park Flats (Behind the 3.____________)
+Phone number:  875934
+
+
+Best time to contact customer:  during the 4.____________
+Where to park:  opposite entrance next to the 5.____________
+                            Needs full quote showing all the jobs and the 6.____________
+
+Q1 答案：Pargetter
+审题预测：专有名词（等拼写）
+答案前置关注：
+答案句：[Q1答案句] It's P-A-R-G-E-double T-E-R.
+同义替换：
+干扰项：
+讲题路径：
+
+Q2 答案：East
+审题预测：
+答案前置关注：
+答案句：[Q2答案句] No, actually it's East Park, Flat 4.
+同义替换：
+干扰项：
+讲题路径：
+
+Q3 答案：library
+审题预测：地点类
+答案前置关注：
+答案句：[Q3答案句] Yes. it's at the back of the library.
+同义替换：at the back of = behind
+干扰项：
+讲题路径：()内， 就算只有个介词， 他一定是限定词。 就等着同义替换表达吧 
+
+Q4 答案：morning | mornings
+审题预测：
+答案前置关注：
+答案句：[Q4答案句] So would the best time to ring you be in the morning?
+[Q4答案句-确认] Yes.
+同义替换：ring sb = contact 
+干扰项：
+讲题路径：during是介词 也不画 不要被上一题迷惑 
+
+Q5 答案：postbox
+审题预测：地点类
+答案前置关注：
+答案句：[Q5答案句] Well. I always tell people in larger vehicles to park by the postbox on the other side of the road from the entrance.
+同义替换：by  = next to 
+干扰项：
+讲题路径：主要通过 预测出的 类型- 地点。 不要等entrance ，等entrance就来不及了。 
+名词如果出现在限定词前面， 一定要再往前面找 分级标题！
+
+
+Q6 答案：prices
+审题预测：可数名词 - 复数、不可数名词
+答案前置关注：
+答案句：[Q6答案句] Oh. Yes, I'll list all the jobs separately with individual prices.
+同义替换：A with B = A and  B
+干扰项：
+讲题路径：
+
+原文：
+(Q1) Thorndyke's.
+
+Good morning. Is that Mr Thorndyke?
+
+Speaking. How can I help?
+
+I've got quite a few things which need painting and fixing in the flat and I wonder whether you'd be able to do the work.
+
+I'm sure I'd be able to help but let me take down a few details.
+
+Yes, of course.
+
+Well, firstly, how did you hear about us?
+
+(Qexample) It was my friend May Hampton ... you did some excellent work for her a couple of years ago. Do you remember?
+
+Oh, yes, that was in West Park Flats, lovely lady.
+
+Yes, she is.
+
+And what's your name, please?
+
+It's Edith Pargetter.
+
+Edith ... can you spell your surname, please? Edith……
+
+[Q1答案句] It's P-A-R-G-E-double T-E-R.
+
+Double T, right.&nbsp;
+
+(Q2) And do you live in West Park Flats as well?
+
+[Q2答案句] No, actually it's East Park, Flat 4.
+
+(Q3) Oh, right, that's over the road, I seem to remember - quite difficult to get to.
+
+[Q3答案句] Yes. it's at the back of the library.
+
+(Q4) Right, I know. And what's your phone number?
+
+875934 but I'm out a great deal in the afternoons and evenings.&nbsp;
+
+[Q4答案句] So would the best time to ring you be in the morning?
+
+[Q4答案句-确认] Yes.
+
+(Q5) Fine. I've made a note of that. Can I just ask, I'll be in a van and I know parking's rather difficult round your flats.
+
+Where would you recommend?
+
+[Q5答案句] Well. I always tell people in larger vehicles to park by the postbox on the other side of the road from the entrance.
+
+Good, thanks.
+
+(Q6) And will you be able to give me a full itemised quote?
+
+[Q6答案句] Oh. Yes, I'll list all the jobs separately with individual prices.
+
+That'd be a great help.
+
+No problem.
+
+(Q7（table横纵表格填空）) Now, what would you like me to do?
+
+Firstly and most urgently is in the kitchen.
+
+With all the weather damage, the glass in the door has cracked and I'd need that fixing ...
+
+I presume you mean replacing?
+
+Oh, yes. And as soon as possible ...
+
+What I'll do is come round tomorrow morning and do that immediately.
+
+Thank you so much. The other things aren't so urgent but...
+
+Now, I'll make a note of everything you want doing.
+
+Well, in the kitchen I'd like some painting doing.
+
+All the kitchen walls?
+
+Just the area over the cooker. It's very greasy ...
+
+Right ...it does tend to get that way!
+
+Yes!
+
+Well, if you want a proper job done what I'd need to do is strip the old paint and plaster it about a week before I paint it.
+
+Of course. Now, May tells me you also do work in the garden.
+
+That's right.
+
+Well. I'd like you to replace a fence.
+
+Just one?
+
+Yes, at the far end.
+
+Fine. Shouldn't be a problem.
+
+And that's the lot.
+
+Fine. Yeah, as I say I can come round tomorrow morning to look over things with you.
+
+That's great, thank you.
+
+So, I'll look forward to seeing you tomorrow at...
+--- JISELLE NOTES FORM DATA V1 ---
+{"id":"notes-d3ef003e-befb-4cca-af48-e12aac61d671","index":"10-4-1","part":1,"title":"THORNDYKE'S BUILDERS","kind":"notes","wordLimit":"ONE WORD ONLY","mode":"free","type":"填空题","blocks":[{"heading":"","body":"Customer heard about Thorndyke's from a friend\nName:              Edith 1.____________\nAddress:             Flat 4, 2.____________ Park Flats (Behind the 3.____________)\nPhone number:  875934","formats":[{"start":66,"end":71,"kind":"underline"},{"start":113,"end":114,"kind":"underline"},{"start":142,"end":149,"kind":"highlight"}]},{"heading":"","body":"Best time to contact customer:  during the 4.____________\nWhere to park:  opposite entrance next to the 5.____________\n                            Needs full quote showing all the jobs and the 6.____________","formats":[{"start":32,"end":38,"kind":"strike"},{"start":13,"end":21,"kind":"highlight"},{"start":0,"end":9,"kind":"underline"},{"start":92,"end":99,"kind":"highlight"},{"start":58,"end":63,"kind":"underline"},{"start":83,"end":91,"kind":"strike"},{"start":185,"end":189,"kind":"highlight"}]}],"numbers":[1,2,3,4,5,6],"bullets":false,"questionNotes":{"1":{"answer":"Pargetter","evidence":"[Q1答案句] It's P-A-R-G-E-double T-E-R.","note":"","teaching":"","transcript":"(Q1) Thorndyke's.\nGood morning. Is that Mr Thorndyke?\nSpeaking. How can I help?\nI've got quite a few things which need painting and fixing in the flat and I wonder whether you'd be able to do the work.\nI'm sure I'd be able to help but let me take down a few details.\nYes, of course.\nWell, firstly, how did you hear about us?\n(Qexample) It was my friend May Hampton ... you did some excellent work for her a couple of years ago. Do you remember?\nOh, yes, that was in West Park Flats, lovely lady.\nYes, she is.\nAnd what's your name, please?\nIt's Edith Pargetter.\nEdith ... can you spell your surname, please? Edith……\n[Q1答案句] It's P-A-R-G-E-double T-E-R.\nDouble T, right.&nbsp;","transcriptFormats":[],"predictionTags":["专有名词（等拼写）"],"tags":[],"subTags":[]},"2":{"answer":"East","evidence":"[Q2答案句] No, actually it's East Park, Flat 4.","note":"","teaching":"","transcript":"(Q2) And do you live in West Park Flats as well?\n[Q2答案句] No, actually it's East Park, Flat 4.","transcriptFormats":[{"start":23,"end":34,"kind":"strike"},{"start":75,"end":79,"kind":"bold"},{"start":75,"end":79,"kind":"larger"},{"start":75,"end":79,"kind":"larger"},{"start":75,"end":79,"kind":"larger"}],"tags":["(审题可预测)干扰项：答案空类型明显"],"subTags":["79b8bab4-e9c9-4e61-9684-71850a817717"]},"3":{"answer":"library","evidence":"[Q3答案句] Yes. it's at the back of the library.","note":"at the back of = behind","teaching":"()内， 就算只有个介词， 他一定是限定词。 就等着同义替换表达吧 ","transcript":"(Q3) Oh, right, that's over the road, I seem to remember - quite difficult to get to.\n[Q3答案句] Yes. it's at the back of the library.","transcriptFormats":[{"start":104,"end":119,"kind":"violet"},{"start":123,"end":130,"kind":"bold"},{"start":123,"end":130,"kind":"larger"},{"start":123,"end":130,"kind":"larger"}],"tags":["空前限定词的同义替换"],"subTags":["bec46afd-3d85-47e8-b5d1-5368c0e19b52"],"predictionTags":["地点类"]},"4":{"answer":"morning | mornings","evidence":"[Q4答案句] So would the best time to ring you be in the morning?\n[Q4答案句-确认] Yes.","note":"ring sb = contact ","teaching":"during是介词 也不画 不要被上一题迷惑 ","transcript":"(Q4) Right, I know. And what's your phone number?\n875934 but I'm out a great deal in the afternoons and evenings.&nbsp;\n[Q4答案句] So would the best time to ring you be in the morning?\n[Q4答案句-确认] Yes.","transcriptFormats":[{"start":149,"end":153,"kind":"violet"}],"tags":["空前限定词的同义替换"],"subTags":["42751112-e7c7-42db-959c-34a928b53c22"]},"5":{"answer":"postbox","evidence":"[Q5答案句] Well. I always tell people in larger vehicles to park by the postbox on the other side of the road from the entrance.","note":"by  = next to ","teaching":"主要通过 预测出的 类型- 地点。 不要等entrance ，等entrance就来不及了。 \n名词如果出现在限定词前面， 一定要再往前面找 分级标题！\n","transcript":"(Q5) Fine. I've made a note of that. Can I just ask, I'll be in a van and I know parking's rather difficult round your flats.\nWhere would you recommend?\n[Q5答案句] Well. I always tell people in larger vehicles to park by the postbox on the other side of the road from the entrance.\nGood, thanks.","transcriptFormats":[],"tags":["紧挨空前是限定词， 再往前是名词时， 需要再往前面找 分级标题 作为限定词（因为非分级标题的名词可能会后置）"],"subTags":[],"predictionTags":["地点类"]},"6":{"answer":"prices","evidence":"[Q6答案句] Oh. Yes, I'll list all the jobs separately with individual prices.","note":"A with B = A and  B","teaching":"","transcript":"(Q6) And will you be able to give me a full itemised quote?\n[Q6答案句] Oh. Yes, I'll list all the jobs separately with individual prices.\nThat'd be a great help.\nNo problem.","transcriptFormats":[{"start":95,"end":99,"kind":"bold"},{"start":127,"end":133,"kind":"bold"},{"start":127,"end":133,"kind":"larger"},{"start":127,"end":133,"kind":"larger"},{"start":127,"end":133,"kind":"larger"}],"tags":["答案空前 表示并列连接词"],"subTags":[],"predictionTags":["可数名词 - 复数","不可数名词"],"evidenceFormats":[{"start":51,"end":56,"kind":"bold"},{"start":51,"end":56,"kind":"violet"}]}},"createdAt":"2026-10-31T09:32:25.743Z","attempts":{"6":"lecture notes+音频对应 同步"},"answerWordsRaw":"1. Pargetter\n2. East\n3. library\n4. morning | mornings\n5. postbox\n6. prices","transcript":"(Q1) Thorndyke's.\n\nGood morning. Is that Mr Thorndyke?\n\nSpeaking. How can I help?\n\nI've got quite a few things which need painting and fixing in the flat and I wonder whether you'd be able to do the work.\n\nI'm sure I'd be able to help but let me take down a few details.\n\nYes, of course.\n\nWell, firstly, how did you hear about us?\n\n(Qexample) It was my friend May Hampton ... you did some excellent work for her a couple of years ago. Do you remember?\n\nOh, yes, that was in West Park Flats, lovely lady.\n\nYes, she is.\n\nAnd what's your name, please?\n\nIt's Edith Pargetter.\n\nEdith ... can you spell your surname, please? Edith……\n\n[Q1答案句] It's P-A-R-G-E-double T-E-R.\n\nDouble T, right.&nbsp;\n\n(Q2) And do you live in West Park Flats as well?\n\n[Q2答案句] No, actually it's East Park, Flat 4.\n\n(Q3) Oh, right, that's over the road, I seem to remember - quite difficult to get to.\n\n[Q3答案句] Yes. it's at the back of the library.\n\n(Q4) Right, I know. And what's your phone number?\n\n875934 but I'm out a great deal in the afternoons and evenings.&nbsp;\n\n[Q4答案句] So would the best time to ring you be in the morning?\n\n[Q4答案句-确认] Yes.\n\n(Q5) Fine. I've made a note of that. Can I just ask, I'll be in a van and I know parking's rather difficult round your flats.\n\nWhere would you recommend?\n\n[Q5答案句] Well. I always tell people in larger vehicles to park by the postbox on the other side of the road from the entrance.\n\nGood, thanks.\n\n(Q6) And will you be able to give me a full itemised quote?\n\n[Q6答案句] Oh. Yes, I'll list all the jobs separately with individual prices.\n\nThat'd be a great help.\n\nNo problem.\n\n(Q7（table横纵表格填空）) Now, what would you like me to do?\n\nFirstly and most urgently is in the kitchen.\n\nWith all the weather damage, the glass in the door has cracked and I'd need that fixing ...\n\nI presume you mean replacing?\n\nOh, yes. And as soon as possible ...\n\nWhat I'll do is come round tomorrow morning and do that immediately.\n\nThank you so much. The other things aren't so urgent but...\n\nNow, I'll make a note of everything you want doing.\n\nWell, in the kitchen I'd like some painting doing.\n\nAll the kitchen walls?\n\nJust the area over the cooker. It's very greasy ...\n\nRight ...it does tend to get that way!\n\nYes!\n\nWell, if you want a proper job done what I'd need to do is strip the old paint and plaster it about a week before I paint it.\n\nOf course. Now, May tells me you also do work in the garden.\n\nThat's right.\n\nWell. I'd like you to replace a fence.\n\nJust one?\n\nYes, at the far end.\n\nFine. Shouldn't be a problem.\n\nAnd that's the lot.\n\nFine. Yeah, as I say I can come round tomorrow morning to look over things with you.\n\nThat's great, thank you.\n\nSo, I'll look forward to seeing you tomorrow at...","srtSource":{"path":"10-4-1 英文.srt","sha":"b14e02e39795d8463af58ffcc861f4cb3a0f6d86","fetchedAt":"2026-10-31T09:33:15.336Z"},"audioData":{"parserVersion":2,"index":"10-4-1","repo":"itsjiselle/ielts-listening-questions-pdf","ref":"73871f1ef96b7a69ff29f932c8a7632fe02ba43f","audioPath":"10-4-1.mp3","audioSha":"90ca14793f2845c25fcfd08a4e445c56628852d9","srtPath":"10-4-1 英文.srt","srtSha":"b14e02e39795d8463af58ffcc861f4cb3a0f6d86","cues":[{"id":"0","start":0.269,"end":1.617,"text":"(Q1) Thorndyke's.","q":1,"invalidTime":false},{"id":"1","start":1.617,"end":4.397,"text":"Good morning. Is that Mr Thorndyke?","q":1,"invalidTime":false},{"id":"2","start":4.397,"end":6.504,"text":"Speaking. How can I help?","q":1,"invalidTime":false},{"id":"3","start":6.504,"end":13.849,"text":"I've got quite a few things which need painting and fixing in the flat and I wonder whether you'd be able to do the work.","q":1,"invalidTime":false},{"id":"4","start":13.849,"end":17.674,"text":"I'm sure I'd be able to help but let me take down a few details.","q":1,"invalidTime":false},{"id":"5","start":17.674,"end":19.419,"text":"Yes, of course.","q":1,"invalidTime":false},{"id":"6","start":19.419,"end":22.632,"text":"Well, firstly, how did you hear about us?","q":1,"invalidTime":false},{"id":"7","start":22.632,"end":29.648,"text":"(Qexample) It was my friend May Hampton ... you did some excellent work for her a couple of years ago. Do you remember?","q":1,"invalidTime":false},{"id":"8","start":29.648,"end":33.965,"text":"Oh, yes, that was in West Park Flats, lovely lady.","q":1,"invalidTime":false},{"id":"9","start":33.965,"end":35.146,"text":"Yes, she is.","q":1,"invalidTime":false},{"id":"10","start":35.146,"end":37.527,"text":"And what's your name, please?","q":1,"invalidTime":false},{"id":"11","start":37.527,"end":39.513,"text":"It's Edith Pargetter.","q":1,"invalidTime":false},{"id":"12","start":39.513,"end":43.369,"text":"Edith ... can you spell your surname, please? Edith……","q":1,"invalidTime":false},{"id":"13","start":43.369,"end":49.425,"text":"[Q1答案句] It's P-A-R-G-E-double T-E-R.","q":1,"invalidTime":false},{"id":"14","start":49.425,"end":51.178,"text":"Double T, right.&nbsp;","q":1,"invalidTime":false},{"id":"15","start":51.178,"end":53.822,"text":"(Q2) And do you live in West Park Flats as well?","q":2,"invalidTime":false},{"id":"16","start":53.822,"end":58.407,"text":"[Q2答案句] No, actually it's East Park, Flat 4.","q":2,"invalidTime":false},{"id":"17","start":58.407,"end":63.128,"text":"(Q3) Oh, right, that's over the road, I seem to remember - quite difficult to get to.","q":3,"invalidTime":false},{"id":"18","start":63.128,"end":66.097,"text":"[Q3答案句] Yes. it's at the back of the library.","q":3,"invalidTime":false},{"id":"19","start":66.097,"end":69.768,"text":"(Q4) Right, I know. And what's your phone number?","q":4,"invalidTime":false},{"id":"20","start":69.768,"end":77.5,"text":"875934 but I'm out a great deal in the afternoons and evenings.&nbsp;","q":4,"invalidTime":false},{"id":"21","start":77.5,"end":80.69200000000001,"text":"[Q4答案句] So would the best time to ring you be in the morning?","q":4,"invalidTime":false},{"id":"22","start":80.69200000000001,"end":81.65899999999999,"text":"[Q4答案句-确认] Yes.","q":4,"invalidTime":false},{"id":"23","start":81.65899999999999,"end":89.723,"text":"(Q5) Fine. I've made a note of that. Can I just ask, I'll be in a van and I know parking's rather difficult round your flats.","q":5,"invalidTime":false},{"id":"24","start":89.723,"end":91.405,"text":"Where would you recommend?","q":5,"invalidTime":false},{"id":"25","start":91.405,"end":99.316,"text":"[Q5答案句] Well. I always tell people in larger vehicles to park by the postbox on the other side of the road from the entrance.","q":5,"invalidTime":false},{"id":"26","start":99.316,"end":101.363,"text":"Good, thanks.","q":5,"invalidTime":false},{"id":"27","start":101.363,"end":105.143,"text":"(Q6) And will you be able to give me a full itemised quote?","q":6,"invalidTime":false},{"id":"28","start":105.143,"end":109.56700000000001,"text":"[Q6答案句] Oh. Yes, I'll list all the jobs separately with individual prices.","q":6,"invalidTime":false},{"id":"29","start":109.56700000000001,"end":111.09100000000001,"text":"That'd be a great help.","q":6,"invalidTime":false},{"id":"30","start":111.09100000000001,"end":112.52000000000001,"text":"No problem.","q":6,"invalidTime":false},{"id":"31","start":112.52000000000001,"end":115.029,"text":"(Q7（table横纵表格填空）) Now, what would you like me to do?","q":7,"invalidTime":false},{"id":"32","start":115.029,"end":119.798,"text":"Firstly and most urgently is in the kitchen.","q":7,"invalidTime":false},{"id":"33","start":119.798,"end":125.407,"text":"With all the weather damage, the glass in the door has cracked and I'd need that fixing ...","q":7,"invalidTime":false},{"id":"34","start":125.407,"end":127.699,"text":"I presume you mean replacing?","q":7,"invalidTime":false},{"id":"35","start":127.699,"end":130.903,"text":"Oh, yes. And as soon as possible ...","q":7,"invalidTime":false},{"id":"36","start":130.903,"end":134.14,"text":"What I'll do is come round tomorrow morning and do that immediately.","q":7,"invalidTime":false},{"id":"37","start":134.14,"end":138.483,"text":"Thank you so much. The other things aren't so urgent but...","q":7,"invalidTime":false},{"id":"38","start":138.483,"end":142.068,"text":"Now, I'll make a note of everything you want doing.","q":7,"invalidTime":false},{"id":"39","start":142.068,"end":146.25,"text":"Well, in the kitchen I'd like some painting doing.","q":7,"invalidTime":false},{"id":"40","start":146.25,"end":147.828,"text":"All the kitchen walls?","q":7,"invalidTime":false},{"id":"41","start":147.828,"end":152.038,"text":"Just the area over the cooker. It's very greasy ...","q":7,"invalidTime":false},{"id":"42","start":152.038,"end":154.477,"text":"Right ...it does tend to get that way!","q":7,"invalidTime":false},{"id":"43","start":154.477,"end":155.94400000000002,"text":"Yes!","q":7,"invalidTime":false},{"id":"44","start":155.94400000000002,"end":162.887,"text":"Well, if you want a proper job done what I'd need to do is strip the old paint and plaster it about a week before I paint it.","q":7,"invalidTime":false},{"id":"45","start":162.887,"end":168.242,"text":"Of course. Now, May tells me you also do work in the garden.","q":7,"invalidTime":false},{"id":"46","start":168.242,"end":169.234,"text":"That's right.","q":7,"invalidTime":false},{"id":"47","start":169.234,"end":172.244,"text":"Well. I'd like you to replace a fence.","q":7,"invalidTime":false},{"id":"48","start":172.244,"end":173.73,"text":"Just one?","q":7,"invalidTime":false},{"id":"49","start":173.73,"end":175.692,"text":"Yes, at the far end.","q":7,"invalidTime":false},{"id":"50","start":175.692,"end":177.476,"text":"Fine. Shouldn't be a problem.","q":7,"invalidTime":false},{"id":"51","start":177.476,"end":179.24099999999999,"text":"And that's the lot.","q":7,"invalidTime":false},{"id":"52","start":179.24099999999999,"end":184.279,"text":"Fine. Yeah, as I say I can come round tomorrow morning to look over things with you.","q":7,"invalidTime":false},{"id":"53","start":184.279,"end":185.74099999999999,"text":"That's great, thank you.","q":7,"invalidTime":false},{"id":"54","start":185.74099999999999,"end":188.24099999999999,"text":"So, I'll look forward to seeing you tomorrow at...","q":7,"invalidTime":false}],"matches":{"1":{"all":["[Q1答案句] It's P-A-R-G-E-double T-E-R."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"2":{"all":["[Q2答案句] No, actually it's East Park, Flat 4."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"3":{"all":["[Q3答案句] Yes. it's at the back of the library."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"4":{"all":["[Q4答案句] So would the best time to ring you be in the morning?","[Q4答案句-确认] Yes."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"5":{"all":["[Q5答案句] Well. I always tell people in larger vehicles to park by the postbox on the other side of the road from the entrance."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"6":{"all":["[Q6答案句] Oh. Yes, I'll list all the jobs separately with individual prices."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true}}},"answerCloud":{"sha":"ba0959e0098e0517dc6f178074e601430dfe7b34","path":"10-4-1 笔记填空 答案词.txt"},"tagCatalog":{"tags":["拼写（字母）","拼写（数字）","拼写（字母+数字）","空前无实义词，跟上一行/小标题","紧挨空前是限定词， 再往前是名词时， 需要再往前面找 分级标题 作为限定词（因为非分级标题的名词可能会后置）","答案空前 表示并列连接词","(审题可预测)干扰项：答案空类型明显","答案前置（被动语态）","答案前置（定语从句）","答案前置（介词短语）","答案前置（adj.+n.）","(听中)记录疑似答案+等另一人确认","(听中)记录疑似答案+代词指代","空前限定词的同义替换","答案前置- 答案空后括号内容 - 修饰成分"],"children":{"答案前置- 答案空后括号内容 - 修饰成分":[],"答案前置（定语从句）":[{"id":"dab54cb8-eeaf-4864-b8ad-b245905f1883","name":"答案空在定语从句内"},{"id":"1547cd1f-63de-4dc2-9916-daba6a96277d","name":"答案空+定语从句"}],"答案前置（被动语态）":[{"id":"392db4eb-88df-497c-9731-1745edcddbdf","name":"答案空在被动语态内"},{"id":"b8bd2ec5-97d0-4c74-8f43-2f4583f8d8dc","name":"答案空+被动语态"}],"拼写（数字）":[{"id":"8bbe8b21-88e2-4096-85e1-ee556ba44c09","name":"电话"},{"id":"d6ca606f-9a21-4d12-bc56-74767f46b1a7","name":"具体时间"},{"id":"6d179315-a54c-46a9-9893-7946ece8f2d0","name":"日期"},{"id":"67e4546d-3861-41e6-88ce-2ac6a44f7677","name":"价格"}],"(审题可预测)干扰项：答案空类型明显":[{"id":"79b8bab4-e9c9-4e61-9684-71850a817717","name":"答案词得出方式：强调信号词"}],"空前限定词的同义替换":[{"id":"42751112-e7c7-42db-959c-34a928b53c22","name":"空前限定词(v.)的同义替换"},{"id":"92bb42f2-c6a5-4ec0-8722-4044a7a83ec4","name":"空前限定词(adj.)的同义替换"},{"id":"bec46afd-3d85-47e8-b5d1-5368c0e19b52","name":"空前限定词(adv. / prep.)的同义替换"},{"id":"edb1568d-b990-4b5a-b2ec-33d0c657552b","name":"空前限定词(普通n.)的同义替换"}],"紧挨空前是限定词， 再往前是名词时， 需要再往前面找 分级标题 作为限定词（因为非分级标题的名词可能会后置）":[]},"order":["拼写（字母）","拼写（数字）","拼写（字母+数字）","空前无实义词，跟上一行/小标题","紧挨空前是限定词， 再往前是名词时， 需要再往前面找 分级标题 作为限定词（因为非分级标题的名词可能会后置）","答案空前 表示并列连接词","(审题可预测)干扰项：答案空类型明显","答案前置（被动语态）","答案前置（定语从句）","答案前置（介词短语）","答案前置（adj.+n.）","(听中)记录疑似答案+等另一人确认","(听中)记录疑似答案+代词指代","空前限定词的同义替换","答案前置- 答案空后括号内容 - 修饰成分"]},"predictionCatalog":["专有名词（等拼写）","数字","数字+字母 组合（邮编等）","可数名词 - 单数","可数名词 - 复数","不可数名词","动名词","adj.","地点类","职业类","学科类","电话","具体时间","日期","价格"],"frontingCatalog":["被动语态","定语从句","介词短语 n.+prep+答案空 / 答案空+prep.+n.","adj.+答案空 / 答案空+n.","答案空后括号 作为修饰成分","答案空在定语从句内","答案空+定语从句"],"predictionParents":{"电话":"数字","具体时间":"数字","日期":"数字","价格":"数字"},"frontingParents":{"答案空在定语从句内":"定语从句","答案空+定语从句":"定语从句"}}
