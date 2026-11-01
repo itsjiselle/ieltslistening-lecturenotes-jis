@@ -1,0 +1,128 @@
+8-4-1 West Bay Hotel- details of job
+Complete the notes below.
+Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.
+
+
+· Newspaper advert for temporary staff
+· Vacancies for 1.____________
+· Two shifts
+
+· Can choose your 2.____________  (must be the same each week)
+
+· Pay: ￡5. 50 per hour, including a 3.____________
+
+
+· A 4.____________ is provided in the hotel
+
+· Total weekly pay: ￡231
+
+· Dress: a white shirt and 5.____________ trousers (not supplied)
+          a 6.____________ (supplied)
+
+
+· Starting date: 7.____________
+ 
+· Call Jane 8.____________ (Service Manager) before 9.____________ tomorrow (Tel: 832009)
+
+· She'll require a 10.____________
+
+Q1 答案：waiter | waiters
+难度：未选择
+审题预测：职业类
+答案前置关注：
+答案句：[Q1答案句] We're looking for waiters at the moment.
+同义替换：looking for  = vacancy 
+干扰项：
+讲题路径：词义：Vacancies ➡️ 原形：vacancy ◾️ c.n. 职位空缺
+
+Q2 答案：day off
+难度：⭐️⭐️
+审题预测：
+答案前置关注：
+答案句：[Q2答案句] You get one day off and I think you can negotiate which one you want, it's more or less up to you.
+同义替换：
+干扰项：shift ， 但shift不符合 must be the same each week， 因为原文： “And can people choose which one they want to do?
+Not normally, because everyone would choose the day shift I suppose.
+You alternate from one week to another.”
+讲题路径：(must be the same each week) 无法被作为定位 因为该句出现时， 答案词已经过去了
+但它可以是限定！！！
+
+Q3 答案：break
+难度：未选择
+审题预测：可数名词 - 单数
+答案前置关注：
+答案句：[Q3答案句] Yes, I've got them here, You get ￡5.50 an hour, and that includes a break.
+同义替换：
+干扰项：
+讲题路径：跟定位即可 比较简单 
+
+Q4 答案：free meal | meal
+难度：未选择
+审题预测：可数名词 - 单数
+答案前置关注：被动语态
+答案句：[Q4答案句] You don't have to. You can get a meal in the hotel if you want to, and there's no charge for it so you might as well.
+同义替换：
+干扰项：
+讲题路径：
+
+Q5 答案：dark coloured | dark colored | dark
+难度：未选择
+审题预测：adj.
+答案前置关注：答案空+n.
+答案句：[Q5答案句] Yes, I forgot to mention that. You need to wear a white shirt, just a plain one, and dark trousers.
+同义替换：
+干扰项：
+讲题路径：很简单。。。 并没有什么弯弯绕，甚至没有 答案前置
+
+Q6 答案：jacket
+难度：未选择
+审题预测：可数名词 - 单数、衣物类
+答案前置关注：
+答案句：You have to wear a jacket, but the hotel lends you that.
+同义替换： lend you = supplied， 不过等同替就晚了。 
+干扰项：一人： waistcoat？
+另一人：   答案得出方式：信号词 you have to + 正确答案。 
+讲题路径：
+
+Q7 答案：28 June | June 28 | 28th June | June 28th | 28th of June
+难度：未选择
+审题预测：日期(数字+月份词)
+答案前置关注：
+答案句：[Q7答案句] Just a minute, I think it's some time around the end of June. Yes, the 28th, in time for the summer.
+同义替换：
+干扰项：
+讲题路径：
+
+Q8 答案：Urwin
+难度：未选择
+审题预测：专有名词（等拼写）
+答案前置关注：
+答案句：[Q8答案句] Her name's Jane Urwin, that's U-R-W-I-N, and she'll probably arrange to meet you.
+同义替换：
+干扰项：
+讲题路径：
+
+Q9 答案：12. 00 pm | 12.00 | noon | mid-day
+难度：⭐️⭐️
+审题预测：具体时间
+答案前置关注：
+答案句：[Q9答案句] Could you call tomorrow? Um, she usually starts checking the rooms at midday, so before then if you can, so she'll have more time to chat.
+同义替换：
+干扰项：
+讲题路径：mid-day = 12.00 pm 需要给学生提及 
+
+Q10 答案：reference
+难度：未选择
+审题预测：可数名词 - 单数
+答案前置关注：
+答案句：[Q10答案句 🟢 10定位] And by the way, she will ask you for a reference, so you might like to be thinking about that.
+同义替换：ask for = require
+干扰项：
+讲题路径：
+
+Overall comments：
+
+原文：
+
+--- JISELLE NOTES FORM DATA V1 ---
+{"id":"notes-36bae039-f69a-4664-a349-752e40244e92","index":"8-4-1","part":1,"title":"West Bay Hotel- details of job","kind":"notes","wordLimit":"NO MORE THAN TWO WORDS AND/OR A NUMBER","mode":"free","type":"填空题","tableCells":null,"sourceText":"\n· Newspaper advert for temporary staff\n· Vacancies for 1\n· Two shifts\n\n· Can choose your 2  (must be the same each week)\n\n· Pay: ￡5. 50 per hour, including a 3\n \n\n--- 分块 ---\n\n· A 4is provided in the hotel\n\n· Total weekly pay: ￡231\n\n· Dress: a white shirt and 5 trousers (not supplied)\n          a 6 (supplied)\n\n--- 分块 ---\n\n· Starting date: 7\n \n· Call Jane 8 (Service Manager) before 9tomorrow (Tel: 832009)\n\n· She'll require a 10\n \n\n","blocks":[{"heading":"","body":"· Newspaper advert for temporary staff\n· Vacancies for 1.____________\n· Two shifts\n\n· Can choose your 2.____________  (must be the same each week)\n\n· Pay: ￡5. 50 per hour, including a 3.____________","formats":[{"start":41,"end":50,"kind":"bold"},{"start":90,"end":96,"kind":"highlight"},{"start":118,"end":146,"kind":"strike"},{"start":118,"end":135,"kind":"highlight"},{"start":155,"end":161,"kind":"underline"}]},{"heading":"","body":"· A 4.____________ is provided in the hotel\n\n· Total weekly pay: ￡231\n\n· Dress: a white shirt and 5.____________ trousers (not supplied)\n          a 6.____________ (supplied)","formats":[{"start":19,"end":30,"kind":"highlight"},{"start":113,"end":121,"kind":"highlight"},{"start":122,"end":136,"kind":"highlight"},{"start":80,"end":93,"kind":"underline"},{"start":164,"end":174,"kind":"highlight"}]},{"heading":"","body":"· Starting date: 7.____________\n \n· Call Jane 8.____________ (Service Manager) before 9.____________ tomorrow (Tel: 832009)\n\n· She'll require a 10.____________","formats":[{"start":61,"end":78,"kind":"underline"},{"start":41,"end":45,"kind":"underline"},{"start":134,"end":141,"kind":"highlight"}]}],"numbers":[1,2,3,4,5,6,7,8,9,10],"bullets":false,"questionNotes":{"1":{"answer":"waiter | waiters","evidence":"[Q1答案句] We're looking for waiters at the moment.","note":"looking for  = vacancy ","teaching":"词义：Vacancies ➡️ 原形：vacancy ◾️ c.n. 职位空缺","transcript":"(Q1) Hello, West Bay Hotel. Can I help you?\nOh, good morning. I'm ringing about your advertisement in the Evening Gazette.\nIs that the one for temporary staff?\nThat's right.\nYes. I'm afraid the person who's dealing with that isn't in today, but can give you the main details if you like.\n[🟢 staff you are looking for = vacancy] Yes please. Could you tell me what kind of staff you are looking for?\n[Q1答案句] We're looking for waiters at the moment.\n[⭕️干扰项] There was one post for a cook, but that's already been taken.","glossary":[{"target":"body","block":0,"start":41,"end":50,"term":"Vacancies","meaning":"c.n. 职位空缺","root":"vacancy"}],"predictionTags":["职业类"],"tags":["(审题可预测)❗️干扰项：答案空类型明显"],"subTags":["1b0c329b-f118-40f6-8f7d-eb7914326f98"]},"2":{"answer":"day off","evidence":"[Q2答案句] You get one day off and I think you can negotiate which one you want, it's more or less up to you.","note":"","teaching":"(must be the same each week) 无法被作为定位 因为该句出现时， 答案词已经过去了\n但它可以是限定！！！","transcript":"(Q2) Oh right. Erm, what are the hours of work?\nThere are two different shifts - there's a day shift from 7 to 2 and a late shift from 4 till 11.\n[🟢 定位词 choose] And can people choose which one they want to do?\nNot normally, because everyone would choose the day shift I suppose.\nYou alternate from one week to another.\nOkay. I'm just writing all this down. What about time off?\n[Q2答案句] You get one day off and I think you can negotiate which one you want, it's more or less up to you.\nBut it has to be the same one every week.","tags":["(审题可预测)❗️干扰项：答案空类型明显"],"subTags":["58cc63c5-252b-4bd4-acc5-01479b8b5646"],"distractor":"shift ， 但shift不符合 must be the same each week， 因为原文： “And can people choose which one they want to do?\nNot normally, because everyone would choose the day shift I suppose.\nYou alternate from one week to another.”","difficulty":"⭐️⭐️","distractorFormats":[{"start":102,"end":115,"kind":"bold"},{"start":102,"end":115,"kind":"highlight"}],"predictionTags":[]},"3":{"answer":"break","evidence":"[Q3答案句] Yes, I've got them here, You get ￡5.50 an hour, and that includes a break.","note":"","teaching":"跟定位即可 比较简单 ","transcript":"(Q3) Do you know what the rates of pay are?\n[Q3答案句] Yes, I've got them here, You get ￡5.50 an hour, and that includes a break.","tags":[],"subTags":[],"predictionTags":["可数名词 - 单数"],"teachingFormats":[]},"4":{"answer":"free meal | meal","evidence":"[Q4答案句] You don't have to. You can get a meal in the hotel if you want to, and there's no charge for it so you might as well.","note":"","teaching":"","transcript":"(Q4) Do I have to go home to eat or...\n[Q4答案句] You don't have to. You can get a meal in the hotel if you want to, and there's no charge for it so you might as well.","tags":["答案前置（被动语态）"],"subTags":["b8bd2ec5-97d0-4c74-8f43-2f4583f8d8dc"],"predictionTags":["可数名词 - 单数"],"frontingTags":["被动语态"],"evidenceFormats":[{"start":35,"end":45,"kind":"highlight"}]},"5":{"answer":"dark coloured | dark colored | dark","evidence":"[Q5答案句] Yes, I forgot to mention that. You need to wear a white shirt, just a plain one, and dark trousers.","note":"","teaching":"很简单。。。 并没有什么弯弯绕，甚至没有 答案前置","transcript":"(Q5) Oh good. Yes, so let's see. I'd get er, two hundred and twenty one, no,two hundred and thirty one pounds a week?\nYou'd also get tips - our guests tend to be quite generous.\n[🟢提示进题] Erm, is there a uniform? What about clothes?\n[Q5答案句] Yes, I forgot to mention that. You need to wear a white shirt, just a plain one, and dark trousers.\nYou know, not green or anything like that. And we don't supply those.","tags":[],"subTags":[],"predictionTags":["adj."],"frontingTags":["答案空+n."],"teachingFormats":[]},"6":{"answer":"jacket","evidence":"You have to wear a jacket, but the hotel lends you that.","note":" lend you = supplied， 不过等同替就晚了。 ","teaching":"","transcript":"(Q6) That's okay, I've got trousers, I'd just have to buy a couple of shirts.\nWhat about anything else? Do I need a waistcoat or anything?\n[Q6答案句， lend you = supplied] You have to wear a jacket, but the hotel lends you that.","tags":["空前无实义词，跟上一行/小标题","(审题可预测)❗️干扰项：答案空类型明显"],"subTags":["79b8bab4-e9c9-4e61-9684-71850a817717"],"predictionTags":["可数名词 - 单数","衣物类"],"evidenceFormats":[],"noteFormats":[],"distractorFormats":[{"start":33,"end":45,"kind":"highlight"}],"distractor":"一人： waistcoat？\n另一人：   答案得出方式：信号词 you have to + 正确答案。 "},"7":{"answer":"28 June | June 28 | 28th June | June 28th | 28th of June","evidence":"[Q7答案句] Just a minute, I think it's some time around the end of June. Yes, the 28th, in time for the summer.","note":"","teaching":"","transcript":"(Q7) I see. Er, one last thing - I don't know what the starting date is.\n[Q7答案句] Just a minute, I think it's some time around the end of June. Yes, the 28th, in time for the summer.\n[⭕️干扰项] That's great. I'm available from the 10th.","tags":["拼写（数字）"],"subTags":["6d179315-a54c-46a9-9893-7946ece8f2d0"],"predictionTags":["日期(数字+月份词)"]},"8":{"answer":"Urwin","evidence":"[Q8答案句] Her name's Jane Urwin, that's U-R-W-I-N, and she'll probably arrange to meet you.","note":"","teaching":"","transcript":"(Q8) Oh good. Well, if you can call again you need to speak to the Service Manager.\n[Q8答案句] Her name's Jane Urwin, that's U-R-W-I-N, and she'll probably arrange to meet you.","tags":[],"subTags":[],"predictionTags":["专有名词（等拼写）"]},"9":{"answer":"12. 00 pm | 12.00 | noon | mid-day","evidence":"[Q9答案句] Could you call tomorrow? Um, she usually starts checking the rooms at midday, so before then if you can, so she'll have more time to chat.","note":"","teaching":"mid-day = 12.00 pm 需要给学生提及 ","transcript":"(Q9) Okay. And when's the best time to ring?\n[Q9答案句] Could you call tomorrow? Um, she usually starts checking the rooms at midday, so before then if you can, so she'll have more time to chat.","tags":[],"subTags":[],"predictionTags":["具体时间"],"evidenceFormats":[{"start":75,"end":84,"kind":"bold"},{"start":75,"end":84,"kind":"highlight"},{"start":75,"end":84,"kind":"violet"}],"difficulty":"⭐️⭐️","teachingFormats":[]},"10":{"answer":"reference","evidence":"[Q10答案句 🟢 10定位] And by the way, she will ask you for a reference, so you might like to be thinking about that.","note":"ask for = require","teaching":"","transcript":"(Q10) I'll just give you her number because she's got a direct line.\nThanks.\nIt's 832 double-0 9.\n823 double-0 9?&nbsp;\n832.&nbsp;\nOh, okay. Yes, I'll do that.\n[Q10答案句 🟢 10定位] And by the way, she will ask you for a reference, so you might like to be thinking about that.\nYou know, just someone who knows you and can vouch for you.\nYes, no problem. Well, thanks very much for your help.\nYou're welcome. Bye.\nBye.","tags":["(空前)限定词的同义替换"],"subTags":["42751112-e7c7-42db-959c-34a928b53c22"],"predictionTags":["可数名词 - 单数"],"noteFormats":[]}},"createdAt":"2026-10-31T14:13:13.921Z","answerWordsRaw":"1. waiter | waiters\n2. day off\n3. break\n4. free meal | meal\n5. dark coloured | dark colored | dark\n6. jacket\n7. 28 June | June 28 | 28th June | June 28th | 28th of June\n8. Urwin\n9. 12. 00 pm | 12.00 | noon | mid-day\n10. reference","audioData":{"parserVersion":2,"index":"8-4-1","repo":"itsjiselle/ielts-listening-questions-pdf","ref":"73871f1ef96b7a69ff29f932c8a7632fe02ba43f","audioPath":"8-4-1.mp3","audioSha":"bd014d4c2b575f7d457f95c74977c10987948203","srtPath":"8-4-1 英文.srt","srtSha":"9aed87b7c7b72954aeb020a61a86dc3b2a3e7e58","cues":[{"id":"0","start":0.077,"end":2.33,"text":"(Q1) Hello, West Bay Hotel. Can I help you?","q":1,"invalidTime":false},{"id":"1","start":2.33,"end":6.656,"text":"Oh, good morning. I'm ringing about your advertisement in the Evening Gazette.","q":1,"invalidTime":false},{"id":"2","start":6.656,"end":9.54,"text":"Is that the one for temporary staff?","q":1,"invalidTime":false},{"id":"3","start":9.54,"end":10.791,"text":"That's right.","q":1,"invalidTime":false},{"id":"4","start":10.791,"end":17.942,"text":"Yes. I'm afraid the person who's dealing with that isn't in today, but can give you the main details if you like.","q":1,"invalidTime":false},{"id":"5","start":17.942,"end":22.243,"text":"[🟢 staff you are looking for = vacancy] Yes please. Could you tell me what kind of staff you are looking for?","q":1,"invalidTime":false},{"id":"6","start":22.243,"end":24.772,"text":"[Q1答案句] We're looking for waiters at the moment.","q":1,"invalidTime":false},{"id":"7","start":24.772,"end":28.362,"text":"[⭕️干扰项] There was one post for a cook, but that's already been taken.","q":1,"invalidTime":false},{"id":"8","start":28.362,"end":32.023,"text":"(Q2) Oh right. Erm, what are the hours of work?","q":2,"invalidTime":false},{"id":"9","start":32.023,"end":40.298,"text":"There are two different shifts - there's a day shift from 7 to 2 and a late shift from 4 till 11.","q":2,"invalidTime":false},{"id":"10","start":40.298,"end":43.029,"text":"[🟢 定位词 choose] And can people choose which one they want to do?","q":2,"invalidTime":false},{"id":"11","start":43.029,"end":46.921,"text":"Not normally, because everyone would choose the day shift I suppose.","q":2,"invalidTime":false},{"id":"12","start":46.921,"end":49.203,"text":"You alternate from one week to another.","q":2,"invalidTime":false},{"id":"13","start":49.203,"end":53.797,"text":"Okay. I'm just writing all this down. What about time off?","q":2,"invalidTime":false},{"id":"14","start":53.797,"end":60.366,"text":"[Q2答案句] You get one day off and I think you can negotiate which one you want, it's more or less up to you.","q":2,"invalidTime":false},{"id":"15","start":60.366,"end":63.65,"text":"But it has to be the same one every week.","q":2,"invalidTime":false},{"id":"16","start":63.65,"end":65.474,"text":"(Q3) Do you know what the rates of pay are?","q":3,"invalidTime":false},{"id":"17","start":65.474,"end":73.625,"text":"[Q3答案句] Yes, I've got them here, You get ￡5.50 an hour, and that includes a break.","q":3,"invalidTime":false},{"id":"18","start":73.625,"end":75.812,"text":"(Q4) Do I have to go home to eat or...","q":4,"invalidTime":false},{"id":"19","start":75.812,"end":82.274,"text":"[Q4答案句] You don't have to. You can get a meal in the hotel if you want to, and there's no charge for it so you might as well.","q":4,"invalidTime":false},{"id":"20","start":82.274,"end":90.168,"text":"(Q5) Oh good. Yes, so let's see. I'd get er, two hundred and twenty one, no,two hundred and thirty one pounds a week?","q":5,"invalidTime":false},{"id":"21","start":90.168,"end":95.701,"text":"You'd also get tips - our guests tend to be quite generous.","q":5,"invalidTime":false},{"id":"22","start":95.701,"end":99.22399999999999,"text":"[🟢提示进题] Erm, is there a uniform? What about clothes?","q":5,"invalidTime":false},{"id":"23","start":99.22399999999999,"end":105.66,"text":"[Q5答案句] Yes, I forgot to mention that. You need to wear a white shirt, just a plain one, and dark trousers.","q":5,"invalidTime":false},{"id":"24","start":105.66,"end":109.785,"text":"You know, not green or anything like that. And we don't supply those.","q":5,"invalidTime":false},{"id":"25","start":109.785,"end":113.509,"text":"(Q6) That's okay, I've got trousers, I'd just have to buy a couple of shirts.","q":6,"invalidTime":false},{"id":"26","start":113.509,"end":116.436,"text":"What about anything else? Do I need a waistcoat or anything?","q":6,"invalidTime":false},{"id":"27","start":116.436,"end":119.53999999999999,"text":"[Q6答案句， lend you = supplied] You have to wear a jacket, but the hotel lends you that.","q":6,"invalidTime":false},{"id":"28","start":119.53999999999999,"end":124.257,"text":"(Q7) I see. Er, one last thing - I don't know what the starting date is.","q":7,"invalidTime":false},{"id":"29","start":124.257,"end":132.512,"text":"[Q7答案句] Just a minute, I think it's some time around the end of June. Yes, the 28th, in time for the summer.","q":7,"invalidTime":false},{"id":"30","start":132.512,"end":134.834,"text":"[⭕️干扰项] That's great. I'm available from the 10th.","q":7,"invalidTime":false},{"id":"31","start":134.834,"end":140.253,"text":"(Q8) Oh good. Well, if you can call again you need to speak to the Service Manager.","q":8,"invalidTime":false},{"id":"32","start":140.253,"end":148.297,"text":"[Q8答案句] Her name's Jane Urwin, that's U-R-W-I-N, and she'll probably arrange to meet you.","q":8,"invalidTime":false},{"id":"33","start":148.297,"end":151.454,"text":"(Q9) Okay. And when's the best time to ring?","q":9,"invalidTime":false},{"id":"34","start":151.454,"end":160.987,"text":"[Q9答案句] Could you call tomorrow? Um, she usually starts checking the rooms at midday, so before then if you can, so she'll have more time to chat.","q":9,"invalidTime":false},{"id":"35","start":160.987,"end":163.916,"text":"(Q10) I'll just give you her number because she's got a direct line.","q":10,"invalidTime":false},{"id":"36","start":163.916,"end":164.832,"text":"Thanks.","q":10,"invalidTime":false},{"id":"37","start":164.832,"end":168.728,"text":"It's 832 double-0 9.","q":10,"invalidTime":false},{"id":"38","start":168.728,"end":171.065,"text":"823 double-0 9?&nbsp;","q":10,"invalidTime":false},{"id":"39","start":171.065,"end":173.736,"text":"832.&nbsp;","q":10,"invalidTime":false},{"id":"40","start":173.736,"end":175.969,"text":"Oh, okay. Yes, I'll do that.","q":10,"invalidTime":false},{"id":"41","start":175.969,"end":180.835,"text":"[Q10答案句 🟢 10定位] And by the way, she will ask you for a reference, so you might like to be thinking about that.","q":10,"invalidTime":false},{"id":"42","start":180.835,"end":183.969,"text":"You know, just someone who knows you and can vouch for you.","q":10,"invalidTime":false},{"id":"43","start":183.969,"end":187.065,"text":"Yes, no problem. Well, thanks very much for your help.","q":10,"invalidTime":false},{"id":"44","start":187.065,"end":187.804,"text":"You're welcome. Bye.","q":10,"invalidTime":false},{"id":"45","start":187.804,"end":190.304,"text":"Bye.","q":10,"invalidTime":false}],"matches":{"1":{"all":["[Q1答案句] We're looking for waiters at the moment."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"2":{"all":["[Q2答案句] You get one day off and I think you can negotiate which one you want, it's more or less up to you."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"3":{"all":["[Q3答案句] Yes, I've got them here, You get ￡5.50 an hour, and that includes a break."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"4":{"all":["[Q4答案句] You don't have to. You can get a meal in the hotel if you want to, and there's no charge for it so you might as well."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"5":{"all":["[Q5答案句] Yes, I forgot to mention that. You need to wear a white shirt, just a plain one, and dark trousers."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"6":{"all":["[Q6答案句， lend you = supplied] You have to wear a jacket, but the hotel lends you that."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"7":{"all":["[Q7答案句] Just a minute, I think it's some time around the end of June. Yes, the 28th, in time for the summer."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"8":{"all":["[Q8答案句] Her name's Jane Urwin, that's U-R-W-I-N, and she'll probably arrange to meet you."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"9":{"all":["[Q9答案句] Could you call tomorrow? Um, she usually starts checking the rooms at midday, so before then if you can, so she'll have more time to chat."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"10":{"all":["[Q10答案句 🟢 10定位] And by the way, she will ask you for a reference, so you might like to be thinking about that."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true}}},"answerCloud":{"sha":"171943e7c1165bb500b7f31fc92f30dfcadb8d0c","path":"8-4-1 笔记填空 答案词.txt"},"tagCatalog":{"tags":["拼写（字母）","拼写（数字）","拼写（字母+数字）","空前无实义词，跟上一行/小标题","紧挨空前是限定词， 再往前是名词时， 需要再往前面找 分级标题 作为限定词（因为非分级标题的名词可能会后置）","答案空前 表示并列连接词","(审题可预测)❗️干扰项：答案空类型明显","答案前置（被动语态）","答案前置（定语从句）","答案前置（介词短语）","答案前置（adj.+n.）","(听中)记录疑似答案+等另一人确认","(听中)记录疑似答案+代词指代","(空前)限定词的同义替换","答案前置- 答案空后括号内容 - 修饰成分"],"children":{"答案前置- 答案空后括号内容 - 修饰成分":[],"答案前置（定语从句）":[{"id":"dab54cb8-eeaf-4864-b8ad-b245905f1883","name":"答案空在定语从句内"},{"id":"1547cd1f-63de-4dc2-9916-daba6a96277d","name":"答案空+定语从句"}],"答案前置（被动语态）":[{"id":"392db4eb-88df-497c-9731-1745edcddbdf","name":"答案空在被动语态内"},{"id":"b8bd2ec5-97d0-4c74-8f43-2f4583f8d8dc","name":"答案空+被动语态"}],"紧挨空前是限定词， 再往前是名词时， 需要再往前面找 分级标题 作为限定词（因为非分级标题的名词可能会后置）":[],"(空前)限定词的同义替换":[{"id":"42751112-e7c7-42db-959c-34a928b53c22","name":"(空前)限定词(v.)的同义替换"},{"id":"92bb42f2-c6a5-4ec0-8722-4044a7a83ec4","name":"(空前)限定词(adj.)的同义替换"},{"id":"bec46afd-3d85-47e8-b5d1-5368c0e19b52","name":"(空前)限定词(adv. / prep.)的同义替换"},{"id":"edb1568d-b990-4b5a-b2ec-33d0c657552b","name":"(空前)限定词(普通n.)的同义替换"}],"(审题可预测)❗️干扰项：答案空类型明显":[{"id":"79b8bab4-e9c9-4e61-9684-71850a817717","name":"答案词得出方式：强调信号词"},{"id":"1b0c329b-f118-40f6-8f7d-eb7914326f98","name":"答案词得出方式：跟同义替换"},{"id":"58cc63c5-252b-4bd4-acc5-01479b8b5646","name":"答案词得出方式：依据题目内容限定 排除错误答案"}],"拼写（数字）":[{"id":"8bbe8b21-88e2-4096-85e1-ee556ba44c09","name":"电话"},{"id":"d6ca606f-9a21-4d12-bc56-74767f46b1a7","name":"具体时间"},{"id":"6d179315-a54c-46a9-9893-7946ece8f2d0","name":"日期(数字+月份词)"},{"id":"67e4546d-3861-41e6-88ce-2ac6a44f7677","name":"价格"}]},"order":["拼写（字母）","拼写（数字）","拼写（字母+数字）","空前无实义词，跟上一行/小标题","紧挨空前是限定词， 再往前是名词时， 需要再往前面找 分级标题 作为限定词（因为非分级标题的名词可能会后置）","答案空前 表示并列连接词","(审题可预测)❗️干扰项：答案空类型明显","答案前置（被动语态）","答案前置（定语从句）","答案前置（介词短语）","答案前置（adj.+n.）","(听中)记录疑似答案+等另一人确认","(听中)记录疑似答案+代词指代","(空前)限定词的同义替换","答案前置- 答案空后括号内容 - 修饰成分"]},"predictionCatalog":["专有名词（等拼写）","数字","数字+字母 组合（邮编等）","可数名词 - 单数","可数名词 - 复数","不可数名词","动名词","adj.","地点类","职业类","学科类","电话","具体时间","日期(数字+月份词)","价格","衣物类"],"frontingCatalog":["被动语态","定语从句","介词短语 n.+prep+答案空 / 答案空+prep.+n.","空格附近 adj","答案空后括号 作为修饰成分","答案空在定语从句内","答案空+定语从句","adj.+ 答案空","答案空+n.","答案空 + be + adj."],"predictionParents":{"电话":"数字","具体时间":"数字","日期(数字+月份词)":"数字","价格":"数字"},"frontingParents":{"答案空在定语从句内":"定语从句","答案空+定语从句":"定语从句","adj.+ 答案空":"空格附近 adj","答案空+n.":"空格附近 adj","答案空 + be + adj.":"空格附近 adj"}}
