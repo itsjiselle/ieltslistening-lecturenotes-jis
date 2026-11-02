@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "type": "Part 4 笔记填空",
+  "category": "答案前置",
+  "data": {
+    "tags": [
+      "审题 - adj+n",
+      "答案空+n",
+      "adj + n",
+      "介词短语",
+      "答案空 + prep +n.",
+      "prep + 答案空"
+    ],
+    "parents": {
+      "答案空+n": "审题 - adj+n",
+      "adj + n": "审题 - adj+n",
+      "答案空 + prep +n.": "介词短语",
+      "prep + 答案空": "介词短语"
+    }
+  }
+}
