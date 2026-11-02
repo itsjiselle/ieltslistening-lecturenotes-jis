@@ -1,0 +1,234 @@
+15-3-4 Early history of keeping clean
+Complete the notes below.
+Write ONE WORD ONLY for each answer.
+
+
+Prehistoric times:
+
+• water was used to wash off 31.____________
+
+Ancient Babylon:
+
+• soap-like material found in 32.____________ cylinders
+
+Ancient Greece:
+
+• people cleaned themselves with sand and other substances
+• used a strigil – scraper made of 33.____________
+• washed clothes in streams
+
+Ancient Germany and Gaul:
+
+• used soap to colour their 34.____________
+
+Ancient Rome:
+
+• animal fat, ashes and clay mixed through action of rain, used for washing clothes
+• from about 312 BC, water carried to Roman 35.____________ by aqueducts
+
+Europe in Middle Ages:
+
+• decline in bathing contributed to occurrence of 36.____________
+• 37.____________ began to be added to soap
+
+Europe from 17th century:
+
+• 1600s: cleanliness and bathing started becoming usual
+• 1791: Leblanc invented a way of making soda ash from 38.____________
+• early 1800s: Chevreul turned soapmaking into a 39.____________
+• from 1800s, there was no longer a 40.____________ on soap
+
+Q31 答案：mud
+难度：未选择
+审题预测：
+答案前置关注：
+答案句：Since water is essential for life, the earliest people lived near water and knew something about its cleansing properties，at least that it rinsed mud off their hands.
+同义替换： rinse ... off =wash off 
+干扰项：
+讲题路径：◾️ wash off：空前v - 作为限定词， 听同义替换即可
+
+
+
+Q32 答案：clay
+难度：未选择
+审题预测：adj - 关注空后是否是 n ➡️ 可能答案前置
+答案前置关注：审题 - adj+n、答案空+n
+答案句：During the excavation of ancient Babylon, evidence was found that soapmaking was known as early as 2800 BC.Archaeologists discovered cylinders made of clay,
+同义替换：
+干扰项：
+讲题路径：◾️ 32.____________ cylinders：答案空后有n， 能构成adj + n， 需要关注答案前置，
+◾️ soap-like：空前需要往前找 n - 作为定位词
+
+Q33 答案：metal
+难度：未选择
+审题预测：【材料类】、可数n. - 单数、可数n. -复数、不可数n.
+答案前置关注：介词短语、prep + 答案空
+答案句：Instead, they cleaned their bodies with blocks of sand, pumice and ashes,then anointed themselves with oil, and scraped off the oil and dirt with a metal instrument known as a strigil.
+同义替换：scrape  off ... = scraper 平行替换 
+ instrument = scraper 
+干扰项：
+讲题路径：预测：  bricks可数复数  / wool 不可数  都有可能
+◾️ made of 33.____________：答案空在 介词短语中 - 可能有答案前置
+◾️ made of：答案空 前 有prep - 考虑前置
+
+Q34 答案：hair
+难度：未选择
+审题预测：n.
+答案前置关注：
+答案句：[Q34答案句： tint = colour] They used this mixture to tint their hair red.
+同义替换：
+干扰项：
+讲题路径：◾️ colour：v词性， 预测有同义替换后， 跟出答案
+
+Q35 答案：baths | bath
+难度：未选择
+审题预测：
+答案前置关注：
+答案句：[Q35答案句， 整体都在312BC前说到的。 根据Roman定位] As Roman civilisation advanced, so did bathing. The first of the famous Roman 【baths】, supplied with water from their aqueducts, was built about 312 BC.
+同义替换：
+干扰项：
+讲题路径：
+◾️ Roman：虽然是adj 但是是专有名词， 所以需要当作定位词。而不是 限定词
+◾️ 312 BC：作为定位词不一定可靠， 因为结合前面 from 312BC, 很有可能会换说法 ， 说完发生的事，才说到这个年份。
+
+Q36 答案：diseases | disease
+难度：⭐️⭐️
+审题预测：n.、【问题/麻烦】
+答案前置关注：
+答案句：This lack of personal cleanliness and related unsanitary living conditions were major factors in the outbreaks of disease in the Middle Ages,
+同义替换：A +be+ major factors in B = A contribute to B 
+outbreak=occurrence
+干扰项：
+讲题路径：◾️ occurrence：虽然是 n 但是是普通名词 - 所以， 更可能被替换
+◾️ of：为啥空前有prep 却不预测是 答案前置呢？（我也想知道）
+◾️ contributed to：occurrence of x 应该作为一个整体。 前面是contribute to 导致的意思， 这是v， 也可能同义替换
+
+Q37 答案：perfume
+难度：⭐️⭐️
+审题预测：【材料类】
+答案前置关注：
+答案句：Vegetable and animal oils were used with ashes of plants, along with perfume, apparently for the first time.
+同义替换：for the first time = began to 
+干扰项：
+讲题路径：◾️ soap：空前无实义词， 往上一行画。 但上一行， 以答案词结尾。 所以这个题，最好继续往后面看，找定位词
+◾️ be added to：+began to 这两个都要预测同义替换的
+
+Q38 答案：salt
+难度：未选择
+审题预测：n.、【材料类】
+答案前置关注：介词短语、prep + 答案空
+答案句：when a French chemist, Nicholas Leblanc, patented a process for turning 【salt】 into soda ash, or sodium carbonate.
+同义替换： turn A into B= make B from A
+干扰项：
+讲题路径：◾️ making soda ash from：make ... from... ， 空前prep ， 可能有前置
+◾️ Leblanc：有人名 肯定直接跟人名 做定位词
+
+Q39 答案：science
+难度：未选择
+审题预测：可数n. - 单数
+答案前置关注：
+答案句：[Q39答案句：become = turn ... into a ...] His studies established the basis for both fat and soap chemistry, and soapmaking became a science.
+同义替换：
+干扰项：
+讲题路径：◾️ soapmaking：上一题刚考了 turn ... into ... , 这题不会再是前置了， 所以， 跟定位词 soap making
+
+Q40 答案：tax
+难度：未选择
+审题预测：可数n. - 单数
+答案前置关注：答案空 + prep +n.
+答案句：As it became more readily available, it became an everyday necessity, a development that was reinforced when the high tax was removed.
+同义替换：xxx was removed = there's no longer xxx, 
+审题时注意否定含义词， 听的时候要跟上表示否定意义的词
+干扰项：
+讲题路径：◾️ no longer：否定词 + 限定词
+
+Overall comments：
+Q35， 空前和小标题之间不相邻，必须往前画一行 。 可作为方法论讲解 
+原文：
+(Q31) Nowadays, we use different products for personal cleanliness, laundry,
+
+dishwashing and household cleaning, but this is very much a 20th-century development.
+
+The origins of cleanliness date back to prehistoric times.&nbsp;
+
+[Q31答案句： rinse=wash off] Since water is essential for life, the earliest people lived near water and knew something about its cleansing properties，at least that it rinsed mud off their hands.
+
+(Q32) [Q32答案句： 答案前置， 定语-adj] During the excavation of ancient Babylon, evidence was found that soapmaking was known as early as 2800 BC.Archaeologists discovered cylinders made of 【clay】,
+
+with inscriptions on them saying that fats were boiled with ashes.
+
+This is a method of making soap, though there's no reference to the purpose of this material.
+
+(Q33) The early Greeks bathed for aesthetic reasons and apparently didn't use soap.
+
+[Q33答案句： 答案前置，xxx instrument =  scraper made of xxx, instrument = scraper 上下义同义替换] Instead, they cleaned their bodies with blocks of sand, pumice and ashes,then anointed themselves with oil, and scraped off the oil and dirt with a 【metal 】instrument known as a strigil.
+
+(Q34) They also used oil mixed with ashes.
+
+Clothes were washed without soap in streams.
+
+The ancient Germans and Gauls are also credited with discovering how to make a substance called 'soap',
+
+made of melted animal fat and ashes.
+
+[Q34答案句： tint = colour] They used this mixture to tint their hair red.
+
+(Q35) Soap got its name, according to an ancient Roman legend, from Mount Sapo, where animals were sacrificed,
+
+leaving deposits of animal fat.
+
+Rain washed these deposits, along with wood ashes, down into the clay soil along the River Tiber.
+
+Women found that this mixture greatly reduced the effort required to wash their clothes.
+
+[Q35答案句， 整体都在312BC前说到的。 根据Roman定位] As Roman civilisation advanced, so did bathing. The first of the famous Roman 【baths】, supplied with water from their aqueducts, was built about 312 BC.
+
+(Q36) The baths were luxurious, and bathing became very popular.
+
+And by the second century AD,
+
+the Greek physician Galen recommended soap for both medicinal and cleansing purposes.
+
+After the fall of Rome in 467 AD and the resulting decline in bathing habits, much of Europe felt the impact of filth on public health.
+
+[Q36答案句： outbreak=occurrence] This lack of personal cleanliness and related unsanitary living conditions were major factors in the outbreaks of disease in the Middle Ages,
+
+and especially the Black Death of the 14th century.
+
+(Q37) Nevertheless, soapmaking became an established craft in Europe,
+
+and associations of soapmakers guarded their trade secrets closely.
+
+[Q37答案句： along with +答案词， 空前无实义词，难度⭐️⭐️， for the first time = began to] Vegetable and animal oils were used with ashes of plants, along with perfume, apparently for the first time.
+
+Gradually more varieties of soap became available for shaving and shampooing,
+
+as well as bathing and laundering.
+
+(Q38) A major step toward large-scale commercial soapmaking occurred in 1791,&nbsp;
+
+[Q38答案句： turn A into B= make B from A] when a French chemist, Nicholas Leblanc, patented a process for turning 【salt】 into soda ash, or sodium carbonate.
+
+(Q39) Soda ash is the alkali obtained from ashes that combines with fat to form soap.
+
+The Leblanc process yielded quantities of good-quality, inexpensive soda ash.&nbsp;
+
+Modern soapmaking was born some 20 years later, in the early 19th century,
+
+with the discovery by Michel Eugène Chevreul, another French chemist, of the chemical nature and relationship of fats, glycerine and fatty acids.
+
+[Q39答案句：become = turn ... into a ...] His studies established the basis for both fat and soap chemistry, and soapmaking became a science.
+
+(Q40) [19 century = 1800s 注意一下时间的表达] Further developments during the 19th century made it easier and cheaper to manufacture soap.&nbsp;
+
+Until the 19th century, soap was regarded as a luxury item, and was heavily taxed in several countries.
+
+[Q40答案句： xxx was removed = there's no longer xxx, 审题时注意否定含义词， 听的时候要跟上表示否定意义的词] As it became more readily available, it became an everyday necessity, a development that was reinforced when the high tax was removed.
+
+Soap was then something ordinary people could afford, and cleanliness standards improved.
+
+With this widespread use came the development of milder soaps for bathing and soaps for use in the washing machines
+
+that were available to consumers by the turn of the 20th century.
+--- JISELLE NOTES FORM DATA V1 ---
+{"id":"notes-55bcfb5d-fbd8-4d74-b6e0-e51efd99020f","index":"15-3-4","part":4,"title":"Early history of keeping clean","kind":"notes","wordLimit":"ONE WORD ONLY","mode":"headings","intro":"","type":"填空题","tableCells":null,"sourceText":"","blocks":[{"heading":"Prehistoric times:","subheading":"","body":"• water was used to wash off 31.____________","lectureBlock":0,"formats":[]},{"heading":"Ancient Babylon:","subheading":"","body":"• soap-like material found in 32.____________ cylinders","lectureBlock":1,"formats":[{"start":30,"end":55,"kind":"highlight"},{"start":12,"end":20,"kind":"underline"},{"start":2,"end":11,"kind":"underline"}]},{"heading":"Ancient Greece:","subheading":"","body":"• people cleaned themselves with sand and other substances\n• used a strigil – scraper made of 33.____________\n• washed clothes in streams","lectureBlock":2,"formats":[{"start":78,"end":85,"kind":"underline"},{"start":86,"end":93,"kind":"highlight"}]},{"heading":"Ancient Germany and Gaul:","subheading":"","body":"• used soap to colour their 34.____________","lectureBlock":3,"formats":[{"start":15,"end":21,"kind":"highlight"},{"start":7,"end":11,"kind":"underline"}]},{"heading":"Ancient Rome:","subheading":"","body":"• animal fat, ashes and clay mixed through action of rain, used for washing clothes\n• from about 312 BC, water carried to Roman 35.____________ by aqueducts","lectureBlock":3,"formats":[{"start":122,"end":127,"kind":"underline"},{"start":97,"end":103,"kind":"strike"},{"start":68,"end":83,"kind":"underline"}]},{"heading":"Europe in Middle Ages:","subheading":"","body":"• decline in bathing contributed to occurrence of 36.____________\n• 37.____________ began to be added to soap","lectureBlock":4,"formats":[{"start":36,"end":46,"kind":"highlight"},{"start":47,"end":50,"kind":"strike"},{"start":21,"end":35,"kind":"highlight"},{"start":105,"end":109,"kind":"underline"},{"start":84,"end":92,"kind":"highlight"},{"start":93,"end":104,"kind":"highlight"}]},{"heading":"Europe from 17th century:","subheading":"","body":"• 1600s: cleanliness and bathing started becoming usual\n• 1791: Leblanc invented a way of making soda ash from 38.____________\n• early 1800s: Chevreul turned soapmaking into a 39.____________\n• from 1800s, there was no longer a 40.____________ on soap","lectureBlock":5,"formats":[{"start":90,"end":110,"kind":"highlight"},{"start":64,"end":71,"kind":"underline"},{"start":142,"end":150,"kind":"underline"},{"start":158,"end":168,"kind":"underline"},{"start":216,"end":225,"kind":"highlight"}]}],"numbers":[31,32,33,34,35,36,37,38,39,40],"bullets":false,"questionNotes":{"31":{"answer":"mud","evidence":"Since water is essential for life, the earliest people lived near water and knew something about its cleansing properties，at least that it rinsed mud off their hands.","note":" rinse ... off =wash off ","teaching":"◾️ wash off：空前v - 作为限定词， 听同义替换即可\n\n","transcript":"(Q31) Nowadays, we use different products for personal cleanliness, laundry,\ndishwashing and household cleaning, but this is very much a 20th-century development.\nThe origins of cleanliness date back to prehistoric times.&nbsp;\n[Q31答案句： rinse=wash off] Since water is essential for life, the earliest people lived near water and knew something about its cleansing properties，at least that it rinsed mud off their hands.","transcriptFormats":[{"start":392,"end":398,"kind":"bold"},{"start":392,"end":398,"kind":"larger"},{"start":392,"end":398,"kind":"larger"}],"evidenceFormats":[],"noteFormats":[],"glossary":[{"id":"8d7b638e-b4e8-4420-901e-3c041017c16e","q":31,"kind":"teaching","target":"body","block":0,"start":20,"end":28,"term":"wash off","meaning":"空前v - 作为限定词， 听同义替换即可"}],"teachingFormats":[],"tags":["跟空前限定词的同义替换"],"subTags":["cd4f2292-470d-4b61-a0a0-a3eb5667fddb"],"frontingTags":[],"predictionTags":[]},"32":{"answer":"clay","evidence":"During the excavation of ancient Babylon, evidence was found that soapmaking was known as early as 2800 BC.Archaeologists discovered cylinders made of clay,","note":"","teaching":"◾️ 32.____________ cylinders：答案空后有n， 能构成adj + n， 需要关注答案前置，\n◾️ soap-like：空前需要往前找 n - 作为定位词","transcript":"(Q32) [Q32答案句： 答案前置， 定语-adj] During the excavation of ancient Babylon, evidence was found that soapmaking was known as early as 2800 BC.Archaeologists discovered cylinders made of 【clay】,\nwith inscriptions on them saying that fats were boiled with ashes.\nThis is a method of making soap, though there's no reference to the purpose of this material.","transcriptFormats":[{"start":95,"end":99,"kind":"underline"}],"tags":["答案前置"],"subTags":["84540db0-387d-4b01-b2fc-07b39142b714"],"frontingTags":["审题 - adj+n","答案空+n"],"evidenceFormats":[],"glossary":[{"id":"b7b309f4-40d9-407b-8a12-d2a5c2fd4aa8","q":32,"kind":"teaching","target":"body","block":1,"start":30,"end":55,"term":"32.____________ cylinders","meaning":"答案空后有n， 能构成adj + n， 需要关注答案前置，"},{"id":"94b3c7fb-8fdc-4302-8e2b-64c4988f5381","q":32,"kind":"teaching","target":"body","block":1,"start":2,"end":11,"term":"soap-like","meaning":"空前需要往前找 n - 作为定位词"}],"predictionTags":["adj - 关注空后是否是 n ➡️ 可能答案前置"],"teachingFormats":[]},"33":{"answer":"metal","evidence":"Instead, they cleaned their bodies with blocks of sand, pumice and ashes,then anointed themselves with oil, and scraped off the oil and dirt with a metal instrument known as a strigil.","note":"scrape  off ... = scraper 平行替换 \n instrument = scraper ","teaching":"预测：  bricks可数复数  / wool 不可数  都有可能\n◾️ made of 33.____________：答案空在 介词短语中 - 可能有答案前置\n◾️ made of：答案空 前 有prep - 考虑前置","transcript":"(Q33) The early Greeks bathed for aesthetic reasons and apparently didn't use soap.\n[Q33答案句： 答案前置，xxx instrument =  scraper made of xxx, instrument = scraper 上下义同义替换] Instead, they cleaned their bodies with blocks of sand, pumice and ashes,then anointed themselves with oil, and scraped off the oil and dirt with a 【metal 】instrument known as a strigil.","transcriptFormats":[],"tags":["答案前置"],"subTags":["256ac974-e3a5-4c1b-a160-4d07020474cf"],"frontingTags":["介词短语","prep + 答案空"],"predictionTags":["【材料类】","可数n. - 单数","可数n. -复数","不可数n."],"teachingFormats":[],"evidenceFormats":[{"start":112,"end":124,"kind":"violet"},{"start":154,"end":165,"kind":"violet"}],"noteFormats":[],"glossary":[{"id":"01a7cb47-f3e9-4650-9e3f-d1e79d4a770a","q":33,"kind":"teaching","target":"body","block":2,"start":86,"end":109,"term":"made of 33.____________","meaning":"答案空在 介词短语中 - 可能有答案前置"},{"id":"d276c616-ee5d-4288-bf21-6f6cb5de87a8","q":33,"kind":"teaching","target":"body","block":2,"start":86,"end":93,"term":"made of","meaning":"答案空 前 有prep - 考虑前置"}]},"34":{"answer":"hair","evidence":"[Q34答案句： tint = colour] They used this mixture to tint their hair red.","note":"","teaching":"◾️ colour：v词性， 预测有同义替换后， 跟出答案","transcript":"(Q34) They also used oil mixed with ashes.\nClothes were washed without soap in streams.\nThe ancient Germans and Gauls are also credited with discovering how to make a substance called 'soap',\nmade of melted animal fat and ashes.\n[Q34答案句： tint = colour] They used this mixture to tint their hair red.","transcriptFormats":[],"tags":[],"subTags":[],"frontingTags":[],"predictionTags":["n."],"glossary":[{"id":"6de5c729-8954-4a10-815b-23f834f04fde","q":34,"kind":"teaching","target":"body","block":3,"start":15,"end":21,"term":"colour","meaning":"v词性， 预测有同义替换后， 跟出答案"}]},"35":{"answer":"baths | bath","evidence":"[Q35答案句， 整体都在312BC前说到的。 根据Roman定位] As Roman civilisation advanced, so did bathing. The first of the famous Roman 【baths】, supplied with water from their aqueducts, was built about 312 BC.","note":"","teaching":"\n◾️ Roman：虽然是adj 但是是专有名词， 所以需要当作定位词。而不是 限定词\n◾️ 312 BC：作为定位词不一定可靠， 因为结合前面 from 312BC, 很有可能会换说法 ， 说完发生的事，才说到这个年份。","transcript":"(Q35) Soap got its name, according to an ancient Roman legend, from Mount Sapo, where animals were sacrificed,\nleaving deposits of animal fat.\nRain washed these deposits, along with wood ashes, down into the clay soil along the River Tiber.\nWomen found that this mixture greatly reduced the effort required to wash their clothes.\n[Q35答案句， 整体都在312BC前说到的。 根据Roman定位] As Roman civilisation advanced, so did bathing. The first of the famous Roman 【baths】, supplied with water from their aqueducts, was built about 312 BC.","transcriptFormats":[],"tags":["空前定位词有限，需要画上一行定位词"],"subTags":["b1004b69-48a3-4f66-9e7b-8b00c10d92b4"],"frontingTags":[],"predictionTags":[],"glossary":[{"target":"body","block":4,"start":147,"end":155,"term":"aqueduct","meaning":"n. 导水管","root":""},{"id":"034891e5-854d-4a16-9afe-9db6448f286d","q":35,"kind":"teaching","target":"body","block":4,"start":122,"end":127,"term":"Roman","meaning":"虽然是adj 但是是专有名词， 所以需要当作定位词。而不是 限定词"},{"id":"c98e5520-fd55-43f3-8b83-f04a21dccedc","q":35,"kind":"teaching","target":"body","block":4,"start":97,"end":103,"term":"312 BC","meaning":"作为定位词不一定可靠， 因为结合前面 from 312BC, 很有可能会换说法 ， 说完发生的事，才说到这个年份。"}],"teachingFormats":[]},"36":{"answer":"diseases | disease","evidence":"This lack of personal cleanliness and related unsanitary living conditions were major factors in the outbreaks of disease in the Middle Ages,","note":"A +be+ major factors in B = A contribute to B \noutbreak=occurrence","teaching":"◾️ occurrence：虽然是 n 但是是普通名词 - 所以， 更可能被替换\n◾️ of：为啥空前有prep 却不预测是 答案前置呢？（我也想知道）\n◾️ contributed to：occurrence of x 应该作为一个整体。 前面是contribute to 导致的意思， 这是v， 也可能同义替换","transcript":"(Q36) The baths were luxurious, and bathing became very popular.\nAnd by the second century AD,\nthe Greek physician Galen recommended soap for both medicinal and cleansing purposes.\nAfter the fall of Rome in 467 AD and the resulting decline in bathing habits, much of Europe felt the impact of filth on public health.\n[Q36答案句： outbreak=occurrence] This lack of personal cleanliness and related unsanitary living conditions were major factors in the outbreaks of disease in the Middle Ages,\nand especially the Black Death of the 14th century.","transcriptFormats":[{"start":267,"end":273,"kind":"underline"},{"start":267,"end":273,"kind":"larger"},{"start":267,"end":273,"kind":"larger"},{"start":267,"end":273,"kind":"larger"}],"tags":["空前定位词有限，需要画上一行定位词"],"subTags":["ae05271d-53d9-476c-a32f-9f47d6cd3032"],"frontingTags":[],"predictionTags":["n.","【问题/麻烦】"],"glossary":[{"id":"2b5f423a-1845-4763-8b9f-4e4d9ec7deca","q":36,"kind":"teaching","target":"body","block":5,"start":36,"end":46,"term":"occurrence","meaning":"虽然是 n 但是是普通名词 - 所以， 更可能被替换"},{"id":"30fb5c32-aa69-423d-b293-9400d23cd060","q":36,"kind":"teaching","target":"body","block":5,"start":47,"end":49,"term":"of","meaning":"为啥空前有prep 却不预测是 答案前置呢？（我也想知道）"},{"id":"45d8ce7f-4207-4bee-9187-d95b4691ca15","q":36,"kind":"teaching","target":"body","block":5,"start":21,"end":35,"term":"contributed to","meaning":"occurrence of x 应该作为一个整体。 前面是contribute to 导致的意思， 这是v， 也可能同义替换"}],"evidenceFormats":[{"start":101,"end":110,"kind":"violet"},{"start":79,"end":93,"kind":"violet"}],"noteFormats":[],"teachingFormats":[],"difficulty":"⭐️⭐️"},"37":{"answer":"perfume","evidence":"Vegetable and animal oils were used with ashes of plants, along with perfume, apparently for the first time.","note":"for the first time = began to ","teaching":"◾️ soap：空前无实义词， 往上一行画。 但上一行， 以答案词结尾。 所以这个题，最好继续往后面看，找定位词\n◾️ be added to：+began to 这两个都要预测同义替换的","transcript":"(Q37) Nevertheless, soapmaking became an established craft in Europe,\nand associations of soapmakers guarded their trade secrets closely.\n[Q37答案句： along with +答案词， 空前无实义词，难度⭐️⭐️， for the first time = began to] Vegetable and animal oils were used with ashes of plants, along with perfume, apparently for the first time.\nGradually more varieties of soap became available for shaving and shampooing,\nas well as bathing and laundering.","transcriptFormats":[],"tags":["空前定位词有限，需要画上一行定位词","(除明显答案前置外) 需要看空后内容"],"subTags":["327795a8-6c0e-46eb-89a7-0ec508694123"],"frontingTags":[],"predictionTags":["【材料类】"],"glossary":[{"id":"65d38489-c3ef-4112-ae80-adc122fb7c90","q":37,"kind":"teaching","target":"body","block":5,"start":105,"end":109,"term":"soap","meaning":"空前无实义词， 往上一行画。 但上一行， 以答案词结尾。 所以这个题，最好继续往后面看，找定位词"},{"id":"96c1c641-118e-4737-b276-e8ce0212f845","q":37,"kind":"teaching","target":"body","block":5,"start":93,"end":104,"term":"be added to","meaning":"这两个都要预测同义替换的"}],"teachingFormats":[],"difficulty":"⭐️⭐️","noteFormats":[],"evidenceFormats":[]},"38":{"answer":"salt","evidence":"when a French chemist, Nicholas Leblanc, patented a process for turning 【salt】 into soda ash, or sodium carbonate.","note":" turn A into B= make B from A","teaching":"◾️ making soda ash from：make ... from... ， 空前prep ， 可能有前置\n◾️ Leblanc：有人名 肯定直接跟人名 做定位词","transcript":"(Q38) A major step toward large-scale commercial soapmaking occurred in 1791,&nbsp;\n[Q38答案句： turn A into B= make B from A] when a French chemist, Nicholas Leblanc, patented a process for turning 【salt】 into soda ash, or sodium carbonate.","transcriptFormats":[],"tags":["答案前置"],"subTags":["256ac974-e3a5-4c1b-a160-4d07020474cf"],"frontingTags":["介词短语","prep + 答案空"],"predictionTags":["n.","【材料类】"],"glossary":[{"id":"c8283fcd-01fa-4f0e-8ea6-9ce9f3c3f79a","q":38,"kind":"teaching","target":"body","block":6,"start":90,"end":110,"term":"making soda ash from","meaning":"make ... from... ， 空前prep ， 可能有前置"},{"id":"e040733e-9f2e-4bbb-a8cd-d81102ca0a0c","q":38,"kind":"teaching","target":"body","block":6,"start":64,"end":71,"term":"Leblanc","meaning":"有人名 肯定直接跟人名 做定位词"}],"evidenceFormats":[],"noteFormats":[]},"39":{"answer":"science","evidence":"[Q39答案句：become = turn ... into a ...] His studies established the basis for both fat and soap chemistry, and soapmaking became a science.","note":"","teaching":"◾️ soapmaking：上一题刚考了 turn ... into ... , 这题不会再是前置了， 所以， 跟定位词 soap making","transcript":"(Q39) Soda ash is the alkali obtained from ashes that combines with fat to form soap.\nThe Leblanc process yielded quantities of good-quality, inexpensive soda ash.&nbsp;\nModern soapmaking was born some 20 years later, in the early 19th century,\nwith the discovery by Michel Eugène Chevreul, another French chemist, of the chemical nature and relationship of fats, glycerine and fatty acids.\n[Q39答案句：become = turn ... into a ...] His studies established the basis for both fat and soap chemistry, and soapmaking became a science.","transcriptFormats":[],"tags":["跟空前定位词"],"subTags":["a93a15a7-290b-4695-be1c-e2ef48aa2fe2"],"frontingTags":[],"predictionTags":["可数n. - 单数"],"glossary":[{"id":"e1df23a0-4dfc-4210-a107-b7b1896c12fe","q":39,"kind":"teaching","target":"body","block":6,"start":158,"end":168,"term":"soapmaking","meaning":"上一题刚考了 turn ... into ... , 这题不会再是前置了， 所以， 跟定位词 soap making"}]},"40":{"answer":"tax","evidence":"As it became more readily available, it became an everyday necessity, a development that was reinforced when the high tax was removed.","note":"xxx was removed = there's no longer xxx, \n审题时注意否定含义词， 听的时候要跟上表示否定意义的词","teaching":"◾️ no longer：否定词 + 限定词","transcript":"(Q40) [19 century = 1800s 注意一下时间的表达] Further developments during the 19th century made it easier and cheaper to manufacture soap.&nbsp;\nUntil the 19th century, soap was regarded as a luxury item, and was heavily taxed in several countries.\n[Q40答案句： xxx was removed = there's no longer xxx, 审题时注意否定含义词， 听的时候要跟上表示否定意义的词] As it became more readily available, it became an everyday necessity, a development that was reinforced when the high tax was removed.\nSoap was then something ordinary people could afford, and cleanliness standards improved.\nWith this widespread use came the development of milder soaps for bathing and soaps for use in the washing machines\nthat were available to consumers by the turn of the 20th century.","transcriptFormats":[],"tags":["跟空前限定词的同义替换"],"subTags":["020c9259-2f55-44db-9dda-090936631c5f"],"frontingTags":["答案空 + prep +n."],"predictionTags":["可数n. - 单数"],"glossary":[{"id":"ab80a3a9-00df-4e50-a43a-aeb9c5a5cb87","q":40,"kind":"teaching","target":"body","block":6,"start":216,"end":225,"term":"no longer","meaning":"否定词 + 限定词"}],"evidenceFormats":[],"noteFormats":[]}},"createdAt":"2026-11-01T14:32:34.444Z","attempts":{"40":"lecture notes+音频对应 同步"},"answerWordsRaw":"31. mud\n32. clay\n33. metal\n34. hair\n35. baths | bath\n36. diseases | disease\n37. perfume\n38. salt\n39. science\n40. tax","transcript":"(Q31) Nowadays, we use different products for personal cleanliness, laundry,\n\ndishwashing and household cleaning, but this is very much a 20th-century development.\n\nThe origins of cleanliness date back to prehistoric times.&nbsp;\n\n[Q31答案句： rinse=wash off] Since water is essential for life, the earliest people lived near water and knew something about its cleansing properties，at least that it rinsed mud off their hands.\n\n(Q32) [Q32答案句： 答案前置， 定语-adj] During the excavation of ancient Babylon, evidence was found that soapmaking was known as early as 2800 BC.Archaeologists discovered cylinders made of 【clay】,\n\nwith inscriptions on them saying that fats were boiled with ashes.\n\nThis is a method of making soap, though there's no reference to the purpose of this material.\n\n(Q33) The early Greeks bathed for aesthetic reasons and apparently didn't use soap.\n\n[Q33答案句： 答案前置，xxx instrument =  scraper made of xxx, instrument = scraper 上下义同义替换] Instead, they cleaned their bodies with blocks of sand, pumice and ashes,then anointed themselves with oil, and scraped off the oil and dirt with a 【metal 】instrument known as a strigil.\n\n(Q34) They also used oil mixed with ashes.\n\nClothes were washed without soap in streams.\n\nThe ancient Germans and Gauls are also credited with discovering how to make a substance called 'soap',\n\nmade of melted animal fat and ashes.\n\n[Q34答案句： tint = colour] They used this mixture to tint their hair red.\n\n(Q35) Soap got its name, according to an ancient Roman legend, from Mount Sapo, where animals were sacrificed,\n\nleaving deposits of animal fat.\n\nRain washed these deposits, along with wood ashes, down into the clay soil along the River Tiber.\n\nWomen found that this mixture greatly reduced the effort required to wash their clothes.\n\n[Q35答案句， 整体都在312BC前说到的。 根据Roman定位] As Roman civilisation advanced, so did bathing. The first of the famous Roman 【baths】, supplied with water from their aqueducts, was built about 312 BC.\n\n(Q36) The baths were luxurious, and bathing became very popular.\n\nAnd by the second century AD,\n\nthe Greek physician Galen recommended soap for both medicinal and cleansing purposes.\n\nAfter the fall of Rome in 467 AD and the resulting decline in bathing habits, much of Europe felt the impact of filth on public health.\n\n[Q36答案句： outbreak=occurrence] This lack of personal cleanliness and related unsanitary living conditions were major factors in the outbreaks of disease in the Middle Ages,\n\nand especially the Black Death of the 14th century.\n\n(Q37) Nevertheless, soapmaking became an established craft in Europe,\n\nand associations of soapmakers guarded their trade secrets closely.\n\n[Q37答案句： along with +答案词， 空前无实义词，难度⭐️⭐️， for the first time = began to] Vegetable and animal oils were used with ashes of plants, along with perfume, apparently for the first time.\n\nGradually more varieties of soap became available for shaving and shampooing,\n\nas well as bathing and laundering.\n\n(Q38) A major step toward large-scale commercial soapmaking occurred in 1791,&nbsp;\n\n[Q38答案句： turn A into B= make B from A] when a French chemist, Nicholas Leblanc, patented a process for turning 【salt】 into soda ash, or sodium carbonate.\n\n(Q39) Soda ash is the alkali obtained from ashes that combines with fat to form soap.\n\nThe Leblanc process yielded quantities of good-quality, inexpensive soda ash.&nbsp;\n\nModern soapmaking was born some 20 years later, in the early 19th century,\n\nwith the discovery by Michel Eugène Chevreul, another French chemist, of the chemical nature and relationship of fats, glycerine and fatty acids.\n\n[Q39答案句：become = turn ... into a ...] His studies established the basis for both fat and soap chemistry, and soapmaking became a science.\n\n(Q40) [19 century = 1800s 注意一下时间的表达] Further developments during the 19th century made it easier and cheaper to manufacture soap.&nbsp;\n\nUntil the 19th century, soap was regarded as a luxury item, and was heavily taxed in several countries.\n\n[Q40答案句： xxx was removed = there's no longer xxx, 审题时注意否定含义词， 听的时候要跟上表示否定意义的词] As it became more readily available, it became an everyday necessity, a development that was reinforced when the high tax was removed.\n\nSoap was then something ordinary people could afford, and cleanliness standards improved.\n\nWith this widespread use came the development of milder soaps for bathing and soaps for use in the washing machines\n\nthat were available to consumers by the turn of the 20th century.","srtSource":{"path":"15-3-4 英文.srt","sha":"8c619611be25ab0bfabe0ed0f605cf65f169441f","fetchedAt":"2026-11-02T01:10:41.575Z"},"audioData":{"parserVersion":2,"index":"15-3-4","repo":"itsjiselle/ielts-listening-questions-pdf","ref":"73871f1ef96b7a69ff29f932c8a7632fe02ba43f","audioPath":"15-3-4.mp3","audioSha":"802154719517000863d0243291329b5f34ed69a5","srtPath":"15-3-4 英文.srt","srtSha":"8c619611be25ab0bfabe0ed0f605cf65f169441f","cues":[{"id":"0","start":1.271,"end":6.835,"text":"(Q31) Nowadays, we use different products for personal cleanliness, laundry,","q":31,"invalidTime":false},{"id":"1","start":6.835,"end":13.556,"text":"dishwashing and household cleaning, but this is very much a 20th-century development.","q":31,"invalidTime":false},{"id":"2","start":13.556,"end":18.317,"text":"The origins of cleanliness date back to prehistoric times.&nbsp;","q":31,"invalidTime":false},{"id":"3","start":18.317,"end":31.173,"text":"[Q31答案句： rinse=wash off] Since water is essential for life, the earliest people lived near water and knew something about its cleansing properties，at least that it rinsed mud off their hands.","q":31,"invalidTime":false},{"id":"4","start":31.173,"end":46.702,"text":"(Q32) [Q32答案句： 答案前置， 定语-adj] During the excavation of ancient Babylon, evidence was found that soapmaking was known as early as 2800 BC.Archaeologists discovered cylinders made of 【clay】,","q":32,"invalidTime":false},{"id":"5","start":46.702,"end":51.39,"text":"with inscriptions on them saying that fats were boiled with ashes.","q":32,"invalidTime":false},{"id":"6","start":51.39,"end":57.396,"text":"This is a method of making soap, though there's no reference to the purpose of this material.","q":32,"invalidTime":false},{"id":"7","start":57.396,"end":63.548,"text":"(Q33) The early Greeks bathed for aesthetic reasons and apparently didn't use soap.","q":33,"invalidTime":false},{"id":"8","start":63.548,"end":78.703,"text":"[Q33答案句： 答案前置，xxx instrument =  scraper made of xxx, instrument = scraper 上下义同义替换] Instead, they cleaned their bodies with blocks of sand, pumice and ashes,then anointed themselves with oil, and scraped off the oil and dirt with a 【metal 】instrument known as a strigil.","q":33,"invalidTime":false},{"id":"9","start":78.703,"end":81.945,"text":"(Q34) They also used oil mixed with ashes.","q":34,"invalidTime":false},{"id":"10","start":81.945,"end":86.453,"text":"Clothes were washed without soap in streams.","q":34,"invalidTime":false},{"id":"11","start":86.453,"end":94.509,"text":"The ancient Germans and Gauls are also credited with discovering how to make a substance called 'soap',","q":34,"invalidTime":false},{"id":"12","start":94.509,"end":98.09700000000001,"text":"made of melted animal fat and ashes.","q":34,"invalidTime":false},{"id":"13","start":98.09700000000001,"end":102.368,"text":"[Q34答案句： tint = colour] They used this mixture to tint their hair red.","q":34,"invalidTime":false},{"id":"14","start":102.368,"end":111.422,"text":"(Q35) Soap got its name, according to an ancient Roman legend, from Mount Sapo, where animals were sacrificed,","q":35,"invalidTime":false},{"id":"15","start":111.422,"end":113.941,"text":"leaving deposits of animal fat.","q":35,"invalidTime":false},{"id":"16","start":113.941,"end":121.491,"text":"Rain washed these deposits, along with wood ashes, down into the clay soil along the River Tiber.","q":35,"invalidTime":false},{"id":"17","start":121.491,"end":127.978,"text":"Women found that this mixture greatly reduced the effort required to wash their clothes.","q":35,"invalidTime":false},{"id":"18","start":127.978,"end":142.346,"text":"[Q35答案句， 整体都在312BC前说到的。 根据Roman定位] As Roman civilisation advanced, so did bathing. The first of the famous Roman 【baths】, supplied with water from their aqueducts, was built about 312 BC.","q":35,"invalidTime":false},{"id":"19","start":142.346,"end":147.434,"text":"(Q36) The baths were luxurious, and bathing became very popular.","q":36,"invalidTime":false},{"id":"20","start":147.434,"end":150.772,"text":"And by the second century AD,","q":36,"invalidTime":false},{"id":"21","start":150.772,"end":160.273,"text":"the Greek physician Galen recommended soap for both medicinal and cleansing purposes.","q":36,"invalidTime":false},{"id":"22","start":160.273,"end":173.02,"text":"After the fall of Rome in 467 AD and the resulting decline in bathing habits, much of Europe felt the impact of filth on public health.","q":36,"invalidTime":false},{"id":"23","start":173.02,"end":183.355,"text":"[Q36答案句： outbreak=occurrence] This lack of personal cleanliness and related unsanitary living conditions were major factors in the outbreaks of disease in the Middle Ages,","q":36,"invalidTime":false},{"id":"24","start":183.355,"end":187.222,"text":"and especially the Black Death of the 14th century.","q":36,"invalidTime":false},{"id":"25","start":187.222,"end":192.219,"text":"(Q37) Nevertheless, soapmaking became an established craft in Europe,","q":37,"invalidTime":false},{"id":"26","start":192.219,"end":197.062,"text":"and associations of soapmakers guarded their trade secrets closely.","q":37,"invalidTime":false},{"id":"27","start":197.062,"end":205.672,"text":"[Q37答案句： along with +答案词， 空前无实义词，难度⭐️⭐️， for the first time = began to] Vegetable and animal oils were used with ashes of plants, along with perfume, apparently for the first time.","q":37,"invalidTime":false},{"id":"28","start":205.672,"end":211.443,"text":"Gradually more varieties of soap became available for shaving and shampooing,","q":37,"invalidTime":false},{"id":"29","start":211.443,"end":214.252,"text":"as well as bathing and laundering.","q":37,"invalidTime":false},{"id":"30","start":214.252,"end":221.066,"text":"(Q38) A major step toward large-scale commercial soapmaking occurred in 1791,&nbsp;","q":38,"invalidTime":false},{"id":"31","start":221.066,"end":230.132,"text":"[Q38答案句： turn A into B= make B from A] when a French chemist, Nicholas Leblanc, patented a process for turning 【salt】 into soda ash, or sodium carbonate.","q":38,"invalidTime":false},{"id":"32","start":230.132,"end":237.93200000000002,"text":"(Q39) Soda ash is the alkali obtained from ashes that combines with fat to form soap.","q":39,"invalidTime":false},{"id":"33","start":237.93200000000002,"end":244.24,"text":"The Leblanc process yielded quantities of good-quality, inexpensive soda ash.&nbsp;","q":39,"invalidTime":false},{"id":"34","start":244.24,"end":250.444,"text":"Modern soapmaking was born some 20 years later, in the early 19th century,","q":39,"invalidTime":false},{"id":"35","start":250.444,"end":261.499,"text":"with the discovery by Michel Eugène Chevreul, another French chemist, of the chemical nature and relationship of fats, glycerine and fatty acids.","q":39,"invalidTime":false},{"id":"36","start":261.499,"end":269.341,"text":"[Q39答案句：become = turn ... into a ...] His studies established the basis for both fat and soap chemistry, and soapmaking became a science.","q":39,"invalidTime":false},{"id":"37","start":269.341,"end":276.556,"text":"(Q40) [19 century = 1800s 注意一下时间的表达] Further developments during the 19th century made it easier and cheaper to manufacture soap.&nbsp;","q":40,"invalidTime":false},{"id":"38","start":276.556,"end":284.449,"text":"Until the 19th century, soap was regarded as a luxury item, and was heavily taxed in several countries.","q":40,"invalidTime":false},{"id":"39","start":284.449,"end":294.44,"text":"[Q40答案句： xxx was removed = there's no longer xxx, 审题时注意否定含义词， 听的时候要跟上表示否定意义的词] As it became more readily available, it became an everyday necessity, a development that was reinforced when the high tax was removed.","q":40,"invalidTime":false},{"id":"40","start":294.44,"end":300.589,"text":"Soap was then something ordinary people could afford, and cleanliness standards improved.","q":40,"invalidTime":false},{"id":"41","start":300.589,"end":308.568,"text":"With this widespread use came the development of milder soaps for bathing and soaps for use in the washing machines","q":40,"invalidTime":false},{"id":"42","start":308.568,"end":311.068,"text":"that were available to consumers by the turn of the 20th century.","q":40,"invalidTime":false}],"matches":{"31":{"all":["[Q31答案句： rinse=wash off] Since water is essential for life, the earliest people lived near water and knew something about its cleansing properties，at least that it rinsed mud off their hands."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"32":{"all":["(Q32) [Q32答案句： 答案前置， 定语-adj] During the excavation of ancient Babylon, evidence was found that soapmaking was known as early as 2800 BC.Archaeologists discovered cylinders made of 【clay】,"],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"33":{"all":["[Q33答案句： 答案前置，xxx instrument =  scraper made of xxx, instrument = scraper 上下义同义替换] Instead, they cleaned their bodies with blocks of sand, pumice and ashes,then anointed themselves with oil, and scraped off the oil and dirt with a 【metal 】instrument known as a strigil."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"34":{"all":["[Q34答案句： tint = colour] They used this mixture to tint their hair red."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"35":{"all":["[Q35答案句， 整体都在312BC前说到的。 根据Roman定位] As Roman civilisation advanced, so did bathing. The first of the famous Roman 【baths】, supplied with water from their aqueducts, was built about 312 BC."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"36":{"all":["[Q36答案句： outbreak=occurrence] This lack of personal cleanliness and related unsanitary living conditions were major factors in the outbreaks of disease in the Middle Ages,"],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"37":{"all":["[Q37答案句： along with +答案词， 空前无实义词，难度⭐️⭐️， for the first time = began to] Vegetable and animal oils were used with ashes of plants, along with perfume, apparently for the first time."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"38":{"all":["[Q38答案句： turn A into B= make B from A] when a French chemist, Nicholas Leblanc, patented a process for turning 【salt】 into soda ash, or sodium carbonate."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"39":{"all":["[Q39答案句：become = turn ... into a ...] His studies established the basis for both fat and soap chemistry, and soapmaking became a science."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"40":{"all":["[Q40答案句： xxx was removed = there's no longer xxx, 审题时注意否定含义词， 听的时候要跟上表示否定意义的词] As it became more readily available, it became an everyday necessity, a development that was reinforced when the high tax was removed."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true}}},"answerCloud":{"sha":"b39192f6bf92ae29dbb27e48f3b4d5f6d88c7f0d","path":"15-3-4 笔记填空 答案词.txt"},"teacherVocabulary":[{"target":"heading","block":0,"q":31,"start":0,"end":11,"term":"Prehistoric","meaning":"adj.史前的","root":"","location":"第 1 块小标题"},{"target":"body","block":4,"q":35,"start":147,"end":155,"term":"aqueduct","meaning":"n. 导水管","root":"","location":"第 5 块题目 · Q35"}],"overallComments":"Q35， 空前和小标题之间不相邻，必须往前画一行 。 可作为方法论讲解 ","tagArchiveFiles":{"考点":"Part 4 笔记填空 - 考点库标签- 考点.txt","审题预测":"Part 4 笔记填空 - 考点库标签- 审题预测.txt","答案前置":"Part 4 笔记填空 - 考点库标签- 答案前置.txt"},"tagCatalog":{"tags":["跟空前限定词的同义替换","答案前置","空前定位词有限，需要画上一行定位词","(除明显答案前置外) 需要看空后内容","跟空前定位词"],"children":{"答案前置":[{"id":"741e47b1-14a4-49b5-b0a5-0f40d4ef532d","name":"被动语态"},{"id":"cdba6ca9-0c60-491e-83bd-31cf4e4eb707","name":"定语从句"},{"id":"256ac974-e3a5-4c1b-a160-4d07020474cf","name":"介词短语 n + prep + n"},{"id":"84540db0-387d-4b01-b2fc-07b39142b714","name":"adj"}],"空前定位词有限，需要画上一行定位词":[{"id":"327795a8-6c0e-46eb-89a7-0ec508694123","name":"空前完全无实义词"},{"id":"b1004b69-48a3-4f66-9e7b-8b00c10d92b4","name":"空前和小标题之间不相邻，必须往前画一行"},{"id":"ae05271d-53d9-476c-a32f-9f47d6cd3032","name":"空前普通名词"}],"跟空前定位词":[{"id":"eb16e5de-a1d4-45dd-9ecd-6ee8e849a5a6","name":"专有名词"},{"id":"a93a15a7-290b-4695-be1c-e2ef48aa2fe2","name":"普通名词（原词）"},{"id":"f17fa0d7-c3dd-4b59-838b-873d3f8290a2","name":"普通名词（同义替换）"}],"跟空前限定词的同义替换":[{"id":"cd4f2292-470d-4b61-a0a0-a3eb5667fddb","name":"v. & phr.v"},{"id":"fa8b0b01-5140-48f6-aa75-68ec38ad5684","name":"adj./ adv"},{"id":"020c9259-2f55-44db-9dda-090936631c5f","name":"否定含义词"}]},"order":["跟空前限定词的同义替换","答案前置","空前定位词有限，需要画上一行定位词","(除明显答案前置外) 需要看空后内容","跟空前定位词"]},"predictionCatalog":["adj","adj - 关注空后是否是 n ➡️ 可能答案前置","n.","【材料类】","可数n. - 单数","可数n. -复数","不可数n.","【问题/麻烦】"],"frontingCatalog":["审题 - adj+n","答案空+n","adj + n","介词短语","答案空 + prep +n.","prep + 答案空"],"predictionParents":{"adj - 关注空后是否是 n ➡️ 可能答案前置":"adj","可数n. - 单数":"n.","可数n. -复数":"n.","不可数n.":"n."},"frontingParents":{"答案空+n":"审题 - adj+n","adj + n":"审题 - adj+n","答案空 + prep +n.":"介词短语","prep + 答案空":"介词短语"}}
