@@ -1,0 +1,222 @@
+16-2-1 Copying photos to digital format
+Complete the notes below.
+Write ONE WORD AND/OR A NUMBER for each answer.
+
+
+Name of company: Picturerep
+
+/
+
+Requirements
+
+• Maximum size of photos is 30 cm, minimum size 4 cm.
+• Photos must not be in a 1.____________ or an album.
+
+Cost
+
+• The cost for 360 photos is ￡2.____________ (including one disk).
+• Before the completed order is sent, 3.____________ is required.
+
+Services included in the price
+
+• Photos can be placed in a folder, e.g. with the name 4.____________
+• The 5.____________ and contrast can be improved if necessary.
+• Photos which are very fragile will be scanned by 6.____________
+
+Special restore service (costs extra)
+
+• It may be possible to remove an object from a photo, or change the 7.____________
+• A photo which is not correctly in 8.____________ cannot be fixed.
+
+Other information
+
+• Orders are completed within 9.____________
+• Send the photos in a box (not 10.____________ ).
+
+Q1 答案：frame
+难度：未选择
+审题预测：n.、可数名词 - 单数
+答案前置关注：
+答案句：And some of them are in a frame – should I take them out before I send them?
+EMPLOYEE: Yes please, we can't copy them otherwise.
+同义替换：take them out +cannot copy them otherwise = must not in 
+
+干扰项：
+讲题路径：
+◾️ not：反义类的词可能是通过“语义”体现的，可能不会直接说 “不可以xxx”
+◾️ 30 cm, minimum size 4 cm.：更有力的 定位词
+◾️ Photos：属于普通名词， 可以去上一行再找找看
+
+Q2 答案：195
+难度：未选择
+审题预测：数字、价格
+答案前置关注：
+答案句：EMPLOYEE: We charge ￡195 for 300 to 400 photos for the basic service.WOMAN: OK. And does that include the disk?EMPLOYEE: Yes, one disk – but you can get extra ones for ￡5 each.
+同义替换：表示“花费”的同替： charge +数字 = the cost of ... is 
+干扰项：
+讲题路径：◾️ 360：特殊信息-定位词
+
+Q3 答案：payment
+难度：⭐️⭐️⭐️
+审题预测：n.
+答案前置关注：被动语态
+答案句：(Q3) [Q3答案句+ 干扰项： 你以为pay不是答案， 但其实只是“寄照片”时还不用付， 其实流程是： 客户寄照片—公司收到—公司copy—公司给告知金额—客户付款—公司寄出最终包裹] WOMAN: That's good. So do I need to pay when I send you the photos?EMPLOYEE: No, we won't need anything until we've actually copied the pictures.Then we'll let you know how much it is, and once we've received the payment, we'll send the parcel off to you.
+同义替换：
+干扰项：
+讲题路径：◾️ is required：被动语态， 预测答案前置
+◾️ Before：在…之前， 表示时间顺序的词， 可能会整句含义发生语序调换，比如说： 收到xxx之后， 会complete the order。
+就要听 complete order， sent听表示”发送最终的成品“ 含义的词/句子， 同义替换
+
+Q4 答案：Grandparents
+难度：未选择
+审题预测：n.
+答案前置关注：
+答案句：WOMAN: So I could have one called ‘Grandparents' for instance?EMPLOYEE: Exactly.
+同义替换：for instance = e.g.
+干扰项：
+讲题路径：
+
+Q5 答案：colour | color
+难度：⭐️⭐️⭐️
+审题预测：n.
+答案前置关注：被动语态
+答案句：EMPLOYEE: Yes, in the standard service each photo is checked, and we can sometimes touch up the colour a bit, or improve the contrast – that can make a big difference.
+同义替换：touch up = improve
+干扰项：
+讲题路径：本题也特殊—— 见overall comment
+
+Q6 答案：hand
+难度：未选择
+审题预测：n.、某种方式
+答案前置关注：
+答案句：EMPLOYEE: No, if any look particularly fragile, we'd do them by hand.
+同义替换：
+
+干扰项：
+讲题路径：
+
+Q7 答案：background
+难度：未选择
+审题预测：n.
+答案前置关注：
+答案句：(Q7) [Q7答案句] EMPLOYEE: And another thing is we can make changes to a photo if you want – so if you want to remove an object from a photo, or maybe alter the background, we can do that.
+同义替换：alter = change
+干扰项：
+讲题路径：◾️ remove an object：离答案空比较远， 大概率会作为一个整体说出啦， 可以当成定位词
+
+Q8 答案：focus
+难度：⭐️⭐️
+审题预测：n.
+答案前置关注：定语从句、答案空在定语从句内
+答案句：Oh, and talking of fixing photos – I've got a few that aren't properly in focus.  Can you do anything to make that better?EMPLOYEE: No, I'm afraid that's one thing we can't do.
+同义替换：跟否定词 听否定的含义：不能做的
+aren‘t = not 
+干扰项：
+讲题路径：◾️ ____________：在定语从句中 修饰photo，可能有答案前置， 所以需要看空后内容
+
+Q9 答案：ten days | 10 days
+难度：未选择
+审题预测：时长（数字+时间单位）
+答案前置关注：
+答案句：EMPLOYEE: We aim to get the copying done in ten days.
+同义替换：in = within + 时间段
+get sth done = complete sth
+干扰项：
+讲题路径：
+
+Q10 答案：plastic
+难度：未选择
+审题预测：n.
+答案前置关注：
+答案句：EMPLOYEE: Right. If you've got a strong cardboard box, that's best. We've found that plastic ones sometimes break in the post.
+同义替换：语义表示否定 - plastic ones容易坏， 意思是NOT plastic 
+干扰项：
+讲题路径：
+
+Overall comments：
+Q3- 涉及时间顺序词， 事件的先后 - 有语序调换/答案前置 
+Q5，空前无实义词， 且 上一行结尾是答案空，所以必须看答案空后面的词
+原文：
+(Q1) EMPLOYEE: Hello, Picturerep. Can I help you?
+
+WOMAN: Oh, hi. I saw your advertisement about copying pictures to disk and I'd like a bit more information about what you do.
+
+EMPLOYEE: Sure. What would you like to know?
+
+WOMAN: Well, I've got a box full of old family photos that's been up in the attic for years,some of them must be 50 or 60 years old, and I'd like to get them converted to digital format.
+
+EMPLOYEE: Sure, we can do that for you.
+
+WOMAN: Right. And what about size?
+
+The photos are all sorts of sizes – are there any restrictions?
+
+EMPLOYEE: Well the maximum size of photo we can do with our normal service is 30 centimetres.
+
+And each picture must be at least 4 centimetres, that's the minimum we can cope with.
+
+WOMAN: That should be fine.
+
+[Q1答案句] And some of them are in a frame – should I take them out before I send them?EMPLOYEE: Yes please, we can't copy them otherwise.
+
+(Q2) And also the photos must all be separate, they mustn't be stuck into an album.
+
+WOMAN: OK, that's not a problem.
+
+So can you give me an idea of how much this will cost?
+
+I've got about 360 photos I think.
+
+[Q2答案句——干扰项（extra 收费， 不符合 including one disk)] EMPLOYEE: We charge ￡195 for 300 to 400 photos for the basic service.WOMAN: OK. And does that include the disk?EMPLOYEE: Yes, one disk – but you can get extra ones for ￡5 each.
+
+(Q3) [Q3答案句+ 干扰项： 你以为pay不是答案， 但其实只是“寄照片”时还不用付， 其实流程是： 客户寄照片—公司收到—公司copy—公司给告知金额—客户付款—公司寄出最终包裹] WOMAN: That's good. So do I need to pay when I send you the photos?EMPLOYEE: No, we won't need anything until we've actually copied the pictures.Then we'll let you know how much it is, and once we've received the payment, we'll send the parcel off to you.
+
+WOMAN: Right.
+
+(Q4) EMPLOYEE: Is there anything else you'd like to ask about our services?
+
+WOMAN: Yes. I've roughly sorted out the photos into groups, according to what they're about – so can you keep them in those groups when you copy them.
+
+EMPLOYEE: Sure. We'll save each group in a different folder on the disk and if you like, you can suggest a name for each folder.
+
+[Q4答案句] WOMAN: So I could have one called ‘Grandparents' for instance?EMPLOYEE: Exactly.
+
+(Q5) WOMAN: And do you do anything besides scan the photos? Like, can you make any improvements?
+
+[Q5答案句] EMPLOYEE: Yes, in the standard service each photo is checked, and we can sometimes touch up the colour a bit, or improve the contrast – that can make a big difference.
+
+(Q6) WOMAN: OK. And some of the photos are actually quite fragile – they won't get damaged in the process, will they?
+
+[Q6答案句] EMPLOYEE: No, if any look particularly fragile, we'd do them by hand.
+
+We do realise how precious these old photos can be.
+
+WOMAN: Sure.
+
+(Q7) [Q7答案句] EMPLOYEE: And another thing is we can make changes to a photo if you want – so if you want to remove an object from a photo, or maybe alter the background, we can do that.
+
+WOMAN: Really? I might be interested in that.
+
+I'll have a look through the photos and see.
+
+(Q8) [Q8答案句，跟否定词 听否定的含义：不能做的] Oh, and talking of fixing photos – I've got a few that aren't properly in focus.&nbsp; Can you do anything to make that better?EMPLOYEE: No, I'm afraid that's one thing we can't do.
+
+WOMAN: OK.
+
+(Q9) EMPLOYEE: Any other information I can give you?
+
+WOMAN: Er … oh, how long will it all take?
+
+[Q9答案句] EMPLOYEE: We aim to get the copying done in ten days.
+
+WOMAN: Fine.&nbsp;
+
+(Q10) Right, well I'll get the photos packed up in a box and post them off to you.
+
+[Q10答案句] EMPLOYEE: Right. If you've got a strong cardboard box, that's best. We've found that plastic ones sometimes break in the post.
+
+WOMAN: OK. Right, thanks for your help. Bye.
+
+EMPLOYEE: Bye.
+--- JISELLE NOTES FORM DATA V1 ---
+{"id":"notes-2017e286-dad2-4d0c-bf1a-5fbbe798928b","index":"16-2-1","part":1,"title":"Copying photos to digital format","kind":"notes","wordLimit":"ONE WORD AND/OR A NUMBER","mode":"headings","intro":"","type":"填空题","tableCells":null,"sourceText":"/\n--- 分块 ---\n• Maximum size of photos is 30.____________ cm, minimum size 4 cm.\n• Photos must not be in a 1 or an album.\n--- 分块 ---\n• The cost for 360 photos is £2 (including one disk).\n• Before the completed order is sent, 3 is required.\n--- 分块 ---\n• Photos can be placed in a folder, e.g. with the name 4\n• The 5 and contrast can be improved if necessary.\n• Photos which are very fragile will be scanned by 6\n--- 分块 ---\n• It may be possible to remove an object from a photo, or change the 7\n• A photo which is not correctly in 8 cannot be fixed.\n--- 分块 ---\n• Orders are completed within 9\n• Send the photos in a box (not 10 ).","blocks":[{"heading":"Name of company: Picturerep","subheading":"","lectureBlock":0,"body":"/","formats":[],"headingFormats":[],"headingGlossary":[],"subheadingFormats":[],"subheadingGlossary":[]},{"heading":"Requirements","subheading":"","lectureBlock":1,"body":"• Maximum size of photos is 30 cm, minimum size 4 cm.\n• Photos must not be in a 1.____________ or an album.","formats":[{"start":63,"end":72,"kind":"highlight"},{"start":56,"end":62,"kind":"underline"},{"start":28,"end":53,"kind":"underline"}],"headingFormats":[],"headingGlossary":[],"subheadingFormats":[],"subheadingGlossary":[]},{"heading":"Cost","subheading":"","lectureBlock":1,"body":"• The cost for 360 photos is ￡2.____________ (including one disk).\n• Before the completed order is sent, 3.____________ is required.","formats":[{"start":29,"end":30,"kind":"highlight"},{"start":119,"end":131,"kind":"highlight"},{"start":69,"end":75,"kind":"highlight"},{"start":99,"end":103,"kind":"highlight"},{"start":80,"end":95,"kind":"underline"}]},{"heading":"Services included in the price","subheading":"","lectureBlock":2,"body":"• Photos can be placed in a folder, e.g. with the name 4.____________\n• The 5.____________ and contrast can be improved if necessary.\n• Photos which are very fragile will be scanned by 6.____________","formats":[{"start":36,"end":41,"kind":"highlight"},{"start":50,"end":54,"kind":"underline"},{"start":91,"end":103,"kind":"underline"},{"start":111,"end":119,"kind":"highlight"},{"start":158,"end":165,"kind":"highlight"},{"start":174,"end":181,"kind":"highlight"}],"headingFormats":[],"headingGlossary":[],"subheadingFormats":[],"subheadingGlossary":[]},{"heading":"Special restore service (costs extra)","subheading":"","lectureBlock":3,"body":"• It may be possible to remove an object from a photo, or change the 7.____________\n• A photo which is not correctly in 8.____________ cannot be fixed.","formats":[{"start":58,"end":64,"kind":"highlight"},{"start":24,"end":41,"kind":"underline"},{"start":103,"end":106,"kind":"highlight"},{"start":122,"end":134,"kind":"highlight"},{"start":145,"end":150,"kind":"underline"}],"headingFormats":[],"headingGlossary":[],"subheadingFormats":[],"subheadingGlossary":[]},{"heading":"Other information","subheading":"","lectureBlock":4,"body":"• Orders are completed within 9.____________\n• Send the photos in a box (not 10.____________ ).","formats":[{"start":22,"end":30,"kind":"highlight"},{"start":13,"end":21,"kind":"underline"},{"start":73,"end":76,"kind":"highlight"},{"start":66,"end":71,"kind":"underline"}],"headingFormats":[],"headingGlossary":[],"subheadingFormats":[],"subheadingGlossary":[]}],"numbers":[1,2,3,4,5,6,7,8,9,10],"manualOnly":true,"bullets":false,"bulletsApplied":true,"questionNotes":{"1":{"answer":"frame","evidence":"And some of them are in a frame – should I take them out before I send them?\nEMPLOYEE: Yes please, we can't copy them otherwise.","note":"take them out +cannot copy them otherwise = must not in \n","teaching":"\n◾️ not：反义类的词可能是通过“语义”体现的，可能不会直接说 “不可以xxx”\n◾️ 30 cm, minimum size 4 cm.：更有力的 定位词\n◾️ Photos：属于普通名词， 可以去上一行再找找看","transcript":"(Q1) EMPLOYEE: Hello, Picturerep. Can I help you?\nWOMAN: Oh, hi. I saw your advertisement about copying pictures to disk and I'd like a bit more information about what you do.\nEMPLOYEE: Sure. What would you like to know?\nWOMAN: Well, I've got a box full of old family photos that's been up in the attic for years,some of them must be 50 or 60 years old, and I'd like to get them converted to digital format.\nEMPLOYEE: Sure, we can do that for you.\nWOMAN: Right. And what about size?\nThe photos are all sorts of sizes – are there any restrictions?\nEMPLOYEE: Well the maximum size of photo we can do with our normal service is 30 centimetres.\nAnd each picture must be at least 4 centimetres, that's the minimum we can cope with.\nWOMAN: That should be fine.\n[Q1答案句] And some of them are in a frame – should I take them out before I send them?EMPLOYEE: Yes please, we can't copy them otherwise.","transcriptFormats":[],"predictionTags":["n.","可数名词 - 单数"],"noteFormats":[],"teachingFormats":[],"glossary":[{"id":"9b45d123-da5d-480a-8da4-e031e34c8953","q":1,"kind":"teaching","target":"body","block":1,"start":68,"end":71,"term":"not","meaning":"反义类的词可能是通过“语义”体现的，可能不会直接说 “不可以xxx”"},{"id":"77cbd529-09a7-4c69-b975-1e17d484d8c5","q":1,"kind":"teaching","target":"body","block":1,"start":28,"end":53,"term":"30 cm, minimum size 4 cm.","meaning":"更有力的 定位词"},{"id":"8370a862-4d38-4a6b-8221-cb39cccbeeaf","q":1,"kind":"teaching","target":"body","block":1,"start":56,"end":62,"term":"Photos","meaning":"属于普通名词， 可以去上一行再找找看"}],"evidenceFormats":[],"tags":["(听中)记录疑似答案+等另一人确认"],"subTags":[]},"2":{"answer":"195","evidence":"EMPLOYEE: We charge ￡195 for 300 to 400 photos for the basic service.WOMAN: OK. And does that include the disk?EMPLOYEE: Yes, one disk – but you can get extra ones for ￡5 each.","note":"表示“花费”的同替： charge +数字 = the cost of ... is ","teaching":"◾️ 360：特殊信息-定位词","transcript":"(Q2) And also the photos must all be separate, they mustn't be stuck into an album.\nWOMAN: OK, that's not a problem.\nSo can you give me an idea of how much this will cost?\nI've got about 360 photos I think.\n[Q2答案句——干扰项（extra 收费， 不符合 including one disk)] EMPLOYEE: We charge ￡195 for 300 to 400 photos for the basic service.WOMAN: OK. And does that include the disk?EMPLOYEE: Yes, one disk – but you can get extra ones for ￡5 each.","transcriptFormats":[],"glossary":[{"id":"112eed90-346e-4b34-ae3c-1d764a6f1f2b","q":2,"kind":"teaching","target":"body","block":2,"start":15,"end":18,"term":"360","meaning":"特殊信息-定位词"}],"predictionTags":["数字","价格"],"tags":["拼写（数字）","(空前)限定词的同义替换"],"subTags":["42751112-e7c7-42db-959c-34a928b53c22"],"noteFormats":[]},"3":{"answer":"payment","evidence":"(Q3) [Q3答案句+ 干扰项： 你以为pay不是答案， 但其实只是“寄照片”时还不用付， 其实流程是： 客户寄照片—公司收到—公司copy—公司给告知金额—客户付款—公司寄出最终包裹] WOMAN: That's good. So do I need to pay when I send you the photos?EMPLOYEE: No, we won't need anything until we've actually copied the pictures.Then we'll let you know how much it is, and once we've received the payment, we'll send the parcel off to you.","note":"","teaching":"◾️ is required：被动语态， 预测答案前置\n◾️ Before：在…之前， 表示时间顺序的词， 可能会整句含义发生语序调换，比如说： 收到xxx之后， 会complete the order。\n就要听 complete order， sent听表示”发送最终的成品“ 含义的词/句子， 同义替换","transcript":"(Q3) [Q3答案句+ 干扰项： 你以为pay不是答案， 但其实只是“寄照片”时还不用付， 其实流程是： 客户寄照片—公司收到—公司copy—公司给告知金额—客户付款—公司寄出最终包裹] WOMAN: That's good. So do I need to pay when I send you the photos?EMPLOYEE: No, we won't need anything until we've actually copied the pictures.Then we'll let you know how much it is, and once we've received the payment, we'll send the parcel off to you.\nWOMAN: Right.","transcriptFormats":[],"glossary":[{"id":"12dd3956-e7a8-47e3-8fda-89a2b4fe0a93","q":3,"kind":"teaching","target":"body","block":2,"start":120,"end":131,"term":"is required","meaning":"被动语态， 预测答案前置"},{"id":"2a310d8d-bf53-4e30-9b89-99f65777cbbb","q":3,"kind":"teaching","target":"body","block":2,"start":69,"end":75,"term":"Before","meaning":"在…之前， 表示时间顺序的词， 可能会整句含义发生语序调换，比如说： 收到xxx之后， 会complete the order。\n就要听 complete order， sent听表示”发送最终的成品“ 含义的词/句子， 同义替换"}],"difficulty":"⭐️⭐️⭐️","predictionTags":["n."],"frontingTags":["被动语态"],"tags":["(听中)记录疑似答案+空前定位/限定词【语序调换/答案前置】"],"subTags":[]},"4":{"answer":"Grandparents","evidence":"WOMAN: So I could have one called ‘Grandparents' for instance?EMPLOYEE: Exactly.","note":"for instance = e.g.","teaching":"","transcript":"(Q4) EMPLOYEE: Is there anything else you'd like to ask about our services?\nWOMAN: Yes. I've roughly sorted out the photos into groups, according to what they're about – so can you keep them in those groups when you copy them.\nEMPLOYEE: Sure. We'll save each group in a different folder on the disk and if you like, you can suggest a name for each folder.\n[Q4答案句] WOMAN: So I could have one called ‘Grandparents' for instance?EMPLOYEE: Exactly.","transcriptFormats":[{"start":334,"end":338,"kind":"underline"},{"start":334,"end":338,"kind":"larger"},{"start":334,"end":338,"kind":"larger"}],"tags":["(听中)记录疑似答案+等另一人确认","答案空前 明显连接词"],"subTags":["82c44d43-412d-439f-a861-65e90a7d661e"],"predictionTags":["n."],"noteFormats":[]},"5":{"answer":"colour | color","evidence":"EMPLOYEE: Yes, in the standard service each photo is checked, and we can sometimes touch up the colour a bit, or improve the contrast – that can make a big difference.","note":"touch up = improve","teaching":"本题也特殊—— 见overall comment","transcript":"(Q5) WOMAN: And do you do anything besides scan the photos? Like, can you make any improvements?\n[Q5答案句] EMPLOYEE: Yes, in the standard service each photo is checked, and we can sometimes touch up the colour a bit, or improve the contrast – that can make a big difference.","transcriptFormats":[{"start":188,"end":196,"kind":"highlight"}],"tags":["(审题)空前无实义词，跟上一行/小标题","(审题)。画空后定位词or限定词 in case语序调换/答案前置。  （除了明显的 数字、字母拼写考点的题之外，  其实如果答案空所在句，后面也有 普通名词类，  也需要画出来，作为定位词）"],"subTags":[],"predictionTags":["n."],"difficulty":"⭐️⭐️⭐️","teachingFormats":[],"noteFormats":[],"frontingTags":["被动语态"]},"6":{"answer":"hand","evidence":"EMPLOYEE: No, if any look particularly fragile, we'd do them by hand.","note":"\n","teaching":"","transcript":"(Q6) WOMAN: OK. And some of the photos are actually quite fragile – they won't get damaged in the process, will they?\n[Q6答案句] EMPLOYEE: No, if any look particularly fragile, we'd do them by hand.\nWe do realise how precious these old photos can be.\nWOMAN: Sure.","transcriptFormats":[{"start":58,"end":65,"kind":"highlight"},{"start":58,"end":65,"kind":"larger"},{"start":58,"end":65,"kind":"larger"},{"start":165,"end":172,"kind":"highlight"}],"tags":["得出答案方式非常直观（跟定位），重点考【拼写掌握】"],"subTags":[],"predictionTags":["n.","某种方式"],"noteFormats":[]},"7":{"answer":"background","evidence":"(Q7) [Q7答案句] EMPLOYEE: And another thing is we can make changes to a photo if you want – so if you want to remove an object from a photo, or maybe alter the background, we can do that.","note":"alter = change","teaching":"◾️ remove an object：离答案空比较远， 大概率会作为一个整体说出啦， 可以当成定位词","transcript":"(Q7) [Q7答案句] EMPLOYEE: And another thing is we can make changes to a photo if you want – so if you want to remove an object from a photo, or maybe alter the background, we can do that.\nWOMAN: Really? I might be interested in that.\nI'll have a look through the photos and see.","transcriptFormats":[],"tags":["(空前)限定词的同义替换"],"subTags":["42751112-e7c7-42db-959c-34a928b53c22"],"predictionTags":["n."],"glossary":[{"id":"0034c6ff-d6ca-42bb-815b-ed3b8a73ab4e","q":7,"kind":"teaching","target":"body","block":4,"start":24,"end":40,"term":"remove an object","meaning":"离答案空比较远， 大概率会作为一个整体说出啦， 可以当成定位词"}],"evidenceFormats":[{"start":147,"end":152,"kind":"highlight"},{"start":107,"end":123,"kind":"underline"}],"noteFormats":[]},"8":{"answer":"focus","evidence":"Oh, and talking of fixing photos – I've got a few that aren't properly in focus.  Can you do anything to make that better?EMPLOYEE: No, I'm afraid that's one thing we can't do.","note":"跟否定词 听否定的含义：不能做的\naren‘t = not ","teaching":"◾️ ____________：在定语从句中 修饰photo，可能有答案前置， 所以需要看空后内容","transcript":"(Q8) [Q8答案句，跟否定词 听否定的含义：不能做的] Oh, and talking of fixing photos – I've got a few that aren't properly in focus.&nbsp; Can you do anything to make that better?EMPLOYEE: No, I'm afraid that's one thing we can't do.\nWOMAN: OK.","transcriptFormats":[],"tags":["(审题)。画空后定位词or限定词 in case语序调换/答案前置。  （除了明显的 数字、字母拼写考点的题之外，  其实如果答案空所在句，后面也有 普通名词类，  也需要画出来，作为定位词）"],"subTags":[],"glossary":[{"id":"2eccd7c1-9be4-4999-88ba-dc189315011e","q":8,"kind":"teaching","target":"body","block":4,"start":122,"end":134,"term":"____________","meaning":"在定语从句中 修饰photo，可能有答案前置， 所以需要看空后内容"}],"predictionTags":["n."],"frontingTags":["定语从句","答案空在定语从句内"],"evidenceFormats":[{"start":19,"end":25,"kind":"underline"},{"start":19,"end":25,"kind":"highlight"}],"noteFormats":[],"difficulty":"⭐️⭐️"},"9":{"answer":"ten days | 10 days","evidence":"EMPLOYEE: We aim to get the copying done in ten days.","note":"in = within + 时间段\nget sth done = complete sth","teaching":"","transcript":"(Q9) EMPLOYEE: Any other information I can give you?\nWOMAN: Er … oh, how long will it all take?\n[Q9答案句] EMPLOYEE: We aim to get the copying done in ten days.\nWOMAN: Fine.&nbsp;","transcriptFormats":[],"tags":["(空前)限定词的同义替换"],"subTags":["bec46afd-3d85-47e8-b5d1-5368c0e19b52"],"predictionTags":["时长（数字+时间单位）"],"noteFormats":[]},"10":{"answer":"plastic","evidence":"EMPLOYEE: Right. If you've got a strong cardboard box, that's best. We've found that plastic ones sometimes break in the post.","note":"语义表示否定 - plastic ones容易坏， 意思是NOT plastic ","teaching":"","transcript":"(Q10) Right, well I'll get the photos packed up in a box and post them off to you.\n[Q10答案句] EMPLOYEE: Right. If you've got a strong cardboard box, that's best. We've found that plastic ones sometimes break in the post.\nWOMAN: OK. Right, thanks for your help. Bye.\nEMPLOYEE: Bye.","transcriptFormats":[{"start":51,"end":56,"kind":"underline"},{"start":51,"end":56,"kind":"larger"},{"start":142,"end":145,"kind":"underline"},{"start":142,"end":145,"kind":"larger"},{"start":142,"end":145,"kind":"larger"}],"tags":["(空前)限定词的同义替换"],"subTags":["fe6e6587-fc21-4802-a940-7dcb4aaec767"],"predictionTags":["n."],"noteFormats":[]},"30":{"answer":"","evidence":"","note":"","teaching":"","transcript":"","tags":[],"subTags":[]}},"createdAt":"2026-11-05T05:45:26.994Z","attempts":{"10":"lecture notes+音频对应 同步"},"answerCloud":{"sha":"b430d27db3dcfd68b39866f7a9694cdfae1f0052","path":"16-2-1 笔记填空 答案词.txt"},"answerWordsRaw":"1. frame\n2. 195\n3. payment\n4. Grandparents\n5. colour | color\n6. hand\n7. background\n8. focus\n9. ten days | 10 days\n10. plastic","transcript":"(Q1) EMPLOYEE: Hello, Picturerep. Can I help you?\n\nWOMAN: Oh, hi. I saw your advertisement about copying pictures to disk and I'd like a bit more information about what you do.\n\nEMPLOYEE: Sure. What would you like to know?\n\nWOMAN: Well, I've got a box full of old family photos that's been up in the attic for years,some of them must be 50 or 60 years old, and I'd like to get them converted to digital format.\n\nEMPLOYEE: Sure, we can do that for you.\n\nWOMAN: Right. And what about size?\n\nThe photos are all sorts of sizes – are there any restrictions?\n\nEMPLOYEE: Well the maximum size of photo we can do with our normal service is 30 centimetres.\n\nAnd each picture must be at least 4 centimetres, that's the minimum we can cope with.\n\nWOMAN: That should be fine.\n\n[Q1答案句] And some of them are in a frame – should I take them out before I send them?EMPLOYEE: Yes please, we can't copy them otherwise.\n\n(Q2) And also the photos must all be separate, they mustn't be stuck into an album.\n\nWOMAN: OK, that's not a problem.\n\nSo can you give me an idea of how much this will cost?\n\nI've got about 360 photos I think.\n\n[Q2答案句——干扰项（extra 收费， 不符合 including one disk)] EMPLOYEE: We charge ￡195 for 300 to 400 photos for the basic service.WOMAN: OK. And does that include the disk?EMPLOYEE: Yes, one disk – but you can get extra ones for ￡5 each.\n\n(Q3) [Q3答案句+ 干扰项： 你以为pay不是答案， 但其实只是“寄照片”时还不用付， 其实流程是： 客户寄照片—公司收到—公司copy—公司给告知金额—客户付款—公司寄出最终包裹] WOMAN: That's good. So do I need to pay when I send you the photos?EMPLOYEE: No, we won't need anything until we've actually copied the pictures.Then we'll let you know how much it is, and once we've received the payment, we'll send the parcel off to you.\n\nWOMAN: Right.\n\n(Q4) EMPLOYEE: Is there anything else you'd like to ask about our services?\n\nWOMAN: Yes. I've roughly sorted out the photos into groups, according to what they're about – so can you keep them in those groups when you copy them.\n\nEMPLOYEE: Sure. We'll save each group in a different folder on the disk and if you like, you can suggest a name for each folder.\n\n[Q4答案句] WOMAN: So I could have one called ‘Grandparents' for instance?EMPLOYEE: Exactly.\n\n(Q5) WOMAN: And do you do anything besides scan the photos? Like, can you make any improvements?\n\n[Q5答案句] EMPLOYEE: Yes, in the standard service each photo is checked, and we can sometimes touch up the colour a bit, or improve the contrast – that can make a big difference.\n\n(Q6) WOMAN: OK. And some of the photos are actually quite fragile – they won't get damaged in the process, will they?\n\n[Q6答案句] EMPLOYEE: No, if any look particularly fragile, we'd do them by hand.\n\nWe do realise how precious these old photos can be.\n\nWOMAN: Sure.\n\n(Q7) [Q7答案句] EMPLOYEE: And another thing is we can make changes to a photo if you want – so if you want to remove an object from a photo, or maybe alter the background, we can do that.\n\nWOMAN: Really? I might be interested in that.\n\nI'll have a look through the photos and see.\n\n(Q8) [Q8答案句，跟否定词 听否定的含义：不能做的] Oh, and talking of fixing photos – I've got a few that aren't properly in focus.&nbsp; Can you do anything to make that better?EMPLOYEE: No, I'm afraid that's one thing we can't do.\n\nWOMAN: OK.\n\n(Q9) EMPLOYEE: Any other information I can give you?\n\nWOMAN: Er … oh, how long will it all take?\n\n[Q9答案句] EMPLOYEE: We aim to get the copying done in ten days.\n\nWOMAN: Fine.&nbsp;\n\n(Q10) Right, well I'll get the photos packed up in a box and post them off to you.\n\n[Q10答案句] EMPLOYEE: Right. If you've got a strong cardboard box, that's best. We've found that plastic ones sometimes break in the post.\n\nWOMAN: OK. Right, thanks for your help. Bye.\n\nEMPLOYEE: Bye.","srtSource":{"path":"16-2-1 英文.srt","sha":"54c15c1706f4c8ba2534fde164ffe05a3e043cff","fetchedAt":"2026-11-05T06:05:40.444Z"},"audioData":{"parserVersion":2,"index":"16-2-1","repo":"itsjiselle/ielts-listening-questions-pdf","ref":"b10a622be95d2999ee76fe3da90aa96897a24ea3","audioPath":"16-2-1.mp3","audioSha":"8d0ebfa40b4feb0ba18ad9a5cc568f015f49e88e","srtPath":"16-2-1 英文.srt","srtSha":"54c15c1706f4c8ba2534fde164ffe05a3e043cff","cues":[{"id":"0","start":1.815,"end":4.101,"text":"(Q1) EMPLOYEE: Hello, Picturerep. Can I help you?","q":1,"invalidTime":false},{"id":"1","start":4.101,"end":13.052,"text":"WOMAN: Oh, hi. I saw your advertisement about copying pictures to disk and I'd like a bit more information about what you do.","q":1,"invalidTime":false},{"id":"2","start":13.052,"end":15.274,"text":"EMPLOYEE: Sure. What would you like to know?","q":1,"invalidTime":false},{"id":"3","start":15.274,"end":29.372,"text":"WOMAN: Well, I've got a box full of old family photos that's been up in the attic for years,some of them must be 50 or 60 years old, and I'd like to get them converted to digital format.","q":1,"invalidTime":false},{"id":"4","start":29.372,"end":31.302,"text":"EMPLOYEE: Sure, we can do that for you.","q":1,"invalidTime":false},{"id":"5","start":31.302,"end":34.62,"text":"WOMAN: Right. And what about size?","q":1,"invalidTime":false},{"id":"6","start":34.62,"end":39.536,"text":"The photos are all sorts of sizes – are there any restrictions?","q":1,"invalidTime":false},{"id":"7","start":39.536,"end":46.318,"text":"EMPLOYEE: Well the maximum size of photo we can do with our normal service is 30 centimetres.","q":1,"invalidTime":false},{"id":"8","start":46.318,"end":52.042,"text":"And each picture must be at least 4 centimetres, that's the minimum we can cope with.","q":1,"invalidTime":false},{"id":"9","start":52.042,"end":53.326,"text":"WOMAN: That should be fine.","q":1,"invalidTime":false},{"id":"10","start":53.326,"end":61.75,"text":"[Q1答案句] And some of them are in a frame – should I take them out before I send them?EMPLOYEE: Yes please, we can't copy them otherwise.","q":1,"invalidTime":false},{"id":"11","start":61.75,"end":67.066,"text":"(Q2) And also the photos must all be separate, they mustn't be stuck into an album.","q":2,"invalidTime":false},{"id":"12","start":67.066,"end":69.342,"text":"WOMAN: OK, that's not a problem.","q":2,"invalidTime":false},{"id":"13","start":69.342,"end":73.543,"text":"So can you give me an idea of how much this will cost?","q":2,"invalidTime":false},{"id":"14","start":73.543,"end":77.907,"text":"I've got about 360 photos I think.","q":2,"invalidTime":false},{"id":"15","start":77.907,"end":93.682,"text":"[Q2答案句——干扰项（extra 收费， 不符合 including one disk)] EMPLOYEE: We charge ￡195 for 300 to 400 photos for the basic service.WOMAN: OK. And does that include the disk?EMPLOYEE: Yes, one disk – but you can get extra ones for ￡5 each.","q":2,"invalidTime":false},{"id":"16","start":93.682,"end":109.76400000000001,"text":"(Q3) [Q3答案句+ 干扰项： 你以为pay不是答案， 但其实只是“寄照片”时还不用付， 其实流程是： 客户寄照片—公司收到—公司copy—公司给告知金额—客户付款—公司寄出最终包裹] WOMAN: That's good. So do I need to pay when I send you the photos?EMPLOYEE: No, we won't need anything until we've actually copied the pictures.Then we'll let you know how much it is, and once we've received the payment, we'll send the parcel off to you.","q":3,"invalidTime":false},{"id":"17","start":109.76400000000001,"end":113.39,"text":"WOMAN: Right.","q":3,"invalidTime":false},{"id":"18","start":113.39,"end":117.755,"text":"(Q4) EMPLOYEE: Is there anything else you'd like to ask about our services?","q":4,"invalidTime":false},{"id":"19","start":117.755,"end":128.48,"text":"WOMAN: Yes. I've roughly sorted out the photos into groups, according to what they're about – so can you keep them in those groups when you copy them.","q":4,"invalidTime":false},{"id":"20","start":128.48,"end":136.34199999999998,"text":"EMPLOYEE: Sure. We'll save each group in a different folder on the disk and if you like, you can suggest a name for each folder.","q":4,"invalidTime":false},{"id":"21","start":136.34199999999998,"end":142.1,"text":"[Q4答案句] WOMAN: So I could have one called ‘Grandparents' for instance?EMPLOYEE: Exactly.","q":4,"invalidTime":false},{"id":"22","start":142.1,"end":149.251,"text":"(Q5) WOMAN: And do you do anything besides scan the photos? Like, can you make any improvements?","q":5,"invalidTime":false},{"id":"23","start":149.251,"end":160.704,"text":"[Q5答案句] EMPLOYEE: Yes, in the standard service each photo is checked, and we can sometimes touch up the colour a bit, or improve the contrast – that can make a big difference.","q":5,"invalidTime":false},{"id":"24","start":160.704,"end":168.20499999999998,"text":"(Q6) WOMAN: OK. And some of the photos are actually quite fragile – they won't get damaged in the process, will they?","q":6,"invalidTime":false},{"id":"25","start":168.20499999999998,"end":173.311,"text":"[Q6答案句] EMPLOYEE: No, if any look particularly fragile, we'd do them by hand.","q":6,"invalidTime":false},{"id":"26","start":173.311,"end":176.498,"text":"We do realise how precious these old photos can be.","q":6,"invalidTime":false},{"id":"27","start":176.498,"end":177.473,"text":"WOMAN: Sure.","q":6,"invalidTime":false},{"id":"28","start":177.473,"end":189.301,"text":"(Q7) [Q7答案句] EMPLOYEE: And another thing is we can make changes to a photo if you want – so if you want to remove an object from a photo, or maybe alter the background, we can do that.","q":7,"invalidTime":false},{"id":"29","start":189.301,"end":192.878,"text":"WOMAN: Really? I might be interested in that.","q":7,"invalidTime":false},{"id":"30","start":192.878,"end":195.736,"text":"I'll have a look through the photos and see.","q":7,"invalidTime":false},{"id":"31","start":195.736,"end":208.688,"text":"(Q8) [Q8答案句，跟否定词 听否定的含义：不能做的] Oh, and talking of fixing photos – I've got a few that aren't properly in focus.&nbsp; Can you do anything to make that better?EMPLOYEE: No, I'm afraid that's one thing we can't do.","q":8,"invalidTime":false},{"id":"32","start":208.688,"end":210.111,"text":"WOMAN: OK.","q":8,"invalidTime":false},{"id":"33","start":210.111,"end":212.322,"text":"(Q9) EMPLOYEE: Any other information I can give you?","q":9,"invalidTime":false},{"id":"34","start":212.322,"end":216.398,"text":"WOMAN: Er … oh, how long will it all take?","q":9,"invalidTime":false},{"id":"35","start":216.398,"end":219.424,"text":"[Q9答案句] EMPLOYEE: We aim to get the copying done in ten days.","q":9,"invalidTime":false},{"id":"36","start":219.424,"end":220.59300000000002,"text":"WOMAN: Fine.&nbsp;","q":9,"invalidTime":false},{"id":"37","start":220.59300000000002,"end":226.127,"text":"(Q10) Right, well I'll get the photos packed up in a box and post them off to you.","q":10,"invalidTime":false},{"id":"38","start":226.127,"end":234.507,"text":"[Q10答案句] EMPLOYEE: Right. If you've got a strong cardboard box, that's best. We've found that plastic ones sometimes break in the post.","q":10,"invalidTime":false},{"id":"39","start":234.507,"end":239.345,"text":"WOMAN: OK. Right, thanks for your help. Bye.","q":10,"invalidTime":false},{"id":"40","start":239.345,"end":241.845,"text":"EMPLOYEE: Bye.","q":10,"invalidTime":false}],"matches":{"1":{"all":["[Q1答案句] And some of them are in a frame – should I take them out before I send them?EMPLOYEE: Yes please, we can't copy them otherwise."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"2":{"all":["[Q2答案句——干扰项（extra 收费， 不符合 including one disk)] EMPLOYEE: We charge ￡195 for 300 to 400 photos for the basic service.WOMAN: OK. And does that include the disk?EMPLOYEE: Yes, one disk – but you can get extra ones for ￡5 each."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"3":{"all":["(Q3) [Q3答案句+ 干扰项： 你以为pay不是答案， 但其实只是“寄照片”时还不用付， 其实流程是： 客户寄照片—公司收到—公司copy—公司给告知金额—客户付款—公司寄出最终包裹] WOMAN: That's good. So do I need to pay when I send you the photos?EMPLOYEE: No, we won't need anything until we've actually copied the pictures.Then we'll let you know how much it is, and once we've received the payment, we'll send the parcel off to you."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"4":{"all":["[Q4答案句] WOMAN: So I could have one called ‘Grandparents' for instance?EMPLOYEE: Exactly."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"5":{"all":["[Q5答案句] EMPLOYEE: Yes, in the standard service each photo is checked, and we can sometimes touch up the colour a bit, or improve the contrast – that can make a big difference."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"6":{"all":["[Q6答案句] EMPLOYEE: No, if any look particularly fragile, we'd do them by hand."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"7":{"all":["(Q7) [Q7答案句] EMPLOYEE: And another thing is we can make changes to a photo if you want – so if you want to remove an object from a photo, or maybe alter the background, we can do that."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"8":{"all":["(Q8) [Q8答案句，跟否定词 听否定的含义：不能做的] Oh, and talking of fixing photos – I've got a few that aren't properly in focus.&nbsp; Can you do anything to make that better?EMPLOYEE: No, I'm afraid that's one thing we can't do."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"9":{"all":["[Q9答案句] EMPLOYEE: We aim to get the copying done in ten days."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"10":{"all":["[Q10答案句] EMPLOYEE: Right. If you've got a strong cardboard box, that's best. We've found that plastic ones sometimes break in the post."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true}}},"overallComments":"Q3- 涉及时间顺序词， 事件的先后 - 有语序调换/答案前置 \nQ5，空前无实义词， 且 上一行结尾是答案空，所以必须看答案空后面的词","tagArchiveFiles":{"考点":"part1填空题 - 考点库标签- 考点.txt","审题预测":"part1填空题 - 考点库标签- 审题预测.txt","答案前置":"part1填空题 - 考点库标签- 答案前置.txt"},"tagCatalog":{"tags":["拼写（字母）","拼写（数字）","拼写（字母+数字）","(审题)空前无实义词，跟上一行/小标题","(审题)紧挨空前是限定词， 再往前是名词时， 需要再往前面找 分级标题 作为限定词（因为非分级标题的名词可能会后置）","(审题)。画空后定位词or限定词 in case语序调换/答案前置。  （除了明显的 数字、字母拼写考点的题之外，  其实如果答案空所在句，后面也有 普通名词类，  也需要画出来，作为定位词）","(审题可预测)❗️干扰项：答案空类型明显","答案前置（被动语态）","答案前置（定语从句）","答案前置（介词短语 / 词组题）","答案前置（adj.+n.）","答案前置（所有格）","(听中)记录疑似答案+等另一人确认","(听中)记录疑似答案+代词指代","(听中)记录疑似答案+空前定位/限定词【语序调换/答案前置】","(空前)限定词的同义替换","答案前置- 答案空后括号内容 - 修饰成分","(仅听中)干扰项+强调信号词","得出答案方式非常直观（跟定位），重点考【拼写掌握】","(空后)同义替换","答案空前 明显连接词"],"children":{"答案前置- 答案空后括号内容 - 修饰成分":[],"答案前置（定语从句）":[{"id":"dab54cb8-eeaf-4864-b8ad-b245905f1883","name":"答案空在定语从句内"},{"id":"1547cd1f-63de-4dc2-9916-daba6a96277d","name":"答案空+定语从句"}],"拼写（数字）":[{"id":"8bbe8b21-88e2-4096-85e1-ee556ba44c09","name":"电话"},{"id":"d6ca606f-9a21-4d12-bc56-74767f46b1a7","name":"具体时间"},{"id":"6d179315-a54c-46a9-9893-7946ece8f2d0","name":"日期(数字+月份词)"},{"id":"67e4546d-3861-41e6-88ce-2ac6a44f7677","name":"价格"},{"id":"6115cab2-926d-4ba0-bf0c-6d253fd3e6c6","name":"年龄"}],"得出答案方式非常直观（跟定位），重点考【拼写掌握】":[],"(审题可预测)❗️干扰项：答案空类型明显":[{"id":"79b8bab4-e9c9-4e61-9684-71850a817717","name":"答案词得出方式：强调信号词"},{"id":"1b0c329b-f118-40f6-8f7d-eb7914326f98","name":"答案词得出方式：跟(限定词)同义替换"},{"id":"58cc63c5-252b-4bd4-acc5-01479b8b5646","name":"答案词得出方式：依据题目内容限定 排除错误答案"}],"答案前置（介词短语 / 词组题）":[],"(仅听中)干扰项+强调信号词":[],"答案前置（被动语态）":[{"id":"392db4eb-88df-497c-9731-1745edcddbdf","name":"... + 被动语态 + 答案空"},{"id":"b8bd2ec5-97d0-4c74-8f43-2f4583f8d8dc","name":"答案空+被动语态"}],"(审题)紧挨空前是限定词， 再往前是名词时， 需要再往前面找 分级标题 作为限定词（因为非分级标题的名词可能会后置）":[],"(审题)空前无实义词，跟上一行/小标题":[],"(审题)。画空后定位词or限定词 in case语序调换/答案前置。  （除了明显的 数字、字母拼写考点的题之外，  其实如果答案空所在句，后面也有 普通名词类，  也需要画出来，作为定位词）":[],"(空前)限定词的同义替换":[{"id":"42751112-e7c7-42db-959c-34a928b53c22","name":"(空前)限定词(v.)的同义替换"},{"id":"92bb42f2-c6a5-4ec0-8722-4044a7a83ec4","name":"(空前)限定词(adj.)的同义替换"},{"id":"bec46afd-3d85-47e8-b5d1-5368c0e19b52","name":"(空前)限定词(adv. / prep.)的同义替换"},{"id":"edb1568d-b990-4b5a-b2ec-33d0c657552b","name":"(空前)限定词(普通n.)的同义替换"},{"id":"fe6e6587-fc21-4802-a940-7dcb4aaec767","name":"(空前)限定词(否定类)的同义替换"},{"id":"3b998d2d-9c24-4515-846e-11d4fe7211ec","name":"数量表达"}],"(听中)记录疑似答案+空前定位/限定词【语序调换/答案前置】":[],"答案空前 明显连接词":[{"id":"05597fed-0301-4e10-b01d-d6181d6aa3b7","name":"答案空前 出现表并列连接词，注意听 同义替换"},{"id":"82c44d43-412d-439f-a861-65e90a7d661e","name":"答案空前 举例 连接词"}]},"order":["拼写（字母）","拼写（数字）","拼写（字母+数字）","(审题)空前无实义词，跟上一行/小标题","(审题)紧挨空前是限定词， 再往前是名词时， 需要再往前面找 分级标题 作为限定词（因为非分级标题的名词可能会后置）","(审题)。画空后定位词or限定词 in case语序调换/答案前置。  （除了明显的 数字、字母拼写考点的题之外，  其实如果答案空所在句，后面也有 普通名词类，  也需要画出来，作为定位词）","(审题可预测)❗️干扰项：答案空类型明显","答案前置（被动语态）","答案前置（定语从句）","答案前置（介词短语 / 词组题）","答案前置（adj.+n.）","答案前置（所有格）","(听中)记录疑似答案+等另一人确认","(听中)记录疑似答案+代词指代","(听中)记录疑似答案+空前定位/限定词【语序调换/答案前置】","(空前)限定词的同义替换","答案前置- 答案空后括号内容 - 修饰成分","(仅听中)干扰项+强调信号词","得出答案方式非常直观（跟定位），重点考【拼写掌握】","(空后)同义替换","答案空前 明显连接词"]},"predictionCatalog":["专有名词（等拼写）","数字","数字+字母 组合（邮编等）","n.","可数名词 - 单数","可数名词 - 复数","不可数名词","动名词","adj.","v.","地点类","职业类","学科类","电话","具体时间","日期(数字+月份词 / 星期)","价格","衣物类","日期","媒介/渠道类","时间类","活动类","邮编","时长（数字+时间单位）","可数名词 - 单数（元音音素开头）","某种方式"],"frontingCatalog":["被动语态","定语从句","介词短语 n.+prep+答案空 / 答案空+prep.+n.","空格附近 adj","答案空后括号 作为修饰成分","答案空在定语从句内","答案空+定语从句","adj.+ 答案空","答案空+n.","答案空 + be + adj.","adj.+答案空 / 答案空+n.","词组题（答案空与前或后内容 构成词组）","所有格","(审题) 答案空后出现普通名词or限定词  预测有语序调换"],"predictionParents":{"电话":"数字","具体时间":"数字","日期":"数字","价格":"数字","可数名词 - 单数":"n.","可数名词 - 复数":"n.","不可数名词":"n.","动名词":"n.","时长（数字+ 时间单位）":"数字+字母/word 组合","时长（数字+时间单位）":"数字+字母/word 组合","邮编":"数字+字母/word 组合","可数名词 - 单数（元音音素开头）":"n."},"frontingParents":{"答案空在定语从句内":"定语从句","答案空+定语从句":"定语从句","adj.+ 答案空":"空格附近 adj","答案空+n.":"空格附近 adj","答案空 + be + adj.":"空格附近 adj"}}
