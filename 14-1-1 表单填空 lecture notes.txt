@@ -1,0 +1,230 @@
+14-1-1 CRIME REPORT FORM
+Complete the form below.
+Write ONE WORD AND/OR A NUMBER for each answer.
+
+
+Type of crime:     theft
+Personal information
+
+Name   	Louise Taylor  
+Nationality                    	1.____________
+Date of birth                	14 December 1977
+Occupation                   	interior designer
+Reason for visit             	business (to buy antique 2.____________)
+Length of stay               	two months
+Current address            	3.____________ Apartments (No 15)
+
+Details of theft
+
+Items stolen             	- a wallet containing approximately ￡4.____________
+                                      	- a 5.____________
+Date of theft                 	6.____________
+
+Possible time and place of theft
+
+Location                      	outside the 7.____________ at about 4 pm	
+Details of suspect        	- some boys asked for the 8.____________ then ran off	
+                                    	- one had a T-shirt with a picture of a tiger	
+                                   	- he was about 12, slim build with 9.____________ hair
+
+Crime reference number allocated
+
+.	10.____________
+
+Q1 答案：Canadian
+难度：未选择
+审题预测：n.
+答案前置关注：
+答案句：LOUISE: No, I'm actually Canadian, though my mother was British.&nbsp;
+同义替换：resident in + 国家 = nationality 
+干扰项：
+讲题路径：
+
+Q2 答案：furniture
+难度：未选择
+审题预测：n.
+答案前置关注：
+答案句：LOUISE: That's right. I come over most summers on business. I'm an interior designer and I come over to buy old furniture, antiques you know.
+同义替换：buy原词 定位词
+ old = antique 
+干扰项：
+讲题路径：
+
+Q3 答案：Park
+难度：未选择
+审题预测：专有名词（等拼写）
+答案前置关注：
+答案句：LOUISE: Well at present I've got a place at Park Apartments, that's on King Street.&nbsp;
+同义替换：where you're staying  = address
+at present = current
+干扰项：Riverside， was staying不符合 now 
+讲题路径：
+
+Q4 答案：250 | 250 sterling
+难度：未选择
+审题预测：数字、价格
+答案前置关注：
+答案句：OFFICER: And what did your wallet have in it?
+Louise: Well, fortunately I don't keep my credit cards in that wallet - I keep them with my passport in an inside compartment in my backpack.
+But there was quite a bit of cash there…about ￡250 sterling, I should think.
+同义替换：about = approximately
+
+干扰项：
+讲题路径：
+
+Q5 答案：phone
+难度：⭐️⭐️
+审题预测：n.、可数名词 - 单数
+答案前置关注：
+答案句：LOUISE: At first I thought, oh I must have left the wallet back in the apartment, but then I realised my phone had gone as well.
+同义替换：had gone = stolen 
+干扰项：
+讲题路径：1.没有实义词，上一行结尾又是答案—— 都属于 item stolen， 继续听还有什么东西被偷了， 找并列关系词；
+2.同级别的小标题， 也是并列关系 “-” 
+
+Q6 答案：September 10 | 10 September | September 10th | 10th September
+难度：未选择
+审题预测：数字、日期
+答案前置关注：
+答案句：OFFICER: Yes. So you say the theft occurred yesterday?LOUISE: Yes. 
+OFFICER: So that was September the tenth.
+同义替换：occur = date of xxx
+干扰项：
+讲题路径：
+
+Q7 答案：museum
+难度：未选择
+审题预测：n.、地点类
+答案前置关注：
+答案句：Anyway, I met up with a friend, and we spent a couple of hours in the museum.
+同义替换：[Q7答案句： 但 4pm后面才出现【答案前置】]
+干扰项：
+讲题路径：
+
+Q8 答案：time
+难度：未选择
+审题预测：n.
+答案前置关注：
+答案句：a group of young boys ran up to us, and they were really crowding round us, and they were asking us what time it was, then all of a sudden they ran off.
+同义替换：
+
+干扰项：
+讲题路径：只能预测是接名词性成分， 不知道具体类别。 时间、东西、都可能
+
+Q9 答案：blond | blonde
+难度：未选择
+审题预测：adj.
+答案前置关注：
+答案句：OFFICER: Colour of hair?LOUISE: I do remember that - he was blond. All the others were dark-haired.
+同义替换：thin = slim build
+
+
+干扰项：
+讲题路径：
+
+Q10 答案：87954 82361 | 8795482361
+难度：未选择
+审题预测：数字
+答案前置关注：
+答案句：OFFICER: Right. So what I'm going to do now is give you a crime reference number so you can contact your insurance company.
+So this is ten digits: 87954 82361
+同义替换：
+干扰项：
+讲题路径：
+
+Overall comments：
+
+原文：
+(Qexample) OFFICER: Good morning. What can I do for you?
+
+LOUISE: I want to report a theft. I had some things stolen out of my bag yesterday.&nbsp;
+
+OFFICER: I'm sorry to hear that. Right, so I'll need to take a few details. Can I start with your name?
+
+LOUISE: Louise Taylor.&nbsp;
+
+(Q1) [resident = nationality 解释] OFFICER: OK, thank you. And are you resident in the UK?
+
+[Q1答案句] LOUISE: No, I'm actually Canadian, though my mother was British.&nbsp;
+
+OFFICER: And your date of birth?
+
+LOUISE: December 14th, 1977.&nbsp;
+
+(Q2) OFFICER: So you're just visiting this country?
+
+[Q2答案句] LOUISE: That's right. I come over most summers on business. I'm an interior designer and I come over to buy old furniture, antiques you know.&nbsp;
+
+There are some really lovely things around here, but you need to get out to the small towns. I've had a really good trip this year, until this happened.
+
+(Q3) OFFICER: OK. So you've been here quite a while?
+
+LOUISE: Yes, I'm here for two months. I go back next week.&nbsp;
+
+[Q3定位词： stay = address 解释， now=current 近义词] OFFICER: So may I ask where you're staying now?
+
+[Q3答案句：at present = current] LOUISE: Well at present I've got a place at Park Apartments, that's on King Street.&nbsp;
+
+[Q3干扰项] I was staying at the Riverside Apartments on the same street, but the apartment there was only available for six weeks so I had to find another one.
+
+OFFICER: OK. And the apartment number?
+
+LOUISE: Fifteen.&nbsp;
+
+OFFICER: Right.
+
+(Q4) OFFICER: Now, I need to take some details of the theft. So you said you had some things stolen out of your bag?
+
+LOUISE: That's right.&nbsp;
+
+OFFICER: And were you actually carrying the bag when the theft took place?
+
+Yes. I really can't understand it. I had my backpack on. And I went into a supermarket to buy a few things and when I opened it up my wallet wasn't there.&nbsp;
+
+[Q4答案句] OFFICER: And what did your wallet have in it?LOUISE: Well, fortunately I don't keep my credit cards in that wallet - I keep them with my passport in an inside compartment in my backpack.&nbsp; &nbsp;But there was quite a bit of cash there…about ￡250 sterling, I should think.
+
+(Q5) I withdrew ￡300 from my account yesterday, but I did a bit of shopping, so I must have already spent about ￡50 of that.
+
+OFFICER: OK.
+
+[Q5答案句] LOUISE: At first I thought, oh I must have left the wallet back in the apartment, but then I realised my phone had gone as well.&nbsp;
+
+It was only a week old, and that's when I realised I'd been robbed. Anyway at least they didn't take the keys to my rental car.
+
+(Q6) [Q6答案句] OFFICER: Yes. So you say the theft occurred yesterday?LOUISE: Yes.&nbsp;OFFICER: So that was September the tenth.
+
+(Q7) [where= location] And do you have any idea at all of where or when the things might possibly have been stolen?
+
+LOUISE: Well at first I couldn't believe it because the bag had been on my back ever since I left the apartment after lunch.
+
+It's just a small backpack, but I generally use it when I'm travelling because it seems safer than a handbag.
+
+[Q7答案句： 但 4pm后面才出现【答案前置】] Anyway, I met up with a friend, and we spent a couple of hours in the museum.
+
+(Q8) But I do remember that as we were leaving there, at about 4 o'clock,
+
+[Q8答案句] a group of young boys ran up to us, and they were really crowding round us, and they were asking us what time it was, then all of a sudden they ran off.
+
+(Q9) OFFICER: Can you remember anything about them?
+
+LOUISE: The one who did most of the talking was wearing a T-shirt with a picture of something…let's see… a tiger.&nbsp;
+
+OFFICER: Right. Any idea of how old he might have been?
+
+LOUISE: Around twelve years old?&nbsp;
+
+OFFICER: And can you remember anything else about his appearance?
+
+LOUISE: Not much. He was quite thin…&nbsp;
+
+[Q9答案句] OFFICER: Colour of hair?LOUISE: I do remember that - he was blond. All the others were dark-haired.&nbsp;
+
+OFFICER: And any details of the others?
+
+LOUISE: Not really. They came and went so quickly.&nbsp;
+
+(Q10) [Q10答案句] OFFICER: Right. So what I'm going to do now is give you a crime reference number so you can contact your insurance company.So this is ten digits: 87954 82361
+
+LOUISE: Thank you. So should I …&nbsp;
+--- JISELLE NOTES FORM DATA V1 ---
+{"id":"notes-54f9f07e-aae1-4dc2-a001-d576cfce642e","index":"14-1-1","part":1,"title":"CRIME REPORT FORM","kind":"form","wordLimit":"ONE WORD AND/OR A NUMBER","mode":"headings","intro":"","type":"填空题","tableCells":null,"sourceText":"Name   \tLouise Taylor  \nNationality                    \t1.____________\nDate of birth                \t14 December 1977\nOccupation                   \tinterior designer\nReason for visit             \tbusiness (to buy antique 2)\nLength of stay               \ttwo months\nCurrent address            \t3 Apartments (No 15)\n--- 分块 ---\nItems stolen             \t  - a wallet containing approximately ￡4\n                                      \t- a 5\nDate of theft                 \t6\n--- 分块 ---\nLocation                      \toutside the 7 at about 4 pm\t\nDetails of suspect        \t- some boys asked for the 8 then ran off\t\n                                    \t- one had a T-shirt with a picture of a tiger\t\n                                   \t- he was about 12, slim build with 9 hair\n--- 分块 ---\n","blocks":[{"heading":"Type of crime:     theft\nPersonal information","subheading":"","lectureBlock":0,"body":"Name   \tLouise Taylor  \nNationality                    \t1.____________\nDate of birth                \t14 December 1977\nOccupation                   \tinterior designer\nReason for visit             \tbusiness (to buy antique 2.____________)\nLength of stay               \ttwo months\nCurrent address            \t3.____________ Apartments (No 15)","layout":"columns","columnWidths":[23.50678823907455,76.49321176092545],"formats":[{"start":24,"end":35,"kind":"underline"},{"start":212,"end":219,"kind":"highlight"},{"start":208,"end":211,"kind":"underline"},{"start":286,"end":293,"kind":"underline"},{"start":278,"end":285,"kind":"highlight"}]},{"heading":"Details of theft","subheading":"","lectureBlock":1,"body":"Items stolen             \t- a wallet containing approximately ￡4.____________\n                                      \t- a 5.____________\nDate of theft                 \t6.____________","layout":"columns","columnWidths":[22.3474654562982,77.6525345437018],"formats":[{"start":47,"end":60,"kind":"highlight"},{"start":29,"end":35,"kind":"underline"},{"start":0,"end":12,"kind":"underline"},{"start":136,"end":143,"kind":"highlight"}]},{"heading":"Possible time and place of theft","subheading":"","lectureBlock":2,"body":"Location                      \toutside the 7.____________ at about 4 pm\t\nDetails of suspect        \t- some boys asked for the 8.____________ then ran off\t\n                                    \t- one had a T-shirt with a picture of a tiger\t\n                                   \t- he was about 12, slim build with 9.____________ hair","layout":"columns","columnWidths":[21.49106951585262,63.45765049271637,15.051279991431024],"formats":[{"start":0,"end":8,"kind":"highlight"},{"start":0,"end":8,"kind":"underline"},{"start":66,"end":70,"kind":"underline"},{"start":111,"end":120,"kind":"highlight"},{"start":106,"end":110,"kind":"underline"},{"start":30,"end":37,"kind":"highlight"},{"start":109,"end":110,"kind":"underline"},{"start":290,"end":292,"kind":"underline"},{"start":294,"end":304,"kind":"highlight"},{"start":325,"end":329,"kind":"underline"}]},{"heading":"Crime reference number allocated","subheading":"","lectureBlock":2,"body":".\t10.____________","layout":"columns","columnWidths":[21.905627410025705,78.0943725899743],"headingFormats":[{"start":16,"end":22,"kind":"underline"},{"start":6,"end":15,"kind":"underline"}]}],"numbers":[1,2,3,4,5,6,7,8,9,10],"manualOnly":true,"bullets":false,"bulletsApplied":true,"questionNotes":{"1":{"answer":"Canadian","evidence":"LOUISE: No, I'm actually Canadian, though my mother was British.&nbsp;","note":"resident in + 国家 = nationality ","teaching":"","transcript":"(Q1) [resident = nationality 解释] OFFICER: OK, thank you. And are you resident in the UK?\n[Q1答案句] LOUISE: No, I'm actually Canadian, though my mother was British.&nbsp;\nOFFICER: And your date of birth?\nLOUISE: December 14th, 1977.&nbsp;","transcriptFormats":[],"predictionTags":["n."],"tags":["(空前)限定词的同义替换"],"subTags":["edb1568d-b990-4b5a-b2ec-33d0c657552b"],"noteFormats":[]},"2":{"answer":"furniture","evidence":"LOUISE: That's right. I come over most summers on business. I'm an interior designer and I come over to buy old furniture, antiques you know.","note":"buy原词 定位词\n old = antique ","teaching":"","transcript":"(Q2) OFFICER: So you're just visiting this country?\n[Q2答案句] LOUISE: That's right. I come over most summers on business. I'm an interior designer and I come over to buy old furniture, antiques you know.&nbsp;\nThere are some really lovely things around here, but you need to get out to the small towns. I've had a really good trip this year, until this happened.","transcriptFormats":[{"start":168,"end":171,"kind":"highlight"},{"start":164,"end":167,"kind":"underline"}],"predictionTags":["n."],"noteFormats":[],"evidenceFormats":[],"tags":["(空前)限定词的同义替换"],"subTags":["92bb42f2-c6a5-4ec0-8722-4044a7a83ec4"]},"3":{"answer":"Park","evidence":"LOUISE: Well at present I've got a place at Park Apartments, that's on King Street.&nbsp;","note":"where you're staying  = address\nat present = current","teaching":"","transcript":"(Q3) OFFICER: OK. So you've been here quite a while?\nLOUISE: Yes, I'm here for two months. I go back next week.&nbsp;\n[Q3定位词： stay = address 解释， now=current 近义词] OFFICER: So may I ask where you're staying now?\n[Q3答案句：at present = current] LOUISE: Well at present I've got a place at Park Apartments, that's on King Street.&nbsp;\n[Q3干扰项] I was staying at the Riverside Apartments on the same street, but the apartment there was only available for six weeks so I had to find another one.\nOFFICER: OK. And the apartment number?\nLOUISE: Fifteen.&nbsp;\nOFFICER: Right.","transcriptFormats":[{"start":184,"end":205,"kind":"highlight"},{"start":252,"end":262,"kind":"highlight"},{"start":358,"end":367,"kind":"strike"}],"predictionTags":["专有名词（等拼写）"],"noteFormats":[],"tags":["(审题可预测)❗️干扰项：答案空类型明显","(空前)限定词的同义替换"],"subTags":["58cc63c5-252b-4bd4-acc5-01479b8b5646","4583a368-c516-4073-962f-5826efb22964"],"distractorFormats":[],"distractor":"Riverside， was staying不符合 now "},"4":{"answer":"250 | 250 sterling","evidence":"OFFICER: And what did your wallet have in it?\nLouise: Well, fortunately I don't keep my credit cards in that wallet - I keep them with my passport in an inside compartment in my backpack.\nBut there was quite a bit of cash there…about ￡250 sterling, I should think.","note":"about = approximately\n","teaching":"","transcript":"(Q4) OFFICER: Now, I need to take some details of the theft. So you said you had some things stolen out of your bag?\nLOUISE: That's right.&nbsp;\nOFFICER: And were you actually carrying the bag when the theft took place?\nYes. I really can't understand it. I had my backpack on. And I went into a supermarket to buy a few things and when I opened it up my wallet wasn't there.\n[Q4答案句] OFFICER: And what did your wallet have in it?LOUISE: Well, fortunately I don't keep my credit cards in that wallet - I keep them with my passport in an inside compartment in my backpack.&nbsp; &nbsp;But there was quite a bit of cash there…about ￡250 sterling, I should think.","transcriptFormats":[],"tags":["(空前)限定词的同义替换"],"subTags":["bec46afd-3d85-47e8-b5d1-5368c0e19b52"],"predictionTags":["数字","价格"],"evidenceFormats":[{"start":27,"end":33,"kind":"underline"},{"start":228,"end":233,"kind":"highlight"}],"noteFormats":[]},"5":{"answer":"phone","evidence":"LOUISE: At first I thought, oh I must have left the wallet back in the apartment, but then I realised my phone had gone as well.","note":"had gone = stolen ","teaching":"1.没有实义词，上一行结尾又是答案—— 都属于 item stolen， 继续听还有什么东西被偷了， 找并列关系词；\n2.同级别的小标题， 也是并列关系 “-” ","transcript":"(Q5) I withdrew ￡300 from my account yesterday, but I did a bit of shopping, so I must have already spent about ￡50 of that.\nOFFICER: OK.\n[Q5答案句] LOUISE: At first I thought, oh I must have left the wallet back in the apartment, but then I realised my phone had gone as well.&nbsp;\nIt was only a week old, and that's when I realised I'd been robbed. Anyway at least they didn't take the keys to my rental car.","transcriptFormats":[{"start":266,"end":273,"kind":"highlight"}],"tags":["(审题)空前无实义词，跟上一行/小标题","(审题)「空前无实词，且上一行以答案词结尾」","答案空前 明显连接词"],"subTags":["05597fed-0301-4e10-b01d-d6181d6aa3b7"],"predictionTags":["n.","可数名词 - 单数"],"teachingFormats":[],"difficulty":"⭐️⭐️","evidenceFormats":[],"noteFormats":[]},"6":{"answer":"September 10 | 10 September | September 10th | 10th September","evidence":"OFFICER: Yes. So you say the theft occurred yesterday?LOUISE: Yes. \nOFFICER: So that was September the tenth.","note":"occur = date of xxx","teaching":"","transcript":"(Q6) [Q6答案句] OFFICER: Yes. So you say the theft occurred yesterday?LOUISE: Yes.&nbsp;OFFICER: So that was September the tenth.","transcriptFormats":[],"tags":["(空前)限定词的同义替换"],"subTags":["edb1568d-b990-4b5a-b2ec-33d0c657552b"],"predictionTags":["数字","日期"],"evidenceFormats":[{"start":35,"end":43,"kind":"highlight"},{"start":89,"end":108,"kind":"bold"},{"start":89,"end":108,"kind":"larger"},{"start":89,"end":108,"kind":"larger"}],"noteFormats":[]},"7":{"answer":"museum","evidence":"Anyway, I met up with a friend, and we spent a couple of hours in the museum.","note":"[Q7答案句： 但 4pm后面才出现【答案前置】]","teaching":"","transcript":"(Q7) [where= location] And do you have any idea at all of where or when the things might possibly have been stolen?\nLOUISE: Well at first I couldn't believe it because the bag had been on my back ever since I left the apartment after lunch.\nIt's just a small backpack, but I generally use it when I'm travelling because it seems safer than a handbag.\n[Q7答案句： 但 4pm后面才出现【答案前置】] Anyway, I met up with a friend, and we spent a couple of hours in the museum.","transcriptFormats":[],"tags":["得出答案方式非常直观（跟定位），重点考【拼写掌握】"],"subTags":[],"predictionTags":["n.","地点类"],"noteFormats":[{"start":19,"end":23,"kind":"strike"}]},"8":{"answer":"time","evidence":"a group of young boys ran up to us, and they were really crowding round us, and they were asking us what time it was, then all of a sudden they ran off.","note":"\n","teaching":"只能预测是接名词性成分， 不知道具体类别。 时间、东西、都可能","transcript":"(Q8) But I do remember that as we were leaving there, at about 4 o'clock,\n[Q8答案句] a group of young boys ran up to us, and they were really crowding round us, and they were asking us what time it was, then all of a sudden they ran off.","transcriptFormats":[],"tags":["得出答案方式非常直观（跟定位），重点考【拼写掌握】"],"subTags":[],"predictionTags":["n."],"teachingFormats":[],"evidenceFormats":[{"start":17,"end":21,"kind":"underline"}],"noteFormats":[]},"9":{"answer":"blond | blonde","evidence":"OFFICER: Colour of hair?LOUISE: I do remember that - he was blond. All the others were dark-haired.","note":"thin = slim build\n\n","teaching":"","transcript":"(Q9) OFFICER: Can you remember anything about them?\nLOUISE: The one who did most of the talking was wearing a T-shirt with a picture of something…let's see… a tiger.&nbsp;\nOFFICER: Right. Any idea of how old he might have been?\nLOUISE: Around twelve years old?&nbsp;\nOFFICER: And can you remember anything else about his appearance?\nLOUISE: Not much. He was quite thin…&nbsp;\n[Q9答案句] OFFICER: Colour of hair?LOUISE: I do remember that - he was blond. All the others were dark-haired.&nbsp;\nOFFICER: And any details of the others?\nLOUISE: Not really. They came and went so quickly.&nbsp;","transcriptFormats":[{"start":243,"end":249,"kind":"underline"},{"start":364,"end":368,"kind":"highlight"}],"tags":["(审题)。画空后定位词or限定词 in case语序调换/答案前置。  （除了明显的 数字、字母拼写考点的题之外，  其实如果答案空所在句，后面也有 普通名词类，  也需要画出来，作为定位词）","(空前)限定词的同义替换"],"subTags":["92bb42f2-c6a5-4ec0-8722-4044a7a83ec4"],"noteFormats":[],"predictionTags":["adj."],"evidenceFormats":[]},"10":{"answer":"87954 82361 | 8795482361","evidence":"OFFICER: Right. So what I'm going to do now is give you a crime reference number so you can contact your insurance company.\nSo this is ten digits: 87954 82361","note":"","teaching":"","transcript":"(Q10) [Q10答案句] OFFICER: Right. So what I'm going to do now is give you a crime reference number so you can contact your insurance company.So this is ten digits: 87954 82361\nLOUISE: Thank you. So should I …&nbsp;","transcriptFormats":[{"start":79,"end":95,"kind":"underline"}],"tags":["拼写（数字）"],"subTags":["88352cf3-e5f7-4093-abf4-042f156f1e1e"],"evidenceFormats":[],"predictionTags":["数字"]}},"createdAt":"2026-11-06T08:52:01.036Z","attempts":{"10":"lecture notes+音频对应 同步"},"answerCloud":{"sha":"8b137891791fe96927ad78e64b0aad7bded08bdc","path":"14-1-1 表单填空 答案词.txt"},"answerWordsRaw":"1. Canadian\n2. furniture\n3. Park\n4. 250 | 250 sterling\n5. phone\n6. September 10 | 10 September | September 10th | 10th September\n7. museum\n8. time\n9. blond | blonde\n10. 87954 82361 | 8795482361","transcript":"(Qexample) OFFICER: Good morning. What can I do for you?\n\nLOUISE: I want to report a theft. I had some things stolen out of my bag yesterday.&nbsp;\n\nOFFICER: I'm sorry to hear that. Right, so I'll need to take a few details. Can I start with your name?\n\nLOUISE: Louise Taylor.&nbsp;\n\n(Q1) [resident = nationality 解释] OFFICER: OK, thank you. And are you resident in the UK?\n\n[Q1答案句] LOUISE: No, I'm actually Canadian, though my mother was British.&nbsp;\n\nOFFICER: And your date of birth?\n\nLOUISE: December 14th, 1977.&nbsp;\n\n(Q2) OFFICER: So you're just visiting this country?\n\n[Q2答案句] LOUISE: That's right. I come over most summers on business. I'm an interior designer and I come over to buy old furniture, antiques you know.&nbsp;\n\nThere are some really lovely things around here, but you need to get out to the small towns. I've had a really good trip this year, until this happened.\n\n(Q3) OFFICER: OK. So you've been here quite a while?\n\nLOUISE: Yes, I'm here for two months. I go back next week.&nbsp;\n\n[Q3定位词： stay = address 解释， now=current 近义词] OFFICER: So may I ask where you're staying now?\n\n[Q3答案句：at present = current] LOUISE: Well at present I've got a place at Park Apartments, that's on King Street.&nbsp;\n\n[Q3干扰项] I was staying at the Riverside Apartments on the same street, but the apartment there was only available for six weeks so I had to find another one.\n\nOFFICER: OK. And the apartment number?\n\nLOUISE: Fifteen.&nbsp;\n\nOFFICER: Right.\n\n(Q4) OFFICER: Now, I need to take some details of the theft. So you said you had some things stolen out of your bag?\n\nLOUISE: That's right.&nbsp;\n\nOFFICER: And were you actually carrying the bag when the theft took place?\n\nYes. I really can't understand it. I had my backpack on. And I went into a supermarket to buy a few things and when I opened it up my wallet wasn't there.&nbsp;\n\n[Q4答案句] OFFICER: And what did your wallet have in it?LOUISE: Well, fortunately I don't keep my credit cards in that wallet - I keep them with my passport in an inside compartment in my backpack.&nbsp; &nbsp;But there was quite a bit of cash there…about ￡250 sterling, I should think.\n\n(Q5) I withdrew ￡300 from my account yesterday, but I did a bit of shopping, so I must have already spent about ￡50 of that.\n\nOFFICER: OK.\n\n[Q5答案句] LOUISE: At first I thought, oh I must have left the wallet back in the apartment, but then I realised my phone had gone as well.&nbsp;\n\nIt was only a week old, and that's when I realised I'd been robbed. Anyway at least they didn't take the keys to my rental car.\n\n(Q6) [Q6答案句] OFFICER: Yes. So you say the theft occurred yesterday?LOUISE: Yes.&nbsp;OFFICER: So that was September the tenth.\n\n(Q7) [where= location] And do you have any idea at all of where or when the things might possibly have been stolen?\n\nLOUISE: Well at first I couldn't believe it because the bag had been on my back ever since I left the apartment after lunch.\n\nIt's just a small backpack, but I generally use it when I'm travelling because it seems safer than a handbag.\n\n[Q7答案句： 但 4pm后面才出现【答案前置】] Anyway, I met up with a friend, and we spent a couple of hours in the museum.\n\n(Q8) But I do remember that as we were leaving there, at about 4 o'clock,\n\n[Q8答案句] a group of young boys ran up to us, and they were really crowding round us, and they were asking us what time it was, then all of a sudden they ran off.\n\n(Q9) OFFICER: Can you remember anything about them?\n\nLOUISE: The one who did most of the talking was wearing a T-shirt with a picture of something…let's see… a tiger.&nbsp;\n\nOFFICER: Right. Any idea of how old he might have been?\n\nLOUISE: Around twelve years old?&nbsp;\n\nOFFICER: And can you remember anything else about his appearance?\n\nLOUISE: Not much. He was quite thin…&nbsp;\n\n[Q9答案句] OFFICER: Colour of hair?LOUISE: I do remember that - he was blond. All the others were dark-haired.&nbsp;\n\nOFFICER: And any details of the others?\n\nLOUISE: Not really. They came and went so quickly.&nbsp;\n\n(Q10) [Q10答案句] OFFICER: Right. So what I'm going to do now is give you a crime reference number so you can contact your insurance company.So this is ten digits: 87954 82361\n\nLOUISE: Thank you. So should I …&nbsp;","srtSource":{"path":"14-1-1 英文.srt","sha":"8933ac19283e127d2ef222adea07e2cf9bc421bd","fetchedAt":"2026-11-06T09:02:25.375Z"},"audioData":{"parserVersion":2,"index":"14-1-1","repo":"itsjiselle/ielts-listening-questions-pdf","ref":"db7646502ca76f71cae8e2a4086cd54c71ce7b64","audioPath":"14-1-1.mp3","audioSha":"5938d6007e7fb837161ec383ddcb2d707fa1a4f6","srtPath":"14-1-1 英文.srt","srtSha":"8933ac19283e127d2ef222adea07e2cf9bc421bd","cues":[{"id":"0","start":2.407,"end":5.844,"text":"(Qexample) OFFICER: Good morning. What can I do for you?","q":null,"invalidTime":false},{"id":"1","start":5.844,"end":11.817,"text":"LOUISE: I want to report a theft. I had some things stolen out of my bag yesterday.&nbsp;","q":null,"invalidTime":false},{"id":"2","start":11.817,"end":19.864,"text":"OFFICER: I'm sorry to hear that. Right, so I'll need to take a few details. Can I start with your name?","q":null,"invalidTime":false},{"id":"3","start":19.864,"end":22.745,"text":"LOUISE: Louise Taylor.&nbsp;","q":null,"invalidTime":false},{"id":"4","start":22.745,"end":27.297,"text":"(Q1) [resident = nationality 解释] OFFICER: OK, thank you. And are you resident in the UK?","q":1,"invalidTime":false},{"id":"5","start":27.297,"end":32.795,"text":"[Q1答案句] LOUISE: No, I'm actually Canadian, though my mother was British.&nbsp;","q":1,"invalidTime":false},{"id":"6","start":32.795,"end":35.081,"text":"OFFICER: And your date of birth?","q":1,"invalidTime":false},{"id":"7","start":35.081,"end":39.442,"text":"LOUISE: December 14th, 1977.&nbsp;","q":1,"invalidTime":false},{"id":"8","start":39.442,"end":42.944,"text":"(Q2) OFFICER: So you're just visiting this country?","q":2,"invalidTime":false},{"id":"9","start":42.944,"end":52.777,"text":"[Q2答案句] LOUISE: That's right. I come over most summers on business. I'm an interior designer and I come over to buy old furniture, antiques you know.&nbsp;","q":2,"invalidTime":false},{"id":"10","start":52.777,"end":62.764,"text":"There are some really lovely things around here, but you need to get out to the small towns. I've had a really good trip this year, until this happened.","q":2,"invalidTime":false},{"id":"11","start":62.764,"end":66.894,"text":"(Q3) OFFICER: OK. So you've been here quite a while?","q":3,"invalidTime":false},{"id":"12","start":66.894,"end":71.93299999999999,"text":"LOUISE: Yes, I'm here for two months. I go back next week.&nbsp;","q":3,"invalidTime":false},{"id":"13","start":71.93299999999999,"end":75.977,"text":"[Q3定位词： stay = address 解释， now=current 近义词] OFFICER: So may I ask where you're staying now?","q":3,"invalidTime":false},{"id":"14","start":75.977,"end":82.878,"text":"[Q3答案句：at present = current] LOUISE: Well at present I've got a place at Park Apartments, that's on King Street.&nbsp;","q":3,"invalidTime":false},{"id":"15","start":82.878,"end":92.67699999999999,"text":"[Q3干扰项] I was staying at the Riverside Apartments on the same street, but the apartment there was only available for six weeks so I had to find another one.","q":3,"invalidTime":false},{"id":"16","start":92.67699999999999,"end":96.063,"text":"OFFICER: OK. And the apartment number?","q":3,"invalidTime":false},{"id":"17","start":96.063,"end":98.313,"text":"LOUISE: Fifteen.&nbsp;","q":3,"invalidTime":false},{"id":"18","start":98.313,"end":100.024,"text":"OFFICER: Right.","q":3,"invalidTime":false},{"id":"19","start":100.024,"end":108.712,"text":"(Q4) OFFICER: Now, I need to take some details of the theft. So you said you had some things stolen out of your bag?","q":4,"invalidTime":false},{"id":"20","start":108.712,"end":110.965,"text":"LOUISE: That's right.&nbsp;","q":4,"invalidTime":false},{"id":"21","start":110.965,"end":117.15899999999999,"text":"OFFICER: And were you actually carrying the bag when the theft took place?","q":4,"invalidTime":false},{"id":"22","start":117.15899999999999,"end":129.836,"text":"Yes. I really can't understand it. I had my backpack on. And I went into a supermarket to buy a few things and when I opened it up my wallet wasn't there.&nbsp;","q":4,"invalidTime":false},{"id":"23","start":129.836,"end":151.676,"text":"[Q4答案句] OFFICER: And what did your wallet have in it?LOUISE: Well, fortunately I don't keep my credit cards in that wallet - I keep them with my passport in an inside compartment in my backpack.&nbsp; &nbsp;But there was quite a bit of cash there…about ￡250 sterling, I should think.","q":4,"invalidTime":false},{"id":"24","start":151.676,"end":162.66899999999998,"text":"(Q5) I withdrew ￡300 from my account yesterday, but I did a bit of shopping, so I must have already spent about ￡50 of that.","q":5,"invalidTime":false},{"id":"25","start":162.66899999999998,"end":165.186,"text":"OFFICER: OK.","q":5,"invalidTime":false},{"id":"26","start":165.186,"end":174.304,"text":"[Q5答案句] LOUISE: At first I thought, oh I must have left the wallet back in the apartment, but then I realised my phone had gone as well.&nbsp;","q":5,"invalidTime":false},{"id":"27","start":174.304,"end":184.716,"text":"It was only a week old, and that's when I realised I'd been robbed. Anyway at least they didn't take the keys to my rental car.","q":5,"invalidTime":false},{"id":"28","start":184.716,"end":195.497,"text":"(Q6) [Q6答案句] OFFICER: Yes. So you say the theft occurred yesterday?LOUISE: Yes.&nbsp;OFFICER: So that was September the tenth.","q":6,"invalidTime":false},{"id":"29","start":195.497,"end":202.8,"text":"(Q7) [where= location] And do you have any idea at all of where or when the things might possibly have been stolen?","q":7,"invalidTime":false},{"id":"30","start":202.8,"end":211.596,"text":"LOUISE: Well at first I couldn't believe it because the bag had been on my back ever since I left the apartment after lunch.","q":7,"invalidTime":false},{"id":"31","start":211.596,"end":219.478,"text":"It's just a small backpack, but I generally use it when I'm travelling because it seems safer than a handbag.","q":7,"invalidTime":false},{"id":"32","start":219.478,"end":226.686,"text":"[Q7答案句： 但 4pm后面才出现【答案前置】] Anyway, I met up with a friend, and we spent a couple of hours in the museum.","q":7,"invalidTime":false},{"id":"33","start":226.686,"end":232.003,"text":"(Q8) But I do remember that as we were leaving there, at about 4 o'clock,","q":8,"invalidTime":false},{"id":"34","start":232.003,"end":244.585,"text":"[Q8答案句] a group of young boys ran up to us, and they were really crowding round us, and they were asking us what time it was, then all of a sudden they ran off.","q":8,"invalidTime":false},{"id":"35","start":244.585,"end":247.883,"text":"(Q9) OFFICER: Can you remember anything about them?","q":9,"invalidTime":false},{"id":"36","start":247.883,"end":259.752,"text":"LOUISE: The one who did most of the talking was wearing a T-shirt with a picture of something…let's see… a tiger.&nbsp;","q":9,"invalidTime":false},{"id":"37","start":259.752,"end":263.865,"text":"OFFICER: Right. Any idea of how old he might have been?","q":9,"invalidTime":false},{"id":"38","start":263.865,"end":267.365,"text":"LOUISE: Around twelve years old?&nbsp;","q":9,"invalidTime":false},{"id":"39","start":267.365,"end":272.23,"text":"OFFICER: And can you remember anything else about his appearance?","q":9,"invalidTime":false},{"id":"40","start":272.23,"end":277.127,"text":"LOUISE: Not much. He was quite thin…&nbsp;","q":9,"invalidTime":false},{"id":"41","start":277.127,"end":285.947,"text":"[Q9答案句] OFFICER: Colour of hair?LOUISE: I do remember that - he was blond. All the others were dark-haired.&nbsp;","q":9,"invalidTime":false},{"id":"42","start":285.947,"end":289.478,"text":"OFFICER: And any details of the others?","q":9,"invalidTime":false},{"id":"43","start":289.478,"end":294.947,"text":"LOUISE: Not really. They came and went so quickly.&nbsp;","q":9,"invalidTime":false},{"id":"44","start":294.947,"end":315.504,"text":"(Q10) [Q10答案句] OFFICER: Right. So what I'm going to do now is give you a crime reference number so you can contact your insurance company.So this is ten digits: 87954 82361","q":10,"invalidTime":false},{"id":"45","start":315.504,"end":318.004,"text":"LOUISE: Thank you. So should I …&nbsp;","q":10,"invalidTime":false}],"matches":{"1":{"all":["[Q1答案句] LOUISE: No, I'm actually Canadian, though my mother was British.&nbsp;"],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"2":{"all":["[Q2答案句] LOUISE: That's right. I come over most summers on business. I'm an interior designer and I come over to buy old furniture, antiques you know.&nbsp;"],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"3":{"all":["[Q3答案句：at present = current] LOUISE: Well at present I've got a place at Park Apartments, that's on King Street.&nbsp;","[Q3干扰项] I was staying at the Riverside Apartments on the same street, but the apartment there was only available for six weeks so I had to find another one."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"4":{"all":["[Q4答案句] OFFICER: And what did your wallet have in it?LOUISE: Well, fortunately I don't keep my credit cards in that wallet - I keep them with my passport in an inside compartment in my backpack.&nbsp; &nbsp;But there was quite a bit of cash there…about ￡250 sterling, I should think."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"5":{"all":["[Q5答案句] LOUISE: At first I thought, oh I must have left the wallet back in the apartment, but then I realised my phone had gone as well.&nbsp;"],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"6":{"all":["(Q6) [Q6答案句] OFFICER: Yes. So you say the theft occurred yesterday?LOUISE: Yes.&nbsp;OFFICER: So that was September the tenth."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"7":{"all":["[Q7答案句： 但 4pm后面才出现【答案前置】] Anyway, I met up with a friend, and we spent a couple of hours in the museum."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"8":{"all":["[Q8答案句] a group of young boys ran up to us, and they were really crowding round us, and they were asking us what time it was, then all of a sudden they ran off."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"9":{"all":["[Q9答案句] OFFICER: Colour of hair?LOUISE: I do remember that - he was blond. All the others were dark-haired.&nbsp;"],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"10":{"all":["(Q10) [Q10答案句] OFFICER: Right. So what I'm going to do now is give you a crime reference number so you can contact your insurance company.So this is ten digits: 87954 82361"],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true}}},"tagArchiveFiles":{"考点":"part1填空题 - 考点库标签- 考点.txt","审题预测":"part1填空题 - 考点库标签- 审题预测.txt","答案前置":"part1填空题 - 考点库标签- 答案前置.txt"},"tagCatalog":{"tags":["拼写（字母）","拼写（数字）","拼写（字母+数字）","(审题)空前无实义词，跟上一行/小标题","(审题)紧挨空前是限定词， 再往前是名词时， 需要再往前面找 分级标题 作为限定词（因为非分级标题的名词可能会后置）","(审题)「空前无实词，且上一行以答案词结尾」","(审题)。画空后定位词or限定词 in case语序调换/答案前置。  （除了明显的 数字、字母拼写考点的题之外，  其实如果答案空所在句，后面也有 普通名词类，  也需要画出来，作为定位词）","(审题可预测)❗️干扰项：答案空类型明显","答案前置（被动语态）","答案前置（定语从句）","答案前置（介词短语 / 词组题）","答案前置（adj.+n.）","答案前置（所有格）","(听中)记录疑似答案+等另一人确认","(听中)记录疑似答案+代词指代","(听中)记录疑似答案+空前定位/限定词【语序调换/答案前置】","(空前)限定词的同义替换","答案前置- 答案空后括号内容 - 修饰成分","(仅听中)干扰项+强调信号词","得出答案方式非常直观（跟定位），重点考【拼写掌握】","(空后)同义替换","答案空前 明显连接词"],"children":{"答案前置- 答案空后括号内容 - 修饰成分":[],"答案前置（定语从句）":[{"id":"dab54cb8-eeaf-4864-b8ad-b245905f1883","name":"答案空在定语从句内"},{"id":"1547cd1f-63de-4dc2-9916-daba6a96277d","name":"答案空+定语从句"}],"得出答案方式非常直观（跟定位），重点考【拼写掌握】":[],"(审题可预测)❗️干扰项：答案空类型明显":[{"id":"79b8bab4-e9c9-4e61-9684-71850a817717","name":"答案词得出方式：强调信号词"},{"id":"1b0c329b-f118-40f6-8f7d-eb7914326f98","name":"答案词得出方式：跟(限定词)同义替换"},{"id":"58cc63c5-252b-4bd4-acc5-01479b8b5646","name":"答案词得出方式：依据题目内容限定 排除错误答案"}],"答案前置（介词短语 / 词组题）":[],"(仅听中)干扰项+强调信号词":[],"答案前置（被动语态）":[{"id":"392db4eb-88df-497c-9731-1745edcddbdf","name":"... + 被动语态 + 答案空"},{"id":"b8bd2ec5-97d0-4c74-8f43-2f4583f8d8dc","name":"答案空+被动语态"}],"(审题)紧挨空前是限定词， 再往前是名词时， 需要再往前面找 分级标题 作为限定词（因为非分级标题的名词可能会后置）":[],"(审题)空前无实义词，跟上一行/小标题":[],"(审题)。画空后定位词or限定词 in case语序调换/答案前置。  （除了明显的 数字、字母拼写考点的题之外，  其实如果答案空所在句，后面也有 普通名词类，  也需要画出来，作为定位词）":[],"(听中)记录疑似答案+空前定位/限定词【语序调换/答案前置】":[],"答案空前 明显连接词":[{"id":"05597fed-0301-4e10-b01d-d6181d6aa3b7","name":"答案空前 出现表并列连接词，注意听 同义替换"},{"id":"82c44d43-412d-439f-a861-65e90a7d661e","name":"答案空前 举例 连接词"}],"(审题)「空前无实词，且上一行以答案词结尾」":[],"(空前)限定词的同义替换":[{"id":"42751112-e7c7-42db-959c-34a928b53c22","name":"(空前)限定词(v.)的同义替换"},{"id":"92bb42f2-c6a5-4ec0-8722-4044a7a83ec4","name":"(空前)限定词(adj.)的同义替换"},{"id":"bec46afd-3d85-47e8-b5d1-5368c0e19b52","name":"(空前)限定词(adv. / prep.)的同义替换"},{"id":"edb1568d-b990-4b5a-b2ec-33d0c657552b","name":"(空前)限定词(普通n.)的同义替换"},{"id":"fe6e6587-fc21-4802-a940-7dcb4aaec767","name":"(空前)限定词(否定类)的同义替换"},{"id":"3b998d2d-9c24-4515-846e-11d4fe7211ec","name":"数量表达"},{"id":"4583a368-c516-4073-962f-5826efb22964","name":"时间表达"}],"拼写（数字）":[{"id":"8bbe8b21-88e2-4096-85e1-ee556ba44c09","name":"电话"},{"id":"d6ca606f-9a21-4d12-bc56-74767f46b1a7","name":"具体时间"},{"id":"6d179315-a54c-46a9-9893-7946ece8f2d0","name":"日期(数字+月份词)"},{"id":"67e4546d-3861-41e6-88ce-2ac6a44f7677","name":"价格"},{"id":"6115cab2-926d-4ba0-bf0c-6d253fd3e6c6","name":"年龄"},{"id":"88352cf3-e5f7-4093-abf4-042f156f1e1e","name":"reference number"}]},"order":["拼写（字母）","拼写（数字）","拼写（字母+数字）","(审题)空前无实义词，跟上一行/小标题","(审题)紧挨空前是限定词， 再往前是名词时， 需要再往前面找 分级标题 作为限定词（因为非分级标题的名词可能会后置）","(审题)「空前无实词，且上一行以答案词结尾」","(审题)。画空后定位词or限定词 in case语序调换/答案前置。  （除了明显的 数字、字母拼写考点的题之外，  其实如果答案空所在句，后面也有 普通名词类，  也需要画出来，作为定位词）","(审题可预测)❗️干扰项：答案空类型明显","答案前置（被动语态）","答案前置（定语从句）","答案前置（介词短语 / 词组题）","答案前置（adj.+n.）","答案前置（所有格）","(听中)记录疑似答案+等另一人确认","(听中)记录疑似答案+代词指代","(听中)记录疑似答案+空前定位/限定词【语序调换/答案前置】","(空前)限定词的同义替换","答案前置- 答案空后括号内容 - 修饰成分","(仅听中)干扰项+强调信号词","得出答案方式非常直观（跟定位），重点考【拼写掌握】","(空后)同义替换","答案空前 明显连接词"]},"predictionCatalog":["专有名词（等拼写）","数字","数字+字母 组合（邮编等）","n.","可数名词 - 单数","可数名词 - 复数","不可数名词","动名词","adj.","v.","地点类","职业类","学科类","电话","具体时间","日期(数字+月份词 / 星期)","价格","衣物类","日期","媒介/渠道类","时间类","活动类","邮编","时长（数字+时间单位）","可数名词 - 单数（元音音素开头）","某种方式","星期词","身体部位类","月份词","运动类"],"frontingCatalog":["被动语态","定语从句","介词短语 n.+prep+答案空 / 答案空+prep.+n.","空格附近 adj","答案空后括号 作为修饰成分","答案空在定语从句内","答案空+定语从句","adj.+ 答案空","答案空+n.","答案空 + be + adj.","adj.+答案空 / 答案空+n.","词组题（答案空与前或后内容 构成词组）","所有格","(审题) 答案空后出现普通名词or限定词  预测有语序调换"],"predictionParents":{"电话":"数字","具体时间":"数字","日期":"数字","价格":"数字","可数名词 - 单数":"n.","可数名词 - 复数":"n.","不可数名词":"n.","动名词":"n.","时长（数字+ 时间单位）":"数字+字母/word 组合","时长（数字+时间单位）":"数字+字母/word 组合","邮编":"数字+字母/word 组合","可数名词 - 单数（元音音素开头）":"n.","星期词":"时间类","月份词":"时间类"},"frontingParents":{"答案空在定语从句内":"定语从句","答案空+定语从句":"定语从句","adj.+ 答案空":"空格附近 adj","答案空+n.":"空格附近 adj","答案空 + be + adj.":"空格附近 adj"}}
