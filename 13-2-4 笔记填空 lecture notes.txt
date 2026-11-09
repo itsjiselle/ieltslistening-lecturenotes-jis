@@ -1,0 +1,226 @@
+13-2-4 .
+话题分类：未分类
+Complete the notes below.
+Write ONE WORD ONLY for each answer.
+
+
+Episodic memory
+
+• the ability to recall details, e.g. the time and 31.____________ of past events
+• different to semantic memory - the ability to remember general information about the 32.____________ ，which does not involve recalling 33.____________ information
+
+Forming episodic memories involves three steps:
+Encoding
+• involves receiving and processing information
+• the more 34.____________ given to an event, the more successfully it can be encoded 
+• to remember a 35.____________ ，it is useful to have a strategy for encoding such information
+
+
+Consolidation
+• how memories are strengthened and stored
+• most effective when memories can be added to a 36.____________ of related information
+• the 37.____________ of retrieval affects the strength of memories
+
+
+Retrieval
+• memory retrieval often depends on using a prompt, e.g. the 38.____________ of an object near to the place where you left your car
+
+Episodic memory impairments
+
+• these affect people with a wide range of medical conditions
+• games which stimulate the 39.____________ have been found to help people with schizophrenia
+• children with autism may have difficulty forming episodic memories - possibly because their concept of the 40.____________ may be absent
+• memory training may help autistic children develop social skills
+
+Q31 答案：location
+存疑：未标记
+难度：未选择
+审题预测：n.
+答案前置关注：
+答案句：Episodic memories include various details about these events, for example, when an event happened and other information such as the location.
+同义替换：for example = e.g.
+and=and
+when an event happened = the time 
+
+干扰项：
+讲题路径：
+
+Q32 答案：world
+存疑：未标记
+难度：未选择
+审题预测：
+答案前置关注：
+答案句：This is the type of factual memory that we have in common with everyone else - that is your general knowledge of the world.
+同义替换：[Q32答案句]
+干扰项：
+讲题路径：
+
+Q33 答案：personal
+存疑：未标记
+难度：未选择
+审题预测：adj、n.
+答案前置关注：
+答案句：Unlike episodic memory, semantic memory isn't dependent on recalling personal experiences.
+同义替换：Unlike = does not involve
+recall原词+跟出答案词
+干扰项：
+讲题路径：
+
+Q34 答案：attention
+存疑：未标记
+难度：未选择
+审题预测：n.
+答案前置关注：无明显逻辑连接词，关注句子间逻辑关系
+答案句：The degree to which you can successfully encode information depends on the level of attention you give to an event while it's actually happening.
+同义替换：B depends on A = the more A， the more B
+表示数量： the level of = more 数量关系
+干扰项：
+讲题路径：广义因果关系： 依赖/条件关系
+
+Q35 答案：name
+存疑：未标记
+难度：未选择
+审题预测：n.、可数n. - 单数
+答案前置关注：
+答案句：Future recollection of Charlie's name is much easier if you have a strategy to help you encode it.
+同义替换：recollection = remember 
+干扰项：
+讲题路径：
+
+Q36 答案：network
+存疑：未标记
+难度：未选择
+审题预测：n.、可数n. - 单数
+答案前置关注：
+答案句：Consolidation is most effective when the information being stored can be linked to an existing network of information.
+同义替换：be linked to = be added to
+干扰项：
+讲题路径：
+
+Q37 答案：frequency
+存疑：未标记
+难度：未选择
+审题预测：n.
+答案前置关注：无明显逻辑连接词，关注句子间逻辑关系
+答案句：Forming strong memories depends on the frequency with which you try to retrieve them.
+同义替换：strong memory = 空后 strength of memory
+depend on = affect 
+
+
+干扰项：
+讲题路径：◾️ affects：不是明显的逻辑连接词， 但要理解含义： 影响，暗含一种因果关系，考虑前置
+
+Q38 答案：colour | color
+存疑：未标记
+难度：未选择
+审题预测：n.
+答案前置关注：介词短语 & 词组题、答案空 + prep +n.
+答案句：For example, when recalling where you parked your car you may use the colour of a sign close to where you parked.
+同义替换：for example = e.g.
+干扰项：
+讲题路径：
+
+Q39 答案：brain
+存疑：未标记
+难度：未选择
+审题预测：n.
+答案前置关注：
+答案句：Recent studies have shown that computer-assisted games designed to keep the brain active can help improve their episodic memory.
+同义替换：keep the ... active = stimulate 
+干扰项：
+讲题路径：
+
+Q40 答案：self
+存疑：未标记
+难度：未选择
+审题预测：n.
+答案前置关注：
+答案句：This may be caused by an absence of a sense of self.
+同义替换：be caused by = because
+absence = absent 
+sense = concept
+干扰项：
+讲题路径：
+
+Overall comments：
+整体语速很慢！ 我自己1.25x听下来都ok 
+原文：
+(Q31) Today, we'll be continuing the series of lectures on memory by focusing on what is called episodic memory and what can happen if this is not working properly.
+
+Episodic memory refers to the memory of an event or 'episode'.
+
+Episodic memories allow us to mentally travel back in time to an event from the past.
+
+[Q31答案句] Episodic memories include various details about these events, for example, when an event happened and other information such as the location.
+
+(Q32) To help understand this concept, try to remember the last time you ate dinner at a restaurant.
+
+The ability to remember where you ate, who you were with and the items you ordered are all features of an episodic memory.
+
+Episodic memory is distinct from another type of memory called semantic memory.
+
+[Q32答案句] This is the type of factual memory that we have in common with everyone else - that is your general knowledge of the world.
+
+(Q33) To build upon a previous example, remembering where you parked your car is an example of episodic memory, but your understanding of what a car is and how an engine works are examples of semantic memory.
+
+[Q33答案句] Unlike episodic memory, semantic memory isn't dependent on recalling personal experiences.
+
+(Q34) Episodic memory can be thought of as a process with several different steps of memory processing: encoding, consolidation and retrieval.
+
+The initial step is called encoding.
+
+This involves the process of receiving and registering information, which is necessary for creating memories of information or events that you experience.
+
+[Q34答案句： 整句前置，所以审题需要理解两句间逻辑关系] The degree to which you can successfully encode information depends on the level of attention you give to an event while it's actually happening.
+
+(Q35) Being distracted can make effective encoding very difficult.
+
+Encoding of episodic memories is also influenced by how you process the event.
+
+For example, if you were introduced to someone called Charlie, you might make the connection that your uncle has the same name.
+
+[Q35答案句] Future recollection of Charlie's name is much easier if you have a strategy to help you encode it.
+
+(Q36) Memory consolidation, the next step in forming an episodic memory, is the process by which memories of encoded information are strengthened, stabilised and stored to facilitate later retrieval.
+
+[Q36答案句] Consolidation is most effective when the information being stored can be linked to an existing network of information.
+
+(Q37) Consolidation makes it possible for you to store memories for later retrieval indefinitely.
+
+[Q37答案句] Forming strong memories depends on the frequency with which you try to retrieve them.
+
+(Q38) Memories can fade or become harder to retrieve if they aren't used very often.
+
+The last step in forming episodic memories is called retrieval, which is the conscious recollection of encoded information.
+
+Retrieving information from episodic memory depends upon semantic, olfactory, auditory and visual factors.
+
+These help episodic memory retrieval by acting as a prompt.
+
+[Q38答案句] For example, when recalling where you parked your car you may use the colour of a sign close to where you parked.
+
+You actually have to mentally travel back to the moment you parked.
+
+(Q39) There are a wide range of neurological diseases and conditions that can affect episodic memory.
+
+These range from Alzheimer's to schizophrenia to autism.
+
+An impairment of episodic memory can have a profound effect on individuals' lives.
+
+For example, the symptoms of schizophrenia can be reasonably well controlled by medication;
+
+however, patients' episodic memory may still be impaired and so they are often unable to return to university or work.
+
+[Q39答案句] Recent studies have shown that computer-assisted games designed to keep the brain active can help improve their episodic memory.
+
+(Q40) Episodic memories can help people connect with others, for instance by sharing intimate details about their past: something individuals with autism often have problems with.
+
+[Q40答案句] This may be caused by an absence of a sense of self.
+
+This is essential for the storage of episodic memory, and has been found to be impaired in children with autism.
+
+Research has shown that treatments that improve memory may also have a positive impact on children's social development.
+
+One study looked at a ...
+--- JISELLE NOTES FORM DATA V1 ---
+{"id":"notes-9c962e57-0fd9-4ebd-bbd9-1a80caccd484","index":"13-2-4","part":4,"title":".","kind":"notes","wordLimit":"ONE WORD ONLY","mode":"headings","intro":"","type":"填空题","tableCells":null,"sourceText":"","blocks":[{"heading":"Episodic memory","subheading":"","lectureBlock":0,"body":"• the ability to recall details, e.g. the time and 31.____________ of past events\n• different to semantic memory - the ability to remember general information about the 32.____________ ，which does not involve recalling 33.____________ information","layout":null,"columnWidths":null,"formats":[{"start":47,"end":50,"kind":"highlight"},{"start":33,"end":37,"kind":"highlight"},{"start":42,"end":46,"kind":"underline"},{"start":24,"end":31,"kind":"underline"},{"start":70,"end":81,"kind":"underline"},{"start":139,"end":158,"kind":"underline"},{"start":197,"end":200,"kind":"highlight"},{"start":201,"end":208,"kind":"highlight"},{"start":209,"end":218,"kind":"highlight"},{"start":235,"end":246,"kind":"underline"}]},{"heading":"Forming episodic memories involves three steps:","subheading":"Encoding","lectureBlock":1,"body":"• involves receiving and processing information\n• the more 34.____________ given to an event, the more successfully it can be encoded \n• to remember a 35.____________ ，it is useful to have a strategy for encoding such information","layout":null,"columnWidths":null,"formats":[{"start":50,"end":58,"kind":"highlight"},{"start":94,"end":102,"kind":"highlight"},{"start":25,"end":47,"kind":"underline"},{"start":75,"end":83,"kind":"highlight"},{"start":126,"end":133,"kind":"highlight"},{"start":103,"end":115,"kind":"highlight"},{"start":140,"end":148,"kind":"highlight"},{"start":191,"end":199,"kind":"underline"},{"start":204,"end":229,"kind":"highlight"}]},{"heading":"","subheading":"Consolidation","lectureBlock":2,"body":"• how memories are strengthened and stored\n• most effective when memories can be added to a 36.____________ of related information\n• the 37.____________ of retrieval affects the strength of memories","layout":null,"columnWidths":null,"formats":[{"start":6,"end":14,"kind":"underline"},{"start":19,"end":42,"kind":"highlight"},{"start":81,"end":86,"kind":"highlight"},{"start":119,"end":130,"kind":"underline"},{"start":156,"end":165,"kind":"underline"},{"start":166,"end":173,"kind":"highlight"},{"start":178,"end":198,"kind":"underline"}]},{"heading":"","subheading":"Retrieval","lectureBlock":2,"body":"• memory retrieval often depends on using a prompt, e.g. the 38.____________ of an object near to the place where you left your car","layout":null,"columnWidths":null,"formats":[{"start":52,"end":56,"kind":"highlight"},{"start":44,"end":50,"kind":"underline"},{"start":90,"end":97,"kind":"highlight"},{"start":118,"end":131,"kind":"highlight"}]},{"heading":"Episodic memory impairments","subheading":"","lectureBlock":3,"body":"• these affect people with a wide range of medical conditions\n• games which stimulate the 39.____________ have been found to help people with schizophrenia\n• children with autism may have difficulty forming episodic memories - possibly because their concept of the 40.____________ may be absent\n• memory training may help autistic children develop social skills","layout":null,"columnWidths":null,"formats":[{"start":64,"end":69,"kind":"underline"},{"start":76,"end":85,"kind":"highlight"},{"start":142,"end":155,"kind":"underline"},{"start":236,"end":243,"kind":"highlight"},{"start":288,"end":294,"kind":"highlight"},{"start":250,"end":257,"kind":"underline"},{"start":172,"end":178,"kind":"underline"}]}],"numbers":[31,32,33,34,35,36,37,38,39,40],"manualOnly":false,"bullets":true,"bulletsApplied":true,"questionNotes":{"31":{"answer":"location","evidence":"Episodic memories include various details about these events, for example, when an event happened and other information such as the location.","note":"for example = e.g.\nand=and\nwhen an event happened = the time \n","teaching":"","transcript":"(Q31) Today, we'll be continuing the series of lectures on memory by focusing on what is called episodic memory and what can happen if this is not working properly.\nEpisodic memory refers to the memory of an event or 'episode'.\nEpisodic memories allow us to mentally travel back in time to an event from the past.\n[Q31答案句] Episodic memories include various details about these events, for example, when an event happened and other information such as the location.","transcriptFormats":[],"tags":["答案得出方式相对直观， 跟空前定位词","空前关注各类「逻辑连接词」"],"subTags":["f17fa0d7-c3dd-4b59-838b-873d3f8290a2","ce5a40cc-6ab7-4c18-8376-ea1a9e9e8eb6","55adc83c-ebec-4f7d-91b9-45f550ddf550"],"noteFormats":[],"evidenceFormats":[{"start":75,"end":97,"kind":"highlight"}],"predictionTags":["n."]},"32":{"answer":"world","evidence":"This is the type of factual memory that we have in common with everyone else - that is your general knowledge of the world.","note":"[Q32答案句]","teaching":"","transcript":"(Q32) To help understand this concept, try to remember the last time you ate dinner at a restaurant.\nThe ability to remember where you ate, who you were with and the items you ordered are all features of an episodic memory.\nEpisodic memory is distinct from another type of memory called semantic memory.\n[Q32答案句] This is the type of factual memory that we have in common with everyone else - that is your general knowledge of the world.","transcriptFormats":[],"tags":[],"subTags":[]},"33":{"answer":"personal","evidence":"Unlike episodic memory, semantic memory isn't dependent on recalling personal experiences.","note":"Unlike = does not involve\nrecall原词+跟出答案词","teaching":"","transcript":"(Q33) To build upon a previous example, remembering where you parked your car is an example of episodic memory, but your understanding of what a car is and how an engine works are examples of semantic memory.\n[Q33答案句] Unlike episodic memory, semantic memory isn't dependent on recalling personal experiences.","transcriptFormats":[{"start":218,"end":224,"kind":"highlight"}],"noteFormats":[],"predictionTags":["adj","n."],"tags":["答案得出相对直观，跟空前限定词的同义替换"],"subTags":["020c9259-2f55-44db-9dda-090936631c5f","e8b8eef7-4a53-48bf-99a4-56f7bd700543"]},"34":{"answer":"attention","evidence":"The degree to which you can successfully encode information depends on the level of attention you give to an event while it's actually happening.","note":"B depends on A = the more A， the more B\n表示数量： the level of = more 数量关系","teaching":"广义因果关系： 依赖/条件关系","transcript":"(Q34) Episodic memory can be thought of as a process with several different steps of memory processing: encoding, consolidation and retrieval.\nThe initial step is called encoding.\nThis involves the process of receiving and registering information, which is necessary for creating memories of information or events that you experience.\n[Q34答案句： 整句前置，所以审题需要理解两句间逻辑关系] The degree to which you can successfully encode information depends on the level of attention you give to an event while it's actually happening.","transcriptFormats":[],"tags":["答案得出相对直观，跟空前限定词的同义替换","(审题)空前定位词有限，需要画上一行定位词","空前关注各类「逻辑连接词」"],"subTags":["73baac9a-076d-4c09-8cf6-9f57d2d4a2de","6946f603-30d4-4479-88b9-5fb057229f91","204b0480-3438-44ff-b89f-892309933f02","dad506a2-54a5-4713-a8b3-0a8257c6ed2e"],"focusLines":[{"block":1,"text":"• involves receiving and processing information"}],"predictionTags":["n."],"frontingTags":["无明显逻辑连接词，关注句子间逻辑关系"],"teachingFormats":[],"noteFormats":[]},"35":{"answer":"name","evidence":"Future recollection of Charlie's name is much easier if you have a strategy to help you encode it.","note":"recollection = remember ","teaching":"","transcript":"(Q35) Being distracted can make effective encoding very difficult.\nEncoding of episodic memories is also influenced by how you process the event.\nFor example, if you were introduced to someone called Charlie, you might make the connection that your uncle has the same name.\n[Q35答案句] Future recollection of Charlie's name is much easier if you have a strategy to help you encode it.","transcriptFormats":[],"tags":["答案得出相对直观，跟空前限定词的同义替换"],"subTags":["cd4f2292-470d-4b61-a0a0-a3eb5667fddb"],"predictionTags":["n.","可数n. - 单数"],"evidenceFormats":[{"start":7,"end":19,"kind":"highlight"}],"noteFormats":[]},"36":{"answer":"network","evidence":"Consolidation is most effective when the information being stored can be linked to an existing network of information.","note":"be linked to = be added to","teaching":"","transcript":"(Q36) Memory consolidation, the next step in forming an episodic memory, is the process by which memories of encoded information are strengthened, stabilised and stored to facilitate later retrieval.\n[Q36答案句] Consolidation is most effective when the information being stored can be linked to an existing network of information.","transcriptFormats":[],"tags":["答案得出相对直观，跟空前限定词的同义替换","(审题)空前定位词有限，需要画上一行定位词"],"subTags":["cd4f2292-470d-4b61-a0a0-a3eb5667fddb","6946f603-30d4-4479-88b9-5fb057229f91"],"predictionTags":["n.","可数n. - 单数"],"focusLines":[{"block":2,"text":"• how memories are strengthened and stored"}],"evidenceFormats":[{"start":70,"end":82,"kind":"highlight"}],"noteFormats":[]},"37":{"answer":"frequency","evidence":"Forming strong memories depends on the frequency with which you try to retrieve them.","note":"strong memory = 空后 strength of memory\ndepend on = affect \n\n","teaching":"◾️ affects：不是明显的逻辑连接词， 但要理解含义： 影响，暗含一种因果关系，考虑前置","transcript":"(Q37) Consolidation makes it possible for you to store memories for later retrieval indefinitely.\n[Q37答案句] Forming strong memories depends on the frequency with which you try to retrieve them.","transcriptFormats":[{"start":131,"end":141,"kind":"highlight"}],"tags":["答案前置","(审题)空前定位词有限，需要画上一行定位词","空前关注各类「逻辑连接词」"],"subTags":["0964d75f-4c01-4372-9533-6ba09ca8db20","327795a8-6c0e-46eb-89a7-0ec508694123","204b0480-3438-44ff-b89f-892309933f02"],"predictionTags":["n."],"focusLines":[{"block":2,"text":"• most effective when memories can be added to a 36.____________ of related information"}],"frontingTags":["无明显逻辑连接词，关注句子间逻辑关系"],"glossary":[{"id":"821ec57f-3db8-43b1-aad4-2e349ef53e97","q":37,"kind":"teaching","target":"body","block":2,"start":166,"end":173,"term":"affects","meaning":"不是明显的逻辑连接词， 但要理解含义： 影响，暗含一种因果关系，考虑前置"}],"noteFormats":[]},"38":{"answer":"colour | color","evidence":"For example, when recalling where you parked your car you may use the colour of a sign close to where you parked.","note":"for example = e.g.","teaching":"","transcript":"(Q38) Memories can fade or become harder to retrieve if they aren't used very often.\nThe last step in forming episodic memories is called retrieval, which is the conscious recollection of encoded information.\nRetrieving information from episodic memory depends upon semantic, olfactory, auditory and visual factors.\nThese help episodic memory retrieval by acting as a prompt.\n[Q38答案句] For example, when recalling where you parked your car you may use the colour of a sign close to where you parked.\nYou actually have to mentally travel back to the moment you parked.","transcriptFormats":[{"start":385,"end":396,"kind":"highlight"}],"tags":["答案前置","空前关注各类「逻辑连接词」"],"subTags":["256ac974-e3a5-4c1b-a160-4d07020474cf","55adc83c-ebec-4f7d-91b9-45f550ddf550"],"noteFormats":[],"predictionTags":["n."],"frontingTags":["介词短语 & 词组题","答案空 + prep +n."]},"39":{"answer":"brain","evidence":"Recent studies have shown that computer-assisted games designed to keep the brain active can help improve their episodic memory.","note":"keep the ... active = stimulate ","teaching":"","transcript":"(Q39) There are a wide range of neurological diseases and conditions that can affect episodic memory.\nThese range from Alzheimer's to schizophrenia to autism.\nAn impairment of episodic memory can have a profound effect on individuals' lives.\nFor example, the symptoms of schizophrenia can be reasonably well controlled by medication;\nhowever, patients' episodic memory may still be impaired and so they are often unable to return to university or work.\n[Q39答案句] Recent studies have shown that computer-assisted games designed to keep the brain active can help improve their episodic memory.","transcriptFormats":[{"start":529,"end":550,"kind":"highlight"}],"tags":["答案得出相对直观，跟空前限定词的同义替换","答案得出方式相对直观， 跟空前定位词"],"subTags":["cd4f2292-470d-4b61-a0a0-a3eb5667fddb","a93a15a7-290b-4695-be1c-e2ef48aa2fe2"],"noteFormats":[],"predictionTags":["n."]},"40":{"answer":"self","evidence":"This may be caused by an absence of a sense of self.","note":"be caused by = because\nabsence = absent \nsense = concept","teaching":"","transcript":"(Q40) Episodic memories can help people connect with others, for instance by sharing intimate details about their past: something individuals with autism often have problems with.\n[Q40答案句] This may be caused by an absence of a sense of self.\nThis is essential for the storage of episodic memory, and has been found to be impaired in children with autism.\nResearch has shown that treatments that improve memory may also have a positive impact on children's social development.\nOne study looked at a ...","transcriptFormats":[{"start":198,"end":210,"kind":"highlight"}],"tags":["答案得出相对直观，跟空前限定词的同义替换","答案得出方式相对直观， 跟空前定位词","空前关注各类「逻辑连接词」"],"subTags":["eb16e5de-a1d4-45dd-9ecd-6ee8e849a5a6","204b0480-3438-44ff-b89f-892309933f02"],"noteFormats":[],"predictionTags":["n."]}},"createdAt":"2026-11-08T04:59:17.423Z","topicCategory":"","topicUpdatedAt":"2026-11-08T04:59:29.757Z","answerWordsRaw":"31. location\n32. world\n33. personal\n34. attention\n35. name\n36. network\n37. frequency\n38. colour | color\n39. brain\n40. self","overallComments":"整体语速很慢！ 我自己1.25x听下来都ok ","transcript":"(Q31) Today, we'll be continuing the series of lectures on memory by focusing on what is called episodic memory and what can happen if this is not working properly.\n\nEpisodic memory refers to the memory of an event or 'episode'.\n\nEpisodic memories allow us to mentally travel back in time to an event from the past.\n\n[Q31答案句] Episodic memories include various details about these events, for example, when an event happened and other information such as the location.\n\n(Q32) To help understand this concept, try to remember the last time you ate dinner at a restaurant.\n\nThe ability to remember where you ate, who you were with and the items you ordered are all features of an episodic memory.\n\nEpisodic memory is distinct from another type of memory called semantic memory.\n\n[Q32答案句] This is the type of factual memory that we have in common with everyone else - that is your general knowledge of the world.\n\n(Q33) To build upon a previous example, remembering where you parked your car is an example of episodic memory, but your understanding of what a car is and how an engine works are examples of semantic memory.\n\n[Q33答案句] Unlike episodic memory, semantic memory isn't dependent on recalling personal experiences.\n\n(Q34) Episodic memory can be thought of as a process with several different steps of memory processing: encoding, consolidation and retrieval.\n\nThe initial step is called encoding.\n\nThis involves the process of receiving and registering information, which is necessary for creating memories of information or events that you experience.\n\n[Q34答案句： 整句前置，所以审题需要理解两句间逻辑关系] The degree to which you can successfully encode information depends on the level of attention you give to an event while it's actually happening.\n\n(Q35) Being distracted can make effective encoding very difficult.\n\nEncoding of episodic memories is also influenced by how you process the event.\n\nFor example, if you were introduced to someone called Charlie, you might make the connection that your uncle has the same name.\n\n[Q35答案句] Future recollection of Charlie's name is much easier if you have a strategy to help you encode it.\n\n(Q36) Memory consolidation, the next step in forming an episodic memory, is the process by which memories of encoded information are strengthened, stabilised and stored to facilitate later retrieval.\n\n[Q36答案句] Consolidation is most effective when the information being stored can be linked to an existing network of information.\n\n(Q37) Consolidation makes it possible for you to store memories for later retrieval indefinitely.\n\n[Q37答案句] Forming strong memories depends on the frequency with which you try to retrieve them.\n\n(Q38) Memories can fade or become harder to retrieve if they aren't used very often.\n\nThe last step in forming episodic memories is called retrieval, which is the conscious recollection of encoded information.\n\nRetrieving information from episodic memory depends upon semantic, olfactory, auditory and visual factors.\n\nThese help episodic memory retrieval by acting as a prompt.\n\n[Q38答案句] For example, when recalling where you parked your car you may use the colour of a sign close to where you parked.\n\nYou actually have to mentally travel back to the moment you parked.\n\n(Q39) There are a wide range of neurological diseases and conditions that can affect episodic memory.\n\nThese range from Alzheimer's to schizophrenia to autism.\n\nAn impairment of episodic memory can have a profound effect on individuals' lives.\n\nFor example, the symptoms of schizophrenia can be reasonably well controlled by medication;\n\nhowever, patients' episodic memory may still be impaired and so they are often unable to return to university or work.\n\n[Q39答案句] Recent studies have shown that computer-assisted games designed to keep the brain active can help improve their episodic memory.\n\n(Q40) Episodic memories can help people connect with others, for instance by sharing intimate details about their past: something individuals with autism often have problems with.\n\n[Q40答案句] This may be caused by an absence of a sense of self.\n\nThis is essential for the storage of episodic memory, and has been found to be impaired in children with autism.\n\nResearch has shown that treatments that improve memory may also have a positive impact on children's social development.\n\nOne study looked at a ...","srtSource":{"path":"13-2-4 英文.srt","sha":"fb6eeff979ed5ae5a80eb9aa8e355c29d79ef8d0","fetchedAt":"2026-11-08T10:28:58.886Z"},"audioData":{"parserVersion":2,"index":"13-2-4","repo":"itsjiselle/ielts-listening-questions-pdf","ref":"7ebc967f40465f40e14fd01bc87a641d60fbe14f","audioPath":"13-2-4.mp3","audioSha":"92f1091972306c47006987e8808f45068f2e10fe","srtPath":"13-2-4 英文.srt","srtSha":"fb6eeff979ed5ae5a80eb9aa8e355c29d79ef8d0","cues":[{"id":"0","start":1.298,"end":15.317,"text":"(Q31) Today, we'll be continuing the series of lectures on memory by focusing on what is called episodic memory and what can happen if this is not working properly.","q":31,"invalidTime":false},{"id":"1","start":15.317,"end":21.769,"text":"Episodic memory refers to the memory of an event or 'episode'.","q":31,"invalidTime":false},{"id":"2","start":21.769,"end":29.998,"text":"Episodic memories allow us to mentally travel back in time to an event from the past.","q":31,"invalidTime":false},{"id":"3","start":29.998,"end":44.289,"text":"[Q31答案句] Episodic memories include various details about these events, for example, when an event happened and other information such as the location.","q":31,"invalidTime":false},{"id":"4","start":44.289,"end":52.453,"text":"(Q32) To help understand this concept, try to remember the last time you ate dinner at a restaurant.","q":32,"invalidTime":false},{"id":"5","start":52.453,"end":63.682,"text":"The ability to remember where you ate, who you were with and the items you ordered are all features of an episodic memory.","q":32,"invalidTime":false},{"id":"6","start":63.682,"end":71.891,"text":"Episodic memory is distinct from another type of memory called semantic memory.","q":32,"invalidTime":false},{"id":"7","start":71.891,"end":83.246,"text":"[Q32答案句] This is the type of factual memory that we have in common with everyone else - that is your general knowledge of the world.","q":32,"invalidTime":false},{"id":"8","start":83.246,"end":103.837,"text":"(Q33) To build upon a previous example, remembering where you parked your car is an example of episodic memory, but your understanding of what a car is and how an engine works are examples of semantic memory.","q":33,"invalidTime":false},{"id":"9","start":103.837,"end":113.73599999999999,"text":"[Q33答案句] Unlike episodic memory, semantic memory isn't dependent on recalling personal experiences.","q":33,"invalidTime":false},{"id":"10","start":113.73599999999999,"end":128.794,"text":"(Q34) Episodic memory can be thought of as a process with several different steps of memory processing: encoding, consolidation and retrieval.","q":34,"invalidTime":false},{"id":"11","start":128.794,"end":133.062,"text":"The initial step is called encoding.","q":34,"invalidTime":false},{"id":"12","start":133.062,"end":146.776,"text":"This involves the process of receiving and registering information, which is necessary for creating memories of information or events that you experience.","q":34,"invalidTime":false},{"id":"13","start":146.776,"end":159.689,"text":"[Q34答案句： 整句前置，所以审题需要理解两句间逻辑关系] The degree to which you can successfully encode information depends on the level of attention you give to an event while it's actually happening.","q":34,"invalidTime":false},{"id":"14","start":159.689,"end":166.27100000000002,"text":"(Q35) Being distracted can make effective encoding very difficult.","q":35,"invalidTime":false},{"id":"15","start":166.27100000000002,"end":174.514,"text":"Encoding of episodic memories is also influenced by how you process the event.","q":35,"invalidTime":false},{"id":"16","start":174.514,"end":186.336,"text":"For example, if you were introduced to someone called Charlie, you might make the connection that your uncle has the same name.","q":35,"invalidTime":false},{"id":"17","start":186.336,"end":195.653,"text":"[Q35答案句] Future recollection of Charlie's name is much easier if you have a strategy to help you encode it.","q":35,"invalidTime":false},{"id":"18","start":195.653,"end":214.086,"text":"(Q36) Memory consolidation, the next step in forming an episodic memory, is the process by which memories of encoded information are strengthened, stabilised and stored to facilitate later retrieval.","q":36,"invalidTime":false},{"id":"19","start":214.086,"end":226.301,"text":"[Q36答案句] Consolidation is most effective when the information being stored can be linked to an existing network of information.","q":36,"invalidTime":false},{"id":"20","start":226.301,"end":234.578,"text":"(Q37) Consolidation makes it possible for you to store memories for later retrieval indefinitely.","q":37,"invalidTime":false},{"id":"21","start":234.578,"end":243.707,"text":"[Q37答案句] Forming strong memories depends on the frequency with which you try to retrieve them.","q":37,"invalidTime":false},{"id":"22","start":243.707,"end":251.496,"text":"(Q38) Memories can fade or become harder to retrieve if they aren't used very often.","q":38,"invalidTime":false},{"id":"23","start":251.496,"end":263.555,"text":"The last step in forming episodic memories is called retrieval, which is the conscious recollection of encoded information.","q":38,"invalidTime":false},{"id":"24","start":263.555,"end":276.237,"text":"Retrieving information from episodic memory depends upon semantic, olfactory, auditory and visual factors.","q":38,"invalidTime":false},{"id":"25","start":276.237,"end":283.065,"text":"These help episodic memory retrieval by acting as a prompt.","q":38,"invalidTime":false},{"id":"26","start":283.065,"end":294.612,"text":"[Q38答案句] For example, when recalling where you parked your car you may use the colour of a sign close to where you parked.","q":38,"invalidTime":false},{"id":"27","start":294.612,"end":300.915,"text":"You actually have to mentally travel back to the moment you parked.","q":38,"invalidTime":false},{"id":"28","start":300.915,"end":310.569,"text":"(Q39) There are a wide range of neurological diseases and conditions that can affect episodic memory.","q":39,"invalidTime":false},{"id":"29","start":310.569,"end":317.795,"text":"These range from Alzheimer's to schizophrenia to autism.","q":39,"invalidTime":false},{"id":"30","start":317.795,"end":326.815,"text":"An impairment of episodic memory can have a profound effect on individuals' lives.","q":39,"invalidTime":false},{"id":"31","start":326.815,"end":336.673,"text":"For example, the symptoms of schizophrenia can be reasonably well controlled by medication;","q":39,"invalidTime":false},{"id":"32","start":336.673,"end":348.589,"text":"however, patients' episodic memory may still be impaired and so they are often unable to return to university or work.","q":39,"invalidTime":false},{"id":"33","start":348.589,"end":360.567,"text":"[Q39答案句] Recent studies have shown that computer-assisted games designed to keep the brain active can help improve their episodic memory.","q":39,"invalidTime":false},{"id":"34","start":360.567,"end":377.543,"text":"(Q40) Episodic memories can help people connect with others, for instance by sharing intimate details about their past: something individuals with autism often have problems with.","q":40,"invalidTime":false},{"id":"35","start":377.543,"end":384.259,"text":"[Q40答案句] This may be caused by an absence of a sense of self.","q":40,"invalidTime":false},{"id":"36","start":384.259,"end":395.471,"text":"This is essential for the storage of episodic memory, and has been found to be impaired in children with autism.","q":40,"invalidTime":false},{"id":"37","start":395.471,"end":406.545,"text":"Research has shown that treatments that improve memory may also have a positive impact on children's social development.","q":40,"invalidTime":false},{"id":"38","start":406.545,"end":409.045,"text":"One study looked at a ...","q":40,"invalidTime":false}],"matches":{"31":{"all":["[Q31答案句] Episodic memories include various details about these events, for example, when an event happened and other information such as the location."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"32":{"all":["[Q32答案句] This is the type of factual memory that we have in common with everyone else - that is your general knowledge of the world."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"33":{"all":["[Q33答案句] Unlike episodic memory, semantic memory isn't dependent on recalling personal experiences."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"34":{"all":["[Q34答案句： 整句前置，所以审题需要理解两句间逻辑关系] The degree to which you can successfully encode information depends on the level of attention you give to an event while it's actually happening."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"35":{"all":["[Q35答案句] Future recollection of Charlie's name is much easier if you have a strategy to help you encode it."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"36":{"all":["[Q36答案句] Consolidation is most effective when the information being stored can be linked to an existing network of information."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"37":{"all":["[Q37答案句] Forming strong memories depends on the frequency with which you try to retrieve them."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"38":{"all":["[Q38答案句] For example, when recalling where you parked your car you may use the colour of a sign close to where you parked."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"39":{"all":["[Q39答案句] Recent studies have shown that computer-assisted games designed to keep the brain active can help improve their episodic memory."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"40":{"all":["[Q40答案句] This may be caused by an absence of a sense of self."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true}}},"teacherVocabulary":[{"target":"body","block":4,"q":39,"start":142,"end":155,"term":"schizophrenia","meaning":"/ˌskɪtsəˈfriːniə/  n. （医学）精神分裂症","root":"","location":"第 5 块题目 · Q39"}],"topicCatalog":["生物&环境类"],"tagArchiveFiles":{"考点":"Part 4 笔记填空 - 考点库标签- 考点.txt","审题预测":"Part 4 笔记填空 - 考点库标签- 审题预测.txt","答案前置":"Part 4 笔记填空 - 考点库标签- 答案前置.txt"},"tagCatalog":{"tags":["答案得出相对直观，跟空前限定词的同义替换","答案得出方式相对直观， 跟空前定位词","答案前置","(审题)空前定位词有限，需要画上一行定位词","(审题)答案空所在行与小标题不相邻，中间内容也要画定位词， 辅助跟原文","空前关注各类「逻辑连接词」","(除明显答案前置外) 需要看空后内容","听中根据预测找到疑似答案，出现定位词后确定","听中记录疑似答案，根据后续代词指代确定答案","跟同义替换（整句/段解释）"],"children":{"答案得出方式相对直观， 跟空前定位词":[{"id":"eb16e5de-a1d4-45dd-9ecd-6ee8e849a5a6","name":"专有名词"},{"id":"a93a15a7-290b-4695-be1c-e2ef48aa2fe2","name":"普通名词（原词）"},{"id":"f17fa0d7-c3dd-4b59-838b-873d3f8290a2","name":"普通名词（同义替换）"}],"(审题)空前定位词有限，需要画上一行定位词":[{"id":"327795a8-6c0e-46eb-89a7-0ec508694123","name":"空前完全无实义词"},{"id":"ae05271d-53d9-476c-a32f-9f47d6cd3032","name":"空前普通名词"},{"id":"6946f603-30d4-4479-88b9-5fb057229f91","name":"特殊情况： 答案空所在行也有定位词， 但和小标题不相邻，所以中间内容也要画定位词，作为辅助"}],"答案前置":[{"id":"741e47b1-14a4-49b5-b0a5-0f40d4ef532d","name":"被动语态"},{"id":"cdba6ca9-0c60-491e-83bd-31cf4e4eb707","name":"定语从句"},{"id":"256ac974-e3a5-4c1b-a160-4d07020474cf","name":"介词短语 n + prep + n & 词组题"},{"id":"84540db0-387d-4b01-b2fc-07b39142b714","name":"adj"},{"id":"c4896de5-f6bd-42cb-8a17-4a87c9258ebb","name":"答案空 + to do"},{"id":"0964d75f-4c01-4372-9533-6ba09ca8db20","name":"表「广义因果」关系词（原因、目的、结果、条件关系）"}],"空前关注各类「逻辑连接词」":[{"id":"ce5a40cc-6ab7-4c18-8376-ea1a9e9e8eb6","name":"空前有表「并列」关系词，关注同替"},{"id":"55adc83c-ebec-4f7d-91b9-45f550ddf550","name":"空前有表「举例」关系词， 关注同替说法"},{"id":"204b0480-3438-44ff-b89f-892309933f02","name":"表「广义因果」关系（原因、目的、结果、条件关系），关注同义替换"},{"id":"dad506a2-54a5-4713-a8b3-0a8257c6ed2e","name":"无明显逻辑连接词，关注句子间逻辑关系"}],"答案得出相对直观，跟空前限定词的同义替换":[{"id":"cd4f2292-470d-4b61-a0a0-a3eb5667fddb","name":"v. & phr.v"},{"id":"fa8b0b01-5140-48f6-aa75-68ec38ad5684","name":"adj./ adv"},{"id":"020c9259-2f55-44db-9dda-090936631c5f","name":"否定含义词"},{"id":"7663d3ae-0342-40e9-8ebd-8451aa5588b1","name":"对比类 表述"},{"id":"b5d93bfa-23b4-4158-912f-dccb70d5297c","name":"程度类"},{"id":"e8b8eef7-4a53-48bf-99a4-56f7bd700543","name":"v/adj/adv/perp/其它类 - 原词"},{"id":"fd82e3a0-f99d-4f0e-8571-6e0c380875c5","name":"特殊疑问词 类"},{"id":"73baac9a-076d-4c09-8cf6-9f57d2d4a2de","name":"数值类"},{"id":"851730df-b8ab-4da2-a4b0-d58e255ac49e","name":"表「广义因果」关系（原因、目的、结果、条件关系），关注同义替换， see 逻辑连接词标签"}]},"order":["答案得出相对直观，跟空前限定词的同义替换","答案得出方式相对直观， 跟空前定位词","答案前置","(审题)空前定位词有限，需要画上一行定位词","(审题)答案空所在行与小标题不相邻，中间内容也要画定位词， 辅助跟原文","空前关注各类「逻辑连接词」","(除明显答案前置外) 需要看空后内容","听中根据预测找到疑似答案，出现定位词后确定","听中记录疑似答案，根据后续代词指代确定答案","跟同义替换（整句/段解释）"]},"predictionCatalog":["adj","adj - 关注空后是否是 n ➡️ 可能答案前置","n.","v.","【材料类】","可数n. - 单数","可数n. -复数","不可数n.","【问题/麻烦】","【地点类】","【时间类】","【身体部位】"],"frontingCatalog":["审题 - adj+n","答案空+n","adj + n","介词短语 & 词组题","答案空 + prep +n.","prep + 答案空","空前出现表「原因」连接词","被动语态","空后 + to do","无明显逻辑连接词，关注句子间逻辑关系"],"predictionParents":{"adj - 关注空后是否是 n ➡️ 可能答案前置":"adj","可数n. - 单数":"n.","可数n. -复数":"n.","不可数n.":"n."},"frontingParents":{"答案空+n":"审题 - adj+n","adj + n":"审题 - adj+n","答案空 + prep +n.":"介词短语 & 词组题","prep + 答案空":"介词短语 & 词组题"}}
