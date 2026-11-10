@@ -1,0 +1,228 @@
+14-4-4 The hunt for sunken settlements and ancient shipwrecks
+话题分类：未分类
+Complete the notes below.
+Write ONE WORD ONLY for each answer.
+
+
+ATLIT-YAM
+
+• was a village on coast of eastern Mediterranean
+• thrived until about 7,000 BC
+• stone homes had a courtyard
+• had a semicircle of large stones round a 31.____________
+• cause of destruction unknown - now under the sea
+• biggest settlement from the prehistoric period found on the seabed
+• research carried out into structures, 32.____________ and human remains
+
+TRADITIONAL AUTONOMOUS UNDERWATER VEHICLES (AUVs)
+
+• used in the oil industry, e.g. to make 33.____________
+• problems: they were expensive and 34.____________
+
+LATEST AUVs
+
+• much easier to use, relatively cheap, sophisticated
+
+Tests:
+
+• Marzamemi, Sicily: found ancient Roman ships carrying architectural elements made of 35.____________
+
+Underwater internet:
+
+• 36.____________ is used for short distance communication, acoustic waves for long distance
+• plans for communication with researchers by satellite
+• AUV can send data to another AUV that has better 37.____________ ,for example
+
+Planned research in Gulf of Baratti:
+
+• to find out more about wrecks of ancient Roman ships, including
+       — one carrying 38.____________ supplies; tablets may have been used for cleaning the 39.____________
+       一 others carrying containers of olive oil or 40.____________
+
+Q31 答案：spring
+存疑：未标记
+难度：未选择
+审题预测：n.、可数n. - 单数
+答案前置关注：
+答案句：The village contained an impressive monument: seven half-tonne stones standing in a semicircle around a spring, that might have been used for ceremonial purposes.
+同义替换：around = round prep.环绕，围绕；绕过，在另一侧；在……周围，
+干扰项：
+讲题路径：
+
+Q32 答案：tools
+存疑：未标记
+难度：未选择
+审题预测：n.、可数n. -复数、不可数n.
+答案前置关注：
+答案句：Research on the buildings, tools and the human remains has revealed how the bustling village once functioned, and even what diseases some of its residents suffered from.
+同义替换：buildings = structure
+按顺序跟出答案词
+干扰项：
+讲题路径：
+
+Q33 答案：maps
+存疑：未标记
+难度：未选择
+审题预测：n.
+答案前置关注：
+答案句：Autonomous underwater vehicles, or AUVs, are used in the oil industry, for instance, to create maps of the seabed before rigs and pipelines are installed.
+同义替换：for instance = e.g.
+create = make 
+干扰项：
+讲题路径：
+
+Q34 答案：heavy
+存疑：未标记
+难度：未选择
+审题预测：adj
+答案前置关注：
+答案句：(Q34) [Q34答案句] To navigate they use sensors such as compasses and sonar. Until relatively recently they were very expensive, and so heavy that they had to be launched from a large vessel with a winch.
+同义替换：
+干扰项：
+讲题路径：
+
+Q35 答案：marble
+存疑：未标记
+难度：未选择
+审题预测：n.、【材料类】
+答案前置关注：介词短语 & 词组题、prep + 答案空
+答案句：The site is the final resting place of an ancient Roman ship, which sank in the sixth century AD while ferrying prefabricated marble elements for the construction of an early church.
+同义替换：marble elements = elements made of MARBLE
+干扰项：
+讲题路径：
+
+Q36 答案：light
+存疑：未标记
+难度：未选择
+审题预测：
+答案前置关注：被动语态
+答案句：For short distances, AUVs can share data using light while acoustic waves are used to communicate over long distances.
+同义替换：networks = internet， 但这个不是本题重点。  本题重点是 答案前置 
+干扰项：
+讲题路径：
+
+Q37 答案：camera | cameras
+存疑：未标记
+难度：未选择
+审题预测：n.
+答案前置关注：
+答案句：So if an AUV surveying the seabed finds an intriguing object, it can share the coordinates of the object - that is, its position - with a nearby AUV that carries superior cameras, and arrange for that AUV to make a closer inspection of the object.
+同义替换：share = send
+nearby = another
+superior = better 
+
+
+干扰项：
+讲题路径：
+
+Q38 答案：medical
+存疑：未标记
+难度：未选择
+审题预测：adj、n.
+答案前置关注：
+答案句：When it sank, it was carrying medical goods, in wooden or tin receptacles.
+同义替换：goods = supplies
+
+干扰项：
+讲题路径：
+
+Q39 答案：eyes
+存疑：未标记
+难度：未选择
+审题预测：n.
+答案前置关注：
+答案句： Its cargo gives us insight into the treatments available all those years ago, including tablets that are thought to have been dissolved to form a cleansing liquid for the eyes.
+同义替换：cleansing liquid = clean 
+干扰项：
+讲题路径：
+
+Q40 答案：wine
+存疑：未标记
+难度：未选择
+审题预测：n.
+答案前置关注：
+答案句：Some held huge pots made of terracotta. Some were used for transporting cargoes of olive oil, and others held wine.
+同义替换：pots = container
+olive oil原词 
+and others = or 
+干扰项：
+讲题路径：
+
+Overall comments：
+
+原文：
+(Q31) In today's class I'm going to talk about marine archaeology, the branch of archaeology focusing on human interaction with the sea, lakes and rivers.
+
+It's the study of ships, cargoes, shipping facilities, and other physical remains.
+
+I'll give you an example, then go on to show how this type of research is being transformed by the use of the latest technology.
+
+Atlit-Yam was a village on the coast of the eastern Mediterranean, which seems to have been thriving until around 7,000 BC.&nbsp;
+
+The residents kept cattle, caught fish and stored grain. They had wells for fresh water, many of their houses were built around a courtyard and were constructed of stone.
+
+[Q31答案句] The village contained an impressive monument: seven half-tonne stones standing in a semicircle around a spring, that might have been used for ceremonial purposes.
+
+(Q32) Atlit-Yam may have been destroyed swiftly by a tsunami, or climate change may have caused glaciers to melt and sea levels to rise, flooding the village gradually.&nbsp;
+
+Whatever the cause, it now lies ten metres below the surface of the Mediterranean, buried under sand at the bottom of the sea.
+
+It's been described as the largest and best preserved prehistoric settlement ever found on the seabed.
+
+For marine archaeologists, Atlit-Yam is a treasure trove.
+
+[Q32答案句] Research on the buildings, tools and the human remains has revealed how the bustling village once functioned, and even what diseases some of its residents suffered from.
+
+(Q33) But of course this is only one small village, one window into a lost world.
+
+For a fuller picture, researchers need more sunken settlements, but the hard part is finding them.
+
+Underwater research used to require divers to find shipwrecks or artefacts, but in the second half of the twentieth century, various types of underwater vehicles were developed, some controlled from a ship on the surface, and some of them autonomous, which means they don't need to be operated by a person.
+
+[Q33答案句] Autonomous underwater vehicles, or AUVs, are used in the oil industry, for instance, to create maps of the seabed before rigs and pipelines are installed.
+
+(Q34) [Q34答案句] To navigate they use sensors such as compasses and sonar. Until relatively recently they were very expensive, and so heavy that they had to be launched from a large vessel with a winch.
+
+(Q35) But the latest AUVs are much easier to manoeuvre - they can be launched from the shore or a small ship. And they're much cheaper, which makes them more accessible to research teams.
+
+They're also very sophisticated. They can communicate with each other and, for example, work out the most efficient way to survey a site, or to find particular objects on the seabed.
+
+Field tests show the approach can work.
+
+For example, in a trial in 2015, three AUVs searched for wrecks at Marzamemi, off the coast of Sicily.
+
+[Q35答案句] The site is the final resting place of an ancient Roman ship, which sank in the sixth century AD while ferrying prefabricated marble elements for the construction of an early church.
+
+(Q36) The AUVs mapped the area in detail, finding other ships carrying columns of the same material.&nbsp;
+
+Creating an internet in the sea for AUVs to communicate is no easy matter.
+
+Wifi networks on land use electromagnetic waves, but in water these will only travel a few centimetres.
+
+Instead, a more complex mix of technologies is required.
+
+[Q36答案句] For short distances, AUVs can share data using light while acoustic waves are used to communicate over long distances.
+
+(Q37) But more creative solutions are also being developed, where an AUV working on the seabed offloads data to a second AUV, which then surfaces and beams the data home to the research team using a satellite.
+
+There's also a system that enables AUVs to share information from seabed scans, and other data.
+
+[Q37答案句] So if an AUV surveying the seabed finds an intriguing object, it can share the coordinates of the object - that is, its position - with a nearby AUV that carries superior cameras, and arrange for that AUV to make a closer inspection of the object.
+
+(Q38) Marine archaeologists are excited about the huge potential of these AUVs for their discipline.
+
+One site where they're going to be deployed is the Gulf of Baratti, off the Italian coast.
+
+In 1974, a 2,000-year-old Roman vessel was discovered here, in 18 metres of water.&nbsp;
+
+[Q38答案句] When it sank, it was carrying medical goods, in wooden or tin receptacles.
+
+(Q39) [Q39答案句] Its cargo gives us insight into the treatments available all those years ago, including tablets that are thought to have been dissolved to form a cleansing liquid for the eyes.
+
+(Q40) Other Roman ships went down nearby, taking their cargoes with them.
+
+[Q40答案句] Some held huge pots made of terracotta. Some were used for transporting cargoes of olive oil, and others held wine.
+
+In many cases it's only these containers that remain, while the wooden ships have been buried under silt on the seabed.
+--- JISELLE NOTES FORM DATA V1 ---
+{"id":"notes-748951bb-873c-4bb4-a42f-8b550bcf7ab6","index":"14-4-4","part":4,"title":"The hunt for sunken settlements and ancient shipwrecks","kind":"notes","wordLimit":"ONE WORD ONLY","mode":"headings","intro":"","type":"填空题","tableCells":null,"sourceText":"","blocks":[{"heading":"ATLIT-YAM","subheading":"","lectureBlock":0,"body":"• was a village on coast of eastern Mediterranean\n• thrived until about 7,000 BC\n• stone homes had a courtyard\n• had a semicircle of large stones round a 31.____________\n• cause of destruction unknown - now under the sea\n• biggest settlement from the prehistoric period found on the seabed\n• research carried out into structures, 32.____________ and human remains","layout":null,"columnWidths":null,"formats":[{"start":146,"end":151,"kind":"highlight"},{"start":133,"end":145,"kind":"underline"},{"start":119,"end":129,"kind":"underline"},{"start":292,"end":300,"kind":"underline"},{"start":318,"end":328,"kind":"underline"},{"start":350,"end":363,"kind":"underline"},{"start":346,"end":349,"kind":"highlight"}]},{"heading":"TRADITIONAL AUTONOMOUS UNDERWATER VEHICLES (AUVs)","subheading":"","lectureBlock":1,"body":"• used in the oil industry, e.g. to make 33.____________\n• problems: they were expensive and 34.____________","layout":null,"columnWidths":null,"formats":[{"start":28,"end":32,"kind":"highlight"},{"start":36,"end":40,"kind":"highlight"},{"start":14,"end":26,"kind":"underline"},{"start":79,"end":88,"kind":"highlight"},{"start":89,"end":92,"kind":"highlight"},{"start":59,"end":67,"kind":"underline"}]},{"heading":"LATEST AUVs","subheading":"","lectureBlock":2,"body":"• much easier to use, relatively cheap, sophisticated","layout":null,"columnWidths":null},{"heading":"Tests:","subheading":"","lectureBlock":2,"body":"• Marzamemi, Sicily: found ancient Roman ships carrying architectural elements made of 35.____________","layout":null,"columnWidths":null,"formats":[{"start":79,"end":87,"kind":"highlight"},{"start":35,"end":46,"kind":"underline"},{"start":2,"end":19,"kind":"underline"},{"start":70,"end":78,"kind":"underline"}]},{"heading":"Underwater internet:","subheading":"","lectureBlock":2,"body":"• 36.____________ is used for short distance communication, acoustic waves for long distance\n• plans for communication with researchers by satellite\n• AUV can send data to another AUV that has better 37.____________ ,for example","layout":null,"columnWidths":null,"headingFormats":[{"start":0,"end":19,"kind":"underline"}],"formats":[{"start":30,"end":58,"kind":"underline"},{"start":79,"end":83,"kind":"highlight"},{"start":60,"end":68,"kind":"underline"},{"start":193,"end":199,"kind":"highlight"},{"start":217,"end":228,"kind":"highlight"},{"start":180,"end":183,"kind":"underline"},{"start":164,"end":168,"kind":"underline"},{"start":172,"end":179,"kind":"highlight"},{"start":159,"end":163,"kind":"highlight"}]},{"heading":"Planned research in Gulf of Baratti:","subheading":"","lectureBlock":3,"body":"• to find out more about wrecks of ancient Roman ships, including\n       — one carrying 38.____________ supplies; tablets may have been used for cleaning the 39.____________\n       一 others carrying containers of olive oil or 40.____________","layout":null,"columnWidths":null,"formats":[{"start":91,"end":112,"kind":"highlight"},{"start":75,"end":78,"kind":"underline"},{"start":43,"end":54,"kind":"underline"},{"start":145,"end":153,"kind":"highlight"},{"start":114,"end":121,"kind":"underline"},{"start":213,"end":222,"kind":"underline"},{"start":223,"end":225,"kind":"highlight"},{"start":199,"end":209,"kind":"underline"}]}],"numbers":[31,32,33,34,35,36,37,38,39,40],"manualOnly":false,"bullets":false,"bulletsApplied":true,"questionNotes":{"31":{"answer":"spring","evidence":"The village contained an impressive monument: seven half-tonne stones standing in a semicircle around a spring, that might have been used for ceremonial purposes.","note":"around = round prep.环绕，围绕；绕过，在另一侧；在……周围，","teaching":"","transcript":"(Q31) In today's class I'm going to talk about marine archaeology, the branch of archaeology focusing on human interaction with the sea, lakes and rivers.\nIt's the study of ships, cargoes, shipping facilities, and other physical remains.\nI'll give you an example, then go on to show how this type of research is being transformed by the use of the latest technology.\nAtlit-Yam was a village on the coast of the eastern Mediterranean, which seems to have been thriving until around 7,000 BC.&nbsp;\nThe residents kept cattle, caught fish and stored grain. They had wells for fresh water, many of their houses were built around a courtyard and were constructed of stone.\n[Q31答案句] The village contained an impressive monument: seven half-tonne stones standing in a semicircle around a spring, that might have been used for ceremonial purposes.","transcriptFormats":[],"predictionTags":["n.","可数n. - 单数"],"evidenceFormats":[{"start":95,"end":101,"kind":"highlight"}],"noteFormats":[],"tags":["答案得出相对直观，跟空前限定词的同义替换"],"subTags":["44953094-07cd-40ed-a884-ab53304bee45"]},"32":{"answer":"tools","evidence":"Research on the buildings, tools and the human remains has revealed how the bustling village once functioned, and even what diseases some of its residents suffered from.","note":"buildings = structure\n按顺序跟出答案词","teaching":"","transcript":"(Q32) Atlit-Yam may have been destroyed swiftly by a tsunami, or climate change may have caused glaciers to melt and sea levels to rise, flooding the village gradually.&nbsp;\nWhatever the cause, it now lies ten metres below the surface of the Mediterranean, buried under sand at the bottom of the sea.\nIt's been described as the largest and best preserved prehistoric settlement ever found on the seabed.\nFor marine archaeologists, Atlit-Yam is a treasure trove.\n[Q32答案句] Research on the buildings, tools and the human remains has revealed how the bustling village once functioned, and even what diseases some of its residents suffered from.","transcriptFormats":[],"tags":["答案得出方式相对直观， 跟空前定位词","空前关注各类「逻辑连接词」"],"subTags":["f17fa0d7-c3dd-4b59-838b-873d3f8290a2","ce5a40cc-6ab7-4c18-8376-ea1a9e9e8eb6"],"predictionTags":["n.","可数n. -复数","不可数n."],"evidenceFormats":[{"start":16,"end":25,"kind":"underline"},{"start":16,"end":25,"kind":"highlight"}],"noteFormats":[]},"33":{"answer":"maps","evidence":"Autonomous underwater vehicles, or AUVs, are used in the oil industry, for instance, to create maps of the seabed before rigs and pipelines are installed.","note":"for instance = e.g.\ncreate = make ","teaching":"","transcript":"(Q33) But of course this is only one small village, one window into a lost world.\nFor a fuller picture, researchers need more sunken settlements, but the hard part is finding them.\nUnderwater research used to require divers to find shipwrecks or artefacts, but in the second half of the twentieth century, various types of underwater vehicles were developed, some controlled from a ship on the surface, and some of them autonomous, which means they don't need to be operated by a person.\n[Q33答案句] Autonomous underwater vehicles, or AUVs, are used in the oil industry, for instance, to create maps of the seabed before rigs and pipelines are installed.","transcriptFormats":[],"tags":["答案得出相对直观，跟空前限定词的同义替换","答案得出方式相对直观， 跟空前定位词","空前关注各类「逻辑连接词」"],"subTags":["cd4f2292-470d-4b61-a0a0-a3eb5667fddb","a93a15a7-290b-4695-be1c-e2ef48aa2fe2","55adc83c-ebec-4f7d-91b9-45f550ddf550"],"noteFormats":[],"evidenceFormats":[{"start":71,"end":83,"kind":"highlight"},{"start":88,"end":94,"kind":"highlight"}],"predictionTags":["n."]},"34":{"answer":"heavy","evidence":"(Q34) [Q34答案句] To navigate they use sensors such as compasses and sonar. Until relatively recently they were very expensive, and so heavy that they had to be launched from a large vessel with a winch.","note":"","teaching":"","transcript":"(Q34) [Q34答案句] To navigate they use sensors such as compasses and sonar. Until relatively recently they were very expensive, and so heavy that they had to be launched from a large vessel with a winch.","transcriptFormats":[],"tags":["答案得出相对直观，跟空前限定词的同义替换"],"subTags":["e8b8eef7-4a53-48bf-99a4-56f7bd700543"],"predictionTags":["adj"]},"35":{"answer":"marble","evidence":"The site is the final resting place of an ancient Roman ship, which sank in the sixth century AD while ferrying prefabricated marble elements for the construction of an early church.","note":"marble elements = elements made of MARBLE","teaching":"","transcript":"(Q35) But the latest AUVs are much easier to manoeuvre - they can be launched from the shore or a small ship. And they're much cheaper, which makes them more accessible to research teams.\nThey're also very sophisticated. They can communicate with each other and, for example, work out the most efficient way to survey a site, or to find particular objects on the seabed.\nField tests show the approach can work.\nFor example, in a trial in 2015, three AUVs searched for wrecks at Marzamemi, off the coast of Sicily.\n[Q35答案句] The site is the final resting place of an ancient Roman ship, which sank in the sixth century AD while ferrying prefabricated marble elements for the construction of an early church.","transcriptFormats":[],"tags":["答案前置","答案前置补充 - 具体情况notes"],"subTags":["256ac974-e3a5-4c1b-a160-4d07020474cf","87fc1c88-f15d-40c0-9ac2-1191aad16a4b"],"frontingTags":["介词短语 & 词组题","prep + 答案空"],"predictionTags":["n.","【材料类】"],"noteFormats":[]},"36":{"answer":"light","evidence":"For short distances, AUVs can share data using light while acoustic waves are used to communicate over long distances.","note":"networks = internet， 但这个不是本题重点。  本题重点是 答案前置 ","teaching":"","transcript":"(Q36) The AUVs mapped the area in detail, finding other ships carrying columns of the same material.&nbsp;\nCreating an internet in the sea for AUVs to communicate is no easy matter.\nWifi networks on land use electromagnetic waves, but in water these will only travel a few centimetres.\nInstead, a more complex mix of technologies is required.\n[Q36答案句] For short distances, AUVs can share data using light while acoustic waves are used to communicate over long distances.","transcriptFormats":[{"start":187,"end":195,"kind":"underline"}],"tags":["答案前置","(审题)空前定位词有限，需要画上一行定位词","答案前置补充 - 具体情况notes"],"subTags":["741e47b1-14a4-49b5-b0a5-0f40d4ef532d","327795a8-6c0e-46eb-89a7-0ec508694123","13a29380-d4e5-4f87-ae4d-60a11440c577"],"noteFormats":[],"frontingTags":["被动语态"]},"37":{"answer":"camera | cameras","evidence":"So if an AUV surveying the seabed finds an intriguing object, it can share the coordinates of the object - that is, its position - with a nearby AUV that carries superior cameras, and arrange for that AUV to make a closer inspection of the object.","note":"share = send\nnearby = another\nsuperior = better \n\n","teaching":"","transcript":"(Q37) But more creative solutions are also being developed, where an AUV working on the seabed offloads data to a second AUV, which then surfaces and beams the data home to the research team using a satellite.\nThere's also a system that enables AUVs to share information from seabed scans, and other data.\n[Q37答案句] So if an AUV surveying the seabed finds an intriguing object, it can share the coordinates of the object - that is, its position - with a nearby AUV that carries superior cameras, and arrange for that AUV to make a closer inspection of the object.","transcriptFormats":[{"start":384,"end":389,"kind":"highlight"}],"tags":["答案得出相对直观，跟空前限定词的同义替换"],"subTags":["cd4f2292-470d-4b61-a0a0-a3eb5667fddb","fa8b0b01-5140-48f6-aa75-68ec38ad5684"],"noteFormats":[],"evidenceFormats":[{"start":138,"end":144,"kind":"highlight"},{"start":162,"end":170,"kind":"highlight"}],"predictionTags":["n."]},"38":{"answer":"medical","evidence":"When it sank, it was carrying medical goods, in wooden or tin receptacles.","note":"goods = supplies\n","teaching":"","transcript":"(Q38) Marine archaeologists are excited about the huge potential of these AUVs for their discipline.\nOne site where they're going to be deployed is the Gulf of Baratti, off the Italian coast.\nIn 1974, a 2,000-year-old Roman vessel was discovered here, in 18 metres of water.&nbsp;\n[Q38答案句] When it sank, it was carrying medical goods, in wooden or tin receptacles.","transcriptFormats":[],"tags":["答案得出方式相对直观， 跟空前定位词","(审题)空前定位词有限，需要画上一行定位词"],"subTags":["ae05271d-53d9-476c-a32f-9f47d6cd3032"],"focusLines":[{"block":5,"text":"• to find out more about wrecks of ancient Roman ships, including"}],"noteFormats":[],"evidenceFormats":[{"start":38,"end":43,"kind":"highlight"}],"predictionTags":["adj","n."]},"39":{"answer":"eyes","evidence":" Its cargo gives us insight into the treatments available all those years ago, including tablets that are thought to have been dissolved to form a cleansing liquid for the eyes.","note":"cleansing liquid = clean ","teaching":"","transcript":"(Q39) [Q39答案句] Its cargo gives us insight into the treatments available all those years ago, including tablets that are thought to have been dissolved to form a cleansing liquid for the eyes.","transcriptFormats":[{"start":161,"end":170,"kind":"highlight"}],"tags":["答案得出相对直观，跟空前限定词的同义替换"],"subTags":[],"evidenceFormats":[],"noteFormats":[],"predictionTags":["n."]},"40":{"answer":"wine","evidence":"Some held huge pots made of terracotta. Some were used for transporting cargoes of olive oil, and others held wine.","note":"pots = container\nolive oil原词 \nand others = or ","teaching":"","transcript":"(Q40) Other Roman ships went down nearby, taking their cargoes with them.\n[Q40答案句] Some held huge pots made of terracotta. Some were used for transporting cargoes of olive oil, and others held wine.\nIn many cases it's only these containers that remain, while the wooden ships have been buried under silt on the seabed.","transcriptFormats":[{"start":98,"end":102,"kind":"underline"}],"tags":["答案得出方式相对直观， 跟空前定位词","空前关注各类「逻辑连接词」"],"subTags":["a93a15a7-290b-4695-be1c-e2ef48aa2fe2","f17fa0d7-c3dd-4b59-838b-873d3f8290a2","ce5a40cc-6ab7-4c18-8376-ea1a9e9e8eb6"],"noteFormats":[],"predictionTags":["n."]}},"createdAt":"2026-11-10T04:50:32.459Z","topicCategory":"","topicUpdatedAt":"2026-11-10T04:50:39.843Z","answerWordsRaw":"31. spring\n32. tools\n33. maps\n34. heavy\n35. marble\n36. light\n37. camera | cameras\n38. medical\n39. eyes\n40. wine","transcript":"(Q31) In today's class I'm going to talk about marine archaeology, the branch of archaeology focusing on human interaction with the sea, lakes and rivers.\n\nIt's the study of ships, cargoes, shipping facilities, and other physical remains.\n\nI'll give you an example, then go on to show how this type of research is being transformed by the use of the latest technology.\n\nAtlit-Yam was a village on the coast of the eastern Mediterranean, which seems to have been thriving until around 7,000 BC.&nbsp;\n\nThe residents kept cattle, caught fish and stored grain. They had wells for fresh water, many of their houses were built around a courtyard and were constructed of stone.\n\n[Q31答案句] The village contained an impressive monument: seven half-tonne stones standing in a semicircle around a spring, that might have been used for ceremonial purposes.\n\n(Q32) Atlit-Yam may have been destroyed swiftly by a tsunami, or climate change may have caused glaciers to melt and sea levels to rise, flooding the village gradually.&nbsp;\n\nWhatever the cause, it now lies ten metres below the surface of the Mediterranean, buried under sand at the bottom of the sea.\n\nIt's been described as the largest and best preserved prehistoric settlement ever found on the seabed.\n\nFor marine archaeologists, Atlit-Yam is a treasure trove.\n\n[Q32答案句] Research on the buildings, tools and the human remains has revealed how the bustling village once functioned, and even what diseases some of its residents suffered from.\n\n(Q33) But of course this is only one small village, one window into a lost world.\n\nFor a fuller picture, researchers need more sunken settlements, but the hard part is finding them.\n\nUnderwater research used to require divers to find shipwrecks or artefacts, but in the second half of the twentieth century, various types of underwater vehicles were developed, some controlled from a ship on the surface, and some of them autonomous, which means they don't need to be operated by a person.\n\n[Q33答案句] Autonomous underwater vehicles, or AUVs, are used in the oil industry, for instance, to create maps of the seabed before rigs and pipelines are installed.\n\n(Q34) [Q34答案句] To navigate they use sensors such as compasses and sonar. Until relatively recently they were very expensive, and so heavy that they had to be launched from a large vessel with a winch.\n\n(Q35) But the latest AUVs are much easier to manoeuvre - they can be launched from the shore or a small ship. And they're much cheaper, which makes them more accessible to research teams.\n\nThey're also very sophisticated. They can communicate with each other and, for example, work out the most efficient way to survey a site, or to find particular objects on the seabed.\n\nField tests show the approach can work.\n\nFor example, in a trial in 2015, three AUVs searched for wrecks at Marzamemi, off the coast of Sicily.\n\n[Q35答案句] The site is the final resting place of an ancient Roman ship, which sank in the sixth century AD while ferrying prefabricated marble elements for the construction of an early church.\n\n(Q36) The AUVs mapped the area in detail, finding other ships carrying columns of the same material.&nbsp;\n\nCreating an internet in the sea for AUVs to communicate is no easy matter.\n\nWifi networks on land use electromagnetic waves, but in water these will only travel a few centimetres.\n\nInstead, a more complex mix of technologies is required.\n\n[Q36答案句] For short distances, AUVs can share data using light while acoustic waves are used to communicate over long distances.\n\n(Q37) But more creative solutions are also being developed, where an AUV working on the seabed offloads data to a second AUV, which then surfaces and beams the data home to the research team using a satellite.\n\nThere's also a system that enables AUVs to share information from seabed scans, and other data.\n\n[Q37答案句] So if an AUV surveying the seabed finds an intriguing object, it can share the coordinates of the object - that is, its position - with a nearby AUV that carries superior cameras, and arrange for that AUV to make a closer inspection of the object.\n\n(Q38) Marine archaeologists are excited about the huge potential of these AUVs for their discipline.\n\nOne site where they're going to be deployed is the Gulf of Baratti, off the Italian coast.\n\nIn 1974, a 2,000-year-old Roman vessel was discovered here, in 18 metres of water.&nbsp;\n\n[Q38答案句] When it sank, it was carrying medical goods, in wooden or tin receptacles.\n\n(Q39) [Q39答案句] Its cargo gives us insight into the treatments available all those years ago, including tablets that are thought to have been dissolved to form a cleansing liquid for the eyes.\n\n(Q40) Other Roman ships went down nearby, taking their cargoes with them.\n\n[Q40答案句] Some held huge pots made of terracotta. Some were used for transporting cargoes of olive oil, and others held wine.\n\nIn many cases it's only these containers that remain, while the wooden ships have been buried under silt on the seabed.","srtSource":{"path":"14-4-4 英文.srt","sha":"ad7c6831fcb2ebf62644817dc4083fba418ae44b","fetchedAt":"2026-11-10T04:51:02.937Z"},"audioData":{"parserVersion":2,"index":"14-4-4","repo":"itsjiselle/ielts-listening-questions-pdf","ref":"2595054d6d66ea929492ff953a98cead0132469d","audioPath":"14-4-4.mp3","audioSha":"006cb4d95a1bcc50052e4cb92114f2e426037dda","srtPath":"14-4-4 英文.srt","srtSha":"ad7c6831fcb2ebf62644817dc4083fba418ae44b","cues":[{"id":"0","start":1.461,"end":13.904,"text":"(Q31) In today's class I'm going to talk about marine archaeology, the branch of archaeology focusing on human interaction with the sea, lakes and rivers.","q":31,"invalidTime":false},{"id":"1","start":13.904,"end":22.377,"text":"It's the study of ships, cargoes, shipping facilities, and other physical remains.","q":31,"invalidTime":false},{"id":"2","start":22.377,"end":32.372,"text":"I'll give you an example, then go on to show how this type of research is being transformed by the use of the latest technology.","q":31,"invalidTime":false},{"id":"3","start":32.372,"end":44.092,"text":"Atlit-Yam was a village on the coast of the eastern Mediterranean, which seems to have been thriving until around 7,000 BC.&nbsp;","q":31,"invalidTime":false},{"id":"4","start":44.092,"end":59.969,"text":"The residents kept cattle, caught fish and stored grain. They had wells for fresh water, many of their houses were built around a courtyard and were constructed of stone.","q":31,"invalidTime":false},{"id":"5","start":59.969,"end":73.907,"text":"[Q31答案句] The village contained an impressive monument: seven half-tonne stones standing in a semicircle around a spring, that might have been used for ceremonial purposes.","q":31,"invalidTime":false},{"id":"6","start":73.907,"end":88.326,"text":"(Q32) Atlit-Yam may have been destroyed swiftly by a tsunami, or climate change may have caused glaciers to melt and sea levels to rise, flooding the village gradually.&nbsp;","q":32,"invalidTime":false},{"id":"7","start":88.326,"end":98.311,"text":"Whatever the cause, it now lies ten metres below the surface of the Mediterranean, buried under sand at the bottom of the sea.","q":32,"invalidTime":false},{"id":"8","start":98.311,"end":107.628,"text":"It's been described as the largest and best preserved prehistoric settlement ever found on the seabed.","q":32,"invalidTime":false},{"id":"9","start":107.628,"end":112.756,"text":"For marine archaeologists, Atlit-Yam is a treasure trove.","q":32,"invalidTime":false},{"id":"10","start":112.756,"end":125.703,"text":"[Q32答案句] Research on the buildings, tools and the human remains has revealed how the bustling village once functioned, and even what diseases some of its residents suffered from.","q":32,"invalidTime":false},{"id":"11","start":125.703,"end":133.878,"text":"(Q33) But of course this is only one small village, one window into a lost world.","q":33,"invalidTime":false},{"id":"12","start":133.878,"end":142.652,"text":"For a fuller picture, researchers need more sunken settlements, but the hard part is finding them.","q":33,"invalidTime":false},{"id":"13","start":142.652,"end":165.821,"text":"Underwater research used to require divers to find shipwrecks or artefacts, but in the second half of the twentieth century, various types of underwater vehicles were developed, some controlled from a ship on the surface, and some of them autonomous, which means they don't need to be operated by a person.","q":33,"invalidTime":false},{"id":"14","start":165.821,"end":180.638,"text":"[Q33答案句] Autonomous underwater vehicles, or AUVs, are used in the oil industry, for instance, to create maps of the seabed before rigs and pipelines are installed.","q":33,"invalidTime":false},{"id":"15","start":180.638,"end":197.198,"text":"(Q34) [Q34答案句] To navigate they use sensors such as compasses and sonar. Until relatively recently they were very expensive, and so heavy that they had to be launched from a large vessel with a winch.","q":34,"invalidTime":false},{"id":"16","start":197.198,"end":212.80599999999998,"text":"(Q35) But the latest AUVs are much easier to manoeuvre - they can be launched from the shore or a small ship. And they're much cheaper, which makes them more accessible to research teams.","q":35,"invalidTime":false},{"id":"17","start":212.80599999999998,"end":228.853,"text":"They're also very sophisticated. They can communicate with each other and, for example, work out the most efficient way to survey a site, or to find particular objects on the seabed.","q":35,"invalidTime":false},{"id":"18","start":228.853,"end":232.65699999999998,"text":"Field tests show the approach can work.","q":35,"invalidTime":false},{"id":"19","start":232.65699999999998,"end":242.159,"text":"For example, in a trial in 2015, three AUVs searched for wrecks at Marzamemi, off the coast of Sicily.","q":35,"invalidTime":false},{"id":"20","start":242.159,"end":257.061,"text":"[Q35答案句] The site is the final resting place of an ancient Roman ship, which sank in the sixth century AD while ferrying prefabricated marble elements for the construction of an early church.","q":35,"invalidTime":false},{"id":"21","start":257.061,"end":265.319,"text":"(Q36) The AUVs mapped the area in detail, finding other ships carrying columns of the same material.&nbsp;","q":36,"invalidTime":false},{"id":"22","start":265.319,"end":273.128,"text":"Creating an internet in the sea for AUVs to communicate is no easy matter.","q":36,"invalidTime":false},{"id":"23","start":273.128,"end":283.105,"text":"Wifi networks on land use electromagnetic waves, but in water these will only travel a few centimetres.","q":36,"invalidTime":false},{"id":"24","start":283.105,"end":288.778,"text":"Instead, a more complex mix of technologies is required.","q":36,"invalidTime":false},{"id":"25","start":288.778,"end":299.801,"text":"[Q36答案句] For short distances, AUVs can share data using light while acoustic waves are used to communicate over long distances.","q":36,"invalidTime":false},{"id":"26","start":299.801,"end":318.987,"text":"(Q37) But more creative solutions are also being developed, where an AUV working on the seabed offloads data to a second AUV, which then surfaces and beams the data home to the research team using a satellite.","q":37,"invalidTime":false},{"id":"27","start":318.987,"end":327.979,"text":"There's also a system that enables AUVs to share information from seabed scans, and other data.","q":37,"invalidTime":false},{"id":"28","start":327.979,"end":351.05,"text":"[Q37答案句] So if an AUV surveying the seabed finds an intriguing object, it can share the coordinates of the object - that is, its position - with a nearby AUV that carries superior cameras, and arrange for that AUV to make a closer inspection of the object.","q":37,"invalidTime":false},{"id":"29","start":351.05,"end":358.698,"text":"(Q38) Marine archaeologists are excited about the huge potential of these AUVs for their discipline.","q":38,"invalidTime":false},{"id":"30","start":358.698,"end":366.606,"text":"One site where they're going to be deployed is the Gulf of Baratti, off the Italian coast.","q":38,"invalidTime":false},{"id":"31","start":366.606,"end":375.717,"text":"In 1974, a 2,000-year-old Roman vessel was discovered here, in 18 metres of water.&nbsp;","q":38,"invalidTime":false},{"id":"32","start":375.717,"end":384.372,"text":"[Q38答案句] When it sank, it was carrying medical goods, in wooden or tin receptacles.","q":38,"invalidTime":false},{"id":"33","start":384.372,"end":397.823,"text":"(Q39) [Q39答案句] Its cargo gives us insight into the treatments available all those years ago, including tablets that are thought to have been dissolved to form a cleansing liquid for the eyes.","q":39,"invalidTime":false},{"id":"34","start":397.823,"end":404.656,"text":"(Q40) Other Roman ships went down nearby, taking their cargoes with them.","q":40,"invalidTime":false},{"id":"35","start":404.656,"end":415.297,"text":"[Q40答案句] Some held huge pots made of terracotta. Some were used for transporting cargoes of olive oil, and others held wine.","q":40,"invalidTime":false},{"id":"36","start":415.297,"end":417.797,"text":"In many cases it's only these containers that remain, while the wooden ships have been buried under silt on the seabed.","q":40,"invalidTime":false}],"matches":{"31":{"all":["[Q31答案句] The village contained an impressive monument: seven half-tonne stones standing in a semicircle around a spring, that might have been used for ceremonial purposes."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"32":{"all":["[Q32答案句] Research on the buildings, tools and the human remains has revealed how the bustling village once functioned, and even what diseases some of its residents suffered from."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"33":{"all":["[Q33答案句] Autonomous underwater vehicles, or AUVs, are used in the oil industry, for instance, to create maps of the seabed before rigs and pipelines are installed."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"34":{"all":["(Q34) [Q34答案句] To navigate they use sensors such as compasses and sonar. Until relatively recently they were very expensive, and so heavy that they had to be launched from a large vessel with a winch."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"35":{"all":["[Q35答案句] The site is the final resting place of an ancient Roman ship, which sank in the sixth century AD while ferrying prefabricated marble elements for the construction of an early church."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"36":{"all":["[Q36答案句] For short distances, AUVs can share data using light while acoustic waves are used to communicate over long distances."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"37":{"all":["[Q37答案句] So if an AUV surveying the seabed finds an intriguing object, it can share the coordinates of the object - that is, its position - with a nearby AUV that carries superior cameras, and arrange for that AUV to make a closer inspection of the object."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"38":{"all":["[Q38答案句] When it sank, it was carrying medical goods, in wooden or tin receptacles."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"39":{"all":["(Q39) [Q39答案句] Its cargo gives us insight into the treatments available all those years ago, including tablets that are thought to have been dissolved to form a cleansing liquid for the eyes."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"40":{"all":["[Q40答案句] Some held huge pots made of terracotta. Some were used for transporting cargoes of olive oil, and others held wine."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true}}},"teacherVocabulary":[{"target":"body","block":0,"q":31,"start":119,"end":129,"term":"semicircle","meaning":"c.n. 半圆 (形)","root":"","location":"第 1 块题目 · Q31"}],"answerCloud":{"sha":"cf086659a47eb0113de2dbc7ac26485264ceeeb6","path":"14-4-4 笔记填空 答案词.txt"},"topicCatalog":["生物&环境类"],"tagArchiveFiles":{"考点":"Part 4 笔记填空 - 考点库标签- 考点.txt","审题预测":"Part 4 笔记填空 - 考点库标签- 审题预测.txt","答案前置":"Part 4 笔记填空 - 考点库标签- 答案前置.txt"},"tagCatalog":{"tags":["答案得出相对直观，跟空前限定词的同义替换","答案得出方式相对直观， 跟空前定位词","答案前置","(审题)空前定位词有限，需要画上一行定位词","(审题)答案空所在行与小标题不相邻，中间内容也要画定位词， 辅助跟原文","空前关注各类「逻辑连接词」","(除明显答案前置外) 需要看空后内容","听中根据预测找到疑似答案，出现定位词后确定","听中记录疑似答案，根据后续代词指代确定答案","跟同义替换（整句/段解释）","(听中) 强调表达+正确答案","(听中)出现多个和预测词性相符的词， 一般是n.+ n. 形式的， 需要填写使整句语义完整的那个词","(听中) 由于「审题」无明显逻辑连接词，所以【听中】关注句子间逻辑关系","（得出相对直观）， 注意拼写&场景词积累","答案前置补充 - 具体情况notes"],"children":{"答案得出方式相对直观， 跟空前定位词":[{"id":"eb16e5de-a1d4-45dd-9ecd-6ee8e849a5a6","name":"专有名词"},{"id":"a93a15a7-290b-4695-be1c-e2ef48aa2fe2","name":"普通名词（原词）"},{"id":"f17fa0d7-c3dd-4b59-838b-873d3f8290a2","name":"普通名词（同义替换）"}],"(审题)空前定位词有限，需要画上一行定位词":[{"id":"327795a8-6c0e-46eb-89a7-0ec508694123","name":"空前完全无实义词"},{"id":"ae05271d-53d9-476c-a32f-9f47d6cd3032","name":"空前普通名词"},{"id":"6946f603-30d4-4479-88b9-5fb057229f91","name":"特殊情况： 答案空所在行也有定位词， 但和小标题不相邻，所以中间内容也要画定位词，作为辅助"}],"空前关注各类「逻辑连接词」":[{"id":"ce5a40cc-6ab7-4c18-8376-ea1a9e9e8eb6","name":"空前有表「并列」关系词，关注同替"},{"id":"55adc83c-ebec-4f7d-91b9-45f550ddf550","name":"空前有表「举例」关系词， 关注同替说法"},{"id":"204b0480-3438-44ff-b89f-892309933f02","name":"表「广义因果」关系（原因、目的、结果、条件关系），关注同义替换"}],"(听中) 由于「审题」无明显逻辑连接词，所以【听中】关注句子间逻辑关系":[],"答案前置":[{"id":"741e47b1-14a4-49b5-b0a5-0f40d4ef532d","name":"被动语态"},{"id":"cdba6ca9-0c60-491e-83bd-31cf4e4eb707","name":"定语从句"},{"id":"256ac974-e3a5-4c1b-a160-4d07020474cf","name":"介词短语 n + prep + n & 词组题"},{"id":"84540db0-387d-4b01-b2fc-07b39142b714","name":"adj"},{"id":"c4896de5-f6bd-42cb-8a17-4a87c9258ebb","name":"答案空 + to do"},{"id":"0964d75f-4c01-4372-9533-6ba09ca8db20","name":"表「广义因果」关系词（原因、目的、结果、条件关系）"},{"id":"6118ad58-4ec9-426e-9967-23d587825822","name":"表「包含」关系词+大类别(答案空)+具体解释， 可能语序调换（=包含+具体内容，+这是「大类别」）"}],"答案得出相对直观，跟空前限定词的同义替换":[{"id":"cd4f2292-470d-4b61-a0a0-a3eb5667fddb","name":"v. & phr.v"},{"id":"fa8b0b01-5140-48f6-aa75-68ec38ad5684","name":"adj./ adv"},{"id":"020c9259-2f55-44db-9dda-090936631c5f","name":"否定含义词"},{"id":"7663d3ae-0342-40e9-8ebd-8451aa5588b1","name":"对比类 表述"},{"id":"b5d93bfa-23b4-4158-912f-dccb70d5297c","name":"程度类"},{"id":"e8b8eef7-4a53-48bf-99a4-56f7bd700543","name":"v/adj/adv/perp/其它类 - 原词"},{"id":"fd82e3a0-f99d-4f0e-8571-6e0c380875c5","name":"特殊疑问词 类"},{"id":"73baac9a-076d-4c09-8cf6-9f57d2d4a2de","name":"数值类"},{"id":"851730df-b8ab-4da2-a4b0-d58e255ac49e","name":"表「广义因果」关系（原因、目的、结果、条件关系），关注同义替换， see 逻辑连接词标签"},{"id":"44953094-07cd-40ed-a884-ab53304bee45","name":"prep"}],"答案前置补充 - 具体情况notes":[{"id":"8a0238e5-2f3f-428f-b019-db9f424731d6","name":"_____ of +n. = n.+ be + _____(adj.)"},{"id":"c6f3a064-6e57-4108-996f-1a302eea43dd","name":"____(预测为名词) + of + n.2 = n.2 +答案词."},{"id":"13a29380-d4e5-4f87-ae4d-60a11440c577","name":"方式类： do sth by _____ = use ______ to do"},{"id":"87fc1c88-f15d-40c0-9ac2-1191aad16a4b","name":"材料 由…制成： make from, make of"}]},"order":["答案得出相对直观，跟空前限定词的同义替换","答案得出方式相对直观， 跟空前定位词","答案前置","(审题)空前定位词有限，需要画上一行定位词","(审题)答案空所在行与小标题不相邻，中间内容也要画定位词， 辅助跟原文","空前关注各类「逻辑连接词」","(除明显答案前置外) 需要看空后内容","听中根据预测找到疑似答案，出现定位词后确定","听中记录疑似答案，根据后续代词指代确定答案","跟同义替换（整句/段解释）","(听中) 强调表达+正确答案","(听中)出现多个和预测词性相符的词， 一般是n.+ n. 形式的， 需要填写使整句语义完整的那个词","(听中) 由于「审题」无明显逻辑连接词，所以【听中】关注句子间逻辑关系","（得出相对直观）， 注意拼写&场景词积累","答案前置补充 - 具体情况notes"]},"predictionCatalog":["adj","adj - 关注空后是否是 n ➡️ 可能答案前置","n.","v.","【材料类】","可数n. - 单数","可数n. -复数","不可数n.","【问题/麻烦】","【地点类】","【时间类】","【身体部位】","【乐器类】","【学科类】"],"frontingCatalog":["审题 - adj+n","答案空(预测是adj.)+n","adj + 答案空(预测是n.)","介词短语 & 词组题","答案空 + prep +n.","prep + 答案空","空前出现表「原因」连接词","被动语态","空后 + to do","无明显逻辑连接词，关注句子间逻辑关系","定语从句","空 + 关系词 + 定语从句","关系词引导定语从句 + 答案空","表「包含」关系词+大类别(答案空)+具体解释， 可能语序调换（=包含+具体内容，+这是「大类别」）","n. + n."],"predictionParents":{"adj - 关注空后是否是 n ➡️ 可能答案前置":"adj","可数n. - 单数":"n.","可数n. -复数":"n.","不可数n.":"n."},"frontingParents":{"答案空(预测是adj.)+n":"审题 - adj+n","adj + 答案空(预测是n.)":"审题 - adj+n","答案空 + prep +n.":"介词短语 & 词组题","prep + 答案空":"介词短语 & 词组题","空 + 关系词 + 定语从句":"定语从句","关系词引导定语从句 + 答案空":"定语从句","n. + n.":"介词短语 & 词组题"}}
