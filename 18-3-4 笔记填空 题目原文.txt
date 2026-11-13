@@ -12,8 +12,7 @@ A Space Traffic Management system
 
 Problems in developing effective Space Traffic Management
 
-•  Satellites are now quite 32.____________ and therefore more widespread  (e.g. there are constellations made up of 33.____________
-  of satellites).
+•  Satellites are now quite 32.____________ and therefore more widespread  (e.g. there are constellations made up of 33.____________ of satellites).
 •  At present, satellites are not required to transmit information to help with their 34.____________
 
 
