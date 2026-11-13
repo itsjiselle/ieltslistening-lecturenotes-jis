@@ -1,0 +1,31 @@
+18-3-4 Space Traffic Management
+话题分类：未分类
+Complete the notes below.
+Write ONE WORD ONLY for each answer.
+
+
+A Space Traffic Management system
+
+•  is a concept similar to Air Traffic Control, but for satellites rather than planes.
+•  would aim to set up legal and 31.____________ ways of improving safety.
+•  does not actually exist at present.
+
+Problems in developing effective Space Traffic Management
+
+•  Satellites are now quite 32.____________ and therefore more widespread  (e.g. there are constellations made up of 33.____________
+  of satellites).
+•  At present, satellites are not required to transmit information to help with their 34.____________
+
+
+
+•  There are few systems for 35.____________ satellites.
+•  Small pieces of debris may be difficult to identify.
+•  Operators may be unwilling to share details of satellites used for 36.____________ or commercial reasons.
+•  It may be hard to collect details of the object’s 37.____________ at a given time.
+•  Scientists can only make a 38.____________ about where the satellite will go.
+
+Solutions
+
+•  Common standards should be agreed on for the presentation of information.
+•  The information should be combined in one 39.____________
+•  A coordinated system must be designed to create 40.____________ in its users.
