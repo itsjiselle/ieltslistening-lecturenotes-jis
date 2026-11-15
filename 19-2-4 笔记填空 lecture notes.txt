@@ -1,0 +1,232 @@
+19-2-4 Tardigrades
+话题分类：未分类
+Complete the notes below.
+Write ONE WORD ONLY for each answer.
+
+
+
+
+more than 1,000 species, 0.05–1.2 millimetres long
+also known as water ‘bears’ (due to how they 31.____________ ) and ‘moss piglets’
+
+Physical appearance
+
+• a 32.____________ round body and four pairs of legs
+• claws or 33.____________ for gripping
+• absence of respiratory organs
+• body filled with a liquid that carries both 34.____________ and blood
+• mouth shaped like a 35.____________ with teeth called stylets
+
+Habitat
+
+• often found at the bottom of a lake or on plants
+• very resilient and can exist in very low or high 36.____________
+
+Cryptobiosis
+
+• In dry conditions, they roll into a ball called a ‘tun’ .
+• They stay alive with a much lower metabolism than usual.
+• A type of 37.____________ ensures their DNA is not damaged.
+• Research is underway to find out how many days they can stay alive in 38.____________
+
+Feeding
+
+• consume liquids, e.g., those found in moss or 39.____________
+• may eat other tardigrades
+
+Conservation status
+
+• They are not considered to be 40.____________
+
+Q31 答案：move
+存疑：未标记
+难度：未选择
+审题预测：v.
+答案前置关注：
+答案句：They are also sometimes called 'water bears': 'water' because that's where they thrive best, and 'bear' because of the way they move.
+同义替换：because of = due to
+the way = how 特殊疑问词同义替换
+
+干扰项：
+讲题路径：
+
+Q32 答案：short
+存疑：未标记
+难度：未选择
+审题预测：adj
+答案前置关注：审题 - adj+n、答案空(预测是adj.)+n、介词短语 & 词组题
+答案句：They have a body which is short, and also rounded – a bit like a barrel – and the body comprises four segments.
+同义替换：a n.+ which is +adj(答案空) = a + adj + n
+干扰项：
+讲题路径：
+
+Q33 答案：discs
+存疑：未标记
+难度：未选择
+审题预测：n.、【身体部位】 (不局限于人类)
+答案前置关注：
+答案句：I should also say that some species don't have any claws; what they have are discs, and these work by means of suction. They enable the tardigrade to cling on to surfaces or to grip its prey.
+同义替换：[Q33 答案句]
+干扰项：
+讲题路径：
+
+Q34 答案：oxygen
+存疑：未标记
+难度：未选择
+审题预测：n.
+答案前置关注：定语从句、空 + 关系词 + 定语从句
+答案句：Instead, oxygen and also blood are transported in a fluid that fills the cavity of the body.
+同义替换：aren't xxx(没有的东西), + Instead + 有的东西（即答案空） 强调方式， 跟出答案 
+
+干扰项：
+讲题路径：答案空 在定语从句中，修饰liquid， 所以liquid很可能后说。 所以还要找更前面的定位词： body 
+
+Q35 答案：tube
+存疑：未标记
+难度：未选择
+审题预测：n.、【形状词 n./adj.】
+答案前置关注：
+答案句：The tardigrade's mouth is a kind of tube that can open outwards to reveal teeth-like structures known as 'stylets'.
+同义替换： a kind of  = shape like a 
+
+干扰项：
+讲题路径：
+
+Q36 答案：temperatures
+存疑：未标记
+难度：未选择
+审题预测：n.
+答案前置关注：审题 - adj+n、答案空(预测是adj.)+n
+答案句：There's been some interesting research which has found that tardigrades are capable of surviving radiation and very high pressure.
+And they're also able to withstand temperatures as cold as –200 degrees centigrade, or highs of more than 148 degrees centigrade, which is incredibly hot.
+同义替换：are capable of surviving  = resilient 
+'re also able to = can 
+withstand = exist in 经受;承受;顶住
+空前定位词后出现as cold as ... or highs of  = low or high 
+干扰项：
+讲题路径：空前adj 作为修饰， 变为 后出现， 且以举例形式 
+
+Q37 答案：protein
+存疑：未标记
+难度：未选择
+审题预测：n.
+答案前置关注：
+答案句：While in a state of cryptobiosis, tardigrades produce a protein that protects their DNA.
+同义替换：a = a type of 
+protect = ensure 
+干扰项：
+讲题路径：◾️ A type of：抽象， 无实义， 所以往上画一行
+
+Q38 答案：space
+存疑：未标记
+难度：未选择
+审题预测：n.、【地点类】
+答案前置关注：
+答案句：There are currently several tests taking place in space, to determine how long tardigrades might be able to survive there. I believe the record so far is 10 days.
+同义替换：test = research
+take place = underway adj.正在进行的；正在发生的 
+干扰项：
+讲题路径：❗️ 应该画句子主干—— Research is underway in ______. 
+
+Q39 答案：seaweed
+存疑：未标记
+难度：未选择
+审题预测：n.
+答案前置关注：
+答案句：They suck the juices from moss, or extract fluid from seaweed, but some species prey on other tardigrades, from other species or within their own.
+同义替换：juices & liquid原词 = liquid
+
+
+干扰项：
+讲题路径：
+
+Q40 答案：endangered
+存疑：未标记
+难度：未选择
+审题预测：adj
+答案前置关注：
+答案句：So, it will probably come as no surprise to you, that tardigrades have not been evaluated by the International Union for Conservation of Nature and are not on any endangered list.
+同义替换：
+
+干扰项：
+讲题路径：◾️ They：又出现代词， 指代的是谁—— tardigrade 本文主题
+◾️ not：否定词原词
+
+Overall comments：
+
+原文：
+(Q31) For my project on invertebrates, I chose to study tardigrades. These are microscopic – or to be more precise – near-microscopic animals.
+
+There are well over a thousand known species of these tiny animals, which belong to the phylum Tardigrada.
+
+Most tardigrades range in length from 0.05 to 1 millimetre, though the largest species can grow to be 1.2 millimetres in length.
+
+[Q31答案句] They are also sometimes called 'water bears': 'water' because that's where they thrive best, and 'bear' because of the way they move.
+
+(Q32) 'Moss piglet' is another name for tardigrades because of the way they look when viewed from the front. **“
+
+They were first discovered in Germany in 1773 by Johann Goeze, who coined the name Tardigrada. 1773
+
+As I say, there are many different species of tardigrade – too many to describe here – but, generally speaking, the different species share similar physical traits.
+
+[Q32答案句] They have a body which is short, and also rounded – a bit like a barrel – and the body comprises four segments.
+
+(Q33) Each segment has a pair of legs, at the end of which are between four and eight sharp claws.
+
+[Q33 答案句] I should also say that some species don't have any claws; what they have are discs, and these work by means of suction. They enable the tardigrade to cling on to surfaces or to grip its prey.
+
+(Q34) Within the body, there are no lungs, or any organs for breathing at all.
+
+[Q34答案句] Instead, oxygen and also blood are transported in a fluid that fills the cavity of the body.
+
+(Q35) As far as the tardigrade's head is concerned, the best way I can describe this is that it looks rather strange – a bit squashed even.
+
+Though many of the websites I looked at described its appearance as cute, which isn't exactly very scientific.
+
+[Q35答案句] The tardigrade's mouth is a kind of tube that can open outwards to reveal teeth-like structures known as 'stylets'.
+
+(Q36) These are sharp enough to pierce plant or animal cells.
+
+So, where are tardigrades found?
+
+Well, they live in every part of the world, in a variety of habitats: most commonly, on the bed of a lake, or on many kinds of plants or in very wet environments.
+
+There's been some interesting research which has found that tardigrades are capable of surviving radiation and very high pressure.
+
+[Q36答案句] And they're also able to withstand temperatures as cold as –200 degrees centigrade, or highs of more than 148 degrees centigrade, which is incredibly hot.
+
+(Q37) It has been said that tardigrades could survive long after human beings have been wiped out, even in the event of an asteroid hitting the earth.
+
+If conditions become too extreme and tardigrades are at risk of drying out, they enter a state called cryptobiosis.
+
+They curl into a ball, called a tun – that's T-U-N – by retracting their head and legs, and their metabolism drops to less than one percent of normal levels.
+
+They can remain like this until they are re-introduced to water, when they will come back to life in a matter of a few hours.
+
+[Q37答案句] While in a state of cryptobiosis, tardigrades produce a protein that protects their DNA.
+
+(Q38) In 2016, scientists revived two tardigrades that had been tuns for more than 30 years. 2016
+
+There was a report that, in 1948, a 120-year-old tun was revived, but this experiment has never been repeated.
+
+[Q38答案句] There are currently several tests taking place in space, to determine how long tardigrades might be able to survive there. I believe the record so far is 10 days.
+
+(Q39) So, erm, moving on. In terms of their diet, tardigrades consume liquids in order to survive.
+
+Although they have teeth, they don't use these for chewing.
+
+[Q39答案句] They suck the juices from moss, or extract fluid from seaweed, but some species prey on other tardigrades, from other species or within their own.
+
+(Q40) I suppose this isn't surprising, given that tardigrades are mainly comprised of liquid and are coated with a type of gel.
+
+Finally, I'd like to mention the conservation status of tardigrades.
+
+It is estimated that they have been in existence for approximately half a billion years and, in that time, they have survived five mass extinctions.
+
+[Q40答案句] So, it will probably come as no surprise to you, that tardigrades have not been evaluated by the International Union for Conservation of Nature and are not on any endangered list.
+
+Some researchers have described them as thriving.
+
+Does anyone have any questions they'd like to ask?
+--- JISELLE NOTES FORM DATA V1 ---
+{"id":"notes-cd963761-e447-4052-89d0-b0bc4be5dfea","index":"19-2-4","part":4,"title":"Tardigrades","kind":"notes","wordLimit":"ONE WORD ONLY","mode":"intro","intro":"","type":"填空题","tableCells":null,"sourceText":"• a 32 round body and four pairs of legs\n• claws or 33 for gripping\n• absence of respiratory organs\n• body filled with a liquid that carries both 34 and blood\n• mouth shaped like a 35 with teeth called stylets\n--- 分块 ---\n• Habitat\n• ·often found at the bottom of a lake or on plants\n• ·very resilient and can exist in very low or high 36\n• Cryptobiosis\n• ·In dry conditions, they roll into a ball called a ‘tun’ .\n• ·They stay alive with a much lower metabolism than usual.\n• ·A type of 37\n•  ensures their DNA is not damaged.\n• ·Research is underway to find out how many days they can stay\n• alive in 38\n• .\n• Feeding\n• ·consume liquids, e.g., those found in moss or 39\n•  .     \n• ·may eat other tardigrades\n• Conservation status\n• ·They are not considered to be 40\n•  .","blocks":[{"heading":"","subheading":"","body":"more than 1,000 species, 0.05–1.2 millimetres long\nalso known as water ‘bears’ (due to how they 31.____________ ) and ‘moss piglets’","lectureBlock":0,"isIntro":true,"formats":[{"start":80,"end":86,"kind":"highlight"},{"start":71,"end":78,"kind":"underline"},{"start":87,"end":90,"kind":"highlight"}]},{"heading":"Physical appearance","subheading":"","lectureBlock":1,"body":"• a 32.____________ round body and four pairs of legs\n• claws or 33.____________ for gripping\n• absence of respiratory organs\n• body filled with a liquid that carries both 34.____________ and blood\n• mouth shaped like a 35.____________ with teeth called stylets","layout":null,"columnWidths":null,"formats":[{"start":2,"end":3,"kind":"highlight"},{"start":20,"end":30,"kind":"underline"},{"start":56,"end":61,"kind":"underline"},{"start":62,"end":64,"kind":"highlight"},{"start":85,"end":93,"kind":"underline"},{"start":167,"end":171,"kind":"highlight"},{"start":188,"end":191,"kind":"highlight"},{"start":147,"end":153,"kind":"underline"},{"start":128,"end":132,"kind":"underline"},{"start":192,"end":197,"kind":"underline"},{"start":200,"end":205,"kind":"underline"},{"start":218,"end":219,"kind":"highlight"},{"start":241,"end":246,"kind":"underline"}],"headingFormats":[{"start":0,"end":19,"kind":"underline"}]},{"heading":"Habitat","subheading":"","lectureBlock":2,"body":"• often found at the bottom of a lake or on plants\n• very resilient and can exist in very low or high 36.____________","layout":null,"columnWidths":null,"formats":[{"start":90,"end":101,"kind":"highlight"},{"start":85,"end":89,"kind":"highlight"},{"start":58,"end":67,"kind":"underline"},{"start":72,"end":75,"kind":"highlight"},{"start":33,"end":37,"kind":"underline"},{"start":44,"end":50,"kind":"underline"}]},{"heading":"Cryptobiosis","subheading":"","lectureBlock":2,"body":"• In dry conditions, they roll into a ball called a ‘tun’ .\n• They stay alive with a much lower metabolism than usual.\n• A type of 37.____________ ensures their DNA is not damaged.\n• Research is underway to find out how many days they can stay alive in 38.____________","layout":null,"columnWidths":null,"formats":[{"start":121,"end":131,"kind":"highlight"},{"start":147,"end":154,"kind":"highlight"},{"start":161,"end":164,"kind":"underline"},{"start":96,"end":106,"kind":"underline"},{"start":235,"end":238,"kind":"highlight"},{"start":244,"end":249,"kind":"highlight"},{"start":206,"end":215,"kind":"highlight"},{"start":216,"end":229,"kind":"highlight"},{"start":183,"end":191,"kind":"underline"},{"start":195,"end":203,"kind":"highlight"}]},{"heading":"Feeding","subheading":"","lectureBlock":3,"body":"• consume liquids, e.g., those found in moss or 39.____________\n• may eat other tardigrades","layout":null,"columnWidths":null,"formats":[{"start":19,"end":23,"kind":"highlight"},{"start":40,"end":44,"kind":"underline"},{"start":10,"end":17,"kind":"underline"},{"start":45,"end":47,"kind":"highlight"}]},{"heading":"Conservation status","subheading":"","lectureBlock":3,"body":"• They are not considered to be 40.____________","layout":null,"columnWidths":null,"formats":[{"start":2,"end":6,"kind":"underline"},{"start":11,"end":14,"kind":"highlight"}],"headingFormats":[{"start":13,"end":19,"kind":"underline"}]}],"numbers":[31,32,33,34,35,36,37,38,39,40],"manualOnly":true,"bullets":false,"bulletsApplied":true,"questionNotes":{"2":{"answer":"","evidence":"","note":"","teaching":"","transcript":"","predictionTags":[],"tags":[],"subTags":[]},"31":{"answer":"move","evidence":"They are also sometimes called 'water bears': 'water' because that's where they thrive best, and 'bear' because of the way they move.","note":"because of = due to\nthe way = how 特殊疑问词同义替换\n","teaching":"","transcript":"(Q31) For my project on invertebrates, I chose to study tardigrades. These are microscopic – or to be more precise – near-microscopic animals.\nThere are well over a thousand known species of these tiny animals, which belong to the phylum Tardigrada.\nMost tardigrades range in length from 0.05 to 1 millimetre, though the largest species can grow to be 1.2 millimetres in length.\n[Q31答案句] They are also sometimes called 'water bears': 'water' because that's where they thrive best, and 'bear' because of the way they move.","transcriptFormats":[{"start":485,"end":492,"kind":"underline"},{"start":492,"end":502,"kind":"highlight"}],"noteFormats":[],"evidenceFormats":[{"start":115,"end":122,"kind":"highlight"}],"tags":["\"一定一考“","答案得出相对直观，跟空前限定词的同义替换","空前关注各类「逻辑连接词」"],"subTags":["fd82e3a0-f99d-4f0e-8571-6e0c380875c5","851730df-b8ab-4da2-a4b0-d58e255ac49e","204b0480-3438-44ff-b89f-892309933f02"],"predictionTags":["v."]},"32":{"answer":"short","evidence":"They have a body which is short, and also rounded – a bit like a barrel – and the body comprises four segments.","note":"a n.+ which is +adj(答案空) = a + adj + n","teaching":"","transcript":"(Q32) 'Moss piglet' is another name for tardigrades because of the way they look when viewed from the front. **“\nThey were first discovered in Germany in 1773 by Johann Goeze, who coined the name Tardigrada. 1773\nAs I say, there are many different species of tardigrade – too many to describe here – but, generally speaking, the different species share similar physical traits.\n[Q32答案句] They have a body which is short, and also rounded – a bit like a barrel – and the body comprises four segments.","transcriptFormats":[],"predictionTags":["adj"],"frontingTags":["审题 - adj+n","答案空(预测是adj.)+n","介词短语 & 词组题"],"noteFormats":[],"tags":["答案前置"],"subTags":["84540db0-387d-4b01-b2fc-07b39142b714"]},"33":{"answer":"discs","evidence":"I should also say that some species don't have any claws; what they have are discs, and these work by means of suction. They enable the tardigrade to cling on to surfaces or to grip its prey.","note":"[Q33 答案句]","teaching":"","transcript":"(Q33) Each segment has a pair of legs, at the end of which are between four and eight sharp claws.\n[Q33 答案句] I should also say that some species don't have any claws; what they have are discs, and these work by means of suction. They enable the tardigrade to cling on to surfaces or to grip its prey.","transcriptFormats":[],"predictionTags":["n.","【身体部位】 (不局限于人类)"],"tags":["听中根据预测找到疑似答案(即符合预测时词性/类型的)，出现定位词后确定"],"subTags":[]},"34":{"answer":"oxygen","evidence":"Instead, oxygen and also blood are transported in a fluid that fills the cavity of the body.","note":"aren't xxx(没有的东西), + Instead + 有的东西（即答案空） 强调方式， 跟出答案 \n","teaching":"答案空 在定语从句中，修饰liquid， 所以liquid很可能后说。 所以还要找更前面的定位词： body ","transcript":"(Q34) Within the body, there are no lungs, or any organs for breathing at all.\n[Q34答案句] Instead, oxygen and also blood are transported in a fluid that fills the cavity of the body.","transcriptFormats":[{"start":140,"end":145,"kind":"underline"},{"start":88,"end":95,"kind":"highlight"}],"predictionTags":["n."],"tags":["空前关注各类「逻辑连接词」","(听中) 强调表达+正确答案"],"subTags":["ce5a40cc-6ab7-4c18-8376-ea1a9e9e8eb6"],"frontingTags":["定语从句","空 + 关系词 + 定语从句"],"teachingFormats":[],"noteFormats":[]},"35":{"answer":"tube","evidence":"The tardigrade's mouth is a kind of tube that can open outwards to reveal teeth-like structures known as 'stylets'.","note":" a kind of  = shape like a \n","teaching":"","transcript":"(Q35) As far as the tardigrade's head is concerned, the best way I can describe this is that it looks rather strange – a bit squashed even.\nThough many of the websites I looked at described its appearance as cute, which isn't exactly very scientific.\n[Q35答案句] The tardigrade's mouth is a kind of tube that can open outwards to reveal teeth-like structures known as 'stylets'.","transcriptFormats":[],"predictionTags":["n.","【形状词 n./adj.】"],"tags":["听中根据预测找到疑似答案(即符合预测时词性/类型的)，出现定位词后确定"],"subTags":[],"noteFormats":[],"evidenceFormats":[{"start":25,"end":36,"kind":"highlight"}]},"36":{"answer":"temperatures","evidence":"There's been some interesting research which has found that tardigrades are capable of surviving radiation and very high pressure.\nAnd they're also able to withstand temperatures as cold as –200 degrees centigrade, or highs of more than 148 degrees centigrade, which is incredibly hot.","note":"are capable of surviving  = resilient \n're also able to = can \nwithstand = exist in 经受;承受;顶住\n空前定位词后出现as cold as ... or highs of  = low or high ","teaching":"空前adj 作为修饰， 变为 后出现， 且以举例形式 ","transcript":"(Q36) These are sharp enough to pierce plant or animal cells.\nSo, where are tardigrades found?\nWell, they live in every part of the world, in a variety of habitats: most commonly, on the bed of a lake, or on many kinds of plants or in very wet environments.\nThere's been some interesting research which has found that tardigrades are capable of surviving radiation and very high pressure.\n[Q36答案句] And they're also able to withstand temperatures as cold as –200 degrees centigrade, or highs of more than 148 degrees centigrade, which is incredibly hot.","transcriptFormats":[{"start":196,"end":200,"kind":"underline"},{"start":222,"end":228,"kind":"underline"},{"start":330,"end":355,"kind":"highlight"}],"predictionTags":["n."],"focusLines":[{"block":2,"text":"• often found at the bottom of a lake or on plants"}],"noteFormats":[],"evidenceFormats":[{"start":139,"end":155,"kind":"highlight"},{"start":156,"end":165,"kind":"highlight"},{"start":179,"end":190,"kind":"highlight"},{"start":215,"end":227,"kind":"highlight"}],"frontingTags":["审题 - adj+n","答案空(预测是adj.)+n"],"tags":["答案前置"],"subTags":["84540db0-387d-4b01-b2fc-07b39142b714"],"teachingFormats":[]},"37":{"answer":"protein","evidence":"While in a state of cryptobiosis, tardigrades produce a protein that protects their DNA.","note":"a = a type of \nprotect = ensure ","teaching":"◾️ A type of：抽象， 无实义， 所以往上画一行","transcript":"(Q37) It has been said that tardigrades could survive long after human beings have been wiped out, even in the event of an asteroid hitting the earth.\nIf conditions become too extreme and tardigrades are at risk of drying out, they enter a state called cryptobiosis.\nThey curl into a ball, called a tun – that's T-U-N – by retracting their head and legs, and their metabolism drops to less than one percent of normal levels.\nThey can remain like this until they are re-introduced to water, when they will come back to life in a matter of a few hours.\n[Q37答案句] While in a state of cryptobiosis, tardigrades produce a protein that protects their DNA.","transcriptFormats":[{"start":614,"end":615,"kind":"highlight"},{"start":629,"end":637,"kind":"highlight"}],"predictionTags":["n."],"glossary":[{"id":"4fb63b72-abe7-43e3-84b0-3b2462ce4a00","q":37,"kind":"teaching","target":"body","block":3,"start":121,"end":130,"term":"A type of","meaning":"抽象， 无实义， 所以往上画一行"}],"focusLines":[{"block":3,"text":"• They stay alive with a much lower metabolism than usual."}],"noteFormats":[],"tags":["答案得出相对直观，跟空前限定词的同义替换"],"subTags":["fa8b0b01-5140-48f6-aa75-68ec38ad5684"]},"38":{"answer":"space","evidence":"There are currently several tests taking place in space, to determine how long tardigrades might be able to survive there. I believe the record so far is 10 days.","note":"test = research\ntake place = underway adj.正在进行的；正在发生的 ","teaching":"❗️ 应该画句子主干—— Research is underway in ______. ","transcript":"(Q38) In 2016, scientists revived two tardigrades that had been tuns for more than 30 years. 2016\nThere was a report that, in 1948, a 120-year-old tun was revived, but this experiment has never been repeated.\n[Q38答案句] There are currently several tests taking place in space, to determine how long tardigrades might be able to survive there. I believe the record so far is 10 days.","transcriptFormats":[{"start":246,"end":251,"kind":"underline"}],"predictionTags":["n.","【地点类】"],"teachingFormats":[],"noteFormats":[],"tags":["答案得出相对直观，跟空前限定词的同义替换","答案得出方式相对直观， 跟空前定位词","找定位词方法(位置) ：画句子主干，因为修饰成分可能后置。"],"subTags":["fa8b0b01-5140-48f6-aa75-68ec38ad5684","f17fa0d7-c3dd-4b59-838b-873d3f8290a2"]},"39":{"answer":"seaweed","evidence":"They suck the juices from moss, or extract fluid from seaweed, but some species prey on other tardigrades, from other species or within their own.","note":"juices & liquid原词 = liquid\n\n","teaching":"","transcript":"(Q39) So, erm, moving on. In terms of their diet, tardigrades consume liquids in order to survive.\nAlthough they have teeth, they don't use these for chewing.\n[Q39答案句] They suck the juices from moss, or extract fluid from seaweed, but some species prey on other tardigrades, from other species or within their own.","transcriptFormats":[{"start":182,"end":188,"kind":"underline"}],"predictionTags":["n."],"tags":["空前关注各类「逻辑连接词」"],"subTags":["ce5a40cc-6ab7-4c18-8376-ea1a9e9e8eb6","dd178eaf-49e9-447e-9630-210cd98bded2"],"noteFormats":[]},"40":{"answer":"endangered","evidence":"So, it will probably come as no surprise to you, that tardigrades have not been evaluated by the International Union for Conservation of Nature and are not on any endangered list.","note":"\n","teaching":"◾️ They：又出现代词， 指代的是谁—— tardigrade 本文主题\n◾️ not：否定词原词","transcript":"(Q40) I suppose this isn't surprising, given that tardigrades are mainly comprised of liquid and are coated with a type of gel.\nFinally, I'd like to mention the conservation status of tardigrades.\nIt is estimated that they have been in existence for approximately half a billion years and, in that time, they have survived five mass extinctions.\n[Q40答案句] So, it will probably come as no surprise to you, that tardigrades have not been evaluated by the International Union for Conservation of Nature and are not on any endangered list.\nSome researchers have described them as thriving.\nDoes anyone have any questions they'd like to ask?","transcriptFormats":[],"predictionTags":["adj"],"tags":["答案得出相对直观，跟空前限定词的同义替换","听中根据预测找到疑似答案(即符合预测时词性/类型的)，出现定位词后确定"],"subTags":["020c9259-2f55-44db-9dda-090936631c5f"],"glossary":[{"id":"49f16f15-4fbb-4cb1-ba73-3a82d86dd612","q":40,"kind":"teaching","target":"body","block":5,"start":2,"end":6,"term":"They","meaning":"又出现代词， 指代的是谁—— tardigrade 本文主题"},{"id":"04d687b8-2454-4aa1-bd7b-31b5b1d45e1f","q":40,"kind":"teaching","target":"evidence","block":null,"start":152,"end":155,"term":"not","meaning":"否定词原词"}],"noteFormats":[]}},"createdAt":"2026-11-15T02:43:42.245Z","topicCategory":"","topicUpdatedAt":"2026-11-15T02:46:02.919Z","attempts":{"40":"lecture notes+音频对应 同步"},"answerCloud":{"sha":"8b137891791fe96927ad78e64b0aad7bded08bdc","path":"19-2-4 笔记填空 答案词.txt"},"answerWordsRaw":"31. move\n32. short\n33. discs\n34. oxygen\n35. tube\n36. temperatures\n37. protein\n38. space\n39. seaweed\n40. endangered","transcript":"(Q31) For my project on invertebrates, I chose to study tardigrades. These are microscopic – or to be more precise – near-microscopic animals.\n\nThere are well over a thousand known species of these tiny animals, which belong to the phylum Tardigrada.\n\nMost tardigrades range in length from 0.05 to 1 millimetre, though the largest species can grow to be 1.2 millimetres in length.\n\n[Q31答案句] They are also sometimes called 'water bears': 'water' because that's where they thrive best, and 'bear' because of the way they move.\n\n(Q32) 'Moss piglet' is another name for tardigrades because of the way they look when viewed from the front. **“\n\nThey were first discovered in Germany in 1773 by Johann Goeze, who coined the name Tardigrada. 1773\n\nAs I say, there are many different species of tardigrade – too many to describe here – but, generally speaking, the different species share similar physical traits.\n\n[Q32答案句] They have a body which is short, and also rounded – a bit like a barrel – and the body comprises four segments.\n\n(Q33) Each segment has a pair of legs, at the end of which are between four and eight sharp claws.\n\n[Q33 答案句] I should also say that some species don't have any claws; what they have are discs, and these work by means of suction. They enable the tardigrade to cling on to surfaces or to grip its prey.\n\n(Q34) Within the body, there are no lungs, or any organs for breathing at all.\n\n[Q34答案句] Instead, oxygen and also blood are transported in a fluid that fills the cavity of the body.\n\n(Q35) As far as the tardigrade's head is concerned, the best way I can describe this is that it looks rather strange – a bit squashed even.\n\nThough many of the websites I looked at described its appearance as cute, which isn't exactly very scientific.\n\n[Q35答案句] The tardigrade's mouth is a kind of tube that can open outwards to reveal teeth-like structures known as 'stylets'.\n\n(Q36) These are sharp enough to pierce plant or animal cells.\n\nSo, where are tardigrades found?\n\nWell, they live in every part of the world, in a variety of habitats: most commonly, on the bed of a lake, or on many kinds of plants or in very wet environments.\n\nThere's been some interesting research which has found that tardigrades are capable of surviving radiation and very high pressure.\n\n[Q36答案句] And they're also able to withstand temperatures as cold as –200 degrees centigrade, or highs of more than 148 degrees centigrade, which is incredibly hot.\n\n(Q37) It has been said that tardigrades could survive long after human beings have been wiped out, even in the event of an asteroid hitting the earth.\n\nIf conditions become too extreme and tardigrades are at risk of drying out, they enter a state called cryptobiosis.\n\nThey curl into a ball, called a tun – that's T-U-N – by retracting their head and legs, and their metabolism drops to less than one percent of normal levels.\n\nThey can remain like this until they are re-introduced to water, when they will come back to life in a matter of a few hours.\n\n[Q37答案句] While in a state of cryptobiosis, tardigrades produce a protein that protects their DNA.\n\n(Q38) In 2016, scientists revived two tardigrades that had been tuns for more than 30 years. 2016\n\nThere was a report that, in 1948, a 120-year-old tun was revived, but this experiment has never been repeated.\n\n[Q38答案句] There are currently several tests taking place in space, to determine how long tardigrades might be able to survive there. I believe the record so far is 10 days.\n\n(Q39) So, erm, moving on. In terms of their diet, tardigrades consume liquids in order to survive.\n\nAlthough they have teeth, they don't use these for chewing.\n\n[Q39答案句] They suck the juices from moss, or extract fluid from seaweed, but some species prey on other tardigrades, from other species or within their own.\n\n(Q40) I suppose this isn't surprising, given that tardigrades are mainly comprised of liquid and are coated with a type of gel.\n\nFinally, I'd like to mention the conservation status of tardigrades.\n\nIt is estimated that they have been in existence for approximately half a billion years and, in that time, they have survived five mass extinctions.\n\n[Q40答案句] So, it will probably come as no surprise to you, that tardigrades have not been evaluated by the International Union for Conservation of Nature and are not on any endangered list.\n\nSome researchers have described them as thriving.\n\nDoes anyone have any questions they'd like to ask?","srtSource":{"path":"19-2-4 英文.srt","sha":"ca64ab94ab73d657239856cc847f444a2935ec66","fetchedAt":"2026-11-15T02:46:38.879Z"},"audioData":{"parserVersion":2,"index":"19-2-4","repo":"itsjiselle/ielts-listening-questions-pdf","ref":"f1166703e6c2b4d77dfbe0447b3876c415c17bbe","audioPath":"19-2-4.mp3","audioSha":"7798ce9353ef84d93419734328dfeae97241b959","srtPath":"19-2-4 英文.srt","srtSha":"ca64ab94ab73d657239856cc847f444a2935ec66","cues":[{"id":"0","start":0.285,"end":9.542,"text":"(Q31) For my project on invertebrates, I chose to study tardigrades. These are microscopic – or to be more precise – near-microscopic animals.","q":31,"invalidTime":false},{"id":"1","start":9.542,"end":17.21,"text":"There are well over a thousand known species of these tiny animals, which belong to the phylum Tardigrada.","q":31,"invalidTime":false},{"id":"2","start":17.21,"end":29.362,"text":"Most tardigrades range in length from 0.05 to 1 millimetre, though the largest species can grow to be 1.2 millimetres in length.","q":31,"invalidTime":false},{"id":"3","start":29.362,"end":38.238,"text":"[Q31答案句] They are also sometimes called 'water bears': 'water' because that's where they thrive best, and 'bear' because of the way they move.","q":31,"invalidTime":false},{"id":"4","start":38.238,"end":45.737,"text":"(Q32) 'Moss piglet' is another name for tardigrades because of the way they look when viewed from the front. **“","q":32,"invalidTime":false},{"id":"5","start":45.737,"end":54.968,"text":"They were first discovered in Germany in 1773 by Johann Goeze, who coined the name Tardigrada. 1773","q":32,"invalidTime":false},{"id":"6","start":54.968,"end":67.519,"text":"As I say, there are many different species of tardigrade – too many to describe here – but, generally speaking, the different species share similar physical traits.","q":32,"invalidTime":false},{"id":"7","start":67.519,"end":76.465,"text":"[Q32答案句] They have a body which is short, and also rounded – a bit like a barrel – and the body comprises four segments.","q":32,"invalidTime":false},{"id":"8","start":76.465,"end":83.826,"text":"(Q33) Each segment has a pair of legs, at the end of which are between four and eight sharp claws.","q":33,"invalidTime":false},{"id":"9","start":83.826,"end":99.638,"text":"[Q33 答案句] I should also say that some species don't have any claws; what they have are discs, and these work by means of suction. They enable the tardigrade to cling on to surfaces or to grip its prey.","q":33,"invalidTime":false},{"id":"10","start":99.638,"end":104.739,"text":"(Q34) Within the body, there are no lungs, or any organs for breathing at all.","q":34,"invalidTime":false},{"id":"11","start":104.739,"end":112.89099999999999,"text":"[Q34答案句] Instead, oxygen and also blood are transported in a fluid that fills the cavity of the body.","q":34,"invalidTime":false},{"id":"12","start":112.89099999999999,"end":122.605,"text":"(Q35) As far as the tardigrade's head is concerned, the best way I can describe this is that it looks rather strange – a bit squashed even.","q":35,"invalidTime":false},{"id":"13","start":122.605,"end":130.393,"text":"Though many of the websites I looked at described its appearance as cute, which isn't exactly very scientific.","q":35,"invalidTime":false},{"id":"14","start":130.393,"end":139.22899999999998,"text":"[Q35答案句] The tardigrade's mouth is a kind of tube that can open outwards to reveal teeth-like structures known as 'stylets'.","q":35,"invalidTime":false},{"id":"15","start":139.22899999999998,"end":143.889,"text":"(Q36) These are sharp enough to pierce plant or animal cells.","q":36,"invalidTime":false},{"id":"16","start":143.889,"end":147.329,"text":"So, where are tardigrades found?","q":36,"invalidTime":false},{"id":"17","start":147.329,"end":160.18099999999998,"text":"Well, they live in every part of the world, in a variety of habitats: most commonly, on the bed of a lake, or on many kinds of plants or in very wet environments.","q":36,"invalidTime":false},{"id":"18","start":160.18099999999998,"end":169.314,"text":"There's been some interesting research which has found that tardigrades are capable of surviving radiation and very high pressure.","q":36,"invalidTime":false},{"id":"19","start":169.314,"end":183.149,"text":"[Q36答案句] And they're also able to withstand temperatures as cold as –200 degrees centigrade, or highs of more than 148 degrees centigrade, which is incredibly hot.","q":36,"invalidTime":false},{"id":"20","start":183.149,"end":193.382,"text":"(Q37) It has been said that tardigrades could survive long after human beings have been wiped out, even in the event of an asteroid hitting the earth.","q":37,"invalidTime":false},{"id":"21","start":193.382,"end":202.25,"text":"If conditions become too extreme and tardigrades are at risk of drying out, they enter a state called cryptobiosis.","q":37,"invalidTime":false},{"id":"22","start":202.25,"end":214.502,"text":"They curl into a ball, called a tun – that's T-U-N – by retracting their head and legs, and their metabolism drops to less than one percent of normal levels.","q":37,"invalidTime":false},{"id":"23","start":214.502,"end":222.47899999999998,"text":"They can remain like this until they are re-introduced to water, when they will come back to life in a matter of a few hours.","q":37,"invalidTime":false},{"id":"24","start":222.47899999999998,"end":230.454,"text":"[Q37答案句] While in a state of cryptobiosis, tardigrades produce a protein that protects their DNA.","q":37,"invalidTime":false},{"id":"25","start":230.454,"end":238.242,"text":"(Q38) In 2016, scientists revived two tardigrades that had been tuns for more than 30 years. 2016","q":38,"invalidTime":false},{"id":"26","start":238.242,"end":248.888,"text":"There was a report that, in 1948, a 120-year-old tun was revived, but this experiment has never been repeated.","q":38,"invalidTime":false},{"id":"27","start":248.888,"end":261.584,"text":"[Q38答案句] There are currently several tests taking place in space, to determine how long tardigrades might be able to survive there. I believe the record so far is 10 days.","q":38,"invalidTime":false},{"id":"28","start":261.584,"end":270.663,"text":"(Q39) So, erm, moving on. In terms of their diet, tardigrades consume liquids in order to survive.","q":39,"invalidTime":false},{"id":"29","start":270.663,"end":274.629,"text":"Although they have teeth, they don't use these for chewing.","q":39,"invalidTime":false},{"id":"30","start":274.629,"end":286.67,"text":"[Q39答案句] They suck the juices from moss, or extract fluid from seaweed, but some species prey on other tardigrades, from other species or within their own.","q":39,"invalidTime":false},{"id":"31","start":286.67,"end":295.367,"text":"(Q40) I suppose this isn't surprising, given that tardigrades are mainly comprised of liquid and are coated with a type of gel.","q":40,"invalidTime":false},{"id":"32","start":295.367,"end":300.564,"text":"Finally, I'd like to mention the conservation status of tardigrades.","q":40,"invalidTime":false},{"id":"33","start":300.564,"end":311.574,"text":"It is estimated that they have been in existence for approximately half a billion years and, in that time, they have survived five mass extinctions.","q":40,"invalidTime":false},{"id":"34","start":311.574,"end":324.653,"text":"[Q40答案句] So, it will probably come as no surprise to you, that tardigrades have not been evaluated by the International Union for Conservation of Nature and are not on any endangered list.","q":40,"invalidTime":false},{"id":"35","start":324.653,"end":329.216,"text":"Some researchers have described them as thriving.","q":40,"invalidTime":false},{"id":"36","start":329.216,"end":331.716,"text":"Does anyone have any questions they'd like to ask?","q":40,"invalidTime":false}],"matches":{"31":{"all":["[Q31答案句] They are also sometimes called 'water bears': 'water' because that's where they thrive best, and 'bear' because of the way they move."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"32":{"all":["[Q32答案句] They have a body which is short, and also rounded – a bit like a barrel – and the body comprises four segments."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"33":{"all":["[Q33 答案句] I should also say that some species don't have any claws; what they have are discs, and these work by means of suction. They enable the tardigrade to cling on to surfaces or to grip its prey."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"34":{"all":["[Q34答案句] Instead, oxygen and also blood are transported in a fluid that fills the cavity of the body."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"35":{"all":["[Q35答案句] The tardigrade's mouth is a kind of tube that can open outwards to reveal teeth-like structures known as 'stylets'."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"36":{"all":["[Q36答案句] And they're also able to withstand temperatures as cold as –200 degrees centigrade, or highs of more than 148 degrees centigrade, which is incredibly hot."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"37":{"all":["[Q37答案句] While in a state of cryptobiosis, tardigrades produce a protein that protects their DNA."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"38":{"all":["[Q38答案句] There are currently several tests taking place in space, to determine how long tardigrades might be able to survive there. I believe the record so far is 10 days."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"39":{"all":["[Q39答案句] They suck the juices from moss, or extract fluid from seaweed, but some species prey on other tardigrades, from other species or within their own."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"40":{"all":["[Q40答案句] So, it will probably come as no surprise to you, that tardigrades have not been evaluated by the International Union for Conservation of Nature and are not on any endangered list."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true}}},"teacherVocabulary":[{"target":"evidence","q":33,"start":77,"end":82,"term":"discs","meaning":"c.n. 盘状物， 唱片， 椎间盘","root":"disc","location":"Q33 答案句"},{"target":"title","q":31,"start":0,"end":11,"term":"Tardigrades","meaning":"n. 缓步类动物（缓步动物门（Tardigrada）的微小无脊椎动物，以耐极端环境著称）","root":"","location":"大标题"},{"target":"transcript","q":33,"start":220,"end":227,"term":"suction","meaning":"n. 吸，抽吸","root":"","location":"Q33 原文核对"},{"target":"body","block":4,"q":39,"start":40,"end":44,"term":"moss","meaning":"苔藓 n.","root":"","location":"第 5 块题目 · Q39"},{"target":"transcript","q":39,"start":222,"end":229,"term":"seaweed","meaning":"n. 海草 海藻","root":"","location":"Q39 原文核对"}],"topicCatalog":["生物&环境类"],"tagArchiveFiles":{"考点":"Part 4 笔记填空 - 考点库标签- 考点.txt","审题预测":"Part 4 笔记填空 - 考点库标签- 审题预测.txt","答案前置":"Part 4 笔记填空 - 考点库标签- 答案前置.txt"},"tagCatalog":{"tags":["\"一定一考“","答案得出相对直观，跟空前限定词的同义替换","答案得出方式相对直观， 跟空前定位词","答案前置","(审题)空前定位词有限，需要画上一行定位词","(审题)答案空所在行与小标题不相邻，中间内容也要画定位词， 辅助跟原文","空前关注各类「逻辑连接词」","(除明显答案前置外) 需要看空后内容","听中根据预测找到疑似答案(即符合预测时词性/类型的)，出现定位词后确定","听中记录疑似答案，根据后续代词指代确定答案","跟同义替换（整句/段解释）","(听中) 强调表达+正确答案","(听中)出现多个和预测词性相符的词， 一般是n.+ n. 形式的， 需要填写使整句语义完整的那个词","(听中) 由于「审题」无明显逻辑连接词，所以【听中】关注句子间逻辑关系","（得出相对直观）， 注意拼写&场景词积累","答案前置补充 - 具体情况notes","特殊❗️ see 讲解路径","找定位词方法(位置) ：画句子主干，因为修饰成分可能后置。"],"children":{"(审题)空前定位词有限，需要画上一行定位词":[{"id":"327795a8-6c0e-46eb-89a7-0ec508694123","name":"空前完全无实义词"},{"id":"ae05271d-53d9-476c-a32f-9f47d6cd3032","name":"空前普通名词"},{"id":"6946f603-30d4-4479-88b9-5fb057229f91","name":"特殊情况： 答案空所在行也有定位词， 但和小标题不相邻，所以中间内容也要画定位词，作为辅助"}],"(听中) 由于「审题」无明显逻辑连接词，所以【听中】关注句子间逻辑关系":[],"(除明显答案前置外) 需要看空后内容":[{"id":"febf9b9b-49d4-4ce8-816b-478c2a913cb3","name":"特殊情况：空后内容作为答案词空的解释说明——  空前无实义词， 上一行基本以答案空结尾， 需要看空后内容。"}],"答案前置补充 - 具体情况notes":[{"id":"8a0238e5-2f3f-428f-b019-db9f424731d6","name":"从属关系 _____ of +n. = n.+ be + _____(adj.) 或者 = n's _____(n.)"},{"id":"c6f3a064-6e57-4108-996f-1a302eea43dd","name":"____(预测为名词) + of + n.2 = n.2 +答案词."},{"id":"13a29380-d4e5-4f87-ae4d-60a11440c577","name":"方式类： do sth by _____ = use ______ to do"},{"id":"87fc1c88-f15d-40c0-9ac2-1191aad16a4b","name":"材料 由…制成： make from, make of"},{"id":"1badb381-9ffd-4730-8dcf-aa0a8d91e6c0","name":"时间类表达 ... ago"},{"id":"22161c25-599c-498a-96ac-a3d578696b4f","name":"表示目的： ... for ..."}],"答案得出相对直观，跟空前限定词的同义替换":[{"id":"cd4f2292-470d-4b61-a0a0-a3eb5667fddb","name":"v. & phr.v"},{"id":"fa8b0b01-5140-48f6-aa75-68ec38ad5684","name":"adj./ adv"},{"id":"020c9259-2f55-44db-9dda-090936631c5f","name":"否定含义词"},{"id":"7663d3ae-0342-40e9-8ebd-8451aa5588b1","name":"对比类 表述"},{"id":"b5d93bfa-23b4-4158-912f-dccb70d5297c","name":"程度类"},{"id":"e8b8eef7-4a53-48bf-99a4-56f7bd700543","name":"v/adj/adv/perp/其它类 - 原词"},{"id":"fd82e3a0-f99d-4f0e-8571-6e0c380875c5","name":"特殊疑问词 类"},{"id":"73baac9a-076d-4c09-8cf6-9f57d2d4a2de","name":"数值类"},{"id":"851730df-b8ab-4da2-a4b0-d58e255ac49e","name":"表「广义因果」关系（原因、目的、结果、条件关系），关注同义替换， see 逻辑连接词标签"},{"id":"44953094-07cd-40ed-a884-ab53304bee45","name":"prep"},{"id":"b275f89c-55c9-4642-b9fe-1967d8b4ef21","name":"时间顺序类"},{"id":"eb971df6-e80d-4a73-b061-36b59f59dcd1","name":"代词指代"}],"听中根据预测找到疑似答案(即符合预测时词性/类型的)，出现定位词后确定":[],"答案得出方式相对直观， 跟空前定位词":[{"id":"eb16e5de-a1d4-45dd-9ecd-6ee8e849a5a6","name":"专有名词"},{"id":"a93a15a7-290b-4695-be1c-e2ef48aa2fe2","name":"普通名词（原词）"},{"id":"f17fa0d7-c3dd-4b59-838b-873d3f8290a2","name":"普通名词（同义替换）"},{"id":"d5bced8e-7c14-47e7-9fb7-d63bdfc065da","name":"定位词以代词形式出现，跟出答案词"}],"答案前置":[{"id":"741e47b1-14a4-49b5-b0a5-0f40d4ef532d","name":"被动语态"},{"id":"cdba6ca9-0c60-491e-83bd-31cf4e4eb707","name":"定语从句"},{"id":"256ac974-e3a5-4c1b-a160-4d07020474cf","name":"介词短语 n + prep + n & 词组题"},{"id":"84540db0-387d-4b01-b2fc-07b39142b714","name":"adj"},{"id":"c4896de5-f6bd-42cb-8a17-4a87c9258ebb","name":"答案空 + to do / to be done(～被动语态)"},{"id":"0964d75f-4c01-4372-9533-6ba09ca8db20","name":"表「广义因果」关系词（原因、目的、结果、条件关系）"},{"id":"6118ad58-4ec9-426e-9967-23d587825822","name":"表「包含」关系词+大类别(答案空)+具体解释， 可能语序调换（=包含+具体内容，+这是「大类别」）"},{"id":"36b104ac-a116-4408-8d53-6e701988bbfb","name":"所有格"}],"找定位词方法(位置) ：画句子主干，因为修饰成分可能后置。":[],"空前关注各类「逻辑连接词」":[{"id":"ce5a40cc-6ab7-4c18-8376-ea1a9e9e8eb6","name":"空前有表「并列」关系词，关注同替"},{"id":"55adc83c-ebec-4f7d-91b9-45f550ddf550","name":"空前有表「举例」关系词， 关注同替说法"},{"id":"204b0480-3438-44ff-b89f-892309933f02","name":"表「广义因果」关系（原因、目的、结果、条件关系），关注同义替换"},{"id":"dd178eaf-49e9-447e-9630-210cd98bded2","name":"作用2: 审题时 帮助预测答案空类型、词性"},{"id":"71634830-ca4b-415a-8bfb-81af281d992e","name":"空前有表「并列」关系词+作用2（审题时 帮助预测答案空类型、词性）"}]},"order":["\"一定一考“","答案得出相对直观，跟空前限定词的同义替换","答案得出方式相对直观， 跟空前定位词","答案前置","(审题)空前定位词有限，需要画上一行定位词","(审题)答案空所在行与小标题不相邻，中间内容也要画定位词， 辅助跟原文","空前关注各类「逻辑连接词」","(除明显答案前置外) 需要看空后内容","听中根据预测找到疑似答案(即符合预测时词性/类型的)，出现定位词后确定","听中记录疑似答案，根据后续代词指代确定答案","跟同义替换（整句/段解释）","(听中) 强调表达+正确答案","(听中)出现多个和预测词性相符的词， 一般是n.+ n. 形式的， 需要填写使整句语义完整的那个词","(听中) 由于「审题」无明显逻辑连接词，所以【听中】关注句子间逻辑关系","（得出相对直观）， 注意拼写&场景词积累","答案前置补充 - 具体情况notes","特殊❗️ see 讲解路径","找定位词方法(位置) ：画句子主干，因为修饰成分可能后置。"]},"predictionCatalog":["adj","adj - 关注空后是否是 n ➡️ 可能答案前置","n.","v.","【材料类】","可数n. - 单数","可数n. -复数","不可数n.","【问题/麻烦】","【地点类】","【时间类】","【身体部位】 (不局限于人类)","【乐器类】","【学科类】","【食物类】","【群体/人物类】","【衣物/配饰/配件类】","【形状词 n./adj.】"],"frontingCatalog":["审题 - adj+n","答案空(预测是adj.)+n","adj + 答案空(预测是n.)","介词短语 & 词组题","答案空 + prep +n.","prep + 答案空","空前出现表「原因」连接词","被动语态","空后 + to do / to be done","无明显逻辑连接词，关注句子间逻辑关系","定语从句","空 + 关系词 + 定语从句","关系词引导定语从句 + 答案空","表「包含」关系词+大类别(答案空)+具体解释， 可能语序调换（=包含+具体内容，+这是「大类别」）","n. + n.","空前所有格","表 原因 连接词","空后出现    表「广义因果」关系词（原因、目的、结果、条件关系）","_____ + be + adj"],"predictionParents":{"adj - 关注空后是否是 n ➡️ 可能答案前置":"adj","可数n. - 单数":"n.","可数n. -复数":"n.","不可数n.":"n."},"frontingParents":{"答案空(预测是adj.)+n":"审题 - adj+n","adj + 答案空(预测是n.)":"审题 - adj+n","答案空 + prep +n.":"介词短语 & 词组题","prep + 答案空":"介词短语 & 词组题","空 + 关系词 + 定语从句":"定语从句","关系词引导定语从句 + 答案空":"定语从句","n. + n.":"介词短语 & 词组题","空前出现表「原因」连接词":"表 原因 连接词","空后出现    表「广义因果」关系词（原因、目的、结果、条件关系）":"表 原因 连接词","_____ + be + adj":"审题 - adj+n"}}
