@@ -1,0 +1,260 @@
+11-1-4 Ocean Biodiversity
+话题分类：未分类
+Complete the notes below.
+Write ONE WORD ONLY for each answer.
+
+
+Biodiversity hotspots
+
+• areas containing many different species
+• important for locating targets for 31.____________
+• at first only identified on land
+
+Boris Worm, 2005
+
+• identified hotspots for large ocean predators, e.g. sharks
+• found that ocean hotspots:
+    -  were not always rich in 32.____________
+    -  had higher temperatures at the 33.____________
+    -  had sufficient 34.____________ in the water
+
+Lisa Ballance, 2007
+
+• looked for hotspots for marine 35.____________
+• found these were all located where ocean currents meet
+
+Census of Marine Life
+
+• found new ocean species living:
+    -  under the 36.____________
+    -  near volcanoes on the ocean floor
+
+Global Marine Species Assessment
+
+• want to list endangered ocean species, considering:
+    -  population size
+    -  geographical distribution
+    -  rate of 37.____________
+• Aim: to assess 20,000 species and make a distribution 38.____________ for each one
+
+Recommendations to retain ocean biodiversity
+
+• increase the number of ocean reserves
+• establish 39.____________ corridors (e.g. for turtles)
+• reduce fishing quotas
+• catch fish only for the purpose of 40.____________
+
+Q31 答案：conservation
+存疑：未标记
+难度：未选择
+审题预测：n.
+答案前置关注：
+答案句：These hotspots are significant because they allow us to locate key areas for focusing efforts at conservation.
+同义替换：significant = important 
+locate key areas for focusing = locate targets 
+[Q31答案句： conservation， significant = important，  locate原词， focus on = target for]
+干扰项：
+讲题路径：
+
+Q32 答案：food | foods
+存疑：未标记
+难度：未选择
+审题预测：n.
+答案前置关注：
+答案句：The main thing he'd expected to find was that they had very high concentrations of food,
+同义替换： high concentrations of = rich in 
+记录疑似答案
+only true = not always 
+[Q32答案句【food】]
+干扰项：
+讲题路径：
+
+Q33 答案：surface
+存疑：未标记
+难度：未选择
+审题预测：n.
+答案前置关注：
+答案句：But what he did find was that in all cases, the water at the surface of the ocean had relatively high temperatures,
+However, this wasn't enough on its own, because he also found that the water needed to have enough oxygen in it -
+同义替换：But what he did find 表强调， 跟出答案
+surface of the ocean 哪个才是答案—— 符合语境的核心词 
+[Q33答案句【surface】， Q33干扰项 ocean， surface of the ocean, 答案空 at the ____.]
+干扰项：
+讲题路径：
+
+Q34 答案：oxygen | O2
+存疑：未标记
+难度：未选择
+审题预测：n.
+答案前置关注：
+答案句：However, this wasn't enough on its own, because he also found that the water needed to have enough oxygen in it -
+同义替换：enough = significant
+干扰项：
+讲题路径：
+
+Q35 答案：mammals
+存疑：未标记
+难度：未选择
+审题预测：n.
+答案前置关注：
+答案句：also started looking for ocean hotspots, but not for fish.
+What she was interested in was marine mammals, things like seals.
+同义替换：[Q35答案句【mammals】， 拼写、 not... but ... what she interested in was ...]
+干扰项：
+讲题路径：
+
+Q36 答案：ice
+存疑：未标记
+难度：未选择
+审题预测：n.
+答案前置关注：
+答案句：One thing they found there which stunned other researchers was that there were large numbers of species which live below the ice
+同义替换：below = under
+干扰项：
+讲题路径：
+
+Q37 答案：decline | declining | decrease
+存疑：未标记
+难度：未选择
+审题预测：n.
+答案前置关注：
+答案句：and then thirdly they calculate the rate at which the decline of the species is happening.
+同义替换：rate at which ... = rate of ... 
+干扰项：
+讲题路径：
+
+Q38 答案：map
+存疑：未标记
+难度：未选择
+审题预测：
+答案前置关注：介词短语 & 词组题、n. + n.
+答案句：For each one they assess, they use the data they collect on that species to produce a map showing its distribution.
+同义替换：produce = make 
+干扰项：
+讲题路径：◾️ 20,000 species：专有名词
+◾️ distribution 38.____________：n+n 考虑前置
+
+Q39 答案：migration
+存疑：未标记
+难度：未选择
+审题预测：n.
+答案前置关注：
+答案句：we need to create corridors for migration, so they can get from one area to another safely.
+同义替换：create = establish
+
+介词词组， 语序调换
+干扰项：
+讲题路径：
+
+Q40 答案：consumption
+存疑：未标记
+难度：未选择
+审题预测：n.
+答案前置关注：
+答案句：If these commercial fishing boats used equipment which was more selective, so that only the fish wanted for consumption were caught,
+同义替换： for = for the purpose of. 
+干扰项：
+讲题路径：Q40干扰项： 可能会听成 commercial。 本题预判词性是名词， 所以不能是commercial
+
+Overall comments：
+Q37主要考跟定位的重要性 
+原文：
+(Q31) I've been looking at ocean biodiversity, that's the diversity of species that live in the world's oceans.
+
+About 20 years ago biologists developed the idea of what they called 'biodiversity hotspots'.
+
+These are the areas which have the greatest mixture of species, so one example is Madagascar.
+
+[Q31答案句： conservation， significant = important，  locate原词， focus on = target for] These hotspots are significant because they allow us to locate key areas for focusing efforts at conservation.
+
+Biologists can identify hotspots on land, fairly easily,
+
+but until recently, very little was known about species distribution and diversity in the oceans,
+
+and no one even knew if hotspots existed there.
+
+(Q32) Then a Canadian biologist called Boris Worm did some research in 2005 on data on ocean species that he got from the fishing industry.
+
+Worm located five hotspots for large ocean predators like sharks, and looked at what they had in common. Worm
+
+[Q32答案句【food】] The main thing he'd expected to find was that they had very high concentrations of food,
+
+but to his surprise that was only true for four of the hotspots - the remaining hotspot was quite badly off in that regard.
+
+[Q33答案句【surface】， Q33干扰项 ocean， surface of the ocean, 答案空 at the ____.] But what he did find was that in all cases, the water at the surface of the ocean had relatively high temperatures,
+
+(Q34) even when it was cool at greater depths, so this seemed to be a factor in supporting a diverse range of these large predators.
+
+[Q34答案句【oxygen】， enough = significant] However, this wasn't enough on its own, because he also found that the water needed to have enough oxygen in it -
+
+so these two factors seemed necessary to support the high metabolic rate of these large fish.
+
+(Q35) A couple of years later, in 2007, a researcher called Lisa Ballance, who was working in California,
+
+[Q35答案句【mammals】， 拼写、 not... but ... what she interested in was ...] also started looking for ocean hotspots, but not for fish.&nbsp; &nbsp; What she was interested in was marine mammals, things like seals.
+
+(Q36) And she found three places in the oceans which were hotspots,
+
+and what these had in common was that these hotspots were all located at boundaries between ocean currents,
+
+and this seems to be the sort of place that has lots of the plankton that some of these species feed on.
+
+So now people who want to protect the species that are endangered need to get as much information as possible.
+
+For example, there's an international project called the Census of Marine Life.
+
+They've been surveying oceans all over the world, including the Arctic.
+
+[Q36答案句【ice】， below = under] One thing they found there which stunned other researchers was that there were large numbers of species which live below the ice
+
+sometimes under a layer up to 20 metres thick.
+
+(Q37) Some of these species had never been seen before.
+
+They've even found species of octopus living in these conditions.
+
+And other scientists working on the same project, but researching very different habitats on the ocean floor,
+
+have found large numbers of species congregating around volcanoes, attracted to them by the warmth and nutrients there.
+
+However, biologists still don't know how serious the threat to their survival is for each individual species.
+
+[Q37小标题] So a body called the Global Marine Species Assessment is now creating a list of endangered species on land,
+
+so they consider things like the size of the population
+
+how many members of one species there are in a particular place - and then they look at their distribution in geographical terms,
+
+although this is quite difficult when you're looking at fish, because they're so mobile,
+
+[Q37答案句【decline】] and then thirdly they calculate the rate at which the decline of the species is happening.
+
+(Q38) So far only 1,500 species have been assessed, but they want to increase this figure to 20,000.
+
+[Q38答案句【map】，答案前置  审题 【n+空】] For each one they assess, they use the data they collect on that species to produce a map showing its distribution.
+
+(Q39) Ultimately they will be able to use these to figure out not only where most species are located but also where they are most threatened.
+
+So finally，what can be done to retain the diversity of species in the world's oceans?
+
+Firstly, we need to set up more reserves in our oceans, places where marine species are protected.
+
+We have some, but not enough.
+
+In addition, to preserve species such as leatherback turtles, which live out in the high seas but have their nesting sites on the American coast,
+
+[Q39答案句【migration】] we need to create corridors for migration, so they can get from one area to another safely.
+
+(Q40) As well as this, action needs to be taken to lower the levels of fishing quotas to prevent overfishing of endangered species.
+
+And finally, there's the problem of "by-catch".
+
+This refers to the catching of unwanted fish by fishing boats - they're returned to the sea, but they're often dead or dying.
+
+[Q40答案句【consumption】， only出现， 继续跟， for = for the purpose of. Q40干扰项： 可能会听成 commercial。 本题预判词性是名词， 所以不能是commercial] If these commercial fishing boats used equipment which was more selective, so that only the fish wanted for consumption were caught,
+
+this problem could be overcome.
+
+OK, So does anyone have any ...
+--- JISELLE NOTES FORM DATA V1 ---
+{"id":"notes-108e8da8-2424-45f1-8ce9-a123d2a0f3c5","index":"11-1-4","part":4,"title":"Ocean Biodiversity","kind":"notes","wordLimit":"ONE WORD ONLY","mode":"headings","intro":"","type":"填空题","tableCells":null,"sourceText":"• areas containing many different species\n• important for locating targets for 31.____________\n• at first only identified on land\n--- 分块 ---\n• identified hotspots for large ocean predators, e.g. sharks\n• found that ocean hotspots:\n• -were not always rich in 32.____________\n• -had higher temperatures at the 33.____________\n• -had sufficient 34.____________ in the water\n--- 分块 ---\n• looked for hotspots for marine 35.____________\n• found these were all located where ocean currents meet\n--- 分块 ---\n• found new ocean species living:\n• -under the 36.____________\n• -near volcanoes on the ocean floor\n--- 分块 ---\n• want to list endangered ocean species, considering:\n• -population size\n• -geographical distribution\n• -rate of 37.____________\n• Aim: to assess 20,000 species and make a distribution 38.____________ for each one\n--- 分块 ---\n• increase the number of ocean reserves\n• establish 39.____________ corridors (e.g. for turtles)\n• reduce fishing quotas\n• catch fish only for the purpose of 40.____________\n•  ​​​​​​","blocks":[{"heading":"Biodiversity hotspots","subheading":"","lectureBlock":0,"body":"• areas containing many different species\n• important for locating targets for 31.____________\n• at first only identified on land","layout":null,"columnWidths":null,"formats":[{"start":44,"end":53,"kind":"highlight"},{"start":67,"end":74,"kind":"underline"},{"start":58,"end":66,"kind":"highlight"}],"headingFormats":[],"headingGlossary":[],"subheadingFormats":[],"subheadingGlossary":[]},{"heading":"Boris Worm, 2005","subheading":"","lectureBlock":1,"body":"• identified hotspots for large ocean predators, e.g. sharks\n• found that ocean hotspots:\n    -  were not always rich in 32.____________\n    -  had higher temperatures at the 33.____________\n    -  had sufficient 34.____________ in the water","layout":null,"columnWidths":null,"formats":[{"start":102,"end":105,"kind":"highlight"},{"start":113,"end":117,"kind":"highlight"},{"start":74,"end":88,"kind":"underline"},{"start":102,"end":112,"kind":"highlight"},{"start":148,"end":167,"kind":"underline"},{"start":202,"end":212,"kind":"highlight"}]},{"heading":"Lisa Ballance, 2007","subheading":"","lectureBlock":2,"body":"• looked for hotspots for marine 35.____________\n• found these were all located where ocean currents meet","layout":null,"columnWidths":null,"formats":[{"start":26,"end":32,"kind":"highlight"}],"headingFormats":[{"start":0,"end":19,"kind":"underline"}],"headingGlossary":[],"subheadingFormats":[],"subheadingGlossary":[]},{"heading":"Census of Marine Life","subheading":"","lectureBlock":2,"body":"• found new ocean species living:\n    -  under the 36.____________\n    -  near volcanoes on the ocean floor","layout":null,"columnWidths":null,"formats":[{"start":41,"end":46,"kind":"highlight"},{"start":8,"end":25,"kind":"underline"}]},{"heading":"Global Marine Species Assessment","subheading":"","lectureBlock":3,"body":"• want to list endangered ocean species, considering:\n    -  population size\n    -  geographical distribution\n    -  rate of 37.____________\n• Aim: to assess 20,000 species and make a distribution 38.____________ for each one","layout":null,"columnWidths":null,"formats":[{"start":117,"end":121,"kind":"highlight"},{"start":84,"end":109,"kind":"underline"},{"start":158,"end":172,"kind":"underline"},{"start":184,"end":212,"kind":"highlight"},{"start":177,"end":181,"kind":"highlight"}]},{"heading":"Recommendations to retain ocean biodiversity","subheading":"","lectureBlock":4,"body":"• increase the number of ocean reserves\n• establish 39.____________ corridors (e.g. for turtles)\n• reduce fishing quotas\n• catch fish only for the purpose of 40.____________","layout":null,"columnWidths":null,"formats":[{"start":42,"end":51,"kind":"highlight"},{"start":77,"end":96,"kind":"underline"},{"start":68,"end":77,"kind":"highlight"},{"start":134,"end":142,"kind":"highlight"},{"start":123,"end":133,"kind":"underline"},{"start":147,"end":157,"kind":"highlight"}]}],"numbers":[31,32,33,34,35,36,37,38,39,40],"manualOnly":true,"bullets":false,"bulletsApplied":true,"questionNotes":{"31":{"answer":"conservation","evidence":"These hotspots are significant because they allow us to locate key areas for focusing efforts at conservation.","note":"significant = important \nlocate key areas for focusing = locate targets \n[Q31答案句： conservation， significant = important，  locate原词， focus on = target for]","teaching":"","transcript":"(Q31) I've been looking at ocean biodiversity, that's the diversity of species that live in the world's oceans.\nAbout 20 years ago biologists developed the idea of what they called 'biodiversity hotspots'.\nThese are the areas which have the greatest mixture of species, so one example is Madagascar.\n[Q31答案句： conservation， significant = important，  locate原词， focus on = target for] These hotspots are significant because they allow us to locate key areas for focusing efforts at conservation.\nBiologists can identify hotspots on land, fairly easily,\nbut until recently, very little was known about species distribution and diversity in the oceans,\nand no one even knew if hotspots existed there.","tags":["答案得出相对直观，跟空前限定词的同义替换"],"subTags":["cd4f2292-470d-4b61-a0a0-a3eb5667fddb"],"transcriptFormats":[{"start":445,"end":454,"kind":"highlight"}],"noteFormats":[],"evidenceFormats":[{"start":56,"end":85,"kind":"highlight"},{"start":19,"end":30,"kind":"highlight"}],"predictionTags":["n."]},"32":{"answer":"food | foods","evidence":"The main thing he'd expected to find was that they had very high concentrations of food,","note":" high concentrations of = rich in \n记录疑似答案\nonly true = not always \n[Q32答案句【food】]","teaching":"","transcript":"(Q32) Then a Canadian biologist called Boris Worm did some research in 2005 on data on ocean species that he got from the fishing industry.\nWorm located five hotspots for large ocean predators like sharks, and looked at what they had in common. Worm\n[Q32答案句【food】] The main thing he'd expected to find was that they had very high concentrations of food,\nbut to his surprise that was only true for four of the hotspots - the remaining hotspot was quite badly off in that regard.","tags":["答案得出相对直观，跟空前限定词的同义替换"],"subTags":["fa8b0b01-5140-48f6-aa75-68ec38ad5684"],"transcriptFormats":[{"start":324,"end":347,"kind":"highlight"}],"focusLines":[{"block":1,"text":"• found that ocean hotspots:"}],"noteFormats":[],"predictionTags":["n."]},"33":{"answer":"surface","evidence":"But what he did find was that in all cases, the water at the surface of the ocean had relatively high temperatures,\nHowever, this wasn't enough on its own, because he also found that the water needed to have enough oxygen in it -","note":"But what he did find 表强调， 跟出答案\nsurface of the ocean 哪个才是答案—— 符合语境的核心词 \n[Q33答案句【surface】， Q33干扰项 ocean， surface of the ocean, 答案空 at the ____.]","teaching":"","transcript":"[Q33答案句【surface】， Q33干扰项 ocean， surface of the ocean, 答案空 at the ____.] But what he did find was that in all cases, the water at the surface of the ocean had relatively high temperatures,","tags":["(听中) 强调表达+正确答案","两个词都像，哪个才是答案词？"],"subTags":["60cc6fc6-519a-4caa-9a47-cd549599965c"],"transcriptFormats":[],"evidenceFormats":[{"start":0,"end":20,"kind":"highlight"},{"start":61,"end":81,"kind":"underline"}],"noteFormats":[{"start":31,"end":38,"kind":"underline"}],"predictionTags":["n."]},"34":{"answer":"oxygen | O2","evidence":"However, this wasn't enough on its own, because he also found that the water needed to have enough oxygen in it -","note":"enough = significant","teaching":"","transcript":"(Q34) even when it was cool at greater depths, so this seemed to be a factor in supporting a diverse range of these large predators.\n[Q34答案句【oxygen】， enough = significant] However, this wasn't enough on its own, because he also found that the water needed to have enough oxygen in it -\nso these two factors seemed necessary to support the high metabolic rate of these large fish.","tags":["答案得出相对直观，跟空前限定词的同义替换"],"subTags":["fa8b0b01-5140-48f6-aa75-68ec38ad5684","b5d93bfa-23b4-4158-912f-dccb70d5297c"],"transcriptFormats":[],"evidenceFormats":[{"start":92,"end":98,"kind":"highlight"}],"noteFormats":[],"predictionTags":["n."]},"35":{"answer":"mammals","evidence":"also started looking for ocean hotspots, but not for fish.\nWhat she was interested in was marine mammals, things like seals.","note":"[Q35答案句【mammals】， 拼写、 not... but ... what she interested in was ...]","teaching":"","transcript":"(Q35) A couple of years later, in 2007, a researcher called Lisa Ballance, who was working in California,\n[Q35答案句【mammals】， 拼写、 not... but ... what she interested in was ...] also started looking for ocean hotspots, but not for fish.&nbsp; &nbsp; What she was interested in was marine mammals, things like seals.","tags":["答案得出相对直观，跟空前限定词的同义替换","（得出相对直观）， 注意拼写&场景词积累"],"subTags":["e8b8eef7-4a53-48bf-99a4-56f7bd700543"],"transcriptFormats":[],"evidenceFormats":[],"predictionTags":["n."]},"36":{"answer":"ice","evidence":"One thing they found there which stunned other researchers was that there were large numbers of species which live below the ice","note":"below = under","teaching":"","transcript":"(Q36) And she found three places in the oceans which were hotspots,\nand what these had in common was that these hotspots were all located at boundaries between ocean currents,\nand this seems to be the sort of place that has lots of the plankton that some of these species feed on.\nSo now people who want to protect the species that are endangered need to get as much information as possible.\nFor example, there's an international project called the Census of Marine Life.\nThey've been surveying oceans all over the world, including the Arctic.\n[Q36答案句【ice】， below = under] One thing they found there which stunned other researchers was that there were large numbers of species which live below the ice\nsometimes under a layer up to 20 metres thick.","tags":["答案得出相对直观，跟空前限定词的同义替换"],"subTags":["44953094-07cd-40ed-a884-ab53304bee45"],"transcriptFormats":[],"focusLines":[{"block":3,"text":"• found new ocean species living:"}],"evidenceFormats":[{"start":115,"end":120,"kind":"highlight"}],"noteFormats":[],"predictionTags":["n."]},"37":{"answer":"decline | declining | decrease","evidence":"and then thirdly they calculate the rate at which the decline of the species is happening.","note":"rate at which ... = rate of ... ","teaching":"","transcript":"(Q37) Some of these species had never been seen before.\nThey've even found species of octopus living in these conditions.\nAnd other scientists working on the same project, but researching very different habitats on the ocean floor,\nhave found large numbers of species congregating around volcanoes, attracted to them by the warmth and nutrients there.\nHowever, biologists still don't know how serious the threat to their survival is for each individual species.\n[Q37小标题] So a body called the Global Marine Species Assessment is now creating a list of endangered species on land,\nso they consider things like the size of the population\nhow many members of one species there are in a particular place - and then they look at their distribution in geographical terms,\nalthough this is quite difficult when you're looking at fish, because they're so mobile,\n[Q37答案句【decline】] and then thirdly they calculate the rate at which the decline of the species is happening.","tags":["答案得出方式相对直观， 跟(空前)定位词","(审题)答案空所在行与小标题不相邻，中间内容也要画定位词， 辅助跟原文","（得出相对直观）， 注意拼写&场景词积累"],"subTags":["a93a15a7-290b-4695-be1c-e2ef48aa2fe2"],"transcriptFormats":[],"focusLines":[{"block":4,"text":"    -  geographical distribution"}],"noteFormats":[],"predictionTags":["n."]},"38":{"answer":"map","evidence":"For each one they assess, they use the data they collect on that species to produce a map showing its distribution.","note":"produce = make ","teaching":"◾️ 20,000 species：专有名词\n◾️ distribution 38.____________：n+n 考虑前置","transcript":"(Q38) So far only 1,500 species have been assessed, but they want to increase this figure to 20,000.\n[Q38答案句【map】，答案前置  审题 【n+空】] For each one they assess, they use the data they collect on that species to produce a map showing its distribution.","tags":["答案/空后定位词前置（语序调换）"],"subTags":["256ac974-e3a5-4c1b-a160-4d07020474cf"],"transcriptFormats":[{"start":206,"end":213,"kind":"highlight"}],"glossary":[{"id":"75b48daa-dcca-4c53-b954-dbfdbe3cb75b","q":38,"kind":"teaching","target":"body","block":4,"start":158,"end":172,"term":"20,000 species","meaning":"专有名词"},{"id":"85f5cf03-0bef-429d-b26b-591e979f6790","q":38,"kind":"teaching","target":"body","block":4,"start":184,"end":212,"term":"distribution 38.____________","meaning":"n+n 考虑前置"}],"frontingTags":["介词短语 & 词组题","n. + n."],"noteFormats":[]},"39":{"answer":"migration","evidence":"we need to create corridors for migration, so they can get from one area to another safely.","note":"create = establish\n\n介词词组， 语序调换","teaching":"","transcript":"(Q39) Ultimately they will be able to use these to figure out not only where most species are located but also where they are most threatened.\nSo finally，what can be done to retain the diversity of species in the world's oceans?\nFirstly, we need to set up more reserves in our oceans, places where marine species are protected.\nWe have some, but not enough.\nIn addition, to preserve species such as leatherback turtles, which live out in the high seas but have their nesting sites on the American coast,\n[Q39答案句【migration】] we need to create corridors for migration, so they can get from one area to another safely.","tags":["答案得出相对直观，跟空前限定词的同义替换","答案/空后定位词前置（语序调换）"],"subTags":["cd4f2292-470d-4b61-a0a0-a3eb5667fddb","256ac974-e3a5-4c1b-a160-4d07020474cf"],"transcriptFormats":[],"noteFormats":[],"evidenceFormats":[{"start":11,"end":17,"kind":"highlight"}],"predictionTags":["n."]},"40":{"answer":"consumption","evidence":"If these commercial fishing boats used equipment which was more selective, so that only the fish wanted for consumption were caught,","note":" for = for the purpose of. ","teaching":"Q40干扰项： 可能会听成 commercial。 本题预判词性是名词， 所以不能是commercial","transcript":"(Q40) As well as this, action needs to be taken to lower the levels of fishing quotas to prevent overfishing of endangered species.\nAnd finally, there's the problem of \"by-catch\".\nThis refers to the catching of unwanted fish by fishing boats - they're returned to the sea, but they're often dead or dying.\n[Q40答案句【consumption】， only出现， 继续跟， for = for the purpose of. Q40干扰项： 可能会听成 commercial。 本题预判词性是名词， 所以不能是commercial] If these commercial fishing boats used equipment which was more selective, so that only the fish wanted for consumption were caught,\nthis problem could be overcome.\nOK, So does anyone have any ...","tags":["听中根据预测找到疑似答案(即符合预测时词性/类型的)，出现定位词后确定"],"subTags":[],"transcriptFormats":[{"start":525,"end":528,"kind":"highlight"}],"noteFormats":[],"predictionTags":["n."],"teachingFormats":[]}},"createdAt":"2026-11-15T10:08:15.434Z","topicCategory":"","topicUpdatedAt":"2026-11-15T10:09:19.629Z","attempts":{"40":"lecture notes+音频对应 同步"},"answerCloud":{"sha":"8b137891791fe96927ad78e64b0aad7bded08bdc","path":"11-1-4 笔记填空 答案词.txt"},"answerWordsRaw":"31. conservation\n32. food | foods\n33. surface\n34. oxygen | O2\n35. mammals\n36. ice\n37. decline | declining | decrease\n38. map\n39. migration\n40. consumption","transcript":"(Q31) I've been looking at ocean biodiversity, that's the diversity of species that live in the world's oceans.\n\nAbout 20 years ago biologists developed the idea of what they called 'biodiversity hotspots'.\n\nThese are the areas which have the greatest mixture of species, so one example is Madagascar.\n\n[Q31答案句： conservation， significant = important，  locate原词， focus on = target for] These hotspots are significant because they allow us to locate key areas for focusing efforts at conservation.\n\nBiologists can identify hotspots on land, fairly easily,\n\nbut until recently, very little was known about species distribution and diversity in the oceans,\n\nand no one even knew if hotspots existed there.\n\n(Q32) Then a Canadian biologist called Boris Worm did some research in 2005 on data on ocean species that he got from the fishing industry.\n\nWorm located five hotspots for large ocean predators like sharks, and looked at what they had in common. Worm\n\n[Q32答案句【food】] The main thing he'd expected to find was that they had very high concentrations of food,\n\nbut to his surprise that was only true for four of the hotspots - the remaining hotspot was quite badly off in that regard.\n\n[Q33答案句【surface】， Q33干扰项 ocean， surface of the ocean, 答案空 at the ____.] But what he did find was that in all cases, the water at the surface of the ocean had relatively high temperatures,\n\n(Q34) even when it was cool at greater depths, so this seemed to be a factor in supporting a diverse range of these large predators.\n\n[Q34答案句【oxygen】， enough = significant] However, this wasn't enough on its own, because he also found that the water needed to have enough oxygen in it -\n\nso these two factors seemed necessary to support the high metabolic rate of these large fish.\n\n(Q35) A couple of years later, in 2007, a researcher called Lisa Ballance, who was working in California,\n\n[Q35答案句【mammals】， 拼写、 not... but ... what she interested in was ...] also started looking for ocean hotspots, but not for fish.&nbsp; &nbsp; What she was interested in was marine mammals, things like seals.\n\n(Q36) And she found three places in the oceans which were hotspots,\n\nand what these had in common was that these hotspots were all located at boundaries between ocean currents,\n\nand this seems to be the sort of place that has lots of the plankton that some of these species feed on.\n\nSo now people who want to protect the species that are endangered need to get as much information as possible.\n\nFor example, there's an international project called the Census of Marine Life.\n\nThey've been surveying oceans all over the world, including the Arctic.\n\n[Q36答案句【ice】， below = under] One thing they found there which stunned other researchers was that there were large numbers of species which live below the ice\n\nsometimes under a layer up to 20 metres thick.\n\n(Q37) Some of these species had never been seen before.\n\nThey've even found species of octopus living in these conditions.\n\nAnd other scientists working on the same project, but researching very different habitats on the ocean floor,\n\nhave found large numbers of species congregating around volcanoes, attracted to them by the warmth and nutrients there.\n\nHowever, biologists still don't know how serious the threat to their survival is for each individual species.\n\n[Q37小标题] So a body called the Global Marine Species Assessment is now creating a list of endangered species on land,\n\nso they consider things like the size of the population\n\nhow many members of one species there are in a particular place - and then they look at their distribution in geographical terms,\n\nalthough this is quite difficult when you're looking at fish, because they're so mobile,\n\n[Q37答案句【decline】] and then thirdly they calculate the rate at which the decline of the species is happening.\n\n(Q38) So far only 1,500 species have been assessed, but they want to increase this figure to 20,000.\n\n[Q38答案句【map】，答案前置  审题 【n+空】] For each one they assess, they use the data they collect on that species to produce a map showing its distribution.\n\n(Q39) Ultimately they will be able to use these to figure out not only where most species are located but also where they are most threatened.\n\nSo finally，what can be done to retain the diversity of species in the world's oceans?\n\nFirstly, we need to set up more reserves in our oceans, places where marine species are protected.\n\nWe have some, but not enough.\n\nIn addition, to preserve species such as leatherback turtles, which live out in the high seas but have their nesting sites on the American coast,\n\n[Q39答案句【migration】] we need to create corridors for migration, so they can get from one area to another safely.\n\n(Q40) As well as this, action needs to be taken to lower the levels of fishing quotas to prevent overfishing of endangered species.\n\nAnd finally, there's the problem of \"by-catch\".\n\nThis refers to the catching of unwanted fish by fishing boats - they're returned to the sea, but they're often dead or dying.\n\n[Q40答案句【consumption】， only出现， 继续跟， for = for the purpose of. Q40干扰项： 可能会听成 commercial。 本题预判词性是名词， 所以不能是commercial] If these commercial fishing boats used equipment which was more selective, so that only the fish wanted for consumption were caught,\n\nthis problem could be overcome.\n\nOK, So does anyone have any ...","srtSource":{"path":"11-1-4 英文.srt","sha":"7708cfe998b6eb295d090faccd254478bb2361e4","fetchedAt":"2026-11-15T11:52:17.931Z"},"audioData":{"parserVersion":2,"index":"11-1-4","repo":"itsjiselle/ielts-listening-questions-pdf","ref":"90464b8dec9428973b98b8c532231c7d3a7bf25f","audioPath":"11-1-4.mp3","audioSha":"0113bce653e79da0c6027438fc4e25089ad8fb0e","srtPath":"11-1-4 英文.srt","srtSha":"f8d9aa48ad7724f8f76960ab058292daa701147a","cues":[{"id":"0","start":2.244,"end":9.784,"text":"(Q31) I've been looking at ocean biodiversity, that's the diversity of species that live in the world's oceans.","q":31,"invalidTime":false},{"id":"1","start":9.784,"end":17.81,"text":"About 20 years ago biologists developed the idea of what they called 'biodiversity hotspots'.","q":31,"invalidTime":false},{"id":"2","start":17.81,"end":25.04,"text":"These are the areas which have the greatest mixture of species, so one example is Madagascar.","q":31,"invalidTime":false},{"id":"3","start":25.04,"end":33.522,"text":"[Q31答案句： conservation， significant = important，  locate原词， focus on = target for] These hotspots are significant because they allow us to locate key areas for focusing efforts at conservation.","q":31,"invalidTime":false},{"id":"4","start":33.522,"end":38.219,"text":"Biologists can identify hotspots on land, fairly easily,","q":31,"invalidTime":false},{"id":"5","start":38.219,"end":45.208,"text":"but until recently, very little was known about species distribution and diversity in the oceans,","q":31,"invalidTime":false},{"id":"6","start":45.208,"end":49.157,"text":"and no one even knew if hotspots existed there.","q":31,"invalidTime":false},{"id":"7","start":49.157,"end":60.628,"text":"(Q32) Then a Canadian biologist called Boris Worm did some research in 2005 on data on ocean species that he got from the fishing industry.","q":32,"invalidTime":false},{"id":"8","start":60.628,"end":69.355,"text":"Worm located five hotspots for large ocean predators like sharks, and looked at what they had in common. Worm","q":32,"invalidTime":false},{"id":"9","start":69.355,"end":75.629,"text":"[Q32答案句【food】] The main thing he'd expected to find was that they had very high concentrations of food,","q":32,"invalidTime":false},{"id":"10","start":75.629,"end":84.48,"text":"but to his surprise that was only true for four of the hotspots - the remaining hotspot was quite badly off in that regard.","q":32,"invalidTime":false},{"id":"11","start":84.48,"end":92.664,"text":"[Q33答案句【surface】， Q33干扰项 ocean， surface of the ocean, 答案空 at the ____.] But what he did find was that in all cases, the water at the surface of the ocean had relatively high temperatures,","q":33,"invalidTime":false},{"id":"12","start":92.664,"end":102.245,"text":"(Q34) even when it was cool at greater depths, so this seemed to be a factor in supporting a diverse range of these large predators.","q":34,"invalidTime":false},{"id":"13","start":102.245,"end":110.345,"text":"[Q33答案句【oxygen】， enough = significant] However, this wasn't enough on its own, because he also found that the water needed to have enough oxygen in it -","q":33,"invalidTime":false},{"id":"14","start":110.345,"end":117.13300000000001,"text":"so these two factors seemed necessary to support the high metabolic rate of these large fish.","q":33,"invalidTime":false},{"id":"15","start":117.13300000000001,"end":125.669,"text":"(Q35) A couple of years later, in 2007, a researcher called Lisa Ballance, who was working in California,","q":35,"invalidTime":false},{"id":"16","start":125.669,"end":135.462,"text":"[Q35答案句【mammals】， 拼写、 not... but ... what she interested in was ...] also started looking for ocean hotspots, but not for fish.&nbsp; &nbsp; What she was interested in was marine mammals, things like seals.","q":35,"invalidTime":false},{"id":"17","start":135.462,"end":139.562,"text":"(Q36) And she found three places in the oceans which were hotspots,","q":36,"invalidTime":false},{"id":"18","start":139.562,"end":146.831,"text":"and what these had in common was that these hotspots were all located at boundaries between ocean currents,","q":36,"invalidTime":false},{"id":"19","start":146.831,"end":153.822,"text":"and this seems to be the sort of place that has lots of the plankton that some of these species feed on.","q":36,"invalidTime":false},{"id":"20","start":153.822,"end":161.22,"text":"So now people who want to protect the species that are endangered need to get as much information as possible.","q":36,"invalidTime":false},{"id":"21","start":161.22,"end":166.542,"text":"For example, there's an international project called the Census of Marine Life.","q":36,"invalidTime":false},{"id":"22","start":166.542,"end":171.325,"text":"They've been surveying oceans all over the world, including the Arctic.","q":36,"invalidTime":false},{"id":"23","start":171.325,"end":180.139,"text":"[Q36答案句【ice】， below = under] One thing they found there which stunned other researchers was that there were large numbers of species which live below the ice","q":36,"invalidTime":false},{"id":"24","start":180.139,"end":184.112,"text":"sometimes under a layer up to 20 metres thick.","q":36,"invalidTime":false},{"id":"25","start":184.112,"end":188.148,"text":"(Q37) Some of these species had never been seen before.","q":37,"invalidTime":false},{"id":"26","start":188.148,"end":192.662,"text":"They've even found species of octopus living in these conditions.","q":37,"invalidTime":false},{"id":"27","start":192.662,"end":200.734,"text":"And other scientists working on the same project, but researching very different habitats on the ocean floor,","q":37,"invalidTime":false},{"id":"28","start":200.734,"end":213.762,"text":"have found large numbers of species congregating around volcanoes, attracted to them by the warmth and nutrients there.","q":37,"invalidTime":false},{"id":"29","start":213.762,"end":222.788,"text":"However, biologists still don't know how serious the threat to their survival is for each individual species.","q":37,"invalidTime":false},{"id":"30","start":222.788,"end":231.551,"text":"[Q37小标题] So a body called the Global Marine Species Assessment is now creating a list of endangered species on land,","q":37,"invalidTime":false},{"id":"31","start":231.551,"end":235.642,"text":"so they consider things like the size of the population","q":37,"invalidTime":false},{"id":"32","start":235.642,"end":244.381,"text":"how many members of one species there are in a particular place - and then they look at their distribution in geographical terms,","q":37,"invalidTime":false},{"id":"33","start":244.381,"end":249.765,"text":"although this is quite difficult when you're looking at fish, because they're so mobile,","q":37,"invalidTime":false},{"id":"34","start":249.765,"end":256.094,"text":"[Q37答案句【decline】] and then thirdly they calculate the rate at which the decline of the species is happening.","q":37,"invalidTime":false},{"id":"35","start":256.094,"end":264.605,"text":"(Q38) So far only 1,500 species have been assessed, but they want to increase this figure to 20,000.","q":38,"invalidTime":false},{"id":"36","start":264.605,"end":273.415,"text":"[Q38答案句【map】，答案前置  审题 【n+空】] For each one they assess, they use the data they collect on that species to produce a map showing its distribution.","q":38,"invalidTime":false},{"id":"37","start":273.415,"end":283.493,"text":"(Q39) Ultimately they will be able to use these to figure out not only where most species are located but also where they are most threatened.","q":39,"invalidTime":false},{"id":"38","start":283.493,"end":290.241,"text":"So finally，what can be done to retain the diversity of species in the world's oceans?","q":39,"invalidTime":false},{"id":"39","start":290.241,"end":298.009,"text":"Firstly, we need to set up more reserves in our oceans, places where marine species are protected.","q":39,"invalidTime":false},{"id":"40","start":298.009,"end":300.332,"text":"We have some, but not enough.","q":39,"invalidTime":false},{"id":"41","start":300.332,"end":310.765,"text":"In addition, to preserve species such as leatherback turtles, which live out in the high seas but have their nesting sites on the American coast,","q":39,"invalidTime":false},{"id":"42","start":310.765,"end":318.412,"text":"[Q39答案句【migration】] we need to create corridors for migration, so they can get from one area to another safely.","q":39,"invalidTime":false},{"id":"43","start":318.412,"end":328.103,"text":"(Q40) As well as this, action needs to be taken to lower the levels of fishing quotas to prevent overfishing of endangered species.","q":40,"invalidTime":false},{"id":"44","start":328.103,"end":331.878,"text":"And finally, there's the problem of \"by-catch\".","q":40,"invalidTime":false},{"id":"45","start":331.878,"end":340.669,"text":"This refers to the catching of unwanted fish by fishing boats - they're returned to the sea, but they're often dead or dying.","q":40,"invalidTime":false},{"id":"46","start":340.669,"end":350.239,"text":"[Q40答案句【consumption】， only出现， 继续跟， for = for the purpose of. Q40干扰项： 可能会听成 commercial。 本题预判词性是名词， 所以不能是commercial] If these commercial fishing boats used equipment which was more selective, so that only the fish wanted for consumption were caught,","q":40,"invalidTime":false},{"id":"47","start":350.239,"end":352.427,"text":"this problem could be overcome.","q":40,"invalidTime":false},{"id":"48","start":352.427,"end":354.927,"text":"OK, So does anyone have any ...","q":40,"invalidTime":false}],"matches":{"31":{"all":["[Q31答案句： conservation， significant = important，  locate原词， focus on = target for] These hotspots are significant because they allow us to locate key areas for focusing efforts at conservation."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"32":{"all":["[Q32答案句【food】] The main thing he'd expected to find was that they had very high concentrations of food,"],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"33":{"all":["[Q33答案句【surface】， Q33干扰项 ocean， surface of the ocean, 答案空 at the ____.] But what he did find was that in all cases, the water at the surface of the ocean had relatively high temperatures,","[Q33答案句【oxygen】， enough = significant] However, this wasn't enough on its own, because he also found that the water needed to have enough oxygen in it -"],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"35":{"all":["[Q35答案句【mammals】， 拼写、 not... but ... what she interested in was ...] also started looking for ocean hotspots, but not for fish.&nbsp; &nbsp; What she was interested in was marine mammals, things like seals."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"36":{"all":["[Q36答案句【ice】， below = under] One thing they found there which stunned other researchers was that there were large numbers of species which live below the ice"],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"37":{"all":["[Q37答案句【decline】] and then thirdly they calculate the rate at which the decline of the species is happening."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"38":{"all":["[Q38答案句【map】，答案前置  审题 【n+空】] For each one they assess, they use the data they collect on that species to produce a map showing its distribution."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"39":{"all":["[Q39答案句【migration】] we need to create corridors for migration, so they can get from one area to another safely."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"40":{"all":["[Q40答案句【consumption】， only出现， 继续跟， for = for the purpose of. Q40干扰项： 可能会听成 commercial。 本题预判词性是名词， 所以不能是commercial] If these commercial fishing boats used equipment which was more selective, so that only the fish wanted for consumption were caught,"],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true}}},"overallComments":"Q37主要考跟定位的重要性 ","topicCatalog":["生物&环境类"],"tagArchiveFiles":{"考点":"Part 4 笔记填空 - 考点库标签- 考点.txt","审题预测":"Part 4 笔记填空 - 考点库标签- 审题预测.txt","答案前置":"Part 4 笔记填空 - 考点库标签- 答案前置.txt"},"tagCatalog":{"tags":["\"一定一考“","答案得出相对直观，跟空前限定词的同义替换","答案得出方式相对直观， 跟(空前)定位词","答案/空后定位词前置（语序调换）","(审题)空前定位词有限，需要画上一行定位词","(审题)答案空所在行与小标题不相邻，中间内容也要画定位词， 辅助跟原文","空前关注各类「逻辑连接词」","(除明显答案前置外) 需要看空后内容","听中根据预测找到疑似答案(即符合预测时词性/类型的)，出现定位词后确定","听中记录疑似答案，根据后续代词指代确定答案","跟同义替换（整句/段解释）","(听中) 强调表达+正确答案","(听中) 由于「审题」无明显逻辑连接词，所以【听中】关注句子间逻辑关系","（得出相对直观）， 注意拼写&场景词积累","答案前置补充 - 具体情况notes","特殊❗️ see 讲解路径","找定位词方法(位置) ：画句子主干，因为修饰成分可能后置。","两个词都像，哪个才是答案词？","答案得出方式： 重/慢/重/停"],"children":{"(审题)空前定位词有限，需要画上一行定位词":[{"id":"327795a8-6c0e-46eb-89a7-0ec508694123","name":"空前完全无实义词"},{"id":"ae05271d-53d9-476c-a32f-9f47d6cd3032","name":"空前普通名词"},{"id":"6946f603-30d4-4479-88b9-5fb057229f91","name":"特殊情况： 答案空所在行也有定位词， 但和小标题不相邻，所以中间内容也要画定位词，作为辅助"}],"(听中) 由于「审题」无明显逻辑连接词，所以【听中】关注句子间逻辑关系":[],"(除明显答案前置外) 需要看空后内容":[{"id":"febf9b9b-49d4-4ce8-816b-478c2a913cb3","name":"特殊情况：空后内容作为答案词空的解释说明——  空前无实义词， 上一行基本以答案空结尾， 需要看空后内容。"}],"答案前置补充 - 具体情况notes":[{"id":"8a0238e5-2f3f-428f-b019-db9f424731d6","name":"从属关系 _____ of +n. = n.+ be + _____(adj.) 或者 = n's _____(n.)"},{"id":"c6f3a064-6e57-4108-996f-1a302eea43dd","name":"____(预测为名词) + of + n.2 = n.2 +答案词."},{"id":"13a29380-d4e5-4f87-ae4d-60a11440c577","name":"方式类： do sth by _____ = use ______ to do"},{"id":"87fc1c88-f15d-40c0-9ac2-1191aad16a4b","name":"材料 由…制成： make from, make of"},{"id":"1badb381-9ffd-4730-8dcf-aa0a8d91e6c0","name":"时间类表达 ... ago"},{"id":"22161c25-599c-498a-96ac-a3d578696b4f","name":"表示目的： ... for ..."}],"听中根据预测找到疑似答案(即符合预测时词性/类型的)，出现定位词后确定":[],"找定位词方法(位置) ：画句子主干，因为修饰成分可能后置。":[],"空前关注各类「逻辑连接词」":[{"id":"ce5a40cc-6ab7-4c18-8376-ea1a9e9e8eb6","name":"空前有表「并列」关系词，关注同替"},{"id":"55adc83c-ebec-4f7d-91b9-45f550ddf550","name":"空前有表「举例」关系词， 关注同替说法"},{"id":"204b0480-3438-44ff-b89f-892309933f02","name":"表「广义因果」关系（原因、目的、结果、条件关系），关注同义替换"},{"id":"dd178eaf-49e9-447e-9630-210cd98bded2","name":"作用2: 审题时 帮助预测答案空类型、词性"},{"id":"71634830-ca4b-415a-8bfb-81af281d992e","name":"空前有表「并列」关系词+作用2（审题时 帮助预测答案空类型、词性）"}],"答案得出方式相对直观， 跟(空前)定位词":[{"id":"eb16e5de-a1d4-45dd-9ecd-6ee8e849a5a6","name":"专有名词"},{"id":"a93a15a7-290b-4695-be1c-e2ef48aa2fe2","name":"普通名词（原词）"},{"id":"f17fa0d7-c3dd-4b59-838b-873d3f8290a2","name":"普通名词（同义替换）"},{"id":"d5bced8e-7c14-47e7-9fb7-d63bdfc065da","name":"定位词以代词形式出现，跟出答案词"},{"id":"ea9aa4cb-7da1-43d8-b747-04deb8b90d71","name":"空后定位词前置（先于答案空出现）"}],"答案得出相对直观，跟空前限定词的同义替换":[{"id":"cd4f2292-470d-4b61-a0a0-a3eb5667fddb","name":"v. & phr.v"},{"id":"fa8b0b01-5140-48f6-aa75-68ec38ad5684","name":"adj./ adv"},{"id":"020c9259-2f55-44db-9dda-090936631c5f","name":"否定含义词"},{"id":"7663d3ae-0342-40e9-8ebd-8451aa5588b1","name":"对比类 表述"},{"id":"b5d93bfa-23b4-4158-912f-dccb70d5297c","name":"程度类"},{"id":"e8b8eef7-4a53-48bf-99a4-56f7bd700543","name":"v/adj/adv/perp/其它类 - 原词"},{"id":"fd82e3a0-f99d-4f0e-8571-6e0c380875c5","name":"特殊疑问词 类"},{"id":"73baac9a-076d-4c09-8cf6-9f57d2d4a2de","name":"数值类"},{"id":"851730df-b8ab-4da2-a4b0-d58e255ac49e","name":"表「广义因果」关系（原因、目的、结果、条件关系），关注同义替换， see 逻辑连接词标签"},{"id":"44953094-07cd-40ed-a884-ab53304bee45","name":"prep"},{"id":"b275f89c-55c9-4642-b9fe-1967d8b4ef21","name":"时间顺序类"},{"id":"eb971df6-e80d-4a73-b061-36b59f59dcd1","name":"代词指代"},{"id":"c72817b1-60c1-4f93-a239-883319e90428","name":"频率&可能性"}],"答案/空后定位词前置（语序调换）":[{"id":"741e47b1-14a4-49b5-b0a5-0f40d4ef532d","name":"被动语态"},{"id":"cdba6ca9-0c60-491e-83bd-31cf4e4eb707","name":"定语从句"},{"id":"256ac974-e3a5-4c1b-a160-4d07020474cf","name":"介词短语 n + prep + n & 词组题"},{"id":"84540db0-387d-4b01-b2fc-07b39142b714","name":"adj"},{"id":"c4896de5-f6bd-42cb-8a17-4a87c9258ebb","name":"答案空 + to do / to be done(～被动语态)"},{"id":"0964d75f-4c01-4372-9533-6ba09ca8db20","name":"表「广义因果」关系词（原因、目的、结果、条件关系）"},{"id":"6118ad58-4ec9-426e-9967-23d587825822","name":"表「包含」关系词+大类别(答案空)+具体解释， 可能语序调换（=包含+具体内容，+这是「大类别」）"},{"id":"36b104ac-a116-4408-8d53-6e701988bbfb","name":"所有格"}],"两个词都像，哪个才是答案词？":[{"id":"60cc6fc6-519a-4caa-9a47-cd549599965c","name":"(听中)出现多个和预测词性相符的词， 一般是n.+ n. 形式的， 需要填写使整句语义完整的那个词（不一定是中心名词）"},{"id":"9e0e9bad-554d-42b7-bf76-70c7609748c6","name":"限定词(/同替)+大类词+代词指代+答案词(具体)"},{"id":"3821bd62-9893-43e6-b921-9ea894e264b4","name":"【n.1 of n.2⭐️】 【n. +n.⭐️】 中心名词"}]},"order":["\"一定一考“","答案得出相对直观，跟空前限定词的同义替换","答案得出方式相对直观， 跟(空前)定位词","答案/空后定位词前置（语序调换）","(审题)空前定位词有限，需要画上一行定位词","(审题)答案空所在行与小标题不相邻，中间内容也要画定位词， 辅助跟原文","空前关注各类「逻辑连接词」","(除明显答案前置外) 需要看空后内容","听中根据预测找到疑似答案(即符合预测时词性/类型的)，出现定位词后确定","听中记录疑似答案，根据后续代词指代确定答案","跟同义替换（整句/段解释）","(听中) 强调表达+正确答案","(听中) 由于「审题」无明显逻辑连接词，所以【听中】关注句子间逻辑关系","（得出相对直观）， 注意拼写&场景词积累","答案前置补充 - 具体情况notes","特殊❗️ see 讲解路径","找定位词方法(位置) ：画句子主干，因为修饰成分可能后置。","两个词都像，哪个才是答案词？","答案得出方式： 重/慢/重/停"]},"predictionCatalog":["adj","adj - 关注空后是否是 n ➡️ 可能答案前置","n.","v.","【材料类】","可数n. - 单数","可数n. -复数","不可数n.","【问题/麻烦】","【地点类】","【时间类】","【身体部位】 (不局限于人类)","【乐器类】","【学科类】","【食物类】","【群体/人物类】","【衣物/配饰/配件类】","【形状词 n./adj.】"],"frontingCatalog":["审题 - adj+n","答案空(预测是adj.)+n","adj + 答案空(预测是n.)","介词短语 & 词组题","答案空 + prep +n.","prep + 答案空","空前出现表「原因」连接词","被动语态","空后 + to do / to be done","无明显逻辑连接词，关注句子间逻辑关系","定语从句","空 + 关系词 + 定语从句","关系词引导定语从句 + 答案空","表「包含」关系词+大类别(答案空)+具体解释， 可能语序调换（=包含+具体内容，+这是「大类别」）","n. + n.","空前所有格","表 原因 连接词","空后出现    表「广义因果」关系词（原因、目的、结果、条件关系）","_____ + be + adj"],"predictionParents":{"adj - 关注空后是否是 n ➡️ 可能答案前置":"adj","可数n. - 单数":"n.","可数n. -复数":"n.","不可数n.":"n."},"frontingParents":{"答案空(预测是adj.)+n":"审题 - adj+n","adj + 答案空(预测是n.)":"审题 - adj+n","答案空 + prep +n.":"介词短语 & 词组题","prep + 答案空":"介词短语 & 词组题","空 + 关系词 + 定语从句":"定语从句","关系词引导定语从句 + 答案空":"定语从句","n. + n.":"介词短语 & 词组题","空前出现表「原因」连接词":"表 原因 连接词","空后出现    表「广义因果」关系词（原因、目的、结果、条件关系）":"表 原因 连接词","_____ + be + adj":"审题 - adj+n"}}
