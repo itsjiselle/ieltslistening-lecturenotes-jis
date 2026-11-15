@@ -1,0 +1,233 @@
+11-2-4 DESIGNING A PUBLIC BUILDING:
+THE TAYLOR CONCERT HALL
+话题分类：未分类
+Complete the notes below.
+Write ONE WORD ONLY for each answer.
+
+
+Introduction
+The designer of a public building may need to consider the building's function
+• physical and  31.____________ context
+• symbolic meaning
+
+Location and concept of the Concert Hall
+
+On the site of a disused 32.____________
+Beside a 33.____________
+The design is based on the concept of a mystery
+
+Building design
+
+It's approached by a 34.____________ for pedestrians
+The building is the shape of a 35.____________
+One exterior wall acts as a large 36.____________
+In the auditorium:
+• the floor is built on huge pads made of 37.____________
+• the walls are made of local wood and are 38.____________ in shape
+• ceiling panels and 39.____________ on walls allow adjustment of acoustics
+
+Evaluation
+
+Some critics say the 40.____________ style of the building is inappropriate
+
+Q31 答案：social
+存疑：未标记
+难度：未选择
+审题预测：adj
+答案前置关注：
+答案句：this includes its physical location, obviously, but it also includes the social meaning of the building,
+同义替换：but also = and
+
+
+干扰项：
+讲题路径：
+
+Q32 答案：factory
+存疑：未标记
+难度：⭐️
+审题预测：n.、可数n. - 单数
+答案前置关注：
+答案句：The location chosen was a site in a run-down district that has been ignored in previous redevelopment plans.
+It was occupied by a factory that had been empty for some years.
+同义替换：run-down = disued 但还没出现具体答案词
+干扰项：
+讲题路径：有些特殊： 限定词(/同替)+大类词+代词指代+答案词(具体)
+
+Q33 答案：canal
+存疑：未标记
+难度：未选择
+审题预测：n.、可数n. - 单数、【地点类】
+答案前置关注：
+答案句：The site itself was bordered to the north by a canal which had once been used by boats bringing in raw materials when the area was used for manufacturing.
+同义替换： be bordered to = besides 在...旁边
+干扰项：
+讲题路径：
+
+Q34 答案：bridge
+存疑：未标记
+难度：未选择
+审题预测：n.、可数n. - 单数
+答案前置关注：
+答案句：Well, Harrison decided to create pedestrian access to the building and to make use of the presence of water on the site.
+As people approach the entrance, they therefore have to cross over a bridge.
+同义替换：approach v.接近 靠近 
+听到可数名词单数 bridge
+
+
+
+干扰项：
+讲题路径：◾️ for pedestrians：for ..., 考虑定位词前置
+◾️ by：为啥答案词不是entrance呢？  by 通过， 经由 = corss
+
+Q35 答案：box
+存疑：未标记
+难度：未选择
+审题预测：n.、【形状词 n./adj.】
+答案前置关注：
+答案句：and the initial impression he wanted to create from the shape of the building as a whole was that of a box.
+同义替换：[Q35答案句【box】， shape of 原词，跟后面的词 was that of a BOX]
+干扰项：
+讲题路径：
+
+Q36 答案：screen
+存疑：未标记
+难度：未选择
+审题预测：n.、可数n. - 单数
+答案前置关注：
+答案句：At night-time, projectors are switched on and it functions as a huge screen, onto which images are projected.
+同义替换：function = act as
+huge = large
+
+干扰项：
+讲题路径：
+
+Q37 答案：rubber
+存疑：未标记
+难度：未选择
+审题预测：n.、【材料类】
+答案前置关注：
+答案句：These are constructed from rubber, and so are able to absorb any vibrations from outside and prevent them from affecting the auditorium.
+同义替换：huge pads被换成 these指代，作为定位词
+ be constructed from = be made of
+干扰项：
+讲题路径：
+
+Q38 答案：curved
+存疑：未标记
+难度：未选择
+审题预测：【形状词 n./adj.】
+答案前置关注：
+答案句：The walls are made of several layers of honey-coloured wood, all sourced from local beech trees.
+In order to improve the acoustic properties of the auditorium and to amplify the sound, they are not straight, they are curved.
+同义替换：强调表达：not straight  they are curved
+干扰项：
+讲题路径：
+
+Q39 答案：curtains
+存疑：未标记
+难度：未选择
+审题预测：n.
+答案前置关注：介词短语 & 词组题、答案空 + prep +n.
+答案句：In order to achieve this, there are nine movable panels in the ceiling above the orchestra which are all individually motorized,and the walls also have curtains which can be opened or closed to change the acoustics.
+同义替换：定位词前置
+干扰项：
+讲题路径：
+
+Q40 答案：international
+存疑：❓
+难度：未选择
+审题预测：adj、n.
+答案前置关注：
+答案句：In spite of Harrison s efforts to use local materials, they criticise the style of the design as being international rather than local,
+同义替换：强调表达 rather than， 但注意这里答案词是 rather than这个强调表达的前面的词
+干扰项：
+讲题路径：◾️ inappropriate：反向含义，不合适的
+◾️ critics：批评+adj1+而不是adj2，说明批评的人想说它的缺点是adj1还是adj2？（adj）
+◾️ style：style先于答案词出现
+
+Overall comments：
+
+原文：
+(Q31) We've been discussing the factors the architect has to consider when designing domestic buildings.
+
+I'm going to move on now to consider the design of public buildings,
+
+and I'll illustrate this by referring to the new Taylor Concert Hall that's recently been completed here in the city.
+
+So, as with a domestic building, when designing a public building, an architect needs to consider the function of the building
+
+for example, is it to be used primarily for entertainment, or for education, or for administration?
+
+The second thing the architect needs to think about is the context of the building,
+
+[Q31答案句【social】， 连接词] this includes its physical location, obviously, but it also includes the social meaning of the building,
+
+how it relates to the people it's built for.
+
+(Q32) And finally, for an important public buildings, the architect may also be looking for a centralsymbolic idea on which to base the design,
+
+a sort of metaphor for the building and the way in which it is used.
+
+Let's look at the new Taylor Concert Hall in relation to these ideas.
+
+[Q32跟定位词 site] The location chosen was a site in a run-down district that has been ignored in previous redevelopment plans.
+
+[Q32答案句【factory】] It was occupied by a factory that had been empty for some years.
+
+(Q33) The whole area was some distance from the high-rise office blocks of the central business district and shopping centre,
+
+but it was only one kilometre from the ring road.
+
+[Q33答案句【canal】， be bordered to = besides 在...旁边] The site itself was bordered to the north by a canal which had once been used by boats bringing in raw materials when the area was used for manufacturing.
+
+(Q34) The architect chosen for the project was Tom Harrison.
+
+He found the main design challenge was the location of the site in an area that had no neighbouring buildings of any importance.
+
+To reflect the fact that the significance of the building in this quite run-down location was as yet unknown,
+
+[Q34跟定位： mystery] he decided to create a building centred around the idea of a mystery - something whose meaning still has to be discovered.
+
+[Q34小标题跟定位] So how was this reflected in the design of the building?
+
+Well, Harrison decided to create pedestrian access to the building and to make use of the presence of water on the site.&nbsp;
+
+[Q34答案句【bridge】，代词指代的升级版， pedestrian access, access指的指什么要继续听， 听到approach，确定是 bridge这个词] As people approach the entrance, they therefore have to cross over a bridge.
+
+(Q35) He wanted to give people a feeling of suspense as they see the building first from a distance, and then close-up,
+
+[Q35答案句【box】， shape of 原词，跟后面的词 was that of a BOX] and the initial impression he wanted to create from the shape of the building as a whole was that of a box.
+
+(Q36) The first side that people see, the southern wall, is just a high, flat wall uninterrupted by any windows.
+
+This might sound off-putting, but it supports Harrison's concept of the building
+
+that the person approaching is intrigued and wonders what will be inside.
+
+And this flat wall also has another purpose.
+
+[Q36答案句【screen】 huge=large] At night-time, projectors are switched on and it functions as a huge screen, onto which images are projected.
+
+(Q37) The auditorium itself seats 1500 people.
+
+The floor's supported by ten massive pads.
+
+[Q37答案句【rubber】， be constructed from = be made of] These are constructed from rubber, and so are able to absorb any vibrations from outside and prevent them from affecting the auditorium.
+
+(Q38) The walls are made of several layers of honey-coloured wood, all sourced from local beech trees.
+
+[Q38答案句【curved】,听否定词 not straight  they are curved] In order to improve the acoustic properties of the auditorium and to amplify the sound, they are not straight, they are curved.
+
+(Q39) The acoustics are also adjustable according to the size of orchestra and the type of music being played.
+
+[Q39答案句【curtains】] In order to achieve this, there are nine movable panels in the ceiling above the orchestra which are all individually motorized,and the walls also have curtains which can be opened or closed to change the acoustics.
+
+(Q40) The reaction of the public to the new building has generally been positive.
+
+However, the evaluation of some critics has been less enthusiastic.
+
+[Q40答案句【 international】] In spite of Harrison s efforts to use local materials, they criticise the style of the design as being international rather than local,
+
+and say it doesn't reflect features of the landscape or society for which it is built.
+--- JISELLE NOTES FORM DATA V1 ---
+{"id":"notes-c44487d9-efe3-4901-a585-ee3fc8097529","index":"11-2-4","part":4,"title":"DESIGNING A PUBLIC BUILDING:\nTHE TAYLOR CONCERT HALL","kind":"notes","wordLimit":"ONE WORD ONLY","mode":"headings","intro":"","type":"填空题","tableCells":null,"sourceText":"• physical and  31.____________ context\n• symbolic meaning\n--- 分块 ---\n• On the site of a disused 32.____________\n• Beside a 33.____________\n• The design is based on the concept of a mystery\n--- 分块 ---\n• It's approached by a 34.____________ for pedestrians\n• The building is the shape of a 35.____________\n• One exterior wall acts as a large 36.____________\n• In the auditorium:\n• the floor is built on huge pads made of 37.____________\n• the walls are made of local wood and are 38.____________ in shape\n• ceiling panels and 39.____________ on walls allow adjustment of acoustics\n--- 分块 ---\n• Some critics say the 40.____________ style of the building is inappropriate","blocks":[{"heading":"Introduction","subheading":"The designer of a public building may need to consider the building's function","lectureBlock":0,"body":"• physical and  31.____________ context\n• symbolic meaning","layout":null,"columnWidths":null,"formats":[{"start":11,"end":14,"kind":"highlight"},{"start":2,"end":10,"kind":"underline"},{"start":32,"end":39,"kind":"underline"}],"headingFormats":[],"headingGlossary":[],"subheadingFormats":[{"start":70,"end":78,"kind":"underline"}],"subheadingGlossary":[]},{"heading":"Location and concept of the Concert Hall","subheading":"","lectureBlock":1,"body":"On the site of a disused 32.____________\nBeside a 33.____________\nThe design is based on the concept of a mystery","layout":null,"columnWidths":null,"headingFormats":[{"start":0,"end":8,"kind":"underline"},{"start":13,"end":20,"kind":"underline"}],"formats":[{"start":17,"end":24,"kind":"highlight"},{"start":15,"end":16,"kind":"highlight"},{"start":41,"end":47,"kind":"highlight"},{"start":48,"end":49,"kind":"highlight"}]},{"heading":"Building design","subheading":"","lectureBlock":2,"body":"It's approached by a 34.____________ for pedestrians\nThe building is the shape of a 35.____________\nOne exterior wall acts as a large 36.____________\nIn the auditorium:\n• the floor is built on huge pads made of 37.____________\n• the walls are made of local wood and are 38.____________ in shape\n• ceiling panels and 39.____________ on walls allow adjustment of acoustics","layout":null,"columnWidths":null,"formats":[{"start":5,"end":15,"kind":"highlight"},{"start":41,"end":52,"kind":"underline"},{"start":19,"end":20,"kind":"highlight"},{"start":37,"end":52,"kind":"highlight"},{"start":16,"end":18,"kind":"highlight"},{"start":82,"end":83,"kind":"highlight"},{"start":73,"end":78,"kind":"underline"},{"start":128,"end":133,"kind":"highlight"},{"start":126,"end":127,"kind":"highlight"},{"start":104,"end":112,"kind":"underline"},{"start":118,"end":125,"kind":"highlight"},{"start":157,"end":167,"kind":"underline"},{"start":193,"end":202,"kind":"underline"},{"start":203,"end":210,"kind":"highlight"},{"start":243,"end":251,"kind":"highlight"},{"start":251,"end":261,"kind":"underline"},{"start":286,"end":294,"kind":"highlight"},{"start":233,"end":238,"kind":"underline"},{"start":312,"end":315,"kind":"highlight"},{"start":331,"end":340,"kind":"highlight"},{"start":297,"end":311,"kind":"underline"},{"start":335,"end":340,"kind":"underline"}],"headingFormats":[{"start":0,"end":15,"kind":"underline"}]},{"heading":"Evaluation","subheading":"","lectureBlock":3,"body":"Some critics say the 40.____________ style of the building is inappropriate","layout":null,"columnWidths":null,"formats":[{"start":5,"end":12,"kind":"underline"},{"start":62,"end":75,"kind":"highlight"}]}],"numbers":[31,32,33,34,35,36,37,38,39,40],"manualOnly":true,"bullets":false,"bulletsApplied":true,"questionNotes":{"31":{"answer":"social","evidence":"this includes its physical location, obviously, but it also includes the social meaning of the building,","note":"but also = and\n\n","teaching":"","transcript":"(Q31) We've been discussing the factors the architect has to consider when designing domestic buildings.\nI'm going to move on now to consider the design of public buildings,\nand I'll illustrate this by referring to the new Taylor Concert Hall that's recently been completed here in the city.\nSo, as with a domestic building, when designing a public building, an architect needs to consider the function of the building\nfor example, is it to be used primarily for entertainment, or for education, or for administration?\nThe second thing the architect needs to think about is the context of the building,\n[Q31答案句【social】， 连接词] this includes its physical location, obviously, but it also includes the social meaning of the building,\nhow it relates to the people it's built for.","transcriptFormats":[{"start":394,"end":402,"kind":"underline"},{"start":673,"end":684,"kind":"highlight"}],"predictionTags":["adj"],"noteFormats":[],"tags":["空前关注各类「逻辑连接词」"],"subTags":["ce5a40cc-6ab7-4c18-8376-ea1a9e9e8eb6","71634830-ca4b-415a-8bfb-81af281d992e"]},"32":{"answer":"factory","evidence":"The location chosen was a site in a run-down district that has been ignored in previous redevelopment plans.\nIt was occupied by a factory that had been empty for some years.","note":"run-down = disued 但还没出现具体答案词","teaching":"有些特殊： 限定词(/同替)+大类词+代词指代+答案词(具体)","transcript":"(Q32) And finally, for an important public buildings, the architect may also be looking for a centralsymbolic idea on which to base the design,\na sort of metaphor for the building and the way in which it is used.\nLet's look at the new Taylor Concert Hall in relation to these ideas.\n[Q32跟定位词 site] The location chosen was a site in a run-down district that has been ignored in previous redevelopment plans.\n[Q32答案句【factory】] It was occupied by a factory that had been empty for some years.","transcriptFormats":[{"start":334,"end":342,"kind":"highlight"},{"start":110,"end":114,"kind":"underline"}],"predictionTags":["n.","可数n. - 单数"],"evidenceFormats":[{"start":109,"end":111,"kind":"underline"}],"noteFormats":[],"tags":["答案得出方式相对直观， 跟(空前)定位词","两个词都像，哪个才是答案词？"],"subTags":["d5bced8e-7c14-47e7-9fb7-d63bdfc065da","9e0e9bad-554d-42b7-bf76-70c7609748c6"],"difficulty":"⭐️","teachingFormats":[]},"33":{"answer":"canal","evidence":"The site itself was bordered to the north by a canal which had once been used by boats bringing in raw materials when the area was used for manufacturing.","note":" be bordered to = besides 在...旁边","teaching":"","transcript":"(Q33) The whole area was some distance from the high-rise office blocks of the central business district and shopping centre,\nbut it was only one kilometre from the ring road.\n[Q33答案句【canal】， be bordered to = besides 在...旁边] The site itself was bordered to the north by a canal which had once been used by boats bringing in raw materials when the area was used for manufacturing.","transcriptFormats":[],"tags":["答案得出相对直观，跟空前限定词的同义替换"],"subTags":["44953094-07cd-40ed-a884-ab53304bee45"],"predictionTags":["n.","可数n. - 单数","【地点类】"],"noteFormats":[],"evidenceFormats":[{"start":16,"end":31,"kind":"highlight"}]},"34":{"answer":"bridge","evidence":"Well, Harrison decided to create pedestrian access to the building and to make use of the presence of water on the site.\nAs people approach the entrance, they therefore have to cross over a bridge.","note":"approach v.接近 靠近 \n听到可数名词单数 bridge\n\n\n","teaching":"◾️ for pedestrians：for ..., 考虑定位词前置\n◾️ by：为啥答案词不是entrance呢？  by 通过， 经由 = corss","transcript":"(Q34) The architect chosen for the project was Tom Harrison.\nHe found the main design challenge was the location of the site in an area that had no neighbouring buildings of any importance.\nTo reflect the fact that the significance of the building in this quite run-down location was as yet unknown,\n[Q34跟定位： mystery] he decided to create a building centred around the idea of a mystery - something whose meaning still has to be discovered.\n[Q34小标题跟定位] So how was this reflected in the design of the building?\nWell, Harrison decided to create pedestrian access to the building and to make use of the presence of water on the site.&nbsp;\n[Q34答案句【bridge】，代词指代的升级版， pedestrian access, access指的指什么要继续听， 听到approach，确定是 bridge这个词] As people approach the entrance, they therefore have to cross over a bridge.","transcriptFormats":[{"start":543,"end":560,"kind":"underline"}],"tags":["答案得出相对直观，跟空前限定词的同义替换"],"subTags":["44953094-07cd-40ed-a884-ab53304bee45"],"predictionTags":["n.","可数n. - 单数"],"evidenceFormats":[{"start":131,"end":139,"kind":"highlight"},{"start":177,"end":182,"kind":"highlight"}],"noteFormats":[],"glossary":[{"id":"54cfa332-c489-43ef-96e5-33121118943b","q":34,"kind":"teaching","target":"body","block":2,"start":37,"end":52,"term":"for pedestrians","meaning":"for ..., 考虑定位词前置"},{"id":"fe0737c0-9b76-4866-9f0c-316c00ad1d18","q":34,"kind":"teaching","target":"body","block":2,"start":16,"end":18,"term":"by","meaning":"为啥答案词不是entrance呢？  by 通过， 经由 = corss"}]},"35":{"answer":"box","evidence":"and the initial impression he wanted to create from the shape of the building as a whole was that of a box.","note":"[Q35答案句【box】， shape of 原词，跟后面的词 was that of a BOX]","teaching":"","transcript":"(Q35) He wanted to give people a feeling of suspense as they see the building first from a distance, and then close-up,\n[Q35答案句【box】， shape of 原词，跟后面的词 was that of a BOX] and the initial impression he wanted to create from the shape of the building as a whole was that of a box.","transcriptFormats":[],"tags":["听中根据预测找到疑似答案(即符合预测时词性/类型的)，出现定位词后确定"],"subTags":[],"predictionTags":["n.","【形状词 n./adj.】"]},"36":{"answer":"screen","evidence":"At night-time, projectors are switched on and it functions as a huge screen, onto which images are projected.","note":"function = act as\nhuge = large\n","teaching":"","transcript":"(Q36) The first side that people see, the southern wall, is just a high, flat wall uninterrupted by any windows.\nThis might sound off-putting, but it supports Harrison's concept of the building\nthat the person approaching is intrigued and wonders what will be inside.\nAnd this flat wall also has another purpose.\n[Q36答案句【screen】 huge=large] At night-time, projectors are switched on and it functions as a huge screen, onto which images are projected.","transcriptFormats":[],"tags":["答案得出相对直观，跟空前限定词的同义替换"],"subTags":["fa8b0b01-5140-48f6-aa75-68ec38ad5684"],"evidenceFormats":[{"start":49,"end":58,"kind":"highlight"},{"start":64,"end":68,"kind":"highlight"}],"noteFormats":[],"predictionTags":["n.","可数n. - 单数"]},"37":{"answer":"rubber","evidence":"These are constructed from rubber, and so are able to absorb any vibrations from outside and prevent them from affecting the auditorium.","note":"huge pads被换成 these指代，作为定位词\n be constructed from = be made of","teaching":"","transcript":"(Q37) The auditorium itself seats 1500 people.\nThe floor's supported by ten massive pads.\n[Q37答案句【rubber】， be constructed from = be made of] These are constructed from rubber, and so are able to absorb any vibrations from outside and prevent them from affecting the auditorium.","transcriptFormats":[{"start":141,"end":146,"kind":"underline"},{"start":151,"end":167,"kind":"highlight"}],"tags":["答案得出相对直观，跟空前限定词的同义替换","答案得出方式相对直观， 跟(空前)定位词"],"subTags":["cd4f2292-470d-4b61-a0a0-a3eb5667fddb","d5bced8e-7c14-47e7-9fb7-d63bdfc065da"],"focusLines":[{"block":2,"text":"In the auditorium:"}],"predictionTags":["n.","【材料类】"],"noteFormats":[]},"38":{"answer":"curved","evidence":"The walls are made of several layers of honey-coloured wood, all sourced from local beech trees.\nIn order to improve the acoustic properties of the auditorium and to amplify the sound, they are not straight, they are curved.","note":"强调表达：not straight  they are curved","teaching":"","transcript":"(Q38) The walls are made of several layers of honey-coloured wood, all sourced from local beech trees.\n[Q38答案句【curved】,听否定词 not straight  they are curved] In order to improve the acoustic properties of the auditorium and to amplify the sound, they are not straight, they are curved.","transcriptFormats":[],"tags":["(听中) 强调表达+正确答案"],"subTags":[],"predictionTags":["【形状词 n./adj.】"],"noteFormats":[{"start":9,"end":17,"kind":"strike"}],"evidenceFormats":[{"start":4,"end":9,"kind":"underline"}]},"39":{"answer":"curtains","evidence":"In order to achieve this, there are nine movable panels in the ceiling above the orchestra which are all individually motorized,and the walls also have curtains which can be opened or closed to change the acoustics.","note":"定位词前置","teaching":"","transcript":"(Q39) The acoustics are also adjustable according to the size of orchestra and the type of music being played.\n[Q39答案句【curtains】] In order to achieve this, there are nine movable panels in the ceiling above the orchestra which are all individually motorized,and the walls also have curtains which can be opened or closed to change the acoustics.","transcriptFormats":[],"tags":["答案得出方式相对直观， 跟(空前)定位词","答案前置"],"subTags":["ea9aa4cb-7da1-43d8-b747-04deb8b90d71","256ac974-e3a5-4c1b-a160-4d07020474cf"],"evidenceFormats":[{"start":49,"end":55,"kind":"underline"},{"start":63,"end":70,"kind":"underline"}],"frontingTags":["介词短语 & 词组题","答案空 + prep +n."],"predictionTags":["n."],"noteFormats":[]},"40":{"answer":"international","evidence":"In spite of Harrison s efforts to use local materials, they criticise the style of the design as being international rather than local,","note":"强调表达 rather than， 但注意这里答案词是 rather than这个强调表达的前面的词","teaching":"◾️ inappropriate：反向含义，不合适的\n◾️ critics：批评+adj1+而不是adj2，说明批评的人想说它的缺点是adj1还是adj2？（adj）\n◾️ style：style先于答案词出现","transcript":"(Q40) The reaction of the public to the new building has generally been positive.\nHowever, the evaluation of some critics has been less enthusiastic.\n[Q40答案句【 international】] In spite of Harrison s efforts to use local materials, they criticise the style of the design as being international rather than local,\nand say it doesn't reflect features of the landscape or society for which it is built.","transcriptFormats":[],"tags":["(听中) 强调表达+正确答案"],"subTags":[],"evidenceFormats":[{"start":60,"end":69,"kind":"underline"},{"start":74,"end":79,"kind":"underline"},{"start":74,"end":79,"kind":"highlight"}],"noteFormats":[],"predictionTags":["adj","n."],"glossary":[{"id":"0033ecf1-ede1-4cf0-9663-ce135dcbde9e","q":40,"kind":"teaching","target":"body","block":3,"start":62,"end":75,"term":"inappropriate","meaning":"反向含义，不合适的"},{"id":"b7ece069-3ac9-4aff-be11-79a5cfc9511e","q":40,"kind":"teaching","target":"body","block":3,"start":5,"end":12,"term":"critics","meaning":"批评+adj1+而不是adj2，说明批评的人想说它的缺点是adj1还是adj2？"},{"id":"688f9c53-f87a-478f-995b-2a2c61ac0ee6","q":40,"kind":"teaching","target":"evidence","block":null,"start":74,"end":79,"term":"style","meaning":"style先于答案词出现"}],"teachingFormats":[],"doubt":"❓"}},"createdAt":"2026-11-15T05:41:38.850Z","topicCategory":"","topicUpdatedAt":"2026-11-15T08:13:37.363Z","attempts":{"40":"lecture notes+音频对应 同步"},"answerCloud":{"sha":"8b137891791fe96927ad78e64b0aad7bded08bdc","path":"11-2-4 笔记填空 答案词.txt"},"answerWordsRaw":"31. social\n32. factory\n33. canal\n34. bridge\n35. box\n36. screen\n37. rubber\n38. curved\n39. curtains\n40. international","transcript":"(Q31) We've been discussing the factors the architect has to consider when designing domestic buildings.\n\nI'm going to move on now to consider the design of public buildings,\n\nand I'll illustrate this by referring to the new Taylor Concert Hall that's recently been completed here in the city.\n\nSo, as with a domestic building, when designing a public building, an architect needs to consider the function of the building\n\nfor example, is it to be used primarily for entertainment, or for education, or for administration?\n\nThe second thing the architect needs to think about is the context of the building,\n\n[Q31答案句【social】， 连接词] this includes its physical location, obviously, but it also includes the social meaning of the building,\n\nhow it relates to the people it's built for.\n\n(Q32) And finally, for an important public buildings, the architect may also be looking for a centralsymbolic idea on which to base the design,\n\na sort of metaphor for the building and the way in which it is used.\n\nLet's look at the new Taylor Concert Hall in relation to these ideas.\n\n[Q32跟定位词 site] The location chosen was a site in a run-down district that has been ignored in previous redevelopment plans.\n\n[Q32答案句【factory】] It was occupied by a factory that had been empty for some years.\n\n(Q33) The whole area was some distance from the high-rise office blocks of the central business district and shopping centre,\n\nbut it was only one kilometre from the ring road.\n\n[Q33答案句【canal】， be bordered to = besides 在...旁边] The site itself was bordered to the north by a canal which had once been used by boats bringing in raw materials when the area was used for manufacturing.\n\n(Q34) The architect chosen for the project was Tom Harrison.\n\nHe found the main design challenge was the location of the site in an area that had no neighbouring buildings of any importance.\n\nTo reflect the fact that the significance of the building in this quite run-down location was as yet unknown,\n\n[Q34跟定位： mystery] he decided to create a building centred around the idea of a mystery - something whose meaning still has to be discovered.\n\n[Q34小标题跟定位] So how was this reflected in the design of the building?\n\nWell, Harrison decided to create pedestrian access to the building and to make use of the presence of water on the site.&nbsp;\n\n[Q34答案句【bridge】，代词指代的升级版， pedestrian access, access指的指什么要继续听， 听到approach，确定是 bridge这个词] As people approach the entrance, they therefore have to cross over a bridge.\n\n(Q35) He wanted to give people a feeling of suspense as they see the building first from a distance, and then close-up,\n\n[Q35答案句【box】， shape of 原词，跟后面的词 was that of a BOX] and the initial impression he wanted to create from the shape of the building as a whole was that of a box.\n\n(Q36) The first side that people see, the southern wall, is just a high, flat wall uninterrupted by any windows.\n\nThis might sound off-putting, but it supports Harrison's concept of the building\n\nthat the person approaching is intrigued and wonders what will be inside.\n\nAnd this flat wall also has another purpose.\n\n[Q36答案句【screen】 huge=large] At night-time, projectors are switched on and it functions as a huge screen, onto which images are projected.\n\n(Q37) The auditorium itself seats 1500 people.\n\nThe floor's supported by ten massive pads.\n\n[Q37答案句【rubber】， be constructed from = be made of] These are constructed from rubber, and so are able to absorb any vibrations from outside and prevent them from affecting the auditorium.\n\n(Q38) The walls are made of several layers of honey-coloured wood, all sourced from local beech trees.\n\n[Q38答案句【curved】,听否定词 not straight  they are curved] In order to improve the acoustic properties of the auditorium and to amplify the sound, they are not straight, they are curved.\n\n(Q39) The acoustics are also adjustable according to the size of orchestra and the type of music being played.\n\n[Q39答案句【curtains】] In order to achieve this, there are nine movable panels in the ceiling above the orchestra which are all individually motorized,and the walls also have curtains which can be opened or closed to change the acoustics.\n\n(Q40) The reaction of the public to the new building has generally been positive.\n\nHowever, the evaluation of some critics has been less enthusiastic.\n\n[Q40答案句【 international】] In spite of Harrison s efforts to use local materials, they criticise the style of the design as being international rather than local,\n\nand say it doesn't reflect features of the landscape or society for which it is built.","srtSource":{"path":"11-2-4 英文.srt","sha":"ea7a90b2c11b74d59c48097f8a22bb1c72627d37","fetchedAt":"2026-11-15T08:13:59.558Z"},"audioData":{"parserVersion":2,"index":"11-2-4","repo":"itsjiselle/ielts-listening-questions-pdf","ref":"f1166703e6c2b4d77dfbe0447b3876c415c17bbe","audioPath":"11-2-4.mp3","audioSha":"08dbfa1571dad7b42f2c907faa7a3175de187846","srtPath":"11-2-4 英文.srt","srtSha":"ea7a90b2c11b74d59c48097f8a22bb1c72627d37","cues":[{"id":"0","start":1.199,"end":8.354,"text":"(Q31) We've been discussing the factors the architect has to consider when designing domestic buildings.","q":31,"invalidTime":false},{"id":"1","start":8.354,"end":13.36,"text":"I'm going to move on now to consider the design of public buildings,","q":31,"invalidTime":false},{"id":"2","start":13.36,"end":21.869,"text":"and I'll illustrate this by referring to the new Taylor Concert Hall that's recently been completed here in the city.","q":31,"invalidTime":false},{"id":"3","start":21.869,"end":31.506,"text":"So, as with a domestic building, when designing a public building, an architect needs to consider the function of the building","q":31,"invalidTime":false},{"id":"4","start":31.506,"end":40.275,"text":"for example, is it to be used primarily for entertainment, or for education, or for administration?","q":31,"invalidTime":false},{"id":"5","start":40.275,"end":46.439,"text":"The second thing the architect needs to think about is the context of the building,","q":31,"invalidTime":false},{"id":"6","start":46.439,"end":54.044,"text":"[Q31答案句【social】， 连接词] this includes its physical location, obviously, but it also includes the social meaning of the building,","q":31,"invalidTime":false},{"id":"7","start":54.044,"end":57.016,"text":"how it relates to the people it's built for.","q":31,"invalidTime":false},{"id":"8","start":57.016,"end":67.441,"text":"(Q32) And finally, for an important public buildings, the architect may also be looking for a centralsymbolic idea on which to base the design,","q":32,"invalidTime":false},{"id":"9","start":67.441,"end":72.925,"text":"a sort of metaphor for the building and the way in which it is used.","q":32,"invalidTime":false},{"id":"10","start":72.925,"end":77.96600000000001,"text":"Let's look at the new Taylor Concert Hall in relation to these ideas.","q":32,"invalidTime":false},{"id":"11","start":77.96600000000001,"end":85.368,"text":"[Q32跟定位词 site] The location chosen was a site in a run-down district that has been ignored in previous redevelopment plans.","q":32,"invalidTime":false},{"id":"12","start":85.368,"end":90.229,"text":"[Q32答案句【factory】] It was occupied by a factory that had been empty for some years.","q":32,"invalidTime":false},{"id":"13","start":90.229,"end":98.11099999999999,"text":"(Q33) The whole area was some distance from the high-rise office blocks of the central business district and shopping centre,","q":33,"invalidTime":false},{"id":"14","start":98.11099999999999,"end":101.279,"text":"but it was only one kilometre from the ring road.","q":33,"invalidTime":false},{"id":"15","start":101.279,"end":112.15299999999999,"text":"[Q33答案句【canal】， be bordered to = besides 在...旁边] The site itself was bordered to the north by a canal which had once been used by boats bringing in raw materials when the area was used for manufacturing.","q":33,"invalidTime":false},{"id":"16","start":112.15299999999999,"end":116.744,"text":"(Q34) The architect chosen for the project was Tom Harrison.","q":34,"invalidTime":false},{"id":"17","start":116.744,"end":125.09,"text":"He found the main design challenge was the location of the site in an area that had no neighbouring buildings of any importance.","q":34,"invalidTime":false},{"id":"18","start":125.09,"end":133.238,"text":"To reflect the fact that the significance of the building in this quite run-down location was as yet unknown,","q":34,"invalidTime":false},{"id":"19","start":133.238,"end":142.589,"text":"[Q34跟定位： mystery] he decided to create a building centred around the idea of a mystery - something whose meaning still has to be discovered.","q":34,"invalidTime":false},{"id":"20","start":142.589,"end":147.433,"text":"[Q34小标题跟定位] So how was this reflected in the design of the building?","q":34,"invalidTime":false},{"id":"21","start":147.433,"end":156.336,"text":"Well, Harrison decided to create pedestrian access to the building and to make use of the presence of water on the site.&nbsp;","q":34,"invalidTime":false},{"id":"22","start":156.336,"end":162.09,"text":"[Q34答案句【bridge】，代词指代的升级版， pedestrian access, access指的指什么要继续听， 听到approach，确定是 bridge这个词] As people approach the entrance, they therefore have to cross over a bridge.","q":34,"invalidTime":false},{"id":"23","start":162.09,"end":169.65699999999998,"text":"(Q35) He wanted to give people a feeling of suspense as they see the building first from a distance, and then close-up,","q":35,"invalidTime":false},{"id":"24","start":169.65699999999998,"end":176.46,"text":"[Q35答案句【box】， shape of 原词，跟后面的词 was that of a BOX] and the initial impression he wanted to create from the shape of the building as a whole was that of a box.","q":35,"invalidTime":false},{"id":"25","start":176.46,"end":184.743,"text":"(Q36) The first side that people see, the southern wall, is just a high, flat wall uninterrupted by any windows.","q":36,"invalidTime":false},{"id":"26","start":184.743,"end":190.388,"text":"This might sound off-putting, but it supports Harrison's concept of the building","q":36,"invalidTime":false},{"id":"27","start":190.388,"end":195.552,"text":"that the person approaching is intrigued and wonders what will be inside.","q":36,"invalidTime":false},{"id":"28","start":195.552,"end":199.515,"text":"And this flat wall also has another purpose.","q":36,"invalidTime":false},{"id":"29","start":199.515,"end":211.742,"text":"[Q36答案句【screen】 huge=large] At night-time, projectors are switched on and it functions as a huge screen, onto which images are projected.","q":36,"invalidTime":false},{"id":"30","start":211.742,"end":215.862,"text":"(Q37) The auditorium itself seats 1500 people.","q":37,"invalidTime":false},{"id":"31","start":215.862,"end":219.77100000000002,"text":"The floor's supported by ten massive pads.","q":37,"invalidTime":false},{"id":"32","start":219.77100000000002,"end":228.643,"text":"[Q37答案句【rubber】， be constructed from = be made of] These are constructed from rubber, and so are able to absorb any vibrations from outside and prevent them from affecting the auditorium.","q":37,"invalidTime":false},{"id":"33","start":228.643,"end":235.685,"text":"(Q38) The walls are made of several layers of honey-coloured wood, all sourced from local beech trees.","q":38,"invalidTime":false},{"id":"34","start":235.685,"end":244.697,"text":"[Q38答案句【curved】,听否定词 not straight  they are curved] In order to improve the acoustic properties of the auditorium and to amplify the sound, they are not straight, they are curved.","q":38,"invalidTime":false},{"id":"35","start":244.697,"end":251.796,"text":"(Q39) The acoustics are also adjustable according to the size of orchestra and the type of music being played.","q":39,"invalidTime":false},{"id":"36","start":251.796,"end":267.899,"text":"[Q39答案句【curtains】] In order to achieve this, there are nine movable panels in the ceiling above the orchestra which are all individually motorized,and the walls also have curtains which can be opened or closed to change the acoustics.","q":39,"invalidTime":false},{"id":"37","start":267.899,"end":272.817,"text":"(Q40) The reaction of the public to the new building has generally been positive.","q":40,"invalidTime":false},{"id":"38","start":272.817,"end":278.20799999999997,"text":"However, the evaluation of some critics has been less enthusiastic.","q":40,"invalidTime":false},{"id":"39","start":278.20799999999997,"end":288.065,"text":"[Q40答案句【 international】] In spite of Harrison s efforts to use local materials, they criticise the style of the design as being international rather than local,","q":40,"invalidTime":false},{"id":"40","start":288.065,"end":290.565,"text":"and say it doesn't reflect features of the landscape or society for which it is built.","q":40,"invalidTime":false}],"matches":{"31":{"all":["[Q31答案句【social】， 连接词] this includes its physical location, obviously, but it also includes the social meaning of the building,"],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"32":{"all":["[Q32答案句【factory】] It was occupied by a factory that had been empty for some years."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"33":{"all":["[Q33答案句【canal】， be bordered to = besides 在...旁边] The site itself was bordered to the north by a canal which had once been used by boats bringing in raw materials when the area was used for manufacturing."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"34":{"all":["[Q34答案句【bridge】，代词指代的升级版， pedestrian access, access指的指什么要继续听， 听到approach，确定是 bridge这个词] As people approach the entrance, they therefore have to cross over a bridge."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"35":{"all":["[Q35答案句【box】， shape of 原词，跟后面的词 was that of a BOX] and the initial impression he wanted to create from the shape of the building as a whole was that of a box."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"36":{"all":["[Q36答案句【screen】 huge=large] At night-time, projectors are switched on and it functions as a huge screen, onto which images are projected."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"37":{"all":["[Q37答案句【rubber】， be constructed from = be made of] These are constructed from rubber, and so are able to absorb any vibrations from outside and prevent them from affecting the auditorium."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"38":{"all":["[Q38答案句【curved】,听否定词 not straight  they are curved] In order to improve the acoustic properties of the auditorium and to amplify the sound, they are not straight, they are curved."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"39":{"all":["[Q39答案句【curtains】] In order to achieve this, there are nine movable panels in the ceiling above the orchestra which are all individually motorized,and the walls also have curtains which can be opened or closed to change the acoustics."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"40":{"all":["[Q40答案句【 international】] In spite of Harrison s efforts to use local materials, they criticise the style of the design as being international rather than local,"],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true}}},"topicCatalog":["生物&环境类"],"tagArchiveFiles":{"考点":"Part 4 笔记填空 - 考点库标签- 考点.txt","审题预测":"Part 4 笔记填空 - 考点库标签- 审题预测.txt","答案前置":"Part 4 笔记填空 - 考点库标签- 答案前置.txt"},"tagCatalog":{"tags":["\"一定一考“","答案得出相对直观，跟空前限定词的同义替换","答案得出方式相对直观， 跟(空前)定位词","答案前置","(审题)空前定位词有限，需要画上一行定位词","(审题)答案空所在行与小标题不相邻，中间内容也要画定位词， 辅助跟原文","空前关注各类「逻辑连接词」","(除明显答案前置外) 需要看空后内容","听中根据预测找到疑似答案(即符合预测时词性/类型的)，出现定位词后确定","听中记录疑似答案，根据后续代词指代确定答案","跟同义替换（整句/段解释）","(听中) 强调表达+正确答案","(听中) 由于「审题」无明显逻辑连接词，所以【听中】关注句子间逻辑关系","（得出相对直观）， 注意拼写&场景词积累","答案前置补充 - 具体情况notes","特殊❗️ see 讲解路径","找定位词方法(位置) ：画句子主干，因为修饰成分可能后置。","两个词都像，哪个才是答案词？"],"children":{"(审题)空前定位词有限，需要画上一行定位词":[{"id":"327795a8-6c0e-46eb-89a7-0ec508694123","name":"空前完全无实义词"},{"id":"ae05271d-53d9-476c-a32f-9f47d6cd3032","name":"空前普通名词"},{"id":"6946f603-30d4-4479-88b9-5fb057229f91","name":"特殊情况： 答案空所在行也有定位词， 但和小标题不相邻，所以中间内容也要画定位词，作为辅助"}],"(听中) 由于「审题」无明显逻辑连接词，所以【听中】关注句子间逻辑关系":[],"(除明显答案前置外) 需要看空后内容":[{"id":"febf9b9b-49d4-4ce8-816b-478c2a913cb3","name":"特殊情况：空后内容作为答案词空的解释说明——  空前无实义词， 上一行基本以答案空结尾， 需要看空后内容。"}],"答案前置补充 - 具体情况notes":[{"id":"8a0238e5-2f3f-428f-b019-db9f424731d6","name":"从属关系 _____ of +n. = n.+ be + _____(adj.) 或者 = n's _____(n.)"},{"id":"c6f3a064-6e57-4108-996f-1a302eea43dd","name":"____(预测为名词) + of + n.2 = n.2 +答案词."},{"id":"13a29380-d4e5-4f87-ae4d-60a11440c577","name":"方式类： do sth by _____ = use ______ to do"},{"id":"87fc1c88-f15d-40c0-9ac2-1191aad16a4b","name":"材料 由…制成： make from, make of"},{"id":"1badb381-9ffd-4730-8dcf-aa0a8d91e6c0","name":"时间类表达 ... ago"},{"id":"22161c25-599c-498a-96ac-a3d578696b4f","name":"表示目的： ... for ..."}],"听中根据预测找到疑似答案(即符合预测时词性/类型的)，出现定位词后确定":[],"答案前置":[{"id":"741e47b1-14a4-49b5-b0a5-0f40d4ef532d","name":"被动语态"},{"id":"cdba6ca9-0c60-491e-83bd-31cf4e4eb707","name":"定语从句"},{"id":"256ac974-e3a5-4c1b-a160-4d07020474cf","name":"介词短语 n + prep + n & 词组题"},{"id":"84540db0-387d-4b01-b2fc-07b39142b714","name":"adj"},{"id":"c4896de5-f6bd-42cb-8a17-4a87c9258ebb","name":"答案空 + to do / to be done(～被动语态)"},{"id":"0964d75f-4c01-4372-9533-6ba09ca8db20","name":"表「广义因果」关系词（原因、目的、结果、条件关系）"},{"id":"6118ad58-4ec9-426e-9967-23d587825822","name":"表「包含」关系词+大类别(答案空)+具体解释， 可能语序调换（=包含+具体内容，+这是「大类别」）"},{"id":"36b104ac-a116-4408-8d53-6e701988bbfb","name":"所有格"}],"找定位词方法(位置) ：画句子主干，因为修饰成分可能后置。":[],"空前关注各类「逻辑连接词」":[{"id":"ce5a40cc-6ab7-4c18-8376-ea1a9e9e8eb6","name":"空前有表「并列」关系词，关注同替"},{"id":"55adc83c-ebec-4f7d-91b9-45f550ddf550","name":"空前有表「举例」关系词， 关注同替说法"},{"id":"204b0480-3438-44ff-b89f-892309933f02","name":"表「广义因果」关系（原因、目的、结果、条件关系），关注同义替换"},{"id":"dd178eaf-49e9-447e-9630-210cd98bded2","name":"作用2: 审题时 帮助预测答案空类型、词性"},{"id":"71634830-ca4b-415a-8bfb-81af281d992e","name":"空前有表「并列」关系词+作用2（审题时 帮助预测答案空类型、词性）"}],"答案得出方式相对直观， 跟(空前)定位词":[{"id":"eb16e5de-a1d4-45dd-9ecd-6ee8e849a5a6","name":"专有名词"},{"id":"a93a15a7-290b-4695-be1c-e2ef48aa2fe2","name":"普通名词（原词）"},{"id":"f17fa0d7-c3dd-4b59-838b-873d3f8290a2","name":"普通名词（同义替换）"},{"id":"d5bced8e-7c14-47e7-9fb7-d63bdfc065da","name":"定位词以代词形式出现，跟出答案词"},{"id":"ea9aa4cb-7da1-43d8-b747-04deb8b90d71","name":"空后定位词前置（先于答案空出现）"}],"答案得出相对直观，跟空前限定词的同义替换":[{"id":"cd4f2292-470d-4b61-a0a0-a3eb5667fddb","name":"v. & phr.v"},{"id":"fa8b0b01-5140-48f6-aa75-68ec38ad5684","name":"adj./ adv"},{"id":"020c9259-2f55-44db-9dda-090936631c5f","name":"否定含义词"},{"id":"7663d3ae-0342-40e9-8ebd-8451aa5588b1","name":"对比类 表述"},{"id":"b5d93bfa-23b4-4158-912f-dccb70d5297c","name":"程度类"},{"id":"e8b8eef7-4a53-48bf-99a4-56f7bd700543","name":"v/adj/adv/perp/其它类 - 原词"},{"id":"fd82e3a0-f99d-4f0e-8571-6e0c380875c5","name":"特殊疑问词 类"},{"id":"73baac9a-076d-4c09-8cf6-9f57d2d4a2de","name":"数值类"},{"id":"851730df-b8ab-4da2-a4b0-d58e255ac49e","name":"表「广义因果」关系（原因、目的、结果、条件关系），关注同义替换， see 逻辑连接词标签"},{"id":"44953094-07cd-40ed-a884-ab53304bee45","name":"prep"},{"id":"b275f89c-55c9-4642-b9fe-1967d8b4ef21","name":"时间顺序类"},{"id":"eb971df6-e80d-4a73-b061-36b59f59dcd1","name":"代词指代"},{"id":"c72817b1-60c1-4f93-a239-883319e90428","name":"频率&可能性"}],"两个词都像，哪个才是答案词？":[{"id":"60cc6fc6-519a-4caa-9a47-cd549599965c","name":"(听中)出现多个和预测词性相符的词， 一般是n.+ n. 形式的， 需要填写使整句语义完整的那个词"},{"id":"9e0e9bad-554d-42b7-bf76-70c7609748c6","name":"限定词(/同替)+大类词+代词指代+答案词(具体)"}]},"order":["\"一定一考“","答案得出相对直观，跟空前限定词的同义替换","答案得出方式相对直观， 跟(空前)定位词","答案前置","(审题)空前定位词有限，需要画上一行定位词","(审题)答案空所在行与小标题不相邻，中间内容也要画定位词， 辅助跟原文","空前关注各类「逻辑连接词」","(除明显答案前置外) 需要看空后内容","听中根据预测找到疑似答案(即符合预测时词性/类型的)，出现定位词后确定","听中记录疑似答案，根据后续代词指代确定答案","跟同义替换（整句/段解释）","(听中) 强调表达+正确答案","(听中) 由于「审题」无明显逻辑连接词，所以【听中】关注句子间逻辑关系","（得出相对直观）， 注意拼写&场景词积累","答案前置补充 - 具体情况notes","特殊❗️ see 讲解路径","找定位词方法(位置) ：画句子主干，因为修饰成分可能后置。","两个词都像，哪个才是答案词？"]},"predictionCatalog":["adj","adj - 关注空后是否是 n ➡️ 可能答案前置","n.","v.","【材料类】","可数n. - 单数","可数n. -复数","不可数n.","【问题/麻烦】","【地点类】","【时间类】","【身体部位】 (不局限于人类)","【乐器类】","【学科类】","【食物类】","【群体/人物类】","【衣物/配饰/配件类】","【形状词 n./adj.】"],"frontingCatalog":["审题 - adj+n","答案空(预测是adj.)+n","adj + 答案空(预测是n.)","介词短语 & 词组题","答案空 + prep +n.","prep + 答案空","空前出现表「原因」连接词","被动语态","空后 + to do / to be done","无明显逻辑连接词，关注句子间逻辑关系","定语从句","空 + 关系词 + 定语从句","关系词引导定语从句 + 答案空","表「包含」关系词+大类别(答案空)+具体解释， 可能语序调换（=包含+具体内容，+这是「大类别」）","n. + n.","空前所有格","表 原因 连接词","空后出现    表「广义因果」关系词（原因、目的、结果、条件关系）","_____ + be + adj"],"predictionParents":{"adj - 关注空后是否是 n ➡️ 可能答案前置":"adj","可数n. - 单数":"n.","可数n. -复数":"n.","不可数n.":"n."},"frontingParents":{"答案空(预测是adj.)+n":"审题 - adj+n","adj + 答案空(预测是n.)":"审题 - adj+n","答案空 + prep +n.":"介词短语 & 词组题","prep + 答案空":"介词短语 & 词组题","空 + 关系词 + 定语从句":"定语从句","关系词引导定语从句 + 答案空":"定语从句","n. + n.":"介词短语 & 词组题","空前出现表「原因」连接词":"表 原因 连接词","空后出现    表「广义因果」关系词（原因、目的、结果、条件关系）":"表 原因 连接词","_____ + be + adj":"审题 - adj+n"}}
