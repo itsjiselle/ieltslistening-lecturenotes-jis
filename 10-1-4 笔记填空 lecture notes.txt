@@ -1,0 +1,208 @@
+10-1-4 THE SPIRIT BEAR
+话题分类：未分类
+Complete the notes below.
+Write ONE WORD ONLY for each answer.
+
+
+General facts
+
+• It is a white bear belonging to the black bear family.
+• Its colour comes from an uncommon 31.____________
+• Local people believe that it has unusual 32.____________
+• They protect the bear from 33.____________
+
+Habitat
+
+• The bear's relationship with the forest is complex.
+• Tree roots stop 34.____________ along salmon streams.
+• The bears' feeding habits provide nutrients for forest vegetation.
+• It is currently found on a small number of 35.____________
+
+Threats
+
+• Habitat is being lost due to deforestation and construction of 36.____________ by logging companies.
+• Unrestricted 37.____________ is affecting the salmon supply.
+• The bears' existence is also threatened by their low rate of 38.____________
+
+Going forward
+
+• Interested parties are working together.
+• Logging companies must improve their 39.____________ of logging.
+• Maintenance and 40.____________ of the spirit bears' territory is needed.
+
+Q31 答案：gene
+存疑：未标记
+难度：未选择
+审题预测：n.、可数n. - 单数
+答案前置关注：
+答案句：One in ten black bears is actually born with a white coat which is the result of a special gene that surfaces in a few.
+同义替换：white = colour
+is the result of = come from
+special = uncommon
+
+
+干扰项：
+讲题路径：
+
+Q32 答案：power | powers
+存疑：未标记
+难度：未选择
+审题预测：n.
+答案前置关注：
+答案句：And according to the legends of these communities, its snowy fur brings with it a special power.
+同义替换：special = unusual
+干扰项：
+讲题路径：◾️ it：指代的是谁： bear
+
+Q33 答案：strangers
+存疑：未标记
+难度：未选择
+审题预测：n.
+答案前置关注：
+答案句：It is their way of protecting it when strangers visit the area.
+同义替换：从句表达 → 介词短语表达
+when + 从句↔ from + 名词
+干扰项：
+讲题路径：◾️ protect the bear from 33.___________：from 介词词组， 且，以答案空结尾， 空后没有其他内容，考虑答案词前置
+
+Q34 答案：erosion
+存疑：未标记
+难度：未选择
+审题预测：n.
+答案前置关注：
+答案句：For example, the old-growth trees have extremely Iong roots that help prevent erosion of the soil along the banks of the many fish streams.
+同义替换：prevent = stop 
+erosion of the soil  ， 答案词是erosion 还是 soil？ ——哪个使语义完整
+干扰项：
+讲题路径：注意 n+ of + n结构， 前面的词才是中心名词 
+
+Q35 答案：islands
+存疑：未标记
+难度：未选择
+审题预测：n.、可数n. -复数
+答案前置关注：
+答案句：Today, the spirit bear lives off the coast of the province of British Columbia on a few islands.
+同义替换：Today = currently
+a few = a small number of
+干扰项：
+讲题路径：
+
+Q36 答案：roads
+存疑：未标记
+难度：未选择
+审题预测：n.
+答案前置关注：介词短语 & 词组题、答案空 + prep +n.
+答案句：The greatest threat to the bear's existence is the loss of its habitat.（定位词）
+Over many years, logging companies（空后定位词） have stripped the land by cutting down a large number of trees.
+In addition, they have built roads which have fractured the areas where the bear usually feeds, and many hibernation sites have also been lost.
+同义替换：stripped the land by cutting down a large number of trees = deforestation 
+build = construction 
+干扰项：
+讲题路径：◾️ construction of 36.____________：前置
+◾️ by logging companies.：空后还有介词短语， 所以考虑空后定位词前置
+
+Q37 答案：fishing
+存疑：❓
+难度：未选择
+审题预测：n.、可数n. - 单数、不可数n.
+答案前置关注：
+答案句：To make matters worse, the number of salmon in those streams is declining because there is no legal limit on fishing at the moment.
+同义替换：because = affect 
+no legal limit = unrestricted
+干扰项：
+讲题路径：◾️ affecting：暗含因果关系，可能有语序调换
+
+Q38 答案：reproduction
+存疑：未标记
+难度：未选择
+审题预测：n.
+答案前置关注：介词短语 & 词组题、prep + 答案空
+答案句：(Q38) [Q38答案句] All these influences have a negative impact on the spirit bear's very existence, which is made all the more fragile by the fact that reproduction among these bears has always been disappointingly low.
+同义替换：be made all the more fragile = be threatened by
+干扰项：
+讲题路径：
+
+Q39 答案：method | methods
+存疑：未标记
+难度：未选择
+审题预测：n.
+答案前置关注：介词短语 & 词组题、答案空 + prep +n.
+答案句：The government is now requiring logging companies to adopt a better logging method, which is a positive step.
+同义替换：adopt a better = improve 
+干扰项：
+讲题路径：
+
+Q40 答案：expansion
+存疑：未标记
+难度：未选择
+审题预测：n.
+答案前置关注：介词短语 & 词组题、答案空 + prep +n.
+答案句：Other steps also need to be taken. While it is important to maintain the spirit bear's habitat, there also needs to be more emphasis on its expansion.
+同义替换：also = and
+needs to be more emphasis = be needed 空后被动语态， 定位词提前 
+its expansion = spirit bear ， 空后名词以代词形式出现+先于答案词 
+干扰项：
+讲题路径：◾️ its：代词， 指的是空后定位词- sprit bear
+
+Overall comments：
+Q37，affect 该词暗含因果关系，可能有语序调换
+原文：
+(Q31) Today we continue our series on ecology and conservation with a look at a particularly endangered member of the black bear family.
+
+[Q31答案句] One in ten black bears is actually born with a white coat which is the result of a special gene that surfaces in a few.
+
+(Q32) Local people have named it the spirit bear.
+
+[Q32答案句] And according to the legends of these communities, its snowy fur brings with it a special power.
+
+(Q33) Because of this, it has always been highly regarded by them -so much that they do not speak of seeing it to anyone else.
+
+[Q33答案句] It is their way of protecting it when strangers visit the area.
+
+(Q34) The white bear's habitat is quite interesting.
+
+The bear's strong relationship with the old- growth rainforest is a complex one.
+
+The white bear relies on the huge centuries-old trees in the forest in many ways.
+
+[Q34答案句] For example, the old-growth trees have extremely Iong roots that help prevent erosion of the soil along the banks of the many fish streams.
+
+(Q35) Keeping these banks intact is important because these streams are home to salmon, which are the bear's main food source.
+
+In return, the bear's feeding habits nurture the forest.
+
+As the bears eat the salmon, they discard the skin and bones in great amounts on the forest floor, which provide vital nutrients.
+
+These produce lush vegetation that sustains thousands of other types of life forms, from birds to insects and more.
+
+[Q35答案句] Today, the spirit bear lives off the coast of the province of British Columbia on a few islands.
+
+(Q36) There is great concern for their survival since it is estimated that less than two hundred of these white bears remain.
+
+The best way to protect them is to make every effort to preserve the delicate balance of their forest environment - in other words, their ecosystem.
+
+The greatest threat to the bear's existence is the loss of its habitat.
+
+Over many years, logging companies have stripped the land by cutting down a large number of trees.
+
+[Q36答案句] In addition, they have built roads which have fractured the areas where the bear usually feeds, and many hibernation sites have also been lost.
+
+(Q37) The logging of the trees along the streams has damaged the places where the bears fish.
+
+[Q37答案句] To make matters worse, the number of salmon in those streams is declining because there is no legal limit on fishing at the moment.
+
+(Q38) [Q38答案句] All these influences have a negative impact on the spirit bear's very existence, which is made all the more fragile by the fact that reproduction among these bears has always been disappointingly low.
+
+(Q39) And so, what's the situation going forward?
+
+Community organizations, environmental groups and the British Columbia government are now working together on the problem.
+
+[Q39答案句] The government is now requiring logging companies to adopt a better logging method, which is a positive step.
+
+(Q40) However, these measures alone may not be sufficient to ensure a healthy population of the spirit bear in the future.
+
+[Q40答案句] Other steps also need to be taken. While it is important to maintain the spirit bear's habitat, there also needs to be more emphasis on its expansion.
+
+The move is justified as it will also create space for other bears that are losing their homes ...?
+--- JISELLE NOTES FORM DATA V1 ---
+{"id":"notes-71064abb-2de8-4d33-b25e-7d524de2d80b","index":"10-1-4","part":4,"title":"THE SPIRIT BEAR","kind":"notes","wordLimit":"ONE WORD ONLY","mode":"headings","intro":"","type":"填空题","tableCells":null,"sourceText":"","blocks":[{"heading":"General facts","subheading":"","lectureBlock":0,"body":"• It is a white bear belonging to the black bear family.\n• Its colour comes from an uncommon 31.____________\n• Local people believe that it has unusual 32.____________\n• They protect the bear from 33.____________","layout":null,"columnWidths":null,"formats":[{"start":84,"end":92,"kind":"highlight"},{"start":81,"end":83,"kind":"highlight"},{"start":63,"end":69,"kind":"underline"},{"start":70,"end":80,"kind":"highlight"},{"start":144,"end":151,"kind":"highlight"},{"start":111,"end":123,"kind":"underline"},{"start":124,"end":131,"kind":"highlight"},{"start":137,"end":139,"kind":"underline"},{"start":175,"end":211,"kind":"highlight"},{"start":175,"end":182,"kind":"underline"},{"start":170,"end":174,"kind":"underline"}]},{"heading":"Habitat","subheading":"","lectureBlock":1,"body":"• The bear's relationship with the forest is complex.\n• Tree roots stop 34.____________ along salmon streams.\n• The bears' feeding habits provide nutrients for forest vegetation.\n• It is currently found on a small number of 35.____________","layout":null,"columnWidths":null,"formats":[{"start":56,"end":66,"kind":"underline"},{"start":67,"end":71,"kind":"highlight"},{"start":94,"end":108,"kind":"underline"},{"start":206,"end":223,"kind":"highlight"},{"start":187,"end":196,"kind":"underline"}]},{"heading":"Threats","subheading":"","lectureBlock":2,"body":"• Habitat is being lost due to deforestation and construction of 36.____________ by logging companies.\n• Unrestricted 37.____________ is affecting the salmon supply.\n• The bears' existence is also threatened by their low rate of 38.____________","layout":null,"columnWidths":null,"formats":[{"start":49,"end":61,"kind":"highlight"},{"start":49,"end":80,"kind":"highlight"},{"start":81,"end":102,"kind":"highlight"},{"start":31,"end":44,"kind":"underline"},{"start":2,"end":9,"kind":"underline"},{"start":19,"end":23,"kind":"underline"},{"start":105,"end":117,"kind":"highlight"},{"start":134,"end":136,"kind":"highlight"},{"start":151,"end":164,"kind":"underline"},{"start":137,"end":146,"kind":"highlight"},{"start":217,"end":228,"kind":"highlight"},{"start":179,"end":188,"kind":"underline"},{"start":197,"end":210,"kind":"highlight"}]},{"heading":"Going forward","subheading":"","lectureBlock":3,"body":"• Interested parties are working together.\n• Logging companies must improve their 39.____________ of logging.\n• Maintenance and 40.____________ of the spirit bears' territory is needed.","layout":null,"columnWidths":null,"formats":[{"start":68,"end":75,"kind":"highlight"},{"start":85,"end":108,"kind":"highlight"},{"start":112,"end":123,"kind":"underline"},{"start":124,"end":127,"kind":"highlight"},{"start":131,"end":163,"kind":"highlight"},{"start":175,"end":184,"kind":"highlight"}]}],"numbers":[31,32,33,34,35,36,37,38,39,40],"manualOnly":false,"bullets":true,"bulletsApplied":true,"questionNotes":{"31":{"answer":"gene","evidence":"One in ten black bears is actually born with a white coat which is the result of a special gene that surfaces in a few.","note":"white = colour\nis the result of = come from\nspecial = uncommon\n\n","teaching":"","transcript":"(Q31) Today we continue our series on ecology and conservation with a look at a particularly endangered member of the black bear family.\n[Q31答案句] One in ten black bears is actually born with a white coat which is the result of a special gene that surfaces in a few.","transcriptFormats":[{"start":193,"end":198,"kind":"underline"}],"predictionTags":["n.","可数n. - 单数"],"noteFormats":[],"evidenceFormats":[{"start":64,"end":80,"kind":"highlight"},{"start":83,"end":90,"kind":"highlight"}],"tags":["\"一定一考“","答案得出相对直观，跟空前限定词的同义替换","答案得出方式相对直观， 跟(空前)定位词"],"subTags":["cd4f2292-470d-4b61-a0a0-a3eb5667fddb","fa8b0b01-5140-48f6-aa75-68ec38ad5684","f17fa0d7-c3dd-4b59-838b-873d3f8290a2"]},"32":{"answer":"power | powers","evidence":"And according to the legends of these communities, its snowy fur brings with it a special power.","note":"special = unusual","teaching":"◾️ it：指代的是谁： bear","transcript":"(Q32) Local people have named it the spirit bear.\n[Q32答案句] And according to the legends of these communities, its snowy fur brings with it a special power.","transcriptFormats":[{"start":141,"end":148,"kind":"highlight"}],"glossary":[{"id":"3259cab3-7069-4775-b418-e7f097a7a567","q":32,"kind":"teaching","target":"body","block":0,"start":137,"end":139,"term":"it","meaning":"指代的是谁： bear"}],"noteFormats":[],"tags":["\"一定一考“","答案得出相对直观，跟空前限定词的同义替换"],"subTags":["fa8b0b01-5140-48f6-aa75-68ec38ad5684"],"predictionTags":["n."]},"33":{"answer":"strangers","evidence":"It is their way of protecting it when strangers visit the area.","note":"从句表达 → 介词短语表达\nwhen + 从句↔ from + 名词","teaching":"◾️ protect the bear from 33.___________：from 介词词组， 且，以答案空结尾， 空后没有其他内容，考虑答案词前置","transcript":"(Q33) Because of this, it has always been highly regarded by them -so much that they do not speak of seeing it to anyone else.\n[Q33答案句] It is their way of protecting it when strangers visit the area.","transcriptFormats":[{"start":155,"end":165,"kind":"highlight"},{"start":142,"end":147,"kind":"underline"}],"glossary":[{"id":"d080d6bf-455e-4112-928a-9e9a5276c17a","q":33,"kind":"teaching","target":"body","block":0,"start":175,"end":211,"term":"protect the bear from 33.___________","meaning":"from 介词词组， 且，以答案空结尾， 空后没有其他内容，考虑答案词前置"}],"predictionTags":["n."],"noteFormats":[],"tags":["答案得出相对直观，跟空前限定词的同义替换","听中根据预测找到疑似答案(即符合预测时词性/类型的)，出现定位词后确定"],"subTags":["e8b8eef7-4a53-48bf-99a4-56f7bd700543"]},"34":{"answer":"erosion","evidence":"For example, the old-growth trees have extremely Iong roots that help prevent erosion of the soil along the banks of the many fish streams.","note":"prevent = stop \nerosion of the soil  ， 答案词是erosion 还是 soil？ ——哪个使语义完整","teaching":"注意 n+ of + n结构， 前面的词才是中心名词 ","transcript":"(Q34) The white bear's habitat is quite interesting.\nThe bear's strong relationship with the old- growth rainforest is a complex one.\nThe white bear relies on the huge centuries-old trees in the forest in many ways.\n[Q34答案句] For example, the old-growth trees have extremely Iong roots that help prevent erosion of the soil along the banks of the many fish streams.","transcriptFormats":[{"start":295,"end":302,"kind":"highlight"}],"noteFormats":[],"predictionTags":["n."],"evidenceFormats":[{"start":78,"end":98,"kind":"underline"}],"tags":["两个词都像，哪个才是答案词？"],"subTags":["60cc6fc6-519a-4caa-9a47-cd549599965c"],"teachingFormats":[]},"35":{"answer":"islands","evidence":"Today, the spirit bear lives off the coast of the province of British Columbia on a few islands.","note":"Today = currently\na few = a small number of","teaching":"","transcript":"(Q35) Keeping these banks intact is important because these streams are home to salmon, which are the bear's main food source.\nIn return, the bear's feeding habits nurture the forest.\nAs the bears eat the salmon, they discard the skin and bones in great amounts on the forest floor, which provide vital nutrients.\nThese produce lush vegetation that sustains thousands of other types of life forms, from birds to insects and more.\n[Q35答案句] Today, the spirit bear lives off the coast of the province of British Columbia on a few islands.","transcriptFormats":[{"start":521,"end":526,"kind":"highlight"}],"noteFormats":[],"tags":["答案得出相对直观，跟空前限定词的同义替换"],"subTags":["73baac9a-076d-4c09-8cf6-9f57d2d4a2de"],"evidenceFormats":[{"start":0,"end":5,"kind":"highlight"},{"start":0,"end":5,"kind":"underline"}],"predictionTags":["n.","可数n. -复数"]},"36":{"answer":"roads","evidence":"The greatest threat to the bear's existence is the loss of its habitat.（定位词）\nOver many years, logging companies（空后定位词） have stripped the land by cutting down a large number of trees.\nIn addition, they have built roads which have fractured the areas where the bear usually feeds, and many hibernation sites have also been lost.","note":"stripped the land by cutting down a large number of trees = deforestation \nbuild = construction ","teaching":"◾️ construction of 36.____________：前置\n◾️ by logging companies.：空后还有介词短语， 所以考虑空后定位词前置","transcript":"(Q36) There is great concern for their survival since it is estimated that less than two hundred of these white bears remain.\nThe best way to protect them is to make every effort to preserve the delicate balance of their forest environment - in other words, their ecosystem.\nThe greatest threat to the bear's existence is the loss of its habitat.\nOver many years, logging companies have stripped the land by cutting down a large number of trees.\n[Q36答案句] In addition, they have built roads which have fractured the areas where the bear usually feeds, and many hibernation sites have also been lost.","transcriptFormats":[],"glossary":[{"id":"cdf726db-0b2f-4a5a-b6d9-771ec2f40907","q":36,"kind":"teaching","target":"body","block":2,"start":49,"end":80,"term":"construction of 36.____________","meaning":"前置"},{"id":"f3a2ccf9-2f49-40a6-a1b9-27843fd21143","q":36,"kind":"teaching","target":"body","block":2,"start":81,"end":102,"term":"by logging companies.","meaning":"空后还有介词短语， 所以考虑空后定位词前置"}],"evidenceFormats":[{"start":206,"end":211,"kind":"highlight"},{"start":124,"end":182,"kind":"underline"}],"noteFormats":[],"predictionTags":["n."],"frontingTags":["介词短语 & 词组题","答案空 + prep +n."],"tags":["答案得出方式相对直观， 跟(空前)定位词","答案/空后定位词前置（语序调换）"],"subTags":["ea9aa4cb-7da1-43d8-b747-04deb8b90d71","256ac974-e3a5-4c1b-a160-4d07020474cf"]},"37":{"answer":"fishing","evidence":"To make matters worse, the number of salmon in those streams is declining because there is no legal limit on fishing at the moment.","note":"because = affect \nno legal limit = unrestricted","teaching":"◾️ affecting：暗含因果关系，可能有语序调换","transcript":"(Q37) The logging of the trees along the streams has damaged the places where the bears fish.\n[Q37答案句] To make matters worse, the number of salmon in those streams is declining because there is no legal limit on fishing at the moment.","transcriptFormats":[{"start":194,"end":208,"kind":"highlight"}],"predictionTags":["n.","可数n. - 单数","不可数n."],"noteFormats":[],"evidenceFormats":[{"start":74,"end":81,"kind":"highlight"}],"glossary":[{"id":"7834070b-3fe1-4f68-8231-b8b4eb6604ed","q":37,"kind":"teaching","target":"body","block":2,"start":137,"end":146,"term":"affecting","meaning":"暗含因果关系，可能有语序调换"}],"tags":["答案/空后定位词前置（语序调换）"],"subTags":["0964d75f-4c01-4372-9533-6ba09ca8db20"],"difficulty":"","doubt":"❓"},"38":{"answer":"reproduction","evidence":"(Q38) [Q38答案句] All these influences have a negative impact on the spirit bear's very existence, which is made all the more fragile by the fact that reproduction among these bears has always been disappointingly low.","note":"be made all the more fragile = be threatened by","teaching":"","transcript":"(Q38) [Q38答案句] All these influences have a negative impact on the spirit bear's very existence, which is made all the more fragile by the fact that reproduction among these bears has always been disappointingly low.","transcriptFormats":[{"start":105,"end":130,"kind":"highlight"}],"predictionTags":["n."],"noteFormats":[],"tags":["答案/空后定位词前置（语序调换）","听中根据预测找到疑似答案(即符合预测时词性/类型的)，出现定位词后确定"],"subTags":["256ac974-e3a5-4c1b-a160-4d07020474cf"],"frontingTags":["介词短语 & 词组题","prep + 答案空"]},"39":{"answer":"method | methods","evidence":"The government is now requiring logging companies to adopt a better logging method, which is a positive step.","note":"adopt a better = improve ","teaching":"","transcript":"(Q39) And so, what's the situation going forward?\nCommunity organizations, environmental groups and the British Columbia government are now working together on the problem.\n[Q39答案句] The government is now requiring logging companies to adopt a better logging method, which is a positive step.","transcriptFormats":[{"start":235,"end":249,"kind":"highlight"}],"frontingTags":["介词短语 & 词组题","答案空 + prep +n."],"tags":["答案/空后定位词前置（语序调换）"],"subTags":["256ac974-e3a5-4c1b-a160-4d07020474cf"],"noteFormats":[],"predictionTags":["n."]},"40":{"answer":"expansion","evidence":"Other steps also need to be taken. While it is important to maintain the spirit bear's habitat, there also needs to be more emphasis on its expansion.","note":"also = and\nneeds to be more emphasis = be needed 空后被动语态， 定位词提前 \nits expansion = spirit bear ， 空后名词以代词形式出现+先于答案词 ","teaching":"◾️ its：代词， 指的是空后定位词- sprit bear","transcript":"(Q40) However, these measures alone may not be sufficient to ensure a healthy population of the spirit bear in the future.\n[Q40答案句] Other steps also need to be taken. While it is important to maintain the spirit bear's habitat, there also needs to be more emphasis on its expansion.\nThe move is justified as it will also create space for other bears that are losing their homes ...?","transcriptFormats":[{"start":192,"end":200,"kind":"underline"},{"start":234,"end":238,"kind":"highlight"},{"start":268,"end":271,"kind":"underline"},{"start":239,"end":264,"kind":"highlight"}],"noteFormats":[],"tags":["答案得出方式相对直观， 跟(空前)定位词","答案/空后定位词前置（语序调换）","空前关注各类「逻辑连接词」"],"subTags":["d5bced8e-7c14-47e7-9fb7-d63bdfc065da","ea9aa4cb-7da1-43d8-b747-04deb8b90d71","256ac974-e3a5-4c1b-a160-4d07020474cf","ce5a40cc-6ab7-4c18-8376-ea1a9e9e8eb6"],"frontingTags":["介词短语 & 词组题","答案空 + prep +n."],"glossary":[{"id":"ee7c330e-e460-481d-bc45-8a369295e937","q":40,"kind":"teaching","target":"evidence","block":null,"start":136,"end":139,"term":"its","meaning":"代词， 指的是空后定位词- sprit bear"}],"predictionTags":["n."]}},"createdAt":"2026-11-16T03:16:57.384Z","topicCategory":"","topicUpdatedAt":"2026-11-16T03:17:00.937Z","answerWordsRaw":"31. gene\n32. power | powers\n33. strangers\n34. erosion\n35. islands\n36. roads\n37. fishing\n38. reproduction\n39. method | methods\n40. expansion","transcript":"(Q31) Today we continue our series on ecology and conservation with a look at a particularly endangered member of the black bear family.\n\n[Q31答案句] One in ten black bears is actually born with a white coat which is the result of a special gene that surfaces in a few.\n\n(Q32) Local people have named it the spirit bear.\n\n[Q32答案句] And according to the legends of these communities, its snowy fur brings with it a special power.\n\n(Q33) Because of this, it has always been highly regarded by them -so much that they do not speak of seeing it to anyone else.\n\n[Q33答案句] It is their way of protecting it when strangers visit the area.\n\n(Q34) The white bear's habitat is quite interesting.\n\nThe bear's strong relationship with the old- growth rainforest is a complex one.\n\nThe white bear relies on the huge centuries-old trees in the forest in many ways.\n\n[Q34答案句] For example, the old-growth trees have extremely Iong roots that help prevent erosion of the soil along the banks of the many fish streams.\n\n(Q35) Keeping these banks intact is important because these streams are home to salmon, which are the bear's main food source.\n\nIn return, the bear's feeding habits nurture the forest.\n\nAs the bears eat the salmon, they discard the skin and bones in great amounts on the forest floor, which provide vital nutrients.\n\nThese produce lush vegetation that sustains thousands of other types of life forms, from birds to insects and more.\n\n[Q35答案句] Today, the spirit bear lives off the coast of the province of British Columbia on a few islands.\n\n(Q36) There is great concern for their survival since it is estimated that less than two hundred of these white bears remain.\n\nThe best way to protect them is to make every effort to preserve the delicate balance of their forest environment - in other words, their ecosystem.\n\nThe greatest threat to the bear's existence is the loss of its habitat.\n\nOver many years, logging companies have stripped the land by cutting down a large number of trees.\n\n[Q36答案句] In addition, they have built roads which have fractured the areas where the bear usually feeds, and many hibernation sites have also been lost.\n\n(Q37) The logging of the trees along the streams has damaged the places where the bears fish.\n\n[Q37答案句] To make matters worse, the number of salmon in those streams is declining because there is no legal limit on fishing at the moment.\n\n(Q38) [Q38答案句] All these influences have a negative impact on the spirit bear's very existence, which is made all the more fragile by the fact that reproduction among these bears has always been disappointingly low.\n\n(Q39) And so, what's the situation going forward?\n\nCommunity organizations, environmental groups and the British Columbia government are now working together on the problem.\n\n[Q39答案句] The government is now requiring logging companies to adopt a better logging method, which is a positive step.\n\n(Q40) However, these measures alone may not be sufficient to ensure a healthy population of the spirit bear in the future.\n\n[Q40答案句] Other steps also need to be taken. While it is important to maintain the spirit bear's habitat, there also needs to be more emphasis on its expansion.\n\nThe move is justified as it will also create space for other bears that are losing their homes ...?","srtSource":{"path":"10-1-4 英文.srt","sha":"d1a69856b214d4b5a545428a5b4bb04832b53ae1","fetchedAt":"2026-11-16T03:17:17.341Z"},"audioData":{"parserVersion":2,"index":"10-1-4","repo":"itsjiselle/ielts-listening-questions-pdf","ref":"4321c7301db4ef0f900fcc3ba35eee11559b431d","audioPath":"10-1-4.mp3","audioSha":"f0a8ab75c69031e7b347b1dd4febe6399ebef622","srtPath":"10-1-4 英文.srt","srtSha":"d1a69856b214d4b5a545428a5b4bb04832b53ae1","cues":[{"id":"0","start":0.202,"end":11.098,"text":"(Q31) Today we continue our series on ecology and conservation with a look at a particularly endangered member of the black bear family.","q":31,"invalidTime":false},{"id":"1","start":11.098,"end":21.275,"text":"[Q31答案句] One in ten black bears is actually born with a white coat which is the result of a special gene that surfaces in a few.","q":31,"invalidTime":false},{"id":"2","start":21.275,"end":25.271,"text":"(Q32) Local people have named it the spirit bear.","q":32,"invalidTime":false},{"id":"3","start":25.271,"end":33.069,"text":"[Q32答案句] And according to the legends of these communities, its snowy fur brings with it a special power.","q":32,"invalidTime":false},{"id":"4","start":33.069,"end":43.154,"text":"(Q33) Because of this, it has always been highly regarded by them -so much that they do not speak of seeing it to anyone else.","q":33,"invalidTime":false},{"id":"5","start":43.154,"end":48.088,"text":"[Q33答案句] It is their way of protecting it when strangers visit the area.","q":33,"invalidTime":false},{"id":"6","start":48.088,"end":51.853,"text":"(Q34) The white bear's habitat is quite interesting.","q":34,"invalidTime":false},{"id":"7","start":51.853,"end":58.395,"text":"The bear's strong relationship with the old- growth rainforest is a complex one.","q":34,"invalidTime":false},{"id":"8","start":58.395,"end":65.673,"text":"The white bear relies on the huge centuries-old trees in the forest in many ways.","q":34,"invalidTime":false},{"id":"9","start":65.673,"end":76.535,"text":"[Q34答案句] For example, the old-growth trees have extremely Iong roots that help prevent erosion of the soil along the banks of the many fish streams.","q":34,"invalidTime":false},{"id":"10","start":76.535,"end":85.706,"text":"(Q35) Keeping these banks intact is important because these streams are home to salmon, which are the bear's main food source.","q":35,"invalidTime":false},{"id":"11","start":85.706,"end":90.988,"text":"In return, the bear's feeding habits nurture the forest.","q":35,"invalidTime":false},{"id":"12","start":90.988,"end":101.13499999999999,"text":"As the bears eat the salmon, they discard the skin and bones in great amounts on the forest floor, which provide vital nutrients.","q":35,"invalidTime":false},{"id":"13","start":101.13499999999999,"end":112.154,"text":"These produce lush vegetation that sustains thousands of other types of life forms, from birds to insects and more.","q":35,"invalidTime":false},{"id":"14","start":112.154,"end":120.321,"text":"[Q35答案句] Today, the spirit bear lives off the coast of the province of British Columbia on a few islands.","q":35,"invalidTime":false},{"id":"15","start":120.321,"end":128.973,"text":"(Q36) There is great concern for their survival since it is estimated that less than two hundred of these white bears remain.","q":36,"invalidTime":false},{"id":"16","start":128.973,"end":144.833,"text":"The best way to protect them is to make every effort to preserve the delicate balance of their forest environment - in other words, their ecosystem.","q":36,"invalidTime":false},{"id":"17","start":144.833,"end":150.671,"text":"The greatest threat to the bear's existence is the loss of its habitat.","q":36,"invalidTime":false},{"id":"18","start":150.671,"end":158.367,"text":"Over many years, logging companies have stripped the land by cutting down a large number of trees.","q":36,"invalidTime":false},{"id":"19","start":158.367,"end":169.867,"text":"[Q36答案句] In addition, they have built roads which have fractured the areas where the bear usually feeds, and many hibernation sites have also been lost.","q":36,"invalidTime":false},{"id":"20","start":169.867,"end":176.547,"text":"(Q37) The logging of the trees along the streams has damaged the places where the bears fish.","q":37,"invalidTime":false},{"id":"21","start":176.547,"end":186.683,"text":"[Q37答案句] To make matters worse, the number of salmon in those streams is declining because there is no legal limit on fishing at the moment.","q":37,"invalidTime":false},{"id":"22","start":186.683,"end":203.816,"text":"(Q38) [Q38答案句] All these influences have a negative impact on the spirit bear's very existence, which is made all the more fragile by the fact that reproduction among these bears has always been disappointingly low.","q":38,"invalidTime":false},{"id":"23","start":203.816,"end":208.248,"text":"(Q39) And so, what's the situation going forward?","q":39,"invalidTime":false},{"id":"24","start":208.248,"end":217.079,"text":"Community organizations, environmental groups and the British Columbia government are now working together on the problem.","q":39,"invalidTime":false},{"id":"25","start":217.079,"end":225.93,"text":"[Q39答案句] The government is now requiring logging companies to adopt a better logging method, which is a positive step.","q":39,"invalidTime":false},{"id":"26","start":225.93,"end":235.627,"text":"(Q40) However, these measures alone may not be sufficient to ensure a healthy population of the spirit bear in the future.","q":40,"invalidTime":false},{"id":"27","start":235.627,"end":247.881,"text":"[Q40答案句] Other steps also need to be taken. While it is important to maintain the spirit bear's habitat, there also needs to be more emphasis on its expansion.","q":40,"invalidTime":false},{"id":"28","start":247.881,"end":250.381,"text":"The move is justified as it will also create space for other bears that are losing their homes ...?","q":40,"invalidTime":false}],"matches":{"31":{"all":["[Q31答案句] One in ten black bears is actually born with a white coat which is the result of a special gene that surfaces in a few."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"32":{"all":["[Q32答案句] And according to the legends of these communities, its snowy fur brings with it a special power."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"33":{"all":["[Q33答案句] It is their way of protecting it when strangers visit the area."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"34":{"all":["[Q34答案句] For example, the old-growth trees have extremely Iong roots that help prevent erosion of the soil along the banks of the many fish streams."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"35":{"all":["[Q35答案句] Today, the spirit bear lives off the coast of the province of British Columbia on a few islands."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"36":{"all":["[Q36答案句] In addition, they have built roads which have fractured the areas where the bear usually feeds, and many hibernation sites have also been lost."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"37":{"all":["[Q37答案句] To make matters worse, the number of salmon in those streams is declining because there is no legal limit on fishing at the moment."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"38":{"all":["(Q38) [Q38答案句] All these influences have a negative impact on the spirit bear's very existence, which is made all the more fragile by the fact that reproduction among these bears has always been disappointingly low."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"39":{"all":["[Q39答案句] The government is now requiring logging companies to adopt a better logging method, which is a positive step."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true},"40":{"all":["[Q40答案句] Other steps also need to be taken. While it is important to maintain the spirit bear's habitat, there also needs to be more emphasis on its expansion."],"options":{"A":[],"B":[],"C":[]},"roles":{"A":[],"B":[],"C":[]},"ambiguous":true}}},"overallComments":"Q37，affect 该词暗含因果关系，可能有语序调换","topicCatalog":["生物&环境类"],"tagArchiveFiles":{"考点":"Part 4 笔记填空 - 考点库标签- 考点.txt","审题预测":"Part 4 笔记填空 - 考点库标签- 审题预测.txt","答案前置":"Part 4 笔记填空 - 考点库标签- 答案前置.txt"},"tagCatalog":{"tags":["\"一定一考“","答案得出相对直观，跟空前限定词的同义替换","答案得出方式相对直观， 跟(空前)定位词","答案/空后定位词前置（语序调换）","(审题)空前定位词有限，需要画上一行定位词","(审题)答案空所在行与小标题不相邻，中间内容也要画定位词， 辅助跟原文","空前关注各类「逻辑连接词」","(除明显答案前置外) 需要看空后内容","听中根据预测找到疑似答案(即符合预测时词性/类型的)，出现定位词后确定","听中记录疑似答案，根据后续代词指代确定答案","跟同义替换（整句/段解释）","(听中) 强调表达+正确答案","(听中) 由于「审题」无明显逻辑连接词，所以【听中】关注句子间逻辑关系","（得出相对直观）， 注意拼写&场景词积累","答案前置补充 - 具体情况notes","特殊❗️ see 讲解路径","找定位词方法(位置) ：画句子主干，因为修饰成分可能后置。","两个词都像，哪个才是答案词？","答案得出方式： 重/慢/重/停"],"children":{"(审题)空前定位词有限，需要画上一行定位词":[{"id":"327795a8-6c0e-46eb-89a7-0ec508694123","name":"空前完全无实义词"},{"id":"ae05271d-53d9-476c-a32f-9f47d6cd3032","name":"空前普通名词"},{"id":"6946f603-30d4-4479-88b9-5fb057229f91","name":"特殊情况： 答案空所在行也有定位词， 但和小标题不相邻，所以中间内容也要画定位词，作为辅助"}],"(听中) 由于「审题」无明显逻辑连接词，所以【听中】关注句子间逻辑关系":[],"(除明显答案前置外) 需要看空后内容":[{"id":"febf9b9b-49d4-4ce8-816b-478c2a913cb3","name":"特殊情况：空后内容作为答案词空的解释说明——  空前无实义词， 上一行基本以答案空结尾， 需要看空后内容。"}],"答案前置补充 - 具体情况notes":[{"id":"8a0238e5-2f3f-428f-b019-db9f424731d6","name":"从属关系 _____ of +n. = n.+ be + _____(adj.) 或者 = n's _____(n.)"},{"id":"c6f3a064-6e57-4108-996f-1a302eea43dd","name":"____(预测为名词) + of + n.2 = n.2 +答案词."},{"id":"13a29380-d4e5-4f87-ae4d-60a11440c577","name":"方式类： do sth by _____ = use ______ to do"},{"id":"87fc1c88-f15d-40c0-9ac2-1191aad16a4b","name":"材料 由…制成： make from, make of"},{"id":"1badb381-9ffd-4730-8dcf-aa0a8d91e6c0","name":"时间类表达 ... ago"},{"id":"22161c25-599c-498a-96ac-a3d578696b4f","name":"表示目的： ... for ..."}],"听中根据预测找到疑似答案(即符合预测时词性/类型的)，出现定位词后确定":[],"找定位词方法(位置) ：画句子主干，因为修饰成分可能后置。":[],"答案得出方式相对直观， 跟(空前)定位词":[{"id":"eb16e5de-a1d4-45dd-9ecd-6ee8e849a5a6","name":"专有名词"},{"id":"a93a15a7-290b-4695-be1c-e2ef48aa2fe2","name":"普通名词（原词）"},{"id":"f17fa0d7-c3dd-4b59-838b-873d3f8290a2","name":"普通名词（同义替换）"},{"id":"d5bced8e-7c14-47e7-9fb7-d63bdfc065da","name":"定位词以代词形式出现，跟出答案词"},{"id":"ea9aa4cb-7da1-43d8-b747-04deb8b90d71","name":"空后定位词前置（先于答案空出现）"}],"答案得出相对直观，跟空前限定词的同义替换":[{"id":"cd4f2292-470d-4b61-a0a0-a3eb5667fddb","name":"v. & phr.v"},{"id":"fa8b0b01-5140-48f6-aa75-68ec38ad5684","name":"adj./ adv"},{"id":"020c9259-2f55-44db-9dda-090936631c5f","name":"否定含义词"},{"id":"7663d3ae-0342-40e9-8ebd-8451aa5588b1","name":"对比类 表述"},{"id":"b5d93bfa-23b4-4158-912f-dccb70d5297c","name":"程度类"},{"id":"e8b8eef7-4a53-48bf-99a4-56f7bd700543","name":"v/adj/adv/perp/其它类 - 原词"},{"id":"fd82e3a0-f99d-4f0e-8571-6e0c380875c5","name":"特殊疑问词 类"},{"id":"73baac9a-076d-4c09-8cf6-9f57d2d4a2de","name":"数值类"},{"id":"851730df-b8ab-4da2-a4b0-d58e255ac49e","name":"表「广义因果」关系（原因、目的、结果、条件关系），关注同义替换， see 逻辑连接词标签"},{"id":"44953094-07cd-40ed-a884-ab53304bee45","name":"prep"},{"id":"b275f89c-55c9-4642-b9fe-1967d8b4ef21","name":"时间顺序类"},{"id":"eb971df6-e80d-4a73-b061-36b59f59dcd1","name":"代词指代"},{"id":"c72817b1-60c1-4f93-a239-883319e90428","name":"频率&可能性"}],"答案/空后定位词前置（语序调换）":[{"id":"741e47b1-14a4-49b5-b0a5-0f40d4ef532d","name":"被动语态"},{"id":"cdba6ca9-0c60-491e-83bd-31cf4e4eb707","name":"定语从句"},{"id":"256ac974-e3a5-4c1b-a160-4d07020474cf","name":"介词短语 n + prep + n & 词组题"},{"id":"84540db0-387d-4b01-b2fc-07b39142b714","name":"adj"},{"id":"c4896de5-f6bd-42cb-8a17-4a87c9258ebb","name":"答案空 + to do / to be done(～被动语态)"},{"id":"0964d75f-4c01-4372-9533-6ba09ca8db20","name":"表「广义因果」关系词（原因、目的、结果、条件关系）"},{"id":"6118ad58-4ec9-426e-9967-23d587825822","name":"表「包含」关系词+大类别(答案空)+具体解释， 可能语序调换（=包含+具体内容，+这是「大类别」）"},{"id":"36b104ac-a116-4408-8d53-6e701988bbfb","name":"所有格"}],"空前关注各类「逻辑连接词」":[{"id":"ce5a40cc-6ab7-4c18-8376-ea1a9e9e8eb6","name":"空前有表「并列」关系词，关注同替"},{"id":"55adc83c-ebec-4f7d-91b9-45f550ddf550","name":"空前有表「举例」关系词， 关注同替说法"},{"id":"204b0480-3438-44ff-b89f-892309933f02","name":"表「广义因果」关系（原因、目的、结果、条件关系），关注同义替换"},{"id":"dd178eaf-49e9-447e-9630-210cd98bded2","name":"作用2: 审题时 帮助预测答案空类型、词性"},{"id":"71634830-ca4b-415a-8bfb-81af281d992e","name":"空前有表「并列」关系词+作用2（审题时 帮助预测答案空类型、词性）"},{"id":"ecf55584-02c7-436a-aebf-5f5567940856","name":"同级标题/· / -   表并列/举例，关注同替"}],"两个词都像，哪个才是答案词？":[{"id":"60cc6fc6-519a-4caa-9a47-cd549599965c","name":"(听中)出现多个和预测词性相符的词， 一般是n.+ n. 形式的， 需要填写使整句语义完整的那个词（不一定是中心名词）"},{"id":"9e0e9bad-554d-42b7-bf76-70c7609748c6","name":"限定词(/同替)+大类词+代词指代+答案词(具体)"},{"id":"3821bd62-9893-43e6-b921-9ea894e264b4","name":"【n.1 of n.2⭐️】 【n. +n.⭐️】 【n. in n.⭐️】中心名词"}]},"order":["\"一定一考“","答案得出相对直观，跟空前限定词的同义替换","答案得出方式相对直观， 跟(空前)定位词","答案/空后定位词前置（语序调换）","(审题)空前定位词有限，需要画上一行定位词","(审题)答案空所在行与小标题不相邻，中间内容也要画定位词， 辅助跟原文","空前关注各类「逻辑连接词」","(除明显答案前置外) 需要看空后内容","听中根据预测找到疑似答案(即符合预测时词性/类型的)，出现定位词后确定","听中记录疑似答案，根据后续代词指代确定答案","跟同义替换（整句/段解释）","(听中) 强调表达+正确答案","(听中) 由于「审题」无明显逻辑连接词，所以【听中】关注句子间逻辑关系","（得出相对直观）， 注意拼写&场景词积累","答案前置补充 - 具体情况notes","特殊❗️ see 讲解路径","找定位词方法(位置) ：画句子主干，因为修饰成分可能后置。","两个词都像，哪个才是答案词？","答案得出方式： 重/慢/重/停"]},"predictionCatalog":["adj","adj - 关注空后是否是 n ➡️ 可能答案前置","n.","v.","【材料类】","可数n. - 单数","可数n. -复数","不可数n.","【问题/麻烦】","【地点类】","【时间类】","【身体部位】 (不局限于人类)","【乐器类】","【学科类】","【食物类】","【群体/人物类】","【衣物/配饰/配件类】","【形状词 n./adj.】"],"frontingCatalog":["审题 - adj+n","答案空(预测是adj.)+n","adj + 答案空(预测是n.)","介词短语 & 词组题","答案空 + prep +n.","prep + 答案空","空前出现表「原因」连接词","被动语态","空后 + to do / to be done","无明显逻辑连接词，关注句子间逻辑关系","定语从句","空 + 关系词 + 定语从句","关系词引导定语从句 + 答案空","表「包含」关系词+大类别(答案空)+具体解释， 可能语序调换（=包含+具体内容，+这是「大类别」）","n. + n.","空前所有格","表 原因 连接词","空后出现    表「广义因果」关系词（原因、目的、结果、条件关系）","_____ + be + adj"],"predictionParents":{"adj - 关注空后是否是 n ➡️ 可能答案前置":"adj","可数n. - 单数":"n.","可数n. -复数":"n.","不可数n.":"n."},"frontingParents":{"答案空(预测是adj.)+n":"审题 - adj+n","adj + 答案空(预测是n.)":"审题 - adj+n","答案空 + prep +n.":"介词短语 & 词组题","prep + 答案空":"介词短语 & 词组题","空 + 关系词 + 定语从句":"定语从句","关系词引导定语从句 + 答案空":"定语从句","n. + n.":"介词短语 & 词组题","空前出现表「原因」连接词":"表 原因 连接词","空后出现    表「广义因果」关系词（原因、目的、结果、条件关系）":"表 原因 连接词","_____ + be + adj":"审题 - adj+n"}}
