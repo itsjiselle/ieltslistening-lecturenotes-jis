@@ -14,7 +14,7 @@ Journey information
 
 Name of station returning to:                 	3.____________
 Type of ticket purchased:                      	standard 4.____________ ticket
-Cost of ticket:                                           	5.____________
+Cost of ticket:                                           	￡5.____________
 When ticket was purchased:                  	yesterday
 Where ticket was bought:                       	6.____________
 
